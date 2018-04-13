@@ -1,0 +1,36 @@
+{
+  "name": "Gennaro Leuschke",
+  "username": "Francisca.Hartmann",
+  "email": "Syble.Hammes30@yahoo.com",
+  "address": {
+    "street": "Brekke Junctions",
+    "suite": "Suite 054",
+    "city": "South Ericaberg",
+    "zipcode": "49598",
+    "geo": {
+      "lat": 87.124,
+      "lng": -75.7363
+    }
+  },
+  "phone": "(986) 492-3375",
+  "website": "lila.org",
+  "company": {
+    "name": "Wuckert LLC",
+    "catchPhrase": "Mandatory optimal contingency",
+    "bs": "compelling mesh synergies"
+  },
+  "id": "738f58c4-2bb8-4070-8295-27e051702275",
+  "testnumobjnums": {
+    "num1": 89325,
+    "num2": 94101,
+    "num3": 49842,
+    "deeper": {
+      "arr": [
+        93289,
+        14756,
+        99486
+      ]
+    }
+  },
+  "lastSaid": "transparent incubate e-business"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Jacinthe Wiza",
+  "username": "Nikko_Mayer73",
+  "email": "Emily.Swaniawski@hotmail.com",
+  "address": {
+    "street": "Greta Run",
+    "suite": "Apt. 888",
+    "city": "North Cortez",
+    "zipcode": "23446-1929",
+    "geo": {
+      "lat": 66.5151,
+      "lng": -173.7502
+    }
+  },
+  "phone": "846.401.2448 x377",
+  "website": "alexys.org",
+  "company": {
+    "name": "Orn, Weissnat and Lockman",
+    "catchPhrase": "Organized mission-critical customer loyalty",
+    "bs": "seamless whiteboard users"
+  },
+  "id": "d5b97c85-0315-4ce6-8c47-e4ce532f6a53",
+  "testnumobjnums": {
+    "num1": 18072,
+    "num2": 58074,
+    "num3": 507.5,
+    "deeper": {
+      "arr": [
+        34448,
+        48527,
+        80085
+      ]
+    }
+  },
+  "lastSaid": "interactive reinvent e-commerce"
+}

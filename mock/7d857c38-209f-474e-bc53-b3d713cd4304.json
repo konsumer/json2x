@@ -1,0 +1,36 @@
+{
+  "name": "Kelvin Wunsch",
+  "username": "Eve39",
+  "email": "Adalberto.Bode56@yahoo.com",
+  "address": {
+    "street": "Ortiz Parkways",
+    "suite": "Suite 735",
+    "city": "Port Verona",
+    "zipcode": "60922-4996",
+    "geo": {
+      "lat": 30.5523,
+      "lng": -112.0015
+    }
+  },
+  "phone": "1-388-708-5718 x925",
+  "website": "flavio.com",
+  "company": {
+    "name": "Lebsack, Marks and Will",
+    "catchPhrase": "Innovative coherent hub",
+    "bs": "best-of-breed morph interfaces"
+  },
+  "id": "7d857c38-209f-474e-bc53-b3d713cd4304",
+  "testnumobjnums": {
+    "num1": 73831,
+    "num2": 17494,
+    "num3": 15878.5,
+    "deeper": {
+      "arr": [
+        48420,
+        43444,
+        67479
+      ]
+    }
+  },
+  "lastSaid": "vertical disintermediate e-services"
+}

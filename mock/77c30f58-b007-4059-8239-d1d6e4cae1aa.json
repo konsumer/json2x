@@ -1,0 +1,37 @@
+{
+  "name": "Agnes Hyatt",
+  "username": "Lucas.Reichert",
+  "email": "Gavin_Rolfson68@gmail.com",
+  "address": {
+    "street": "Ross Stream",
+    "suite": "Suite 551",
+    "city": "North Noah",
+    "zipcode": "18589-0616",
+    "geo": {
+      "lat": -85.2949,
+      "lng": -7.1709
+    }
+  },
+  "phone": "337.202.1573",
+  "website": "kraig.biz",
+  "company": {
+    "name": "Walker, Cartwright and O'Conner",
+    "catchPhrase": "Innovative clear-thinking solution",
+    "bs": "24/365 matrix vortals"
+  },
+  "id": "77c30f58-b007-4059-8239-d1d6e4cae1aa",
+  "testnumobjnums": {
+    "num1": 2617,
+    "num2": 43065,
+    "num3": 48792.5,
+    "deeper": {
+      "arr": [
+        17007,
+        84584,
+        2600
+      ]
+    }
+  },
+  "doing": "application copying",
+  "lastSaid": "Use the cross-platform XSS hard drive, then you can override the haptic alarm!"
+}

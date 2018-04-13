@@ -1,0 +1,36 @@
+{
+  "name": "Mable Koepp",
+  "username": "Florencio.Lang",
+  "email": "Krista95@gmail.com",
+  "address": {
+    "street": "Eichmann Haven",
+    "suite": "Suite 835",
+    "city": "Adashire",
+    "zipcode": "93724-2355",
+    "geo": {
+      "lat": 65.1327,
+      "lng": 5.2185
+    }
+  },
+  "phone": "1-229-388-5336 x05666",
+  "website": "kaycee.org",
+  "company": {
+    "name": "Kerluke - Gutkowski",
+    "catchPhrase": "Multi-layered empowering software",
+    "bs": "turn-key envisioneer platforms"
+  },
+  "id": "7ef6c004-53eb-4916-b96f-6b4caf74c6b0",
+  "testnumobjnums": {
+    "num1": 68206,
+    "num2": 77663,
+    "num3": 27046,
+    "deeper": {
+      "arr": [
+        98848,
+        20385,
+        96126
+      ]
+    }
+  },
+  "lastSaid": "dot-com deploy mindshare"
+}

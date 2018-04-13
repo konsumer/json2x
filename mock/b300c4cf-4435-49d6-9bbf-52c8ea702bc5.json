@@ -1,0 +1,37 @@
+{
+  "name": "Doug Cronin",
+  "username": "Alford_Crist41",
+  "email": "Watson_Raynor44@gmail.com",
+  "address": {
+    "street": "Satterfield Brook",
+    "suite": "Suite 323",
+    "city": "Lemkeville",
+    "zipcode": "71519",
+    "geo": {
+      "lat": 25.5098,
+      "lng": 92.1681
+    }
+  },
+  "phone": "102.402.4250",
+  "website": "retta.biz",
+  "company": {
+    "name": "Ledner, Hartmann and Feil",
+    "catchPhrase": "Fundamental system-worthy open system",
+    "bs": "24/7 redefine applications"
+  },
+  "id": "b300c4cf-4435-49d6-9bbf-52c8ea702bc5",
+  "testnumobjnums": {
+    "num1": 94044,
+    "num2": 38692,
+    "num3": 28946.5,
+    "deeper": {
+      "arr": [
+        56839,
+        58410,
+        43766
+      ]
+    }
+  },
+  "doing": "driver generating",
+  "lastSaid": "We need to index the digital XML pixel!"
+}

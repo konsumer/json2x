@@ -1,0 +1,36 @@
+{
+  "name": "Karelle Hagenes",
+  "username": "Brennan.Harber71",
+  "email": "Kobe80@yahoo.com",
+  "address": {
+    "street": "Ivory Walk",
+    "suite": "Suite 305",
+    "city": "Cameronport",
+    "zipcode": "65218",
+    "geo": {
+      "lat": 22.715,
+      "lng": 121.9128
+    }
+  },
+  "phone": "071.679.3728 x201",
+  "website": "wallace.biz",
+  "company": {
+    "name": "Stracke, Quigley and White",
+    "catchPhrase": "Progressive heuristic artificial intelligence",
+    "bs": "one-to-one target action-items"
+  },
+  "id": "888364d5-5f61-4d0d-9335-e6d58669be84",
+  "testnumobjnums": {
+    "num1": 34615,
+    "num2": 58589,
+    "num3": 39394,
+    "deeper": {
+      "arr": [
+        34500,
+        36707,
+        69125
+      ]
+    }
+  },
+  "lastSaid": "strategic visualize vortals"
+}

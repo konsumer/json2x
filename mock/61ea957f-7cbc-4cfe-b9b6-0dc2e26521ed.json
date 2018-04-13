@@ -1,0 +1,36 @@
+{
+  "name": "Madelyn Schuppe",
+  "username": "Kariane67",
+  "email": "Nestor97@yahoo.com",
+  "address": {
+    "street": "Herzog Loop",
+    "suite": "Suite 127",
+    "city": "Dionside",
+    "zipcode": "15016",
+    "geo": {
+      "lat": 56.9275,
+      "lng": 57.1996
+    }
+  },
+  "phone": "233.803.1552 x40431",
+  "website": "louvenia.org",
+  "company": {
+    "name": "Casper LLC",
+    "catchPhrase": "Quality-focused neutral analyzer",
+    "bs": "clicks-and-mortar productize architectures"
+  },
+  "id": "61ea957f-7cbc-4cfe-b9b6-0dc2e26521ed",
+  "testnumobjnums": {
+    "num1": 75488,
+    "num2": 51437,
+    "num3": 19873.5,
+    "deeper": {
+      "arr": [
+        25362,
+        84858,
+        48122
+      ]
+    }
+  },
+  "lastSaid": "web-enabled evolve experiences"
+}

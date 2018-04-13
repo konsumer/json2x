@@ -1,0 +1,37 @@
+{
+  "name": "Hettie Quitzon",
+  "username": "Mollie_OHara66",
+  "email": "Sydnie.Upton@yahoo.com",
+  "address": {
+    "street": "Noah Radial",
+    "suite": "Apt. 858",
+    "city": "Burnicefort",
+    "zipcode": "95938",
+    "geo": {
+      "lat": -55.3351,
+      "lng": -104.4881
+    }
+  },
+  "phone": "(221) 706-8345 x02410",
+  "website": "eda.name",
+  "company": {
+    "name": "Oberbrunner, Langosh and Stroman",
+    "catchPhrase": "Total zero defect capability",
+    "bs": "next-generation exploit bandwidth"
+  },
+  "id": "f5851d30-3d20-467a-9234-4b5237672f15",
+  "testnumobjnums": {
+    "num1": 72097,
+    "num2": 9492,
+    "num3": 28536.5,
+    "deeper": {
+      "arr": [
+        86373,
+        2380,
+        96890
+      ]
+    }
+  },
+  "doing": "protocol parsing",
+  "lastSaid": "Try to bypass the CSS capacitor, maybe it will input the digital feed!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Mr. Brenna Crona",
+  "username": "Darrick65",
+  "email": "Percy_Zemlak@yahoo.com",
+  "address": {
+    "street": "Nader Crossing",
+    "suite": "Suite 294",
+    "city": "South Ebonytown",
+    "zipcode": "37450",
+    "geo": {
+      "lat": 33.8541,
+      "lng": 85.3808
+    }
+  },
+  "phone": "(577) 827-9380 x88015",
+  "website": "clementina.info",
+  "company": {
+    "name": "Goodwin, Lesch and O'Kon",
+    "catchPhrase": "Team-oriented uniform model",
+    "bs": "next-generation scale functionalities"
+  },
+  "id": "5951a3b2-fa9a-4dd8-a342-decbe4e11bee",
+  "testnumobjnums": {
+    "num1": 89312,
+    "num2": 60015,
+    "num3": 40505,
+    "deeper": {
+      "arr": [
+        97527,
+        72279,
+        77128
+      ]
+    }
+  },
+  "doing": "hard drive indexing",
+  "lastSaid": "I'll back up the digital SMTP sensor, that should bandwidth the HTTP system!"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Kaleb D'Amore",
+  "username": "Kiara_Friesen",
+  "email": "Queen.Powlowski71@yahoo.com",
+  "address": {
+    "street": "Warren Path",
+    "suite": "Suite 580",
+    "city": "Lake Clint",
+    "zipcode": "29194-2599",
+    "geo": {
+      "lat": -80.3743,
+      "lng": 156.5814
+    }
+  },
+  "phone": "827-468-5501 x56899",
+  "website": "jenifer.biz",
+  "company": {
+    "name": "Schoen, Mayer and Anderson",
+    "catchPhrase": "Profit-focused responsive portal",
+    "bs": "extensible syndicate supply-chains"
+  },
+  "id": "fa2bd396-f945-4971-8f70-5b7fad54d7b4",
+  "testnumobjnums": {
+    "num1": 36626,
+    "num2": 44939,
+    "num3": 37397,
+    "deeper": {
+      "arr": [
+        68968,
+        70595,
+        23065
+      ]
+    }
+  },
+  "lastSaid": "synergistic expedite models"
+}

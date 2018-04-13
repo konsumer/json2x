@@ -1,0 +1,36 @@
+{
+  "name": "Taylor Lindgren",
+  "username": "Annetta_Hand",
+  "email": "Domenico_Sawayn98@gmail.com",
+  "address": {
+    "street": "Rosella Parkway",
+    "suite": "Apt. 665",
+    "city": "Lake Georgianna",
+    "zipcode": "57812-6730",
+    "geo": {
+      "lat": -37.8063,
+      "lng": -178.4724
+    }
+  },
+  "phone": "1-510-658-2754 x6482",
+  "website": "isac.biz",
+  "company": {
+    "name": "Cartwright - Lind",
+    "catchPhrase": "Synergistic solution-oriented frame",
+    "bs": "web-enabled reintermediate action-items"
+  },
+  "id": "0060c905-1e2f-42c9-8ae2-3c3f3bf88221",
+  "testnumobjnums": {
+    "num1": 26455,
+    "num2": 25169,
+    "num3": 34874.5,
+    "deeper": {
+      "arr": [
+        22186,
+        90797,
+        92907
+      ]
+    }
+  },
+  "lastSaid": "global seize experiences"
+}

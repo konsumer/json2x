@@ -1,0 +1,36 @@
+{
+  "name": "Grayce Lesch",
+  "username": "Cale.Cremin42",
+  "email": "Elda16@yahoo.com",
+  "address": {
+    "street": "Russel Cape",
+    "suite": "Apt. 812",
+    "city": "Lulahaven",
+    "zipcode": "52079-3378",
+    "geo": {
+      "lat": 15.4341,
+      "lng": -100.6113
+    }
+  },
+  "phone": "(920) 815-7989 x9209",
+  "website": "liam.com",
+  "company": {
+    "name": "Reichert - Hermann",
+    "catchPhrase": "Optional transitional capacity",
+    "bs": "cross-platform morph content"
+  },
+  "id": "62dbe6cb-28ec-4382-83ac-351f10280544",
+  "testnumobjnums": {
+    "num1": 56002,
+    "num2": 89853,
+    "num3": 23778.5,
+    "deeper": {
+      "arr": [
+        93104,
+        26966,
+        58362
+      ]
+    }
+  },
+  "lastSaid": "24/7 grow systems"
+}

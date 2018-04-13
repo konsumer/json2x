@@ -1,0 +1,37 @@
+{
+  "name": "Steve Gislason",
+  "username": "Eddie.Jenkins46",
+  "email": "Janelle.Shanahan33@hotmail.com",
+  "address": {
+    "street": "Laurie Station",
+    "suite": "Apt. 893",
+    "city": "North Scarlett",
+    "zipcode": "31614-0814",
+    "geo": {
+      "lat": 32.9987,
+      "lng": 113.0832
+    }
+  },
+  "phone": "120-355-3427 x50536",
+  "website": "nadia.com",
+  "company": {
+    "name": "Mante and Sons",
+    "catchPhrase": "Managed regional superstructure",
+    "bs": "revolutionary disintermediate e-markets"
+  },
+  "id": "a05b8f38-0e45-4766-927c-5ad279cfc331",
+  "testnumobjnums": {
+    "num1": 50527,
+    "num2": 70294,
+    "num3": 24632,
+    "deeper": {
+      "arr": [
+        91908,
+        95986,
+        31323
+      ]
+    }
+  },
+  "doing": "system quantifying",
+  "lastSaid": "The AI system is down, generate the redundant firewall so we can input the SMS card!"
+}

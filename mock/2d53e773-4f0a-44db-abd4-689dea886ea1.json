@@ -1,0 +1,36 @@
+{
+  "name": "Noel Nicolas",
+  "username": "Loyal34",
+  "email": "Zakary.Metz68@gmail.com",
+  "address": {
+    "street": "Rau Village",
+    "suite": "Suite 873",
+    "city": "Biankafurt",
+    "zipcode": "05820-9399",
+    "geo": {
+      "lat": 56.2725,
+      "lng": 87.3437
+    }
+  },
+  "phone": "637-692-3273 x865",
+  "website": "robin.org",
+  "company": {
+    "name": "Kuhlman LLC",
+    "catchPhrase": "Fundamental solution-oriented function",
+    "bs": "value-added brand eyeballs"
+  },
+  "id": "2d53e773-4f0a-44db-abd4-689dea886ea1",
+  "testnumobjnums": {
+    "num1": 85192,
+    "num2": 86424,
+    "num3": 24387,
+    "deeper": {
+      "arr": [
+        73901,
+        99950,
+        83703
+      ]
+    }
+  },
+  "lastSaid": "virtual enhance metrics"
+}

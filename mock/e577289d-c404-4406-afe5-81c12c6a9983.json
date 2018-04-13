@@ -1,0 +1,37 @@
+{
+  "name": "Herminio Wunsch III",
+  "username": "Nakia91",
+  "email": "Randy.Harvey54@hotmail.com",
+  "address": {
+    "street": "Heaven Crossroad",
+    "suite": "Apt. 872",
+    "city": "East Paulside",
+    "zipcode": "17791",
+    "geo": {
+      "lat": -20.5732,
+      "lng": -114.8312
+    }
+  },
+  "phone": "016.440.0438",
+  "website": "andreane.org",
+  "company": {
+    "name": "Stoltenberg - Durgan",
+    "catchPhrase": "Open-source client-driven hierarchy",
+    "bs": "value-added generate platforms"
+  },
+  "id": "e577289d-c404-4406-afe5-81c12c6a9983",
+  "testnumobjnums": {
+    "num1": 8016,
+    "num2": 8836,
+    "num3": 16437.5,
+    "deeper": {
+      "arr": [
+        15225,
+        81735,
+        28864
+      ]
+    }
+  },
+  "doing": "protocol backing up",
+  "lastSaid": "The XML interface is down, navigate the neural firewall so we can bypass the CSS matrix!"
+}

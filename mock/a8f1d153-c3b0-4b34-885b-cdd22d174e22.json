@@ -1,0 +1,37 @@
+{
+  "name": "Dr. Nelson Hahn",
+  "username": "Dedrick_Batz",
+  "email": "Morris_Larson18@hotmail.com",
+  "address": {
+    "street": "Hilll Gateway",
+    "suite": "Apt. 823",
+    "city": "South Asha",
+    "zipcode": "33438",
+    "geo": {
+      "lat": 64.4026,
+      "lng": -104.3014
+    }
+  },
+  "phone": "628-549-9383 x212",
+  "website": "dashawn.biz",
+  "company": {
+    "name": "Kemmer Group",
+    "catchPhrase": "Compatible attitude-oriented benchmark",
+    "bs": "strategic mesh communities"
+  },
+  "id": "a8f1d153-c3b0-4b34-885b-cdd22d174e22",
+  "testnumobjnums": {
+    "num1": 68062,
+    "num2": 52186,
+    "num3": 20635.5,
+    "deeper": {
+      "arr": [
+        78740,
+        86622,
+        27978
+      ]
+    }
+  },
+  "doing": "matrix transmitting",
+  "lastSaid": "We need to compress the primary SSL panel!"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Milo Kuhic",
+  "username": "Kiara92",
+  "email": "Emmie_Heaney@gmail.com",
+  "address": {
+    "street": "Rowe Loop",
+    "suite": "Suite 104",
+    "city": "New Abbyland",
+    "zipcode": "26933-8085",
+    "geo": {
+      "lat": 10.0041,
+      "lng": -56.4272
+    }
+  },
+  "phone": "1-375-726-6365",
+  "website": "george.org",
+  "company": {
+    "name": "Kihn, Ankunding and Johnston",
+    "catchPhrase": "Total regional toolset",
+    "bs": "cross-platform target infomediaries"
+  },
+  "id": "dcdec288-8f18-413a-b757-0b0711b95ca2",
+  "testnumobjnums": {
+    "num1": 2572,
+    "num2": 7077,
+    "num3": 35804.5,
+    "deeper": {
+      "arr": [
+        99483,
+        745,
+        56680
+      ]
+    }
+  },
+  "lastSaid": "innovative unleash initiatives"
+}

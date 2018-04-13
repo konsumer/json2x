@@ -1,0 +1,37 @@
+{
+  "name": "Addison Konopelski",
+  "username": "Marcia19",
+  "email": "Garrison_Keebler17@hotmail.com",
+  "address": {
+    "street": "Pouros Ports",
+    "suite": "Apt. 248",
+    "city": "West Gino",
+    "zipcode": "88250",
+    "geo": {
+      "lat": -64.0566,
+      "lng": -178.9227
+    }
+  },
+  "phone": "1-516-760-1918 x201",
+  "website": "jefferey.info",
+  "company": {
+    "name": "Watsica LLC",
+    "catchPhrase": "Grass-roots content-based task-force",
+    "bs": "efficient drive e-tailers"
+  },
+  "id": "3e0e5f1f-6fa3-4d6b-b5bf-78397dbabd02",
+  "testnumobjnums": {
+    "num1": 31972,
+    "num2": 22666,
+    "num3": 29755.5,
+    "deeper": {
+      "arr": [
+        26733,
+        39193,
+        62583
+      ]
+    }
+  },
+  "doing": "port transmitting",
+  "lastSaid": "We need to override the neural JSON system!"
+}

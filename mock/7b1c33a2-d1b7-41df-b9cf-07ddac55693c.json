@@ -1,0 +1,36 @@
+{
+  "name": "Brittany Pfannerstill",
+  "username": "Laurel30",
+  "email": "Gisselle.Koss63@yahoo.com",
+  "address": {
+    "street": "Emmerich Hills",
+    "suite": "Apt. 521",
+    "city": "South Stanford",
+    "zipcode": "65634",
+    "geo": {
+      "lat": -21.1526,
+      "lng": -110.0383
+    }
+  },
+  "phone": "(112) 032-8368",
+  "website": "alva.name",
+  "company": {
+    "name": "Maggio and Sons",
+    "catchPhrase": "Progressive tertiary internet solution",
+    "bs": "magnetic transform content"
+  },
+  "id": "7b1c33a2-d1b7-41df-b9cf-07ddac55693c",
+  "testnumobjnums": {
+    "num1": 43357,
+    "num2": 35934,
+    "num3": 34662.5,
+    "deeper": {
+      "arr": [
+        74943,
+        8366,
+        47128
+      ]
+    }
+  },
+  "lastSaid": "front-end deliver e-services"
+}

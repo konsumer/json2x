@@ -1,0 +1,37 @@
+{
+  "name": "Lorena Towne",
+  "username": "Sadie_McKenzie30",
+  "email": "Hilbert4@yahoo.com",
+  "address": {
+    "street": "Rosetta Flat",
+    "suite": "Apt. 901",
+    "city": "North Cayla",
+    "zipcode": "03813",
+    "geo": {
+      "lat": -33.1337,
+      "lng": 159.3589
+    }
+  },
+  "phone": "110-631-9168 x99812",
+  "website": "alysson.name",
+  "company": {
+    "name": "Schuster - Mitchell",
+    "catchPhrase": "Self-enabling global initiative",
+    "bs": "cross-platform whiteboard interfaces"
+  },
+  "id": "977c789c-d7bd-413a-80dc-449777b7a5cb",
+  "testnumobjnums": {
+    "num1": 21205,
+    "num2": 29629,
+    "num3": 11207.5,
+    "deeper": {
+      "arr": [
+        43836,
+        4361,
+        8834
+      ]
+    }
+  },
+  "doing": "card overriding",
+  "lastSaid": "Use the optical XSS monitor, then you can copy the multi-byte port!"
+}

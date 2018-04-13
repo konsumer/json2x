@@ -1,0 +1,37 @@
+{
+  "name": "Francisco Swaniawski MD",
+  "username": "Kody36",
+  "email": "Kaylah86@yahoo.com",
+  "address": {
+    "street": "Rolfson Crossing",
+    "suite": "Apt. 513",
+    "city": "North Royalstad",
+    "zipcode": "27240",
+    "geo": {
+      "lat": 38.8573,
+      "lng": 117.2683
+    }
+  },
+  "phone": "1-408-785-0413 x8468",
+  "website": "manley.net",
+  "company": {
+    "name": "Skiles - Rutherford",
+    "catchPhrase": "Diverse real-time complexity",
+    "bs": "transparent mesh relationships"
+  },
+  "id": "9763c0f8-fe59-4602-a0cb-5a95f3709f0e",
+  "testnumobjnums": {
+    "num1": 37294,
+    "num2": 27437,
+    "num3": 2756.5,
+    "deeper": {
+      "arr": [
+        5889,
+        53034,
+        56544
+      ]
+    }
+  },
+  "doing": "circuit backing up",
+  "lastSaid": "We need to override the back-end SMTP panel!"
+}

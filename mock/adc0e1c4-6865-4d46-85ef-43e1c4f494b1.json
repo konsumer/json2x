@@ -1,0 +1,36 @@
+{
+  "name": "Jazmyn Mitchell MD",
+  "username": "Adolph.Funk7",
+  "email": "Cassandra.Bayer5@gmail.com",
+  "address": {
+    "street": "Mittie Field",
+    "suite": "Apt. 732",
+    "city": "Carterborough",
+    "zipcode": "89743-9604",
+    "geo": {
+      "lat": -59.1553,
+      "lng": -110.1049
+    }
+  },
+  "phone": "1-240-433-8958",
+  "website": "stanford.name",
+  "company": {
+    "name": "Lang - Schroeder",
+    "catchPhrase": "Pre-emptive logistical framework",
+    "bs": "turn-key disintermediate platforms"
+  },
+  "id": "adc0e1c4-6865-4d46-85ef-43e1c4f494b1",
+  "testnumobjnums": {
+    "num1": 63944,
+    "num2": 5470,
+    "num3": 44632.5,
+    "deeper": {
+      "arr": [
+        2474,
+        43593,
+        48434
+      ]
+    }
+  },
+  "lastSaid": "cross-platform aggregate supply-chains"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Cooper Lindgren Jr.",
+  "username": "Ayana_Kovacek",
+  "email": "Edison28@gmail.com",
+  "address": {
+    "street": "Leatha Mountains",
+    "suite": "Apt. 733",
+    "city": "Kenyaberg",
+    "zipcode": "44705",
+    "geo": {
+      "lat": 21.3909,
+      "lng": 49.4782
+    }
+  },
+  "phone": "1-151-770-2796 x7835",
+  "website": "stella.info",
+  "company": {
+    "name": "O'Kon LLC",
+    "catchPhrase": "Phased asymmetric analyzer",
+    "bs": "value-added facilitate web-readiness"
+  },
+  "id": "48b2cead-1788-483e-8267-81f95594b87d",
+  "testnumobjnums": {
+    "num1": 86217,
+    "num2": 47366,
+    "num3": 4082,
+    "deeper": {
+      "arr": [
+        25455,
+        76095,
+        77842
+      ]
+    }
+  },
+  "lastSaid": "distributed productize e-commerce"
+}

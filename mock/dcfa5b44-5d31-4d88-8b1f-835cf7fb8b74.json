@@ -1,0 +1,37 @@
+{
+  "name": "Wilford Lehner",
+  "username": "Marjolaine_Williamson",
+  "email": "Edd.Carroll@yahoo.com",
+  "address": {
+    "street": "Lou Villages",
+    "suite": "Apt. 930",
+    "city": "Lake Josefa",
+    "zipcode": "99244-4744",
+    "geo": {
+      "lat": -84.3598,
+      "lng": -38.8391
+    }
+  },
+  "phone": "(324) 267-8592",
+  "website": "yvonne.name",
+  "company": {
+    "name": "Schaefer, Nolan and Fritsch",
+    "catchPhrase": "Diverse analyzing model",
+    "bs": "plug-and-play utilize applications"
+  },
+  "id": "dcfa5b44-5d31-4d88-8b1f-835cf7fb8b74",
+  "testnumobjnums": {
+    "num1": 31600,
+    "num2": 46023,
+    "num3": 7847,
+    "deeper": {
+      "arr": [
+        86332,
+        7160,
+        76970
+      ]
+    }
+  },
+  "doing": "array generating",
+  "lastSaid": "transmitting the feed won't do anything, we need to quantify the online SMTP card!"
+}

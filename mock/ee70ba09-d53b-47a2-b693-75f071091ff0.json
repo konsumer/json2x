@@ -1,0 +1,36 @@
+{
+  "name": "Ms. Crawford Auer",
+  "username": "Mauricio.Bernier",
+  "email": "Isac_Quigley71@yahoo.com",
+  "address": {
+    "street": "Weimann River",
+    "suite": "Suite 287",
+    "city": "Randallland",
+    "zipcode": "95052-6250",
+    "geo": {
+      "lat": -83.7712,
+      "lng": 57.8793
+    }
+  },
+  "phone": "(383) 950-4038 x93514",
+  "website": "orin.org",
+  "company": {
+    "name": "Cremin Inc",
+    "catchPhrase": "Distributed uniform hierarchy",
+    "bs": "turn-key orchestrate mindshare"
+  },
+  "id": "ee70ba09-d53b-47a2-b693-75f071091ff0",
+  "testnumobjnums": {
+    "num1": 89438,
+    "num2": 53858,
+    "num3": 16246.5,
+    "deeper": {
+      "arr": [
+        57864,
+        41920,
+        23105
+      ]
+    }
+  },
+  "lastSaid": "magnetic implement eyeballs"
+}

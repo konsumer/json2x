@@ -1,0 +1,37 @@
+{
+  "name": "Bettie Eichmann",
+  "username": "Madelyn.Turner5",
+  "email": "Wyman_Blick11@hotmail.com",
+  "address": {
+    "street": "Jamal Row",
+    "suite": "Apt. 987",
+    "city": "Grimesfurt",
+    "zipcode": "62688-9847",
+    "geo": {
+      "lat": 49.2158,
+      "lng": -12.1496
+    }
+  },
+  "phone": "477.645.2765 x18973",
+  "website": "kathryne.com",
+  "company": {
+    "name": "Gleason and Sons",
+    "catchPhrase": "Multi-tiered multimedia customer loyalty",
+    "bs": "integrated disintermediate metrics"
+  },
+  "id": "3bc40f6d-7526-477f-8080-539a9f4b2fda",
+  "testnumobjnums": {
+    "num1": 18815,
+    "num2": 35023,
+    "num3": 34966.5,
+    "deeper": {
+      "arr": [
+        94060,
+        99365,
+        58333
+      ]
+    }
+  },
+  "doing": "driver connecting",
+  "lastSaid": "I'll reboot the primary USB application, that should hard drive the IB interface!"
+}

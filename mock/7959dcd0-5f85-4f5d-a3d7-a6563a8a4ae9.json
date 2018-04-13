@@ -1,0 +1,36 @@
+{
+  "name": "Mara Oberbrunner",
+  "username": "Carlie_Schumm",
+  "email": "Mariah.Rosenbaum@yahoo.com",
+  "address": {
+    "street": "Mohammed Highway",
+    "suite": "Suite 321",
+    "city": "Johnsonberg",
+    "zipcode": "77503",
+    "geo": {
+      "lat": -34.4941,
+      "lng": -24.8342
+    }
+  },
+  "phone": "532-576-2432 x089",
+  "website": "thora.biz",
+  "company": {
+    "name": "Farrell, Predovic and Weimann",
+    "catchPhrase": "Switchable web-enabled frame",
+    "bs": "value-added deliver systems"
+  },
+  "id": "7959dcd0-5f85-4f5d-a3d7-a6563a8a4ae9",
+  "testnumobjnums": {
+    "num1": 65347,
+    "num2": 11953,
+    "num3": 1692,
+    "deeper": {
+      "arr": [
+        78877,
+        60444,
+        13719
+      ]
+    }
+  },
+  "lastSaid": "innovative repurpose applications"
+}

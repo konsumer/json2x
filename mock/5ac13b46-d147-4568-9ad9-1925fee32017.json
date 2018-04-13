@@ -1,0 +1,36 @@
+{
+  "name": "Leo O'Kon",
+  "username": "Milan_Dickinson",
+  "email": "Aglae_Muller49@gmail.com",
+  "address": {
+    "street": "Schinner Grove",
+    "suite": "Apt. 136",
+    "city": "Lake Buck",
+    "zipcode": "33895-7004",
+    "geo": {
+      "lat": 68.9392,
+      "lng": 71.4728
+    }
+  },
+  "phone": "(693) 661-7231 x1309",
+  "website": "chandler.net",
+  "company": {
+    "name": "Treutel, Koss and Moore",
+    "catchPhrase": "Right-sized mission-critical customer loyalty",
+    "bs": "real-time incubate systems"
+  },
+  "id": "5ac13b46-d147-4568-9ad9-1925fee32017",
+  "testnumobjnums": {
+    "num1": 78156,
+    "num2": 55140,
+    "num3": 46289.5,
+    "deeper": {
+      "arr": [
+        97364,
+        53,
+        41285
+      ]
+    }
+  },
+  "lastSaid": "interactive repurpose action-items"
+}

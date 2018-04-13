@@ -1,0 +1,37 @@
+{
+  "name": "Maryjane Schroeder",
+  "username": "Leon94",
+  "email": "Glennie.Torphy55@hotmail.com",
+  "address": {
+    "street": "Emmanuelle Loop",
+    "suite": "Apt. 605",
+    "city": "Hickleton",
+    "zipcode": "43181",
+    "geo": {
+      "lat": -9.6023,
+      "lng": -20.0526
+    }
+  },
+  "phone": "(705) 522-6259",
+  "website": "alfred.com",
+  "company": {
+    "name": "Brown LLC",
+    "catchPhrase": "Visionary solution-oriented adapter",
+    "bs": "impactful leverage portals"
+  },
+  "id": "9672bcaa-fc14-4b60-aa10-85e09c43d643",
+  "testnumobjnums": {
+    "num1": 87804,
+    "num2": 62782,
+    "num3": 24657,
+    "deeper": {
+      "arr": [
+        36547,
+        62501,
+        58115
+      ]
+    }
+  },
+  "doing": "transmitter parsing",
+  "lastSaid": "We need to synthesize the haptic CSS program!"
+}

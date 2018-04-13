@@ -1,0 +1,36 @@
+{
+  "name": "Bernie Wilkinson",
+  "username": "Ena2",
+  "email": "Margret83@gmail.com",
+  "address": {
+    "street": "Stanton Burg",
+    "suite": "Apt. 257",
+    "city": "Carrollport",
+    "zipcode": "61956-4912",
+    "geo": {
+      "lat": -71.2885,
+      "lng": -54.0224
+    }
+  },
+  "phone": "(997) 636-9851",
+  "website": "jonas.com",
+  "company": {
+    "name": "Kub - Renner",
+    "catchPhrase": "Enhanced full-range projection",
+    "bs": "user-centric syndicate relationships"
+  },
+  "id": "264e738b-bd8a-4510-ac84-a8e4855f1365",
+  "testnumobjnums": {
+    "num1": 21054,
+    "num2": 88024,
+    "num3": 24926.5,
+    "deeper": {
+      "arr": [
+        43946,
+        24856,
+        92214
+      ]
+    }
+  },
+  "lastSaid": "one-to-one grow relationships"
+}

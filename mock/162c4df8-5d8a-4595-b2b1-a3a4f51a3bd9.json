@@ -1,0 +1,36 @@
+{
+  "name": "Kellie Hilll",
+  "username": "Carmelo_Stokes",
+  "email": "Burley_Ward62@gmail.com",
+  "address": {
+    "street": "Trey Landing",
+    "suite": "Suite 729",
+    "city": "Mayerview",
+    "zipcode": "90471-8494",
+    "geo": {
+      "lat": 28.9862,
+      "lng": -104.2623
+    }
+  },
+  "phone": "(189) 941-5215 x5744",
+  "website": "dorothea.info",
+  "company": {
+    "name": "Nikolaus and Sons",
+    "catchPhrase": "Pre-emptive logistical array",
+    "bs": "dynamic facilitate infomediaries"
+  },
+  "id": "162c4df8-5d8a-4595-b2b1-a3a4f51a3bd9",
+  "testnumobjnums": {
+    "num1": 87485,
+    "num2": 25346,
+    "num3": 28795,
+    "deeper": {
+      "arr": [
+        30449,
+        57398,
+        54044
+      ]
+    }
+  },
+  "lastSaid": "front-end synthesize e-business"
+}

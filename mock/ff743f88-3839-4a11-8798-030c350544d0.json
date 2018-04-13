@@ -1,0 +1,36 @@
+{
+  "name": "Rafaela Bahringer",
+  "username": "Brisa.Fadel46",
+  "email": "Esta.Gislason4@hotmail.com",
+  "address": {
+    "street": "Stuart Ports",
+    "suite": "Suite 481",
+    "city": "East Noemie",
+    "zipcode": "17758",
+    "geo": {
+      "lat": 5.7299,
+      "lng": 10.2697
+    }
+  },
+  "phone": "(869) 370-0126",
+  "website": "patience.name",
+  "company": {
+    "name": "Gulgowski and Sons",
+    "catchPhrase": "Advanced modular model",
+    "bs": "revolutionary drive users"
+  },
+  "id": "ff743f88-3839-4a11-8798-030c350544d0",
+  "testnumobjnums": {
+    "num1": 22276,
+    "num2": 7802,
+    "num3": 49991.5,
+    "deeper": {
+      "arr": [
+        18336,
+        59437,
+        64544
+      ]
+    }
+  },
+  "lastSaid": "killer transform relationships"
+}

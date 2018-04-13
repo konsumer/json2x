@@ -1,0 +1,37 @@
+{
+  "name": "Vilma Powlowski",
+  "username": "Elian39",
+  "email": "Zena27@gmail.com",
+  "address": {
+    "street": "Hand Neck",
+    "suite": "Suite 973",
+    "city": "South Kasey",
+    "zipcode": "60421-0439",
+    "geo": {
+      "lat": -84.0156,
+      "lng": 71.5493
+    }
+  },
+  "phone": "(078) 887-1153 x066",
+  "website": "gussie.net",
+  "company": {
+    "name": "Gibson, Hoeger and Sauer",
+    "catchPhrase": "Up-sized zero administration matrix",
+    "bs": "customized orchestrate applications"
+  },
+  "id": "c516b1ca-50cf-46e2-baf9-241aa8d5a5fa",
+  "testnumobjnums": {
+    "num1": 70113,
+    "num2": 19899,
+    "num3": 31555,
+    "deeper": {
+      "arr": [
+        62803,
+        36004,
+        78423
+      ]
+    }
+  },
+  "doing": "interface synthesizing",
+  "lastSaid": "Try to back up the USB firewall, maybe it will compress the cross-platform sensor!"
+}

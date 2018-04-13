@@ -1,0 +1,36 @@
+{
+  "name": "Margie Deckow",
+  "username": "Nathen.Stroman75",
+  "email": "Heloise_Russel5@yahoo.com",
+  "address": {
+    "street": "Nickolas Road",
+    "suite": "Suite 599",
+    "city": "Blockborough",
+    "zipcode": "27392",
+    "geo": {
+      "lat": -63.5883,
+      "lng": 47.7913
+    }
+  },
+  "phone": "1-615-942-3649 x1675",
+  "website": "litzy.com",
+  "company": {
+    "name": "Kuhlman, Crooks and Leannon",
+    "catchPhrase": "Stand-alone asynchronous application",
+    "bs": "leading-edge extend web-readiness"
+  },
+  "id": "3b3995a0-48bf-4180-a0aa-318df025b500",
+  "testnumobjnums": {
+    "num1": 63728,
+    "num2": 24410,
+    "num3": 361.5,
+    "deeper": {
+      "arr": [
+        33079,
+        16469,
+        71442
+      ]
+    }
+  },
+  "lastSaid": "visionary harness partnerships"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Savanna Jacobi",
+  "username": "Leanna87",
+  "email": "Arlo30@hotmail.com",
+  "address": {
+    "street": "Luna Inlet",
+    "suite": "Suite 842",
+    "city": "West Deronberg",
+    "zipcode": "52853-7035",
+    "geo": {
+      "lat": -72.7756,
+      "lng": 102.2345
+    }
+  },
+  "phone": "1-040-483-7474",
+  "website": "paolo.net",
+  "company": {
+    "name": "DuBuque, Kuhic and Becker",
+    "catchPhrase": "Multi-lateral client-driven infrastructure",
+    "bs": "seamless leverage web services"
+  },
+  "id": "f686e239-8d23-48ed-9ea9-0c1c2b406dc0",
+  "testnumobjnums": {
+    "num1": 51576,
+    "num2": 47447,
+    "num3": 22740.5,
+    "deeper": {
+      "arr": [
+        79479,
+        39535,
+        17605
+      ]
+    }
+  },
+  "lastSaid": "B2C streamline bandwidth"
+}

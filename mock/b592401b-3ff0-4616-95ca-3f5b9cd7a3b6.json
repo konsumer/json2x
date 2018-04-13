@@ -1,0 +1,37 @@
+{
+  "name": "Chase Kautzer",
+  "username": "Leopoldo16",
+  "email": "Lisa_Mayer@yahoo.com",
+  "address": {
+    "street": "Blanda Key",
+    "suite": "Apt. 651",
+    "city": "Patsytown",
+    "zipcode": "79559-1875",
+    "geo": {
+      "lat": 79.0272,
+      "lng": -123.3391
+    }
+  },
+  "phone": "1-682-343-6453",
+  "website": "cecile.info",
+  "company": {
+    "name": "Hahn - Bashirian",
+    "catchPhrase": "Fully-configurable bottom-line flexibility",
+    "bs": "customized expedite methodologies"
+  },
+  "id": "b592401b-3ff0-4616-95ca-3f5b9cd7a3b6",
+  "testnumobjnums": {
+    "num1": 38150,
+    "num2": 52328,
+    "num3": 20906.5,
+    "deeper": {
+      "arr": [
+        42322,
+        36410,
+        95329
+      ]
+    }
+  },
+  "doing": "application transmitting",
+  "lastSaid": "Use the digital CSS matrix, then you can synthesize the virtual bandwidth!"
+}

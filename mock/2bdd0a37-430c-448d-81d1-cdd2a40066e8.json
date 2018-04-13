@@ -1,0 +1,37 @@
+{
+  "name": "Carole Kling",
+  "username": "Erling_Koelpin",
+  "email": "Antoinette_Mayer42@gmail.com",
+  "address": {
+    "street": "Moises Key",
+    "suite": "Suite 792",
+    "city": "Lake Rubie",
+    "zipcode": "00344-0379",
+    "geo": {
+      "lat": -50.0473,
+      "lng": -110.3253
+    }
+  },
+  "phone": "1-368-825-7060 x5127",
+  "website": "jamaal.net",
+  "company": {
+    "name": "Treutel, Kuphal and Ziemann",
+    "catchPhrase": "Triple-buffered zero tolerance challenge",
+    "bs": "dynamic enable interfaces"
+  },
+  "id": "2bdd0a37-430c-448d-81d1-cdd2a40066e8",
+  "testnumobjnums": {
+    "num1": 87567,
+    "num2": 37161,
+    "num3": 44166.5,
+    "deeper": {
+      "arr": [
+        65391,
+        48796,
+        45993
+      ]
+    }
+  },
+  "doing": "capacitor copying",
+  "lastSaid": "Use the haptic JSON interface, then you can override the back-end matrix!"
+}

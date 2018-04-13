@@ -1,0 +1,36 @@
+{
+  "name": "Violette Ledner",
+  "username": "Waino_Nicolas",
+  "email": "Monserrate_Pouros@gmail.com",
+  "address": {
+    "street": "Ward Knolls",
+    "suite": "Apt. 735",
+    "city": "South Reggiehaven",
+    "zipcode": "99251-1543",
+    "geo": {
+      "lat": -57.694,
+      "lng": -14.8535
+    }
+  },
+  "phone": "(087) 830-2669 x1093",
+  "website": "kariane.biz",
+  "company": {
+    "name": "Kilback, Jaskolski and Mosciski",
+    "catchPhrase": "Digitized fresh-thinking process improvement",
+    "bs": "extensible redefine mindshare"
+  },
+  "id": "628e9f3e-ac56-4751-a6fc-920d35ca954a",
+  "testnumobjnums": {
+    "num1": 72445,
+    "num2": 63289,
+    "num3": 32744.5,
+    "deeper": {
+      "arr": [
+        73222,
+        49440,
+        43790
+      ]
+    }
+  },
+  "lastSaid": "bleeding-edge generate infomediaries"
+}

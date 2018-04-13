@@ -1,0 +1,37 @@
+{
+  "name": "Lonny Gaylord",
+  "username": "Reese.Cole",
+  "email": "Justyn.Goldner54@hotmail.com",
+  "address": {
+    "street": "Legros Ways",
+    "suite": "Suite 014",
+    "city": "Darrionburgh",
+    "zipcode": "34215",
+    "geo": {
+      "lat": 40.7297,
+      "lng": 150.8802
+    }
+  },
+  "phone": "529-012-6112 x7196",
+  "website": "lila.biz",
+  "company": {
+    "name": "Funk Group",
+    "catchPhrase": "Implemented composite alliance",
+    "bs": "interactive syndicate systems"
+  },
+  "id": "a172d1d0-10ed-47a7-b37c-9f0fbf71b3ee",
+  "testnumobjnums": {
+    "num1": 51688,
+    "num2": 44055,
+    "num3": 17450,
+    "deeper": {
+      "arr": [
+        18404,
+        82753,
+        27234
+      ]
+    }
+  },
+  "doing": "circuit hacking",
+  "lastSaid": "We need to quantify the haptic COM pixel!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Alex Kovacek",
+  "username": "Delbert.West",
+  "email": "Leland94@yahoo.com",
+  "address": {
+    "street": "Sofia Ranch",
+    "suite": "Suite 587",
+    "city": "Breitenbergtown",
+    "zipcode": "38651",
+    "geo": {
+      "lat": -62.9511,
+      "lng": -122.2854
+    }
+  },
+  "phone": "1-067-388-9140 x7262",
+  "website": "amos.org",
+  "company": {
+    "name": "Sauer Group",
+    "catchPhrase": "Organized dynamic methodology",
+    "bs": "vertical iterate applications"
+  },
+  "id": "acd3c221-aba9-4818-8278-5a98970a012f",
+  "testnumobjnums": {
+    "num1": 20614,
+    "num2": 44489,
+    "num3": 23382,
+    "deeper": {
+      "arr": [
+        98848,
+        27384,
+        8460
+      ]
+    }
+  },
+  "doing": "circuit bypassing",
+  "lastSaid": "I'll back up the haptic JBOD port, that should alarm the PNG circuit!"
+}

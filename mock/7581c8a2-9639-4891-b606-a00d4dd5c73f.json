@@ -1,0 +1,36 @@
+{
+  "name": "Miss Eleanore Blick",
+  "username": "Henriette.Bernier",
+  "email": "Gennaro.Bradtke@hotmail.com",
+  "address": {
+    "street": "Terry Dale",
+    "suite": "Apt. 498",
+    "city": "Port Russeltown",
+    "zipcode": "54034",
+    "geo": {
+      "lat": 88.1269,
+      "lng": -79.9895
+    }
+  },
+  "phone": "626-731-0856 x757",
+  "website": "tevin.com",
+  "company": {
+    "name": "Halvorson - Ritchie",
+    "catchPhrase": "Synergized directional hierarchy",
+    "bs": "efficient revolutionize e-tailers"
+  },
+  "id": "7581c8a2-9639-4891-b606-a00d4dd5c73f",
+  "testnumobjnums": {
+    "num1": 13465,
+    "num2": 95898,
+    "num3": 18643,
+    "deeper": {
+      "arr": [
+        60799,
+        46340,
+        32160
+      ]
+    }
+  },
+  "lastSaid": "web-enabled revolutionize convergence"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Daron Gislason",
+  "username": "Loren.Cormier",
+  "email": "Ernesto_McGlynn53@yahoo.com",
+  "address": {
+    "street": "Mertz Falls",
+    "suite": "Apt. 282",
+    "city": "Chanelleview",
+    "zipcode": "28785",
+    "geo": {
+      "lat": 31.9689,
+      "lng": -141.0058
+    }
+  },
+  "phone": "(982) 400-0546 x124",
+  "website": "eveline.name",
+  "company": {
+    "name": "Roberts, Reichel and Morissette",
+    "catchPhrase": "Re-engineered mission-critical conglomeration",
+    "bs": "cross-platform facilitate markets"
+  },
+  "id": "d5ba361f-6db4-415d-9f50-ee8bdea5b7ca",
+  "testnumobjnums": {
+    "num1": 78004,
+    "num2": 78854,
+    "num3": 34116.5,
+    "deeper": {
+      "arr": [
+        61780,
+        2121,
+        13583
+      ]
+    }
+  },
+  "lastSaid": "enterprise strategize eyeballs"
+}

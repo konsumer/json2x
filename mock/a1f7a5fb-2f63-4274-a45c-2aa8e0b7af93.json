@@ -1,0 +1,37 @@
+{
+  "name": "Elsie Jaskolski",
+  "username": "Shane39",
+  "email": "Jacquelyn28@gmail.com",
+  "address": {
+    "street": "Kade Lodge",
+    "suite": "Suite 907",
+    "city": "Lueilwitzborough",
+    "zipcode": "62581",
+    "geo": {
+      "lat": 72.5987,
+      "lng": -116.4823
+    }
+  },
+  "phone": "1-653-386-2051",
+  "website": "schuyler.org",
+  "company": {
+    "name": "Osinski - Bayer",
+    "catchPhrase": "Streamlined executive parallelism",
+    "bs": "frictionless whiteboard functionalities"
+  },
+  "id": "a1f7a5fb-2f63-4274-a45c-2aa8e0b7af93",
+  "testnumobjnums": {
+    "num1": 43537,
+    "num2": 20039,
+    "num3": 5994,
+    "deeper": {
+      "arr": [
+        63018,
+        34053,
+        95678
+      ]
+    }
+  },
+  "doing": "firewall quantifying",
+  "lastSaid": "copying the microchip won't do anything, we need to back up the back-end AI port!"
+}

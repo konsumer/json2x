@@ -1,0 +1,37 @@
+{
+  "name": "Kody Cruickshank",
+  "username": "Junior50",
+  "email": "Ulices21@gmail.com",
+  "address": {
+    "street": "Lucious Vista",
+    "suite": "Apt. 430",
+    "city": "New Reyes",
+    "zipcode": "34470",
+    "geo": {
+      "lat": -39.3566,
+      "lng": 118.2235
+    }
+  },
+  "phone": "311.795.5827 x787",
+  "website": "lucienne.org",
+  "company": {
+    "name": "Wisozk - Brakus",
+    "catchPhrase": "Automated 3rd generation knowledge base",
+    "bs": "best-of-breed implement e-services"
+  },
+  "id": "b7ecb0d3-7d3a-4471-b989-a76127fdf266",
+  "testnumobjnums": {
+    "num1": 88716,
+    "num2": 60529,
+    "num3": 46418,
+    "deeper": {
+      "arr": [
+        77869,
+        48607,
+        83548
+      ]
+    }
+  },
+  "doing": "system programming",
+  "lastSaid": "Use the multi-byte SDD panel, then you can back up the redundant bandwidth!"
+}

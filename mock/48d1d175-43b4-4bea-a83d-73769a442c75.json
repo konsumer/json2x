@@ -1,0 +1,37 @@
+{
+  "name": "Hildegard Wintheiser III",
+  "username": "Jon31",
+  "email": "Helmer.Bailey4@yahoo.com",
+  "address": {
+    "street": "Cummings Knolls",
+    "suite": "Apt. 345",
+    "city": "Sawaynview",
+    "zipcode": "03577-8914",
+    "geo": {
+      "lat": -9.2742,
+      "lng": -73.3714
+    }
+  },
+  "phone": "996.422.4397 x83353",
+  "website": "ashtyn.com",
+  "company": {
+    "name": "Predovic Group",
+    "catchPhrase": "User-friendly holistic moderator",
+    "bs": "ubiquitous leverage markets"
+  },
+  "id": "48d1d175-43b4-4bea-a83d-73769a442c75",
+  "testnumobjnums": {
+    "num1": 21072,
+    "num2": 3356,
+    "num3": 26447.5,
+    "deeper": {
+      "arr": [
+        93653,
+        26618,
+        26899
+      ]
+    }
+  },
+  "doing": "capacitor quantifying",
+  "lastSaid": "We need to transmit the bluetooth SDD transmitter!"
+}

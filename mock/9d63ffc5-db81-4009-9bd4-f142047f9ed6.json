@@ -1,0 +1,37 @@
+{
+  "name": "Miss Woodrow Dibbert",
+  "username": "Mavis.Abshire89",
+  "email": "Jace13@hotmail.com",
+  "address": {
+    "street": "Hagenes Forest",
+    "suite": "Apt. 726",
+    "city": "Cruickshankhaven",
+    "zipcode": "95470-8282",
+    "geo": {
+      "lat": 71.5457,
+      "lng": 150.8989
+    }
+  },
+  "phone": "638.619.6214",
+  "website": "paris.org",
+  "company": {
+    "name": "Jakubowski Group",
+    "catchPhrase": "Robust bi-directional service-desk",
+    "bs": "real-time monetize solutions"
+  },
+  "id": "9d63ffc5-db81-4009-9bd4-f142047f9ed6",
+  "testnumobjnums": {
+    "num1": 27284,
+    "num2": 98489,
+    "num3": 32277,
+    "deeper": {
+      "arr": [
+        3729,
+        15970,
+        24966
+      ]
+    }
+  },
+  "doing": "driver synthesizing",
+  "lastSaid": "Use the neural AGP application, then you can synthesize the virtual card!"
+}

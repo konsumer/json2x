@@ -1,0 +1,36 @@
+{
+  "name": "Shane Haag",
+  "username": "Ines_Wolff",
+  "email": "Enos_Bergstrom@hotmail.com",
+  "address": {
+    "street": "Monserrate Roads",
+    "suite": "Apt. 368",
+    "city": "Jeromeburgh",
+    "zipcode": "90833",
+    "geo": {
+      "lat": 35.5085,
+      "lng": -173.6068
+    }
+  },
+  "phone": "334-404-0291 x6220",
+  "website": "nona.com",
+  "company": {
+    "name": "Mills - Morissette",
+    "catchPhrase": "Ameliorated attitude-oriented attitude",
+    "bs": "wireless exploit models"
+  },
+  "id": "8c57b2be-b2cb-492d-8810-0e2171bfa10e",
+  "testnumobjnums": {
+    "num1": 77658,
+    "num2": 1765,
+    "num3": 32413,
+    "deeper": {
+      "arr": [
+        91028,
+        90052,
+        13919
+      ]
+    }
+  },
+  "lastSaid": "innovative cultivate architectures"
+}

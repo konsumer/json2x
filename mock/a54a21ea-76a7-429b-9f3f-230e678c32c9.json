@@ -1,0 +1,36 @@
+{
+  "name": "Ms. Liam West",
+  "username": "Camille_Rath70",
+  "email": "Janie.Hand71@hotmail.com",
+  "address": {
+    "street": "Gusikowski Route",
+    "suite": "Apt. 619",
+    "city": "Aylastad",
+    "zipcode": "48128",
+    "geo": {
+      "lat": 69.8298,
+      "lng": 135.9035
+    }
+  },
+  "phone": "(898) 583-1511",
+  "website": "marta.info",
+  "company": {
+    "name": "Miller and Sons",
+    "catchPhrase": "Secured clear-thinking knowledge user",
+    "bs": "sticky reintermediate technologies"
+  },
+  "id": "a54a21ea-76a7-429b-9f3f-230e678c32c9",
+  "testnumobjnums": {
+    "num1": 65423,
+    "num2": 61370,
+    "num3": 36300.5,
+    "deeper": {
+      "arr": [
+        97975,
+        90268,
+        94261
+      ]
+    }
+  },
+  "lastSaid": "bricks-and-clicks grow synergies"
+}

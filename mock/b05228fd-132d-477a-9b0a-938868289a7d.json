@@ -1,0 +1,36 @@
+{
+  "name": "Danial Jast",
+  "username": "Rickey54",
+  "email": "Wilma.Towne88@hotmail.com",
+  "address": {
+    "street": "Cormier Place",
+    "suite": "Suite 397",
+    "city": "Marianoshire",
+    "zipcode": "08837-6206",
+    "geo": {
+      "lat": -61.9211,
+      "lng": -96.5937
+    }
+  },
+  "phone": "(915) 936-5161 x4190",
+  "website": "sid.info",
+  "company": {
+    "name": "Wiza, Cole and Hyatt",
+    "catchPhrase": "Face to face cohesive strategy",
+    "bs": "sexy aggregate synergies"
+  },
+  "id": "b05228fd-132d-477a-9b0a-938868289a7d",
+  "testnumobjnums": {
+    "num1": 35525,
+    "num2": 31994,
+    "num3": 47084,
+    "deeper": {
+      "arr": [
+        52281,
+        24137,
+        7361
+      ]
+    }
+  },
+  "lastSaid": "sticky scale synergies"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Ms. King Fadel",
+  "username": "Glenda.Corkery77",
+  "email": "Peyton.Wintheiser@yahoo.com",
+  "address": {
+    "street": "Hane Valley",
+    "suite": "Apt. 008",
+    "city": "Ethaburgh",
+    "zipcode": "09830",
+    "geo": {
+      "lat": 47.9425,
+      "lng": 29.6793
+    }
+  },
+  "phone": "587-476-5346 x47170",
+  "website": "stevie.name",
+  "company": {
+    "name": "Goyette, Trantow and Schmidt",
+    "catchPhrase": "Optimized stable framework",
+    "bs": "intuitive seize solutions"
+  },
+  "id": "27609c27-6c10-4b96-83d1-f8cde559fb61",
+  "testnumobjnums": {
+    "num1": 3426,
+    "num2": 73741,
+    "num3": 3035,
+    "deeper": {
+      "arr": [
+        54090,
+        28306,
+        20679
+      ]
+    }
+  },
+  "doing": "firewall connecting",
+  "lastSaid": "We need to hack the bluetooth SAS feed!"
+}

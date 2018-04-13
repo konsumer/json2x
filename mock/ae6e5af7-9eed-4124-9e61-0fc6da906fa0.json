@@ -1,0 +1,36 @@
+{
+  "name": "Celia Strosin",
+  "username": "Ken_Schneider",
+  "email": "Morris_DuBuque28@hotmail.com",
+  "address": {
+    "street": "Providenci Rapids",
+    "suite": "Suite 323",
+    "city": "East Parkerton",
+    "zipcode": "19735",
+    "geo": {
+      "lat": -40.0772,
+      "lng": 176.6107
+    }
+  },
+  "phone": "205.478.9122 x628",
+  "website": "jared.com",
+  "company": {
+    "name": "Sanford - Runte",
+    "catchPhrase": "Distributed analyzing portal",
+    "bs": "out-of-the-box optimize technologies"
+  },
+  "id": "ae6e5af7-9eed-4124-9e61-0fc6da906fa0",
+  "testnumobjnums": {
+    "num1": 96614,
+    "num2": 37049,
+    "num3": 42055.5,
+    "deeper": {
+      "arr": [
+        29586,
+        84646,
+        69942
+      ]
+    }
+  },
+  "lastSaid": "best-of-breed disintermediate e-commerce"
+}

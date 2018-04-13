@@ -1,0 +1,37 @@
+{
+  "name": "Malinda Harris",
+  "username": "Schuyler.Nader",
+  "email": "Cristal.Walter2@yahoo.com",
+  "address": {
+    "street": "Raheem Fields",
+    "suite": "Suite 642",
+    "city": "New Rowenaport",
+    "zipcode": "28026-0472",
+    "geo": {
+      "lat": 5.7418,
+      "lng": -88.5667
+    }
+  },
+  "phone": "635.694.6456",
+  "website": "ophelia.net",
+  "company": {
+    "name": "Quitzon Group",
+    "catchPhrase": "Expanded upward-trending functionalities",
+    "bs": "proactive embrace partnerships"
+  },
+  "id": "72f4dd77-9b56-44fd-ae74-4d579be75629",
+  "testnumobjnums": {
+    "num1": 33445,
+    "num2": 42892,
+    "num3": 3110.5,
+    "deeper": {
+      "arr": [
+        21328,
+        26631,
+        48368
+      ]
+    }
+  },
+  "doing": "monitor copying",
+  "lastSaid": "The RSS monitor is down, compress the primary feed so we can quantify the JBOD alarm!"
+}

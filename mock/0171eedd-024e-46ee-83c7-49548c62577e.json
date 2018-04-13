@@ -1,0 +1,36 @@
+{
+  "name": "Carlo Rutherford",
+  "username": "Serena.Herman51",
+  "email": "Jaiden27@gmail.com",
+  "address": {
+    "street": "Clair Forest",
+    "suite": "Suite 259",
+    "city": "Borerfort",
+    "zipcode": "02588",
+    "geo": {
+      "lat": -77.2388,
+      "lng": -77.7142
+    }
+  },
+  "phone": "(307) 385-3489",
+  "website": "audie.org",
+  "company": {
+    "name": "Turner Inc",
+    "catchPhrase": "Reverse-engineered homogeneous complexity",
+    "bs": "scalable target deliverables"
+  },
+  "id": "0171eedd-024e-46ee-83c7-49548c62577e",
+  "testnumobjnums": {
+    "num1": 13391,
+    "num2": 83089,
+    "num3": 29090,
+    "deeper": {
+      "arr": [
+        98506,
+        51637,
+        75910
+      ]
+    }
+  },
+  "lastSaid": "cross-media benchmark bandwidth"
+}

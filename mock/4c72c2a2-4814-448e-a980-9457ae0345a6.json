@@ -1,0 +1,37 @@
+{
+  "name": "Reba Schultz",
+  "username": "Gerald.Tromp",
+  "email": "Aric30@gmail.com",
+  "address": {
+    "street": "Vicente Locks",
+    "suite": "Apt. 378",
+    "city": "Fayburgh",
+    "zipcode": "61761-1935",
+    "geo": {
+      "lat": -32.1336,
+      "lng": 142.647
+    }
+  },
+  "phone": "991.297.3518",
+  "website": "euna.info",
+  "company": {
+    "name": "Armstrong and Sons",
+    "catchPhrase": "Progressive explicit artificial intelligence",
+    "bs": "next-generation integrate portals"
+  },
+  "id": "4c72c2a2-4814-448e-a980-9457ae0345a6",
+  "testnumobjnums": {
+    "num1": 49058,
+    "num2": 83653,
+    "num3": 24330.5,
+    "deeper": {
+      "arr": [
+        33365,
+        67064,
+        60137
+      ]
+    }
+  },
+  "doing": "application indexing",
+  "lastSaid": "I'll quantify the open-source AGP card, that should monitor the TCP card!"
+}

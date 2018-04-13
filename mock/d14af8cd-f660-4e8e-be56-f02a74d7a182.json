@@ -1,0 +1,36 @@
+{
+  "name": "Meghan Schoen IV",
+  "username": "Emmalee.Hintz",
+  "email": "Amy_Stoltenberg59@hotmail.com",
+  "address": {
+    "street": "Aliza Burg",
+    "suite": "Apt. 366",
+    "city": "Schulisthaven",
+    "zipcode": "01173-3245",
+    "geo": {
+      "lat": 51.0114,
+      "lng": 63.2576
+    }
+  },
+  "phone": "(837) 436-5450 x996",
+  "website": "winfield.biz",
+  "company": {
+    "name": "Roberts and Sons",
+    "catchPhrase": "Persevering incremental portal",
+    "bs": "virtual reinvent eyeballs"
+  },
+  "id": "d14af8cd-f660-4e8e-be56-f02a74d7a182",
+  "testnumobjnums": {
+    "num1": 67868,
+    "num2": 54913,
+    "num3": 22775,
+    "deeper": {
+      "arr": [
+        96308,
+        92052,
+        70909
+      ]
+    }
+  },
+  "lastSaid": "e-business evolve experiences"
+}

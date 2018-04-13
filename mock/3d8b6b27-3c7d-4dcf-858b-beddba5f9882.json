@@ -1,0 +1,37 @@
+{
+  "name": "Wilford Hessel",
+  "username": "Morris_Mertz",
+  "email": "Ernesto33@yahoo.com",
+  "address": {
+    "street": "Padberg River",
+    "suite": "Apt. 505",
+    "city": "West Martinaside",
+    "zipcode": "26387",
+    "geo": {
+      "lat": 84.9833,
+      "lng": -94.6312
+    }
+  },
+  "phone": "489-738-2420 x4738",
+  "website": "alivia.name",
+  "company": {
+    "name": "Anderson - Orn",
+    "catchPhrase": "Operative incremental database",
+    "bs": "ubiquitous reinvent mindshare"
+  },
+  "id": "3d8b6b27-3c7d-4dcf-858b-beddba5f9882",
+  "testnumobjnums": {
+    "num1": 23127,
+    "num2": 21462,
+    "num3": 34934,
+    "deeper": {
+      "arr": [
+        84482,
+        78381,
+        57129
+      ]
+    }
+  },
+  "doing": "system generating",
+  "lastSaid": "I'll quantify the back-end EXE hard drive, that should firewall the SAS transmitter!"
+}

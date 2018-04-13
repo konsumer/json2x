@@ -1,0 +1,37 @@
+{
+  "name": "Rylee Rice",
+  "username": "Ryley.Veum",
+  "email": "Ladarius.Huels@hotmail.com",
+  "address": {
+    "street": "Waelchi Dam",
+    "suite": "Apt. 620",
+    "city": "North Lillianfurt",
+    "zipcode": "96702-9872",
+    "geo": {
+      "lat": -16.4948,
+      "lng": 64.0583
+    }
+  },
+  "phone": "190.408.5030 x08644",
+  "website": "terence.net",
+  "company": {
+    "name": "Rau, Klocko and Becker",
+    "catchPhrase": "Polarised human-resource workforce",
+    "bs": "clicks-and-mortar facilitate markets"
+  },
+  "id": "d8164572-01dd-4b55-a8f0-967707e740fc",
+  "testnumobjnums": {
+    "num1": 39883,
+    "num2": 91191,
+    "num3": 907,
+    "deeper": {
+      "arr": [
+        94843,
+        68516,
+        25193
+      ]
+    }
+  },
+  "doing": "panel bypassing",
+  "lastSaid": "Use the primary SSL feed, then you can hack the multi-byte interface!"
+}

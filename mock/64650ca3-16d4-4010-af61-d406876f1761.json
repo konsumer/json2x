@@ -1,0 +1,36 @@
+{
+  "name": "Dr. Freda Reichert",
+  "username": "Carolanne.Kuvalis",
+  "email": "Barry.Jakubowski3@hotmail.com",
+  "address": {
+    "street": "Parisian Islands",
+    "suite": "Suite 043",
+    "city": "South Chanel",
+    "zipcode": "61136-7461",
+    "geo": {
+      "lat": -85.6321,
+      "lng": 21.5841
+    }
+  },
+  "phone": "564-993-6969 x61905",
+  "website": "nathaniel.net",
+  "company": {
+    "name": "Leffler, Murray and Bartoletti",
+    "catchPhrase": "Sharable bifurcated ability",
+    "bs": "bleeding-edge synergize action-items"
+  },
+  "id": "64650ca3-16d4-4010-af61-d406876f1761",
+  "testnumobjnums": {
+    "num1": 72631,
+    "num2": 21039,
+    "num3": 11492,
+    "deeper": {
+      "arr": [
+        10890,
+        50137,
+        32072
+      ]
+    }
+  },
+  "lastSaid": "ubiquitous seize e-commerce"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Jalon Cruickshank",
+  "username": "Seamus28",
+  "email": "Otis54@hotmail.com",
+  "address": {
+    "street": "Elinore Springs",
+    "suite": "Suite 755",
+    "city": "South Marilou",
+    "zipcode": "68756-1048",
+    "geo": {
+      "lat": 27.1781,
+      "lng": -24.0471
+    }
+  },
+  "phone": "1-904-373-0440",
+  "website": "timmy.info",
+  "company": {
+    "name": "Jakubowski, Muller and Sanford",
+    "catchPhrase": "Multi-lateral empowering application",
+    "bs": "back-end deploy supply-chains"
+  },
+  "id": "c6bffb30-2996-4995-b4af-599352f89926",
+  "testnumobjnums": {
+    "num1": 38384,
+    "num2": 77502,
+    "num3": 29164,
+    "deeper": {
+      "arr": [
+        82636,
+        80105,
+        41077
+      ]
+    }
+  },
+  "lastSaid": "B2B maximize e-tailers"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Hailie Waelchi",
+  "username": "Cielo.Stracke",
+  "email": "Antwan.Halvorson66@gmail.com",
+  "address": {
+    "street": "Ernser Station",
+    "suite": "Apt. 397",
+    "city": "Jenniferburgh",
+    "zipcode": "30689",
+    "geo": {
+      "lat": -12.6253,
+      "lng": 14.2701
+    }
+  },
+  "phone": "044.514.1997 x49917",
+  "website": "alana.org",
+  "company": {
+    "name": "Hilll, Dickens and Crist",
+    "catchPhrase": "Mandatory next generation open system",
+    "bs": "24/365 enhance ROI"
+  },
+  "id": "27168956-d1cd-4104-aa14-5247f72f06f2",
+  "testnumobjnums": {
+    "num1": 62496,
+    "num2": 96913,
+    "num3": 26906.5,
+    "deeper": {
+      "arr": [
+        31031,
+        38036,
+        35872
+      ]
+    }
+  },
+  "lastSaid": "24/365 productize channels"
+}

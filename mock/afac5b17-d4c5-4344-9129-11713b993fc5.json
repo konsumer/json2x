@@ -1,0 +1,37 @@
+{
+  "name": "Julianne Mohr",
+  "username": "Deondre_Larkin0",
+  "email": "Janis.Hand@hotmail.com",
+  "address": {
+    "street": "Declan Tunnel",
+    "suite": "Suite 333",
+    "city": "East Hosea",
+    "zipcode": "81975",
+    "geo": {
+      "lat": 59.5049,
+      "lng": 70.4029
+    }
+  },
+  "phone": "637-363-2137 x12365",
+  "website": "wilbert.org",
+  "company": {
+    "name": "Reinger, Bruen and Bernier",
+    "catchPhrase": "Diverse motivating circuit",
+    "bs": "granular recontextualize convergence"
+  },
+  "id": "afac5b17-d4c5-4344-9129-11713b993fc5",
+  "testnumobjnums": {
+    "num1": 53374,
+    "num2": 34282,
+    "num3": 26254.5,
+    "deeper": {
+      "arr": [
+        86522,
+        7230,
+        33541
+      ]
+    }
+  },
+  "doing": "hard drive indexing",
+  "lastSaid": "The PCI hard drive is down, navigate the virtual pixel so we can program the AGP driver!"
+}

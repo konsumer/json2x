@@ -1,0 +1,37 @@
+{
+  "name": "Enid Zulauf III",
+  "username": "Odell77",
+  "email": "Selina_Osinski@hotmail.com",
+  "address": {
+    "street": "Mayert Lights",
+    "suite": "Apt. 604",
+    "city": "Stantonbury",
+    "zipcode": "25956-4635",
+    "geo": {
+      "lat": 59.5151,
+      "lng": -32.3467
+    }
+  },
+  "phone": "961-745-3371 x77211",
+  "website": "jonathon.net",
+  "company": {
+    "name": "Kris and Sons",
+    "catchPhrase": "Ergonomic even-keeled internet solution",
+    "bs": "extensible evolve interfaces"
+  },
+  "id": "c69f62a9-985f-49c3-8e57-4c996d14ed16",
+  "testnumobjnums": {
+    "num1": 68843,
+    "num2": 14959,
+    "num3": 427,
+    "deeper": {
+      "arr": [
+        49588,
+        85254,
+        30480
+      ]
+    }
+  },
+  "doing": "sensor navigating",
+  "lastSaid": "We need to override the online COM sensor!"
+}

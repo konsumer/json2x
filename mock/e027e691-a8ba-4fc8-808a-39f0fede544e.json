@@ -1,0 +1,37 @@
+{
+  "name": "Idell Schmidt",
+  "username": "Edwardo68",
+  "email": "Deanna.Gutmann@gmail.com",
+  "address": {
+    "street": "May Gardens",
+    "suite": "Suite 562",
+    "city": "South Tracemouth",
+    "zipcode": "79018-8235",
+    "geo": {
+      "lat": -63.0985,
+      "lng": -2.764
+    }
+  },
+  "phone": "336.270.4970 x3465",
+  "website": "luella.org",
+  "company": {
+    "name": "Fahey, Williamson and Orn",
+    "catchPhrase": "Operative cohesive archive",
+    "bs": "dynamic leverage metrics"
+  },
+  "id": "e027e691-a8ba-4fc8-808a-39f0fede544e",
+  "testnumobjnums": {
+    "num1": 82166,
+    "num2": 60490,
+    "num3": 5664.5,
+    "deeper": {
+      "arr": [
+        33183,
+        48778,
+        39005
+      ]
+    }
+  },
+  "doing": "system calculating",
+  "lastSaid": "The SDD card is down, index the bluetooth port so we can transmit the CSS alarm!"
+}

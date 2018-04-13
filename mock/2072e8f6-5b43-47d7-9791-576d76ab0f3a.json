@@ -1,0 +1,37 @@
+{
+  "name": "Althea Mayert",
+  "username": "Immanuel35",
+  "email": "Norbert_Zieme@hotmail.com",
+  "address": {
+    "street": "Pfeffer Square",
+    "suite": "Suite 924",
+    "city": "Sydniland",
+    "zipcode": "39892",
+    "geo": {
+      "lat": 68.8375,
+      "lng": 79.5164
+    }
+  },
+  "phone": "899-344-9116 x68675",
+  "website": "wade.info",
+  "company": {
+    "name": "Hintz, Lesch and Gorczany",
+    "catchPhrase": "Advanced zero administration utilisation",
+    "bs": "efficient generate schemas"
+  },
+  "id": "2072e8f6-5b43-47d7-9791-576d76ab0f3a",
+  "testnumobjnums": {
+    "num1": 86082,
+    "num2": 77571,
+    "num3": 26114,
+    "deeper": {
+      "arr": [
+        21635,
+        72975,
+        67134
+      ]
+    }
+  },
+  "doing": "transmitter navigating",
+  "lastSaid": "The SSL card is down, reboot the solid state matrix so we can program the PNG pixel!"
+}

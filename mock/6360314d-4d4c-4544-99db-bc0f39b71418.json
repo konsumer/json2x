@@ -1,0 +1,37 @@
+{
+  "name": "Dimitri Johnson",
+  "username": "Carlee.Bartell18",
+  "email": "Golda_Hilpert79@yahoo.com",
+  "address": {
+    "street": "Bernhard Mountains",
+    "suite": "Apt. 614",
+    "city": "Quintenburgh",
+    "zipcode": "78309-3448",
+    "geo": {
+      "lat": -44.2468,
+      "lng": 138.7435
+    }
+  },
+  "phone": "654.528.7624 x51956",
+  "website": "julien.com",
+  "company": {
+    "name": "Greenfelder, Pouros and Pfeffer",
+    "catchPhrase": "Function-based non-volatile architecture",
+    "bs": "B2B brand systems"
+  },
+  "id": "6360314d-4d4c-4544-99db-bc0f39b71418",
+  "testnumobjnums": {
+    "num1": 75442,
+    "num2": 41157,
+    "num3": 14959.5,
+    "deeper": {
+      "arr": [
+        15461,
+        28867,
+        63949
+      ]
+    }
+  },
+  "doing": "monitor quantifying",
+  "lastSaid": "Try to reboot the FTP bus, maybe it will override the open-source bus!"
+}

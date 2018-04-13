@@ -1,0 +1,37 @@
+{
+  "name": "Riley Hackett",
+  "username": "Eleazar_Rippin44",
+  "email": "Kiana.Dicki@yahoo.com",
+  "address": {
+    "street": "Ara Squares",
+    "suite": "Apt. 751",
+    "city": "Madonnaside",
+    "zipcode": "12694",
+    "geo": {
+      "lat": -4.1587,
+      "lng": 98.928
+    }
+  },
+  "phone": "886-286-0755 x758",
+  "website": "colleen.name",
+  "company": {
+    "name": "Swaniawski, Bahringer and Cummerata",
+    "catchPhrase": "Customer-focused user-facing open architecture",
+    "bs": "dot-com expedite functionalities"
+  },
+  "id": "b661db16-2844-442f-b179-31e41fe9d3b6",
+  "testnumobjnums": {
+    "num1": 1953,
+    "num2": 73845,
+    "num3": 37826,
+    "deeper": {
+      "arr": [
+        84825,
+        37576,
+        36326
+      ]
+    }
+  },
+  "doing": "panel calculating",
+  "lastSaid": "hacking the alarm won't do anything, we need to transmit the virtual GB bandwidth!"
+}

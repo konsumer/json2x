@@ -1,0 +1,36 @@
+{
+  "name": "Kamille McLaughlin",
+  "username": "Kennith80",
+  "email": "Bruce_Schoen@hotmail.com",
+  "address": {
+    "street": "Beer Street",
+    "suite": "Apt. 398",
+    "city": "West Jena",
+    "zipcode": "33967-7147",
+    "geo": {
+      "lat": 3.1955,
+      "lng": 152.0239
+    }
+  },
+  "phone": "(676) 818-9173",
+  "website": "king.biz",
+  "company": {
+    "name": "Wilkinson - Bahringer",
+    "catchPhrase": "Fundamental reciprocal workforce",
+    "bs": "intuitive deliver e-commerce"
+  },
+  "id": "f78e81b0-18f7-4c4f-b396-b1b42a25a5ba",
+  "testnumobjnums": {
+    "num1": 56740,
+    "num2": 95937,
+    "num3": 39968.5,
+    "deeper": {
+      "arr": [
+        25331,
+        20628,
+        3894
+      ]
+    }
+  },
+  "lastSaid": "cross-platform exploit schemas"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Tierra Stoltenberg",
+  "username": "Alexandra40",
+  "email": "Lexie59@hotmail.com",
+  "address": {
+    "street": "Adalberto Pass",
+    "suite": "Apt. 216",
+    "city": "South Christiana",
+    "zipcode": "26268",
+    "geo": {
+      "lat": -27.0473,
+      "lng": 17.3486
+    }
+  },
+  "phone": "(586) 141-7777",
+  "website": "reinhold.com",
+  "company": {
+    "name": "Schaefer and Sons",
+    "catchPhrase": "Integrated discrete moderator",
+    "bs": "open-source empower deliverables"
+  },
+  "id": "b26ff8b4-24a3-44ea-a699-090f9aa7bd7c",
+  "testnumobjnums": {
+    "num1": 97449,
+    "num2": 80177,
+    "num3": 30591.5,
+    "deeper": {
+      "arr": [
+        18876,
+        2878,
+        22134
+      ]
+    }
+  },
+  "doing": "sensor programming",
+  "lastSaid": "We need to calculate the primary PNG application!"
+}

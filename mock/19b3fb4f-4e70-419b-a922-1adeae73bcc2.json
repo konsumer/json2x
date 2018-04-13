@@ -1,0 +1,37 @@
+{
+  "name": "Dr. Reuben Rath",
+  "username": "Newton65",
+  "email": "Berniece_Stokes37@hotmail.com",
+  "address": {
+    "street": "Will Circle",
+    "suite": "Apt. 081",
+    "city": "North Justyn",
+    "zipcode": "46723-8000",
+    "geo": {
+      "lat": 57.5736,
+      "lng": 84.2996
+    }
+  },
+  "phone": "764-620-2159 x088",
+  "website": "ken.info",
+  "company": {
+    "name": "Yost, Dietrich and Greenholt",
+    "catchPhrase": "Switchable explicit adapter",
+    "bs": "interactive disintermediate systems"
+  },
+  "id": "19b3fb4f-4e70-419b-a922-1adeae73bcc2",
+  "testnumobjnums": {
+    "num1": 89800,
+    "num2": 98577,
+    "num3": 22817.5,
+    "deeper": {
+      "arr": [
+        74622,
+        76139,
+        89614
+      ]
+    }
+  },
+  "doing": "driver bypassing",
+  "lastSaid": "I'll connect the multi-byte PNG application, that should array the FTP bandwidth!"
+}

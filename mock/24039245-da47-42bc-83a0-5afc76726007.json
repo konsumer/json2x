@@ -1,0 +1,36 @@
+{
+  "name": "Mr. Lenna Shanahan",
+  "username": "Sabina_Thiel72",
+  "email": "Mervin70@yahoo.com",
+  "address": {
+    "street": "Cornelius Dale",
+    "suite": "Apt. 862",
+    "city": "East Malvina",
+    "zipcode": "65334",
+    "geo": {
+      "lat": 55.1959,
+      "lng": -82.3521
+    }
+  },
+  "phone": "(435) 484-1048 x52365",
+  "website": "jordi.info",
+  "company": {
+    "name": "Gibson - Rau",
+    "catchPhrase": "Face to face asymmetric encryption",
+    "bs": "world-class repurpose platforms"
+  },
+  "id": "24039245-da47-42bc-83a0-5afc76726007",
+  "testnumobjnums": {
+    "num1": 61652,
+    "num2": 93430,
+    "num3": 19171,
+    "deeper": {
+      "arr": [
+        7131,
+        82254,
+        30859
+      ]
+    }
+  },
+  "lastSaid": "one-to-one seize e-tailers"
+}

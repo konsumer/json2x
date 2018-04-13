@@ -1,0 +1,36 @@
+{
+  "name": "Jean Quitzon",
+  "username": "Sabina18",
+  "email": "Kareem34@gmail.com",
+  "address": {
+    "street": "Glenna Turnpike",
+    "suite": "Suite 024",
+    "city": "Lake Jimmieland",
+    "zipcode": "08568",
+    "geo": {
+      "lat": -71.0816,
+      "lng": 133.7816
+    }
+  },
+  "phone": "860-573-6639",
+  "website": "monserrate.net",
+  "company": {
+    "name": "Ward, Willms and Rath",
+    "catchPhrase": "Cloned multimedia projection",
+    "bs": "24/7 embrace systems"
+  },
+  "id": "a8c3fe43-5ec8-4291-8f31-c0b421b38b43",
+  "testnumobjnums": {
+    "num1": 98548,
+    "num2": 36718,
+    "num3": 39213,
+    "deeper": {
+      "arr": [
+        1753,
+        76994,
+        26544
+      ]
+    }
+  },
+  "lastSaid": "enterprise mesh technologies"
+}

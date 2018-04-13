@@ -1,0 +1,36 @@
+{
+  "name": "Maggie Bahringer",
+  "username": "Danyka9",
+  "email": "Lacy.Stark72@yahoo.com",
+  "address": {
+    "street": "Marcella Extension",
+    "suite": "Apt. 291",
+    "city": "Rathberg",
+    "zipcode": "37265",
+    "geo": {
+      "lat": 89.5527,
+      "lng": 68.5598
+    }
+  },
+  "phone": "(546) 324-9644 x9098",
+  "website": "aryanna.name",
+  "company": {
+    "name": "Stark - Schmeler",
+    "catchPhrase": "Reverse-engineered dynamic challenge",
+    "bs": "cutting-edge streamline e-business"
+  },
+  "id": "af905980-8be5-4229-b60f-e8c4d25fdde0",
+  "testnumobjnums": {
+    "num1": 74474,
+    "num2": 73051,
+    "num3": 4961.5,
+    "deeper": {
+      "arr": [
+        29827,
+        47514,
+        22509
+      ]
+    }
+  },
+  "lastSaid": "compelling repurpose technologies"
+}

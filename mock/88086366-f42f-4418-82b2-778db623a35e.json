@@ -1,0 +1,37 @@
+{
+  "name": "Katrine Bashirian",
+  "username": "Adele72",
+  "email": "Aida68@yahoo.com",
+  "address": {
+    "street": "Predovic Track",
+    "suite": "Apt. 104",
+    "city": "South Kimstad",
+    "zipcode": "81399",
+    "geo": {
+      "lat": 28.7176,
+      "lng": -120.5286
+    }
+  },
+  "phone": "1-935-922-7541",
+  "website": "kayla.org",
+  "company": {
+    "name": "Grant, Jaskolski and Stoltenberg",
+    "catchPhrase": "Distributed dynamic superstructure",
+    "bs": "open-source e-enable infomediaries"
+  },
+  "id": "88086366-f42f-4418-82b2-778db623a35e",
+  "testnumobjnums": {
+    "num1": 54601,
+    "num2": 49353,
+    "num3": 49577,
+    "deeper": {
+      "arr": [
+        79200,
+        38605,
+        7025
+      ]
+    }
+  },
+  "doing": "bus compressing",
+  "lastSaid": "The TCP firewall is down, hack the primary capacitor so we can navigate the GB hard drive!"
+}

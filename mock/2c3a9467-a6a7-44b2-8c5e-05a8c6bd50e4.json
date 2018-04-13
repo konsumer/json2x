@@ -1,0 +1,37 @@
+{
+  "name": "Travon Braun III",
+  "username": "Gerald.Hilpert58",
+  "email": "Kenna_Stark@gmail.com",
+  "address": {
+    "street": "Mayra Road",
+    "suite": "Suite 147",
+    "city": "Lake Elissa",
+    "zipcode": "12675-3965",
+    "geo": {
+      "lat": -10.617,
+      "lng": 92.3359
+    }
+  },
+  "phone": "994-188-1894 x2139",
+  "website": "jesse.info",
+  "company": {
+    "name": "Hamill Inc",
+    "catchPhrase": "Enterprise-wide incremental capacity",
+    "bs": "integrated productize metrics"
+  },
+  "id": "2c3a9467-a6a7-44b2-8c5e-05a8c6bd50e4",
+  "testnumobjnums": {
+    "num1": 99956,
+    "num2": 99279,
+    "num3": 49822.5,
+    "deeper": {
+      "arr": [
+        27952,
+        96246,
+        96585
+      ]
+    }
+  },
+  "doing": "microchip programming",
+  "lastSaid": "You can't transmit the transmitter without compressing the back-end JBOD firewall!"
+}

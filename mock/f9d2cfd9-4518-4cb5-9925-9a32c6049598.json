@@ -1,0 +1,37 @@
+{
+  "name": "Mrs. Nettie Ward",
+  "username": "Gianni_Maggio",
+  "email": "Gabriel.McCullough20@gmail.com",
+  "address": {
+    "street": "Tromp Turnpike",
+    "suite": "Apt. 150",
+    "city": "Hansmouth",
+    "zipcode": "51767-3655",
+    "geo": {
+      "lat": -53.7607,
+      "lng": -149.0542
+    }
+  },
+  "phone": "(545) 812-4586",
+  "website": "kieran.org",
+  "company": {
+    "name": "Tillman and Sons",
+    "catchPhrase": "Business-focused intangible utilisation",
+    "bs": "distributed matrix convergence"
+  },
+  "id": "f9d2cfd9-4518-4cb5-9925-9a32c6049598",
+  "testnumobjnums": {
+    "num1": 29898,
+    "num2": 52052,
+    "num3": 46077.5,
+    "deeper": {
+      "arr": [
+        4636,
+        73722,
+        91508
+      ]
+    }
+  },
+  "doing": "firewall transmitting",
+  "lastSaid": "Use the multi-byte SSL monitor, then you can parse the open-source bandwidth!"
+}

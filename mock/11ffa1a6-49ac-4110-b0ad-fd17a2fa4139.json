@@ -1,0 +1,37 @@
+{
+  "name": "Viviane Champlin",
+  "username": "Lavina.Littel4",
+  "email": "Kevin_Stracke@hotmail.com",
+  "address": {
+    "street": "Stokes Locks",
+    "suite": "Apt. 565",
+    "city": "New Devante",
+    "zipcode": "11797",
+    "geo": {
+      "lat": 49.0923,
+      "lng": 118.1211
+    }
+  },
+  "phone": "747.402.6206 x26696",
+  "website": "reilly.info",
+  "company": {
+    "name": "Walker - Fahey",
+    "catchPhrase": "Synergistic content-based intranet",
+    "bs": "dynamic recontextualize applications"
+  },
+  "id": "11ffa1a6-49ac-4110-b0ad-fd17a2fa4139",
+  "testnumobjnums": {
+    "num1": 96770,
+    "num2": 45622,
+    "num3": 13663.5,
+    "deeper": {
+      "arr": [
+        80539,
+        30866,
+        68350
+      ]
+    }
+  },
+  "doing": "feed parsing",
+  "lastSaid": "I'll index the 1080p XSS matrix, that should driver the SCSI transmitter!"
+}

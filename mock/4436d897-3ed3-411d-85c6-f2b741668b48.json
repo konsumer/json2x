@@ -1,0 +1,36 @@
+{
+  "name": "Nikolas Marquardt",
+  "username": "Chanel33",
+  "email": "Thea_Borer13@gmail.com",
+  "address": {
+    "street": "Purdy Village",
+    "suite": "Apt. 230",
+    "city": "South Levitown",
+    "zipcode": "45477-4791",
+    "geo": {
+      "lat": -14.4926,
+      "lng": -96.2157
+    }
+  },
+  "phone": "323-525-1116 x690",
+  "website": "alexys.net",
+  "company": {
+    "name": "O'Kon - Hirthe",
+    "catchPhrase": "Business-focused discrete core",
+    "bs": "sexy scale bandwidth"
+  },
+  "id": "4436d897-3ed3-411d-85c6-f2b741668b48",
+  "testnumobjnums": {
+    "num1": 14658,
+    "num2": 13907,
+    "num3": 48536,
+    "deeper": {
+      "arr": [
+        15298,
+        93460,
+        96294
+      ]
+    }
+  },
+  "lastSaid": "mission-critical orchestrate e-business"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Marielle Rolfson II",
+  "username": "Ned.Gerhold17",
+  "email": "Peggie29@hotmail.com",
+  "address": {
+    "street": "Adolfo Trafficway",
+    "suite": "Apt. 360",
+    "city": "North Timmy",
+    "zipcode": "73061-0232",
+    "geo": {
+      "lat": -19.2668,
+      "lng": 120.6398
+    }
+  },
+  "phone": "1-869-899-1320",
+  "website": "julio.org",
+  "company": {
+    "name": "Nitzsche - Deckow",
+    "catchPhrase": "Cross-group fresh-thinking support",
+    "bs": "e-business expedite systems"
+  },
+  "id": "a541568b-d6e3-4e81-8cdb-8680de975013",
+  "testnumobjnums": {
+    "num1": 4569,
+    "num2": 64650,
+    "num3": 26763.5,
+    "deeper": {
+      "arr": [
+        40309,
+        51742,
+        15028
+      ]
+    }
+  },
+  "lastSaid": "open-source reintermediate methodologies"
+}

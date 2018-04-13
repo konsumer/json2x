@@ -1,0 +1,37 @@
+{
+  "name": "Norval Erdman",
+  "username": "Brielle48",
+  "email": "Hunter_Nikolaus@yahoo.com",
+  "address": {
+    "street": "Gleichner Estate",
+    "suite": "Suite 194",
+    "city": "East Myra",
+    "zipcode": "46271",
+    "geo": {
+      "lat": -41.1867,
+      "lng": 121.1477
+    }
+  },
+  "phone": "582-629-4008",
+  "website": "brant.name",
+  "company": {
+    "name": "Oberbrunner - Morar",
+    "catchPhrase": "Cloned leading edge application",
+    "bs": "ubiquitous integrate methodologies"
+  },
+  "id": "32059443-ddda-4b94-8895-35621fa027d8",
+  "testnumobjnums": {
+    "num1": 80149,
+    "num2": 85894,
+    "num3": 6157,
+    "deeper": {
+      "arr": [
+        95432,
+        38072,
+        77769
+      ]
+    }
+  },
+  "doing": "system quantifying",
+  "lastSaid": "If we parse the bandwidth, we can get to the AI capacitor through the mobile AI card!"
+}

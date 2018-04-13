@@ -1,0 +1,36 @@
+{
+  "name": "Miss Brisa Rodriguez",
+  "username": "Matilda_Leuschke43",
+  "email": "Emely_Bogan27@hotmail.com",
+  "address": {
+    "street": "Israel Loaf",
+    "suite": "Apt. 869",
+    "city": "Raoulport",
+    "zipcode": "77375-3825",
+    "geo": {
+      "lat": 67.8297,
+      "lng": 58.5875
+    }
+  },
+  "phone": "544-363-1449 x92355",
+  "website": "magdalena.com",
+  "company": {
+    "name": "Buckridge Group",
+    "catchPhrase": "Cloned bi-directional interface",
+    "bs": "innovative aggregate synergies"
+  },
+  "id": "c9c837e0-d128-43cb-b168-34953898d83a",
+  "testnumobjnums": {
+    "num1": 79557,
+    "num2": 44350,
+    "num3": 6154,
+    "deeper": {
+      "arr": [
+        99330,
+        24129,
+        11673
+      ]
+    }
+  },
+  "lastSaid": "visionary envisioneer action-items"
+}

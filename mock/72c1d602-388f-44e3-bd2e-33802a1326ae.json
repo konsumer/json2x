@@ -1,0 +1,36 @@
+{
+  "name": "Reginald Witting",
+  "username": "Annetta47",
+  "email": "Cicero.Murray75@hotmail.com",
+  "address": {
+    "street": "Gorczany Crossing",
+    "suite": "Apt. 228",
+    "city": "East Leonardbury",
+    "zipcode": "11537-3476",
+    "geo": {
+      "lat": 4.1064,
+      "lng": 176.2637
+    }
+  },
+  "phone": "570-289-0580 x637",
+  "website": "kody.com",
+  "company": {
+    "name": "Hauck, West and Bosco",
+    "catchPhrase": "Proactive bi-directional migration",
+    "bs": "sexy visualize eyeballs"
+  },
+  "id": "72c1d602-388f-44e3-bd2e-33802a1326ae",
+  "testnumobjnums": {
+    "num1": 79768,
+    "num2": 75017,
+    "num3": 15764.5,
+    "deeper": {
+      "arr": [
+        42744,
+        57120,
+        15918
+      ]
+    }
+  },
+  "lastSaid": "B2B redefine relationships"
+}

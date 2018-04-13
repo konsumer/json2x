@@ -1,0 +1,37 @@
+{
+  "name": "Roslyn Dach",
+  "username": "Aubree.Swaniawski",
+  "email": "Mattie16@hotmail.com",
+  "address": {
+    "street": "Hoeger Terrace",
+    "suite": "Suite 271",
+    "city": "South Veda",
+    "zipcode": "04423-2427",
+    "geo": {
+      "lat": -70.1564,
+      "lng": -66.5737
+    }
+  },
+  "phone": "122-501-4706",
+  "website": "euna.org",
+  "company": {
+    "name": "Rodriguez, Ratke and Buckridge",
+    "catchPhrase": "Optional disintermediate service-desk",
+    "bs": "transparent utilize eyeballs"
+  },
+  "id": "13284e11-154b-400a-a5a1-0c1f2bf7684f",
+  "testnumobjnums": {
+    "num1": 61654,
+    "num2": 42222,
+    "num3": 11967,
+    "deeper": {
+      "arr": [
+        36593,
+        40095,
+        92551
+      ]
+    }
+  },
+  "doing": "firewall programming",
+  "lastSaid": "I'll input the optical SCSI interface, that should capacitor the PCI hard drive!"
+}

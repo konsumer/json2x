@@ -1,0 +1,37 @@
+{
+  "name": "Manuela Olson",
+  "username": "Phoebe_Weber",
+  "email": "Leila_Quitzon39@hotmail.com",
+  "address": {
+    "street": "McLaughlin Hill",
+    "suite": "Suite 529",
+    "city": "Lake Jarenton",
+    "zipcode": "21079-0722",
+    "geo": {
+      "lat": -45.2127,
+      "lng": 140.6722
+    }
+  },
+  "phone": "(291) 335-5085 x1343",
+  "website": "kurtis.org",
+  "company": {
+    "name": "O'Reilly and Sons",
+    "catchPhrase": "Synergized didactic task-force",
+    "bs": "customized disintermediate models"
+  },
+  "id": "0a48b914-aa0a-46ee-8fad-4a6d9fbfd89f",
+  "testnumobjnums": {
+    "num1": 65211,
+    "num2": 98548,
+    "num3": 16622,
+    "deeper": {
+      "arr": [
+        17112,
+        55881,
+        54928
+      ]
+    }
+  },
+  "doing": "bus connecting",
+  "lastSaid": "I'll compress the redundant USB bandwidth, that should hard drive the THX alarm!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Sam Bergnaum",
+  "username": "Kiera.Durgan",
+  "email": "Brandi52@gmail.com",
+  "address": {
+    "street": "Buck Stravenue",
+    "suite": "Apt. 681",
+    "city": "Port Rosamondside",
+    "zipcode": "93779-7799",
+    "geo": {
+      "lat": -6.1067,
+      "lng": -96.3115
+    }
+  },
+  "phone": "1-349-615-8428 x0269",
+  "website": "reid.com",
+  "company": {
+    "name": "Trantow - Ratke",
+    "catchPhrase": "Balanced full-range website",
+    "bs": "magnetic syndicate methodologies"
+  },
+  "id": "ed28c6f7-e9a8-44be-846b-708f203c5b00",
+  "testnumobjnums": {
+    "num1": 56654,
+    "num2": 32521,
+    "num3": 16833,
+    "deeper": {
+      "arr": [
+        72133,
+        88757,
+        82212
+      ]
+    }
+  },
+  "doing": "pixel bypassing",
+  "lastSaid": "Try to reboot the HDD driver, maybe it will connect the 1080p microchip!"
+}

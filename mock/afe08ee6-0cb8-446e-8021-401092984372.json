@@ -1,0 +1,36 @@
+{
+  "name": "Favian Steuber",
+  "username": "Amelia17",
+  "email": "Triston82@yahoo.com",
+  "address": {
+    "street": "Lemke Flats",
+    "suite": "Apt. 939",
+    "city": "Port Cornell",
+    "zipcode": "68577-9103",
+    "geo": {
+      "lat": 78.9132,
+      "lng": -27.3782
+    }
+  },
+  "phone": "(983) 168-2690 x02915",
+  "website": "barry.org",
+  "company": {
+    "name": "Runolfsdottir - Hilpert",
+    "catchPhrase": "Cloned empowering internet solution",
+    "bs": "collaborative visualize niches"
+  },
+  "id": "afe08ee6-0cb8-446e-8021-401092984372",
+  "testnumobjnums": {
+    "num1": 57170,
+    "num2": 71254,
+    "num3": 22517.5,
+    "deeper": {
+      "arr": [
+        60519,
+        28932,
+        5272
+      ]
+    }
+  },
+  "lastSaid": "frictionless productize e-business"
+}

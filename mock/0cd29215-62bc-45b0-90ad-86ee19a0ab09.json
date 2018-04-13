@@ -1,0 +1,36 @@
+{
+  "name": "Jarrod Breitenberg",
+  "username": "Carmen.Bartoletti63",
+  "email": "Dorothy_Koelpin48@yahoo.com",
+  "address": {
+    "street": "Herzog Village",
+    "suite": "Suite 090",
+    "city": "Hintzberg",
+    "zipcode": "80997-8564",
+    "geo": {
+      "lat": -58.7424,
+      "lng": -72.0234
+    }
+  },
+  "phone": "225-994-5981 x7738",
+  "website": "shaylee.org",
+  "company": {
+    "name": "Nikolaus, Windler and Bednar",
+    "catchPhrase": "Re-engineered 4th generation parallelism",
+    "bs": "cross-platform reintermediate interfaces"
+  },
+  "id": "0cd29215-62bc-45b0-90ad-86ee19a0ab09",
+  "testnumobjnums": {
+    "num1": 74096,
+    "num2": 37,
+    "num3": 33684,
+    "deeper": {
+      "arr": [
+        73311,
+        25943,
+        36991
+      ]
+    }
+  },
+  "lastSaid": "e-business recontextualize partnerships"
+}

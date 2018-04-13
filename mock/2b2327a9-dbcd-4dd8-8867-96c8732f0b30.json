@@ -1,0 +1,36 @@
+{
+  "name": "Eva Jacobi",
+  "username": "Lucy.Ebert49",
+  "email": "Amaya67@hotmail.com",
+  "address": {
+    "street": "Monahan Circle",
+    "suite": "Apt. 011",
+    "city": "Lukastown",
+    "zipcode": "68988",
+    "geo": {
+      "lat": 13.6159,
+      "lng": -27.1426
+    }
+  },
+  "phone": "950-230-3806",
+  "website": "marlin.info",
+  "company": {
+    "name": "Waelchi - Gutmann",
+    "catchPhrase": "Horizontal content-based software",
+    "bs": "cutting-edge incentivize relationships"
+  },
+  "id": "2b2327a9-dbcd-4dd8-8867-96c8732f0b30",
+  "testnumobjnums": {
+    "num1": 86420,
+    "num2": 28127,
+    "num3": 32433,
+    "deeper": {
+      "arr": [
+        59371,
+        55467,
+        97128
+      ]
+    }
+  },
+  "lastSaid": "enterprise orchestrate bandwidth"
+}

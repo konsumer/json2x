@@ -1,0 +1,36 @@
+{
+  "name": "Jett Hahn",
+  "username": "Erin.Medhurst20",
+  "email": "Odessa_Greenfelder29@gmail.com",
+  "address": {
+    "street": "Cole Terrace",
+    "suite": "Apt. 658",
+    "city": "Lake Evalynmouth",
+    "zipcode": "71937-7458",
+    "geo": {
+      "lat": -68.7615,
+      "lng": 56.3862
+    }
+  },
+  "phone": "985-604-3385 x48867",
+  "website": "natalie.name",
+  "company": {
+    "name": "Padberg, Weimann and Volkman",
+    "catchPhrase": "Virtual leading edge parallelism",
+    "bs": "proactive harness action-items"
+  },
+  "id": "f8197e75-57e3-4a8a-8425-859fa234697d",
+  "testnumobjnums": {
+    "num1": 7478,
+    "num2": 74032,
+    "num3": 22995,
+    "deeper": {
+      "arr": [
+        56089,
+        92604,
+        86618
+      ]
+    }
+  },
+  "lastSaid": "innovative benchmark infrastructures"
+}

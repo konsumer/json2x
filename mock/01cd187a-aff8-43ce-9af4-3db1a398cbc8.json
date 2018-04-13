@@ -1,0 +1,37 @@
+{
+  "name": "Etha Waters",
+  "username": "Kylie24",
+  "email": "Darion.Sauer40@yahoo.com",
+  "address": {
+    "street": "Muriel Spur",
+    "suite": "Apt. 411",
+    "city": "Nedrahaven",
+    "zipcode": "23165-9968",
+    "geo": {
+      "lat": 67.9726,
+      "lng": -94.009
+    }
+  },
+  "phone": "095-892-0486",
+  "website": "hayley.info",
+  "company": {
+    "name": "Lubowitz, Harvey and Schulist",
+    "catchPhrase": "Pre-emptive discrete groupware",
+    "bs": "extensible seize networks"
+  },
+  "id": "01cd187a-aff8-43ce-9af4-3db1a398cbc8",
+  "testnumobjnums": {
+    "num1": 41173,
+    "num2": 58002,
+    "num3": 47052,
+    "deeper": {
+      "arr": [
+        78393,
+        18074,
+        96819
+      ]
+    }
+  },
+  "doing": "alarm programming",
+  "lastSaid": "We need to generate the virtual RSS capacitor!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Ashlee Morissette",
+  "username": "Felipe.Kovacek51",
+  "email": "Shannon17@gmail.com",
+  "address": {
+    "street": "Erdman Mission",
+    "suite": "Suite 216",
+    "city": "Lake Rafael",
+    "zipcode": "26058",
+    "geo": {
+      "lat": 47.7759,
+      "lng": 28.5486
+    }
+  },
+  "phone": "274-378-5375 x54783",
+  "website": "lisette.name",
+  "company": {
+    "name": "Anderson Group",
+    "catchPhrase": "User-friendly coherent secured line",
+    "bs": "real-time integrate mindshare"
+  },
+  "id": "c3fc4876-2d45-4758-a2f7-08d012a50d3b",
+  "testnumobjnums": {
+    "num1": 96662,
+    "num2": 1795,
+    "num3": 2666.5,
+    "deeper": {
+      "arr": [
+        60217,
+        67020,
+        80740
+      ]
+    }
+  },
+  "doing": "alarm generating",
+  "lastSaid": "If we program the sensor, we can get to the TCP capacitor through the back-end JSON pixel!"
+}

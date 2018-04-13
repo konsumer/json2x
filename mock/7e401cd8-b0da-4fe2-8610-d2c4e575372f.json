@@ -1,0 +1,37 @@
+{
+  "name": "Bill Casper IV",
+  "username": "Aron_Kreiger",
+  "email": "Zackary.Ullrich12@gmail.com",
+  "address": {
+    "street": "Yundt Center",
+    "suite": "Suite 152",
+    "city": "Balistreristad",
+    "zipcode": "55314",
+    "geo": {
+      "lat": -68.019,
+      "lng": 53.209
+    }
+  },
+  "phone": "243-859-1318 x7994",
+  "website": "elvera.net",
+  "company": {
+    "name": "Schoen LLC",
+    "catchPhrase": "Inverse didactic structure",
+    "bs": "front-end integrate vortals"
+  },
+  "id": "7e401cd8-b0da-4fe2-8610-d2c4e575372f",
+  "testnumobjnums": {
+    "num1": 90008,
+    "num2": 19610,
+    "num3": 27464.5,
+    "deeper": {
+      "arr": [
+        478,
+        38983,
+        95235
+      ]
+    }
+  },
+  "doing": "feed indexing",
+  "lastSaid": "You can't copy the array without connecting the open-source IB transmitter!"
+}

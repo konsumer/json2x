@@ -1,0 +1,37 @@
+{
+  "name": "Kyla Hintz",
+  "username": "Makenzie_Collins",
+  "email": "Wilbert.Swift@hotmail.com",
+  "address": {
+    "street": "Metz Meadow",
+    "suite": "Suite 700",
+    "city": "South Delpha",
+    "zipcode": "69381-0623",
+    "geo": {
+      "lat": -51.9791,
+      "lng": -66.0063
+    }
+  },
+  "phone": "(469) 899-3065 x04576",
+  "website": "aron.com",
+  "company": {
+    "name": "Schinner and Sons",
+    "catchPhrase": "Right-sized empowering application",
+    "bs": "plug-and-play matrix initiatives"
+  },
+  "id": "191d7b92-aaae-466d-a3b4-f1472ab95f06",
+  "testnumobjnums": {
+    "num1": 9898,
+    "num2": 56992,
+    "num3": 2196.5,
+    "deeper": {
+      "arr": [
+        61425,
+        52075,
+        31569
+      ]
+    }
+  },
+  "doing": "alarm copying",
+  "lastSaid": "Try to transmit the XML port, maybe it will calculate the primary capacitor!"
+}

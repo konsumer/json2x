@@ -1,0 +1,36 @@
+{
+  "name": "Yazmin Jacobson",
+  "username": "Kory.Zemlak30",
+  "email": "Blake.Hayes1@hotmail.com",
+  "address": {
+    "street": "Paucek Freeway",
+    "suite": "Suite 494",
+    "city": "Port Jonathan",
+    "zipcode": "99558-3207",
+    "geo": {
+      "lat": 58.6821,
+      "lng": 66.9539
+    }
+  },
+  "phone": "1-753-899-8208 x82250",
+  "website": "gabe.org",
+  "company": {
+    "name": "Cummings - Durgan",
+    "catchPhrase": "Innovative bandwidth-monitored toolset",
+    "bs": "next-generation unleash paradigms"
+  },
+  "id": "34da61c5-0f60-4310-85e3-0603fe114a72",
+  "testnumobjnums": {
+    "num1": 17172,
+    "num2": 65816,
+    "num3": 43703,
+    "deeper": {
+      "arr": [
+        88373,
+        37635,
+        63578
+      ]
+    }
+  },
+  "lastSaid": "interactive productize supply-chains"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Penelope Mueller",
+  "username": "Krystina_Farrell56",
+  "email": "Adell.Williamson90@yahoo.com",
+  "address": {
+    "street": "Bo Inlet",
+    "suite": "Apt. 392",
+    "city": "Lakinshire",
+    "zipcode": "26539",
+    "geo": {
+      "lat": 8.9718,
+      "lng": -14.2419
+    }
+  },
+  "phone": "736-613-2204 x1873",
+  "website": "kitty.name",
+  "company": {
+    "name": "Leffler, Bernier and Koch",
+    "catchPhrase": "Down-sized systemic solution",
+    "bs": "best-of-breed transition e-markets"
+  },
+  "id": "36d57497-12e7-4414-b370-a5ab80cafba0",
+  "testnumobjnums": {
+    "num1": 77384,
+    "num2": 95980,
+    "num3": 22012.5,
+    "deeper": {
+      "arr": [
+        77562,
+        39970,
+        93151
+      ]
+    }
+  },
+  "doing": "driver overriding",
+  "lastSaid": "parsing the interface won't do anything, we need to override the bluetooth SDD bandwidth!"
+}

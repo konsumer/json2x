@@ -1,0 +1,37 @@
+{
+  "name": "Mateo Anderson DDS",
+  "username": "Grant91",
+  "email": "Reynold.Willms@yahoo.com",
+  "address": {
+    "street": "Jonatan Underpass",
+    "suite": "Apt. 419",
+    "city": "Murrayton",
+    "zipcode": "38696-1783",
+    "geo": {
+      "lat": -37.7916,
+      "lng": -38.2058
+    }
+  },
+  "phone": "(492) 565-0947 x72360",
+  "website": "kaycee.com",
+  "company": {
+    "name": "Hermann Inc",
+    "catchPhrase": "Synchronised 3rd generation intranet",
+    "bs": "sexy utilize paradigms"
+  },
+  "id": "1170fdc1-892c-4260-9e1b-447d5e189baa",
+  "testnumobjnums": {
+    "num1": 7350,
+    "num2": 72352,
+    "num3": 16585,
+    "deeper": {
+      "arr": [
+        8422,
+        64956,
+        32879
+      ]
+    }
+  },
+  "doing": "program generating",
+  "lastSaid": "Try to navigate the SCSI firewall, maybe it will synthesize the bluetooth bandwidth!"
+}
