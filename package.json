@@ -1,7 +1,7 @@
 {
   "name": "json2x",
   "version": "0.0.0",
-  "description": "Convert some JSON into other things",
+  "description": "Use your JSON data to generate models for various things",
   "main": "index.js",
   "keywords":["json", "tool", "schema", "protobuf", "jsonschema", "swagger", "graphql"],
   "scripts": {

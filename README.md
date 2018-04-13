@@ -1,6 +1,6 @@
 # work in progress
 
-Convert some JSON into other things.
+Use your JSON data to generate models for various things.
 
 I often have a bunch of JSON mock that I need to get models for some other system from. This is a framework to generate all of the following:
 
