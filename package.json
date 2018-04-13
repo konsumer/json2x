@@ -1,0 +1,20 @@
+{
+  "name": "json2x",
+  "version": "0.0.0",
+  "description": "Convert some JSON into other things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konsumer/json2x.git"
+  },
+  "keywords": [],
+  "author": "David Konsumer <konsumer@jetboystudio.com> (http://konsumer.js.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/konsumer/json2x/issues"
+  },
+  "homepage": "https://github.com/konsumer/json2x#readme"
+}
