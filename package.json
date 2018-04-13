@@ -3,12 +3,23 @@
   "version": "0.0.0",
   "description": "Use your JSON data to generate models for various things",
   "main": "index.js",
-  "keywords":["json", "tool", "schema", "protobuf", "jsonschema", "swagger", "graphql"],
+  "keywords": [
+    "json",
+    "tool",
+    "schema",
+    "protobuf",
+    "jsonschema",
+    "swagger",
+    "graphql"
+  ],
   "scripts": {
     "build": "babel src -d build",
     "prepublish": "npm run build"
   },
-  "files":[
+  "bin": {
+    "json2x": "build/json2x.js"
+  },
+  "files": [
     "build/"
   ],
   "repository": {
@@ -22,11 +33,14 @@
   },
   "homepage": "https://github.com/konsumer/json2x#readme",
   "dependencies": {
+    "glob-require": "0.0.2",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.6.1",
-    "babel-preset-stage-3": "^6.24.1",
-    "yargs": "^11.0.0"
+    "babel-preset-stage-3": "^6.24.1"
   },
   "babel": {
     "presets": [
