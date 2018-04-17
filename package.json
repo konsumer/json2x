@@ -18,7 +18,7 @@
     "mock": "babel-node src/mock.js"
   },
   "bin": {
-    "json2x": "build/json2x"
+    "json2x": "build/json2x.js"
   },
   "files": [
     "build/index.js",
@@ -51,6 +51,9 @@
     "presets": [
       "env",
       "stage-3"
+    ],
+    "plugins": [
+      "shebang"
     ]
   }
 }
