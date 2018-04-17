@@ -1,6 +1,6 @@
 {
   "name": "json2x",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Use your JSON data to generate models for various things",
   "main": "build/index.js",
   "keywords": [
