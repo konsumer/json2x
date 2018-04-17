@@ -14,7 +14,7 @@ import { helpers, random, hacker, company } from 'faker'
     num2: random.number(),
     num3: random.number() * 0.5,
     deeper: {
-      arr: [random.number(), random.number(), random.number()]
+      arr: [random.number(), random.number(), random.number(), random.number() * 0.5]
     }
   }
 

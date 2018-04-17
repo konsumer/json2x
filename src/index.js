@@ -1,21 +1,23 @@
-export const allArraySame = obj => {
+const allArraySame = obj => {
   for (var i = 1; i < obj.length; i++) {
     if (obj[i] !== obj[0]) return false
   }
   return true
 }
 
-export const betterType = obj => ({}).toString.call(obj).split(' ')[1].slice(0, -1).toLowerCase()
+const betterType = obj => ({}).toString.call(obj).split(' ')[1].slice(0, -1).toLowerCase()
 
-export const getBestType = value => {
+const isFloat = n => n === +n && n !== (n | 0)
+
+const getBestType = value => {
   const t = betterType(value)
   switch (t) {
     case 'object': return Array.isArray(value) ? 'array' : 'object'
     case 'number':
-      if (parseInt(value) === value) {
-        return 'int'
-      } else {
+      if (isFloat(value)) {
         return 'float'
+      } else {
+        return 'int'
       }
     default: return t
   }
@@ -42,7 +44,7 @@ const getAverageType = values => getAverageFromTypes(values.map(getBestType))
  * @param  object data An Object filled with similar objects
  * @return object      Type info
  */
-export const getTypes = data => {
+const getTypes = data => {
   const fields = {}
   const out = {}
   const objs = {}
@@ -78,4 +80,4 @@ export const getTypes = data => {
   return out
 }
 
-module.exports = { getTypes }
+module.exports = { allArraySame, getBestType, getAverageType, getTypes }
