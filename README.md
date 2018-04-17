@@ -1,4 +1,4 @@
-# work in progress
+# json2x
 
 Use your JSON data to generate models for various things.
 
