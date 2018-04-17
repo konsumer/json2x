@@ -35,6 +35,7 @@
   },
   "homepage": "https://github.com/konsumer/json2x#readme",
   "dependencies": {
+    "babel-plugin-shebang": "0.0.0",
     "capitalize": "^1.0.0",
     "glob-require": "0.0.2",
     "json-schema-generator": "^2.0.6",
