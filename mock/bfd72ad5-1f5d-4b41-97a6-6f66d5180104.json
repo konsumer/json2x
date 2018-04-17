@@ -1,0 +1,38 @@
+{
+  "name": "Erich Bode",
+  "username": "Abigayle_Hagenes",
+  "email": "Justina.Walter@yahoo.com",
+  "address": {
+    "street": "Lind Extensions",
+    "suite": "Apt. 650",
+    "city": "Port Bulahfort",
+    "zipcode": "94449",
+    "geo": {
+      "lat": 17.0072,
+      "lng": 142.3352
+    }
+  },
+  "phone": "312-891-3602",
+  "website": "dennis.org",
+  "company": {
+    "name": "Rolfson, Schowalter and Runolfsdottir",
+    "catchPhrase": "Re-contextualized bottom-line structure",
+    "bs": "intuitive envisioneer systems"
+  },
+  "id": "bfd72ad5-1f5d-4b41-97a6-6f66d5180104",
+  "testnumobjnums": {
+    "num1": 94036,
+    "num2": 18770,
+    "num3": 19934.5,
+    "deeper": {
+      "arr": [
+        84739,
+        92491,
+        98755,
+        17789
+      ]
+    }
+  },
+  "doing": "program parsing",
+  "lastSaid": "We need to calculate the bluetooth XSS sensor!"
+}

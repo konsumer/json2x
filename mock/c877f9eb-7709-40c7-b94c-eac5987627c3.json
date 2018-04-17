@@ -1,0 +1,38 @@
+{
+  "name": "Gwendolyn Schumm",
+  "username": "Karley.Leannon",
+  "email": "Cathryn.Marks31@yahoo.com",
+  "address": {
+    "street": "Kilback Flats",
+    "suite": "Apt. 598",
+    "city": "Lake Zacheryville",
+    "zipcode": "07863",
+    "geo": {
+      "lat": 18.6871,
+      "lng": 86.5945
+    }
+  },
+  "phone": "1-983-325-3237 x67829",
+  "website": "eva.name",
+  "company": {
+    "name": "Kuhlman Group",
+    "catchPhrase": "Intuitive hybrid definition",
+    "bs": "revolutionary reinvent eyeballs"
+  },
+  "id": "c877f9eb-7709-40c7-b94c-eac5987627c3",
+  "testnumobjnums": {
+    "num1": 4696,
+    "num2": 88304,
+    "num3": 29093.5,
+    "deeper": {
+      "arr": [
+        22357,
+        35590,
+        91246,
+        7491
+      ]
+    }
+  },
+  "doing": "pixel programming",
+  "lastSaid": "We need to copy the redundant FTP hard drive!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Mr. Sophia Eichmann",
+  "username": "Ashleigh_Reynolds0",
+  "email": "Reuben_Bailey@hotmail.com",
+  "address": {
+    "street": "Milton Forges",
+    "suite": "Apt. 119",
+    "city": "Goyetteton",
+    "zipcode": "08430-8327",
+    "geo": {
+      "lat": 70.6632,
+      "lng": 147.7147
+    }
+  },
+  "phone": "1-567-783-3676 x95397",
+  "website": "jannie.info",
+  "company": {
+    "name": "Abbott Inc",
+    "catchPhrase": "Programmable maximized middleware",
+    "bs": "real-time enable technologies"
+  },
+  "id": "2457d911-fef8-40cc-b093-5f057068907e",
+  "testnumobjnums": {
+    "num1": 20260,
+    "num2": 91532,
+    "num3": 12811,
+    "deeper": {
+      "arr": [
+        96820,
+        22308,
+        48616,
+        15998.5
+      ]
+    }
+  },
+  "lastSaid": "cross-media integrate models"
+}

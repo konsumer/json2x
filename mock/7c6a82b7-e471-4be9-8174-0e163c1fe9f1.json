@@ -1,0 +1,38 @@
+{
+  "name": "Dulce Reynolds",
+  "username": "Brionna19",
+  "email": "Lafayette_Lemke93@hotmail.com",
+  "address": {
+    "street": "Conn Corner",
+    "suite": "Apt. 608",
+    "city": "Lake Addisonberg",
+    "zipcode": "02725",
+    "geo": {
+      "lat": 27.0479,
+      "lng": 145.8684
+    }
+  },
+  "phone": "686-631-7400",
+  "website": "demarco.biz",
+  "company": {
+    "name": "O'Reilly - Gorczany",
+    "catchPhrase": "Function-based well-modulated portal",
+    "bs": "sticky repurpose eyeballs"
+  },
+  "id": "7c6a82b7-e471-4be9-8174-0e163c1fe9f1",
+  "testnumobjnums": {
+    "num1": 37119,
+    "num2": 34309,
+    "num3": 922.5,
+    "deeper": {
+      "arr": [
+        67488,
+        77572,
+        69210,
+        29688
+      ]
+    }
+  },
+  "doing": "system generating",
+  "lastSaid": "The SAS feed is down, hack the mobile capacitor so we can calculate the RSS driver!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Pauline Glover",
+  "username": "Micheal82",
+  "email": "Glen45@hotmail.com",
+  "address": {
+    "street": "Wintheiser Fords",
+    "suite": "Suite 044",
+    "city": "Nikitashire",
+    "zipcode": "82645-7355",
+    "geo": {
+      "lat": -12.173,
+      "lng": 86.7019
+    }
+  },
+  "phone": "(473) 763-6662 x5936",
+  "website": "darlene.biz",
+  "company": {
+    "name": "Ondricka, Bogisich and Murazik",
+    "catchPhrase": "Inverse executive secured line",
+    "bs": "leading-edge expedite users"
+  },
+  "id": "138ddab5-7366-475f-ae7a-ff7a67e7dd9a",
+  "testnumobjnums": {
+    "num1": 84146,
+    "num2": 80894,
+    "num3": 1232.5,
+    "deeper": {
+      "arr": [
+        22237,
+        4145,
+        8956,
+        25769.5
+      ]
+    }
+  },
+  "lastSaid": "frictionless cultivate relationships"
+}

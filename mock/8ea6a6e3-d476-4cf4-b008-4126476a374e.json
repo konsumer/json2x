@@ -1,0 +1,38 @@
+{
+  "name": "Marco Stehr",
+  "username": "Donald15",
+  "email": "Dorian_Lockman@yahoo.com",
+  "address": {
+    "street": "Harvey Light",
+    "suite": "Apt. 203",
+    "city": "Tryciamouth",
+    "zipcode": "10489",
+    "geo": {
+      "lat": -63.1915,
+      "lng": -19.7087
+    }
+  },
+  "phone": "430.428.3382 x4010",
+  "website": "tanya.info",
+  "company": {
+    "name": "Olson - Keeling",
+    "catchPhrase": "Advanced dynamic matrix",
+    "bs": "web-enabled reintermediate vortals"
+  },
+  "id": "8ea6a6e3-d476-4cf4-b008-4126476a374e",
+  "testnumobjnums": {
+    "num1": 96314,
+    "num2": 76974,
+    "num3": 4495.5,
+    "deeper": {
+      "arr": [
+        74244,
+        24302,
+        22421,
+        2721
+      ]
+    }
+  },
+  "doing": "panel compressing",
+  "lastSaid": "Use the wireless JSON program, then you can parse the open-source feed!"
+}

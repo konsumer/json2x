@@ -1,0 +1,38 @@
+{
+  "name": "Darryl Crist",
+  "username": "Collin_Maggio96",
+  "email": "Kenya13@gmail.com",
+  "address": {
+    "street": "Morar Motorway",
+    "suite": "Apt. 412",
+    "city": "South Lance",
+    "zipcode": "66505-1259",
+    "geo": {
+      "lat": 18.8646,
+      "lng": -75.4449
+    }
+  },
+  "phone": "663.696.4709 x744",
+  "website": "caleb.biz",
+  "company": {
+    "name": "Welch - Satterfield",
+    "catchPhrase": "Digitized disintermediate collaboration",
+    "bs": "best-of-breed unleash solutions"
+  },
+  "id": "bbfcabb8-04b8-4bb9-8635-d6038e2861e1",
+  "testnumobjnums": {
+    "num1": 89815,
+    "num2": 26832,
+    "num3": 20251.5,
+    "deeper": {
+      "arr": [
+        66817,
+        72262,
+        56619,
+        31722
+      ]
+    }
+  },
+  "doing": "port navigating",
+  "lastSaid": "I'll program the redundant THX application, that should alarm the PCI circuit!"
+}

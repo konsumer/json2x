@@ -1,0 +1,38 @@
+{
+  "name": "Abraham Kuhlman",
+  "username": "Terrill.Erdman95",
+  "email": "Mohammed.Bartoletti46@hotmail.com",
+  "address": {
+    "street": "Luettgen Orchard",
+    "suite": "Suite 935",
+    "city": "McKenzieville",
+    "zipcode": "76998-1449",
+    "geo": {
+      "lat": -85.2889,
+      "lng": 73.7183
+    }
+  },
+  "phone": "1-516-353-2474",
+  "website": "henri.com",
+  "company": {
+    "name": "Sipes, Bashirian and Torp",
+    "catchPhrase": "Upgradable 4th generation time-frame",
+    "bs": "interactive architect e-services"
+  },
+  "id": "2a650adb-82f3-4faf-9ce1-4bdd10ce4e3b",
+  "testnumobjnums": {
+    "num1": 48213,
+    "num2": 6828,
+    "num3": 4216,
+    "deeper": {
+      "arr": [
+        36076,
+        56437,
+        62059,
+        29671.5
+      ]
+    }
+  },
+  "doing": "matrix overriding",
+  "lastSaid": "navigating the capacitor won't do anything, we need to hack the cross-platform GB alarm!"
+}

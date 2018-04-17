@@ -1,0 +1,38 @@
+{
+  "name": "Tania Lakin",
+  "username": "Gregorio34",
+  "email": "Oceane.Hegmann@hotmail.com",
+  "address": {
+    "street": "Taylor Ways",
+    "suite": "Apt. 180",
+    "city": "Lamontville",
+    "zipcode": "62866",
+    "geo": {
+      "lat": 23.8533,
+      "lng": -83.9975
+    }
+  },
+  "phone": "988.723.9424 x9992",
+  "website": "flossie.com",
+  "company": {
+    "name": "Hoeger Inc",
+    "catchPhrase": "Integrated maximized portal",
+    "bs": "sexy enable channels"
+  },
+  "id": "f55507ad-712c-4b93-b976-d07f87f618df",
+  "testnumobjnums": {
+    "num1": 72731,
+    "num2": 36844,
+    "num3": 19883.5,
+    "deeper": {
+      "arr": [
+        88966,
+        32375,
+        15687,
+        18806.5
+      ]
+    }
+  },
+  "doing": "port hacking",
+  "lastSaid": "I'll generate the solid state SMS firewall, that should system the XSS capacitor!"
+}

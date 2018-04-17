@@ -1,0 +1,37 @@
+{
+  "name": "Dr. Reece Bode",
+  "username": "Carey.Connelly62",
+  "email": "Gwendolyn10@hotmail.com",
+  "address": {
+    "street": "Ondricka Flats",
+    "suite": "Apt. 589",
+    "city": "West Blairton",
+    "zipcode": "44568-9677",
+    "geo": {
+      "lat": -19.0714,
+      "lng": -108.3732
+    }
+  },
+  "phone": "(376) 824-1598 x269",
+  "website": "luna.info",
+  "company": {
+    "name": "Schroeder, Crona and Wisozk",
+    "catchPhrase": "Streamlined local application",
+    "bs": "value-added seize architectures"
+  },
+  "id": "ebb64202-9950-4238-af76-79c1c2420cb6",
+  "testnumobjnums": {
+    "num1": 74217,
+    "num2": 38892,
+    "num3": 42542.5,
+    "deeper": {
+      "arr": [
+        72357,
+        44477,
+        79984,
+        599
+      ]
+    }
+  },
+  "lastSaid": "mission-critical reinvent e-markets"
+}

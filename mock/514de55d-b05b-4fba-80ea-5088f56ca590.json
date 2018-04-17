@@ -1,0 +1,37 @@
+{
+  "name": "Jacey Gutkowski",
+  "username": "Lorenza61",
+  "email": "Mathilde.Wilkinson@hotmail.com",
+  "address": {
+    "street": "Royce Pike",
+    "suite": "Apt. 243",
+    "city": "Waelchistad",
+    "zipcode": "32064-8049",
+    "geo": {
+      "lat": -33.4169,
+      "lng": -101.324
+    }
+  },
+  "phone": "1-471-107-1243 x71075",
+  "website": "jonatan.biz",
+  "company": {
+    "name": "Lehner, O'Connell and Jerde",
+    "catchPhrase": "Networked fault-tolerant collaboration",
+    "bs": "holistic expedite markets"
+  },
+  "id": "514de55d-b05b-4fba-80ea-5088f56ca590",
+  "testnumobjnums": {
+    "num1": 46554,
+    "num2": 88939,
+    "num3": 32274.5,
+    "deeper": {
+      "arr": [
+        54875,
+        10637,
+        32420,
+        20302.5
+      ]
+    }
+  },
+  "lastSaid": "distributed harness partnerships"
+}

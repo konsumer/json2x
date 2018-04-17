@@ -1,0 +1,37 @@
+{
+  "name": "Brandi Parker",
+  "username": "Tyler_Huel",
+  "email": "Elton59@hotmail.com",
+  "address": {
+    "street": "Tressie Land",
+    "suite": "Suite 498",
+    "city": "North Timmymouth",
+    "zipcode": "75166",
+    "geo": {
+      "lat": 62.3406,
+      "lng": -4.8643
+    }
+  },
+  "phone": "559-727-0535",
+  "website": "andy.info",
+  "company": {
+    "name": "Volkman LLC",
+    "catchPhrase": "Open-architected real-time contingency",
+    "bs": "robust repurpose deliverables"
+  },
+  "id": "101f2f6a-24e0-48bb-96ac-1b7f19d102e1",
+  "testnumobjnums": {
+    "num1": 74799,
+    "num2": 46253,
+    "num3": 20116,
+    "deeper": {
+      "arr": [
+        2872,
+        7647,
+        59863,
+        20285.5
+      ]
+    }
+  },
+  "lastSaid": "integrated reintermediate metrics"
+}

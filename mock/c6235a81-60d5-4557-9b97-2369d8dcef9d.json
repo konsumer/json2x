@@ -1,0 +1,38 @@
+{
+  "name": "Chasity Funk",
+  "username": "Rhett73",
+  "email": "Arnaldo86@hotmail.com",
+  "address": {
+    "street": "Kassulke Port",
+    "suite": "Apt. 501",
+    "city": "Walkerview",
+    "zipcode": "46062",
+    "geo": {
+      "lat": -70.5673,
+      "lng": -15.9992
+    }
+  },
+  "phone": "(729) 523-2905 x61715",
+  "website": "blaze.info",
+  "company": {
+    "name": "Larson, Adams and Lowe",
+    "catchPhrase": "Multi-tiered impactful initiative",
+    "bs": "dot-com harness technologies"
+  },
+  "id": "c6235a81-60d5-4557-9b97-2369d8dcef9d",
+  "testnumobjnums": {
+    "num1": 20259,
+    "num2": 71023,
+    "num3": 46084.5,
+    "deeper": {
+      "arr": [
+        22446,
+        63819,
+        6813,
+        2796
+      ]
+    }
+  },
+  "doing": "monitor calculating",
+  "lastSaid": "You can't calculate the bandwidth without copying the multi-byte SCSI system!"
+}

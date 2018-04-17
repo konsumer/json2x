@@ -1,0 +1,38 @@
+{
+  "name": "Maeve Stanton",
+  "username": "Jorge28",
+  "email": "Buddy7@gmail.com",
+  "address": {
+    "street": "Spinka Spur",
+    "suite": "Suite 419",
+    "city": "New Edison",
+    "zipcode": "30934",
+    "geo": {
+      "lat": -62.9014,
+      "lng": -39.2202
+    }
+  },
+  "phone": "796.828.6756 x85409",
+  "website": "chance.org",
+  "company": {
+    "name": "Gottlieb and Sons",
+    "catchPhrase": "Programmable context-sensitive artificial intelligence",
+    "bs": "open-source target infomediaries"
+  },
+  "id": "20734e1c-8b4e-4b7a-8bb7-25d960c2a694",
+  "testnumobjnums": {
+    "num1": 39483,
+    "num2": 93930,
+    "num3": 49607.5,
+    "deeper": {
+      "arr": [
+        73144,
+        98527,
+        36675,
+        44642.5
+      ]
+    }
+  },
+  "doing": "transmitter bypassing",
+  "lastSaid": "The CSS firewall is down, reboot the neural array so we can compress the SCSI application!"
+}

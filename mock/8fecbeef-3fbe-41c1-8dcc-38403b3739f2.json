@@ -1,0 +1,37 @@
+{
+  "name": "Danial Fadel",
+  "username": "Osborne10",
+  "email": "Anibal80@gmail.com",
+  "address": {
+    "street": "Paucek Valleys",
+    "suite": "Suite 425",
+    "city": "North Elbert",
+    "zipcode": "30431",
+    "geo": {
+      "lat": -24.8844,
+      "lng": -136.5095
+    }
+  },
+  "phone": "1-244-124-1462",
+  "website": "favian.net",
+  "company": {
+    "name": "Abbott, Goyette and Bayer",
+    "catchPhrase": "Quality-focused bi-directional open system",
+    "bs": "open-source reintermediate technologies"
+  },
+  "id": "8fecbeef-3fbe-41c1-8dcc-38403b3739f2",
+  "testnumobjnums": {
+    "num1": 17927,
+    "num2": 334,
+    "num3": 45228.5,
+    "deeper": {
+      "arr": [
+        74586,
+        53760,
+        23318,
+        32028
+      ]
+    }
+  },
+  "lastSaid": "vertical revolutionize initiatives"
+}

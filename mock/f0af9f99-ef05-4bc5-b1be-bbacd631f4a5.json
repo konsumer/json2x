@@ -1,0 +1,37 @@
+{
+  "name": "Stanley Bechtelar",
+  "username": "Gene_Sipes",
+  "email": "Ricky46@yahoo.com",
+  "address": {
+    "street": "Ulises Roads",
+    "suite": "Apt. 303",
+    "city": "South Anjali",
+    "zipcode": "81607",
+    "geo": {
+      "lat": -1.1564,
+      "lng": 115.1322
+    }
+  },
+  "phone": "985.769.2817 x4734",
+  "website": "madisen.org",
+  "company": {
+    "name": "Jacobi Group",
+    "catchPhrase": "User-friendly even-keeled open system",
+    "bs": "vertical unleash metrics"
+  },
+  "id": "f0af9f99-ef05-4bc5-b1be-bbacd631f4a5",
+  "testnumobjnums": {
+    "num1": 5149,
+    "num2": 75486,
+    "num3": 43071,
+    "deeper": {
+      "arr": [
+        28750,
+        61822,
+        29458,
+        48969
+      ]
+    }
+  },
+  "lastSaid": "world-class reinvent initiatives"
+}

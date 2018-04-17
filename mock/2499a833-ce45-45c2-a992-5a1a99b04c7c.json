@@ -1,0 +1,37 @@
+{
+  "name": "Jarrod Kling",
+  "username": "Viviane94",
+  "email": "Jane66@hotmail.com",
+  "address": {
+    "street": "Kyle Manors",
+    "suite": "Suite 233",
+    "city": "Quitzontown",
+    "zipcode": "35098",
+    "geo": {
+      "lat": 1.0034,
+      "lng": 85.7712
+    }
+  },
+  "phone": "1-702-087-0794",
+  "website": "anastacio.name",
+  "company": {
+    "name": "Mitchell and Sons",
+    "catchPhrase": "Optional secondary hardware",
+    "bs": "killer morph e-business"
+  },
+  "id": "2499a833-ce45-45c2-a992-5a1a99b04c7c",
+  "testnumobjnums": {
+    "num1": 86032,
+    "num2": 82184,
+    "num3": 2022,
+    "deeper": {
+      "arr": [
+        14649,
+        25124,
+        47520,
+        877.5
+      ]
+    }
+  },
+  "lastSaid": "next-generation evolve action-items"
+}

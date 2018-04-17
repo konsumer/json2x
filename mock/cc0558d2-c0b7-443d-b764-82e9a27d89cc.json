@@ -1,0 +1,38 @@
+{
+  "name": "Mireya Lebsack",
+  "username": "Ramiro24",
+  "email": "Joel.Senger@yahoo.com",
+  "address": {
+    "street": "Dickens Roads",
+    "suite": "Apt. 260",
+    "city": "South Tyrese",
+    "zipcode": "60248-7395",
+    "geo": {
+      "lat": 68.996,
+      "lng": 47.7183
+    }
+  },
+  "phone": "939-070-7140 x38229",
+  "website": "beth.org",
+  "company": {
+    "name": "Wisoky Group",
+    "catchPhrase": "Object-based 6th generation policy",
+    "bs": "robust brand paradigms"
+  },
+  "id": "cc0558d2-c0b7-443d-b764-82e9a27d89cc",
+  "testnumobjnums": {
+    "num1": 30642,
+    "num2": 12319,
+    "num3": 51.5,
+    "deeper": {
+      "arr": [
+        2145,
+        11534,
+        95163,
+        46374
+      ]
+    }
+  },
+  "doing": "system overriding",
+  "lastSaid": "You can't back up the program without quantifying the multi-byte JSON alarm!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Fermin Howell",
+  "username": "Dahlia_Kovacek",
+  "email": "Alisha_Mayer6@gmail.com",
+  "address": {
+    "street": "Daphney Cape",
+    "suite": "Suite 481",
+    "city": "Port Rashawn",
+    "zipcode": "64855-9036",
+    "geo": {
+      "lat": 16.2635,
+      "lng": 143.0276
+    }
+  },
+  "phone": "415-987-0448 x696",
+  "website": "alexandra.name",
+  "company": {
+    "name": "Farrell - Green",
+    "catchPhrase": "Team-oriented clear-thinking moderator",
+    "bs": "seamless scale e-business"
+  },
+  "id": "de16af5b-d335-4950-9fcc-4d238c9f7d67",
+  "testnumobjnums": {
+    "num1": 59258,
+    "num2": 29720,
+    "num3": 5105.5,
+    "deeper": {
+      "arr": [
+        42765,
+        6441,
+        90370,
+        26844
+      ]
+    }
+  },
+  "lastSaid": "innovative target platforms"
+}

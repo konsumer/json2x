@@ -1,0 +1,37 @@
+{
+  "name": "Giovanni Lebsack",
+  "username": "Aniya18",
+  "email": "Jensen.Stark73@gmail.com",
+  "address": {
+    "street": "Lazaro Place",
+    "suite": "Apt. 081",
+    "city": "Thaliaville",
+    "zipcode": "57712-0243",
+    "geo": {
+      "lat": -55.6846,
+      "lng": 0.2326
+    }
+  },
+  "phone": "883-998-9587",
+  "website": "deven.org",
+  "company": {
+    "name": "Boehm - Effertz",
+    "catchPhrase": "Multi-channelled human-resource core",
+    "bs": "24/365 grow platforms"
+  },
+  "id": "c07ad944-2094-4fa5-81bd-2122f00cfda9",
+  "testnumobjnums": {
+    "num1": 8718,
+    "num2": 91208,
+    "num3": 46663.5,
+    "deeper": {
+      "arr": [
+        72891,
+        64267,
+        91860,
+        47607
+      ]
+    }
+  },
+  "lastSaid": "open-source empower functionalities"
+}

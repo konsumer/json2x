@@ -1,0 +1,37 @@
+{
+  "name": "Fritz Pagac",
+  "username": "Adelbert.Kautzer",
+  "email": "Antwan_Moen20@yahoo.com",
+  "address": {
+    "street": "Bartoletti Ville",
+    "suite": "Suite 346",
+    "city": "North Hankmouth",
+    "zipcode": "60756-1550",
+    "geo": {
+      "lat": 14.2959,
+      "lng": -22.1175
+    }
+  },
+  "phone": "(278) 475-0076 x5414",
+  "website": "demarco.net",
+  "company": {
+    "name": "Leffler, Kunze and Renner",
+    "catchPhrase": "Stand-alone web-enabled interface",
+    "bs": "sticky harness ROI"
+  },
+  "id": "7848aeaf-6079-43f9-855f-8ab2b7a7d45d",
+  "testnumobjnums": {
+    "num1": 5499,
+    "num2": 92130,
+    "num3": 37420.5,
+    "deeper": {
+      "arr": [
+        22056,
+        90030,
+        63266,
+        18423
+      ]
+    }
+  },
+  "lastSaid": "robust utilize metrics"
+}

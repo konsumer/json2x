@@ -1,0 +1,37 @@
+{
+  "name": "Miguel Lesch",
+  "username": "Mckenna95",
+  "email": "Eliezer_Mueller5@gmail.com",
+  "address": {
+    "street": "Gislason River",
+    "suite": "Suite 770",
+    "city": "North Benedictshire",
+    "zipcode": "09332-6976",
+    "geo": {
+      "lat": -35.0832,
+      "lng": -9.3665
+    }
+  },
+  "phone": "1-097-343-8802 x401",
+  "website": "hannah.info",
+  "company": {
+    "name": "Pollich, Rogahn and Terry",
+    "catchPhrase": "Fully-configurable methodical Graphic Interface",
+    "bs": "scalable enable niches"
+  },
+  "id": "f4ec969f-0d86-456c-9feb-3473684ff587",
+  "testnumobjnums": {
+    "num1": 3809,
+    "num2": 37312,
+    "num3": 5840.5,
+    "deeper": {
+      "arr": [
+        42460,
+        73879,
+        72216,
+        47486
+      ]
+    }
+  },
+  "lastSaid": "enterprise deploy mindshare"
+}

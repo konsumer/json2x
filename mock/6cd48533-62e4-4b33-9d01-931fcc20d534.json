@@ -1,0 +1,37 @@
+{
+  "name": "Kasey Turner",
+  "username": "Jeffery68",
+  "email": "Amina_Gutkowski@gmail.com",
+  "address": {
+    "street": "Beahan Forge",
+    "suite": "Suite 753",
+    "city": "West Darrin",
+    "zipcode": "98146",
+    "geo": {
+      "lat": -56.7474,
+      "lng": -42.1199
+    }
+  },
+  "phone": "(090) 980-7748 x281",
+  "website": "gregg.com",
+  "company": {
+    "name": "Runte - Hamill",
+    "catchPhrase": "Persevering secondary knowledge base",
+    "bs": "clicks-and-mortar synthesize experiences"
+  },
+  "id": "6cd48533-62e4-4b33-9d01-931fcc20d534",
+  "testnumobjnums": {
+    "num1": 56164,
+    "num2": 61692,
+    "num3": 24382.5,
+    "deeper": {
+      "arr": [
+        75732,
+        48140,
+        32367,
+        1301
+      ]
+    }
+  },
+  "lastSaid": "magnetic reinvent metrics"
+}

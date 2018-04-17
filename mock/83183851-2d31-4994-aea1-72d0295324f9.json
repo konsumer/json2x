@@ -1,0 +1,37 @@
+{
+  "name": "Wilfrid Goodwin",
+  "username": "Pamela.Jacobi",
+  "email": "Fletcher.Schumm2@yahoo.com",
+  "address": {
+    "street": "Jenkins Path",
+    "suite": "Apt. 844",
+    "city": "Rossieton",
+    "zipcode": "96293-0278",
+    "geo": {
+      "lat": -32.7509,
+      "lng": 123.6059
+    }
+  },
+  "phone": "(410) 848-6458 x0722",
+  "website": "van.com",
+  "company": {
+    "name": "Rodriguez, Muller and Haag",
+    "catchPhrase": "Extended scalable project",
+    "bs": "impactful recontextualize infomediaries"
+  },
+  "id": "83183851-2d31-4994-aea1-72d0295324f9",
+  "testnumobjnums": {
+    "num1": 16921,
+    "num2": 161,
+    "num3": 8573.5,
+    "deeper": {
+      "arr": [
+        32041,
+        12428,
+        82985,
+        27747
+      ]
+    }
+  },
+  "lastSaid": "B2B maximize architectures"
+}

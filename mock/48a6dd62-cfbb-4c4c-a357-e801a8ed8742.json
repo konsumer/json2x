@@ -1,0 +1,38 @@
+{
+  "name": "Miss Jeanne Berge",
+  "username": "Lon31",
+  "email": "Albina.Murazik@gmail.com",
+  "address": {
+    "street": "Osinski Meadow",
+    "suite": "Suite 148",
+    "city": "Lewland",
+    "zipcode": "12423-5126",
+    "geo": {
+      "lat": -62.3582,
+      "lng": 31.607
+    }
+  },
+  "phone": "999-814-2241",
+  "website": "thurman.net",
+  "company": {
+    "name": "Kris, Kunze and Pfeffer",
+    "catchPhrase": "Quality-focused multimedia emulation",
+    "bs": "web-enabled synthesize e-services"
+  },
+  "id": "48a6dd62-cfbb-4c4c-a357-e801a8ed8742",
+  "testnumobjnums": {
+    "num1": 31191,
+    "num2": 96648,
+    "num3": 22327,
+    "deeper": {
+      "arr": [
+        53971,
+        19639,
+        12440,
+        30333
+      ]
+    }
+  },
+  "doing": "transmitter programming",
+  "lastSaid": "I'll override the mobile GB circuit, that should panel the TCP interface!"
+}

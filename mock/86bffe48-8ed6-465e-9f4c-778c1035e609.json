@@ -1,0 +1,38 @@
+{
+  "name": "Tomas Bednar",
+  "username": "Pete_Kris",
+  "email": "Liam.Frami@yahoo.com",
+  "address": {
+    "street": "Winston Mountains",
+    "suite": "Apt. 149",
+    "city": "North Leonel",
+    "zipcode": "08712",
+    "geo": {
+      "lat": -44.3352,
+      "lng": 45.897
+    }
+  },
+  "phone": "024.415.0753",
+  "website": "montana.net",
+  "company": {
+    "name": "Weber - Lebsack",
+    "catchPhrase": "Polarised well-modulated workforce",
+    "bs": "seamless reintermediate e-commerce"
+  },
+  "id": "86bffe48-8ed6-465e-9f4c-778c1035e609",
+  "testnumobjnums": {
+    "num1": 1471,
+    "num2": 13980,
+    "num3": 3047.5,
+    "deeper": {
+      "arr": [
+        3848,
+        2185,
+        65384,
+        25944
+      ]
+    }
+  },
+  "doing": "alarm calculating",
+  "lastSaid": "If we compress the capacitor, we can get to the COM pixel through the back-end COM hard drive!"
+}

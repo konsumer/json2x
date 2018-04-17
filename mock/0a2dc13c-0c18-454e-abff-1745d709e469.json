@@ -1,0 +1,37 @@
+{
+  "name": "Kurtis Donnelly",
+  "username": "Roscoe_Rempel24",
+  "email": "Regan_Larkin@hotmail.com",
+  "address": {
+    "street": "Flatley Branch",
+    "suite": "Apt. 084",
+    "city": "Maybellport",
+    "zipcode": "36372-8976",
+    "geo": {
+      "lat": 13.4899,
+      "lng": 70.2457
+    }
+  },
+  "phone": "(360) 102-2216 x309",
+  "website": "mohammad.com",
+  "company": {
+    "name": "Tillman - Kerluke",
+    "catchPhrase": "Multi-layered upward-trending emulation",
+    "bs": "next-generation maximize web-readiness"
+  },
+  "id": "0a2dc13c-0c18-454e-abff-1745d709e469",
+  "testnumobjnums": {
+    "num1": 96900,
+    "num2": 26856,
+    "num3": 100.5,
+    "deeper": {
+      "arr": [
+        96286,
+        46712,
+        8306,
+        16977
+      ]
+    }
+  },
+  "lastSaid": "bleeding-edge envisioneer paradigms"
+}

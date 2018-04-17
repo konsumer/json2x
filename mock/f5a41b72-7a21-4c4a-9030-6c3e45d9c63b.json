@@ -1,0 +1,37 @@
+{
+  "name": "Bernie Kiehn",
+  "username": "Berniece48",
+  "email": "Asha_Labadie@gmail.com",
+  "address": {
+    "street": "Hailee Turnpike",
+    "suite": "Apt. 944",
+    "city": "Sofiamouth",
+    "zipcode": "22640-4631",
+    "geo": {
+      "lat": -57.6516,
+      "lng": -169.4318
+    }
+  },
+  "phone": "736.367.8030",
+  "website": "loyce.name",
+  "company": {
+    "name": "Cruickshank LLC",
+    "catchPhrase": "Intuitive bifurcated system engine",
+    "bs": "magnetic exploit eyeballs"
+  },
+  "id": "f5a41b72-7a21-4c4a-9030-6c3e45d9c63b",
+  "testnumobjnums": {
+    "num1": 9356,
+    "num2": 17792,
+    "num3": 23298.5,
+    "deeper": {
+      "arr": [
+        81528,
+        76023,
+        47216,
+        39100.5
+      ]
+    }
+  },
+  "lastSaid": "proactive productize technologies"
+}

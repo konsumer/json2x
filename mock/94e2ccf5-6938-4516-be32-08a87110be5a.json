@@ -1,0 +1,37 @@
+{
+  "name": "Katarina Stoltenberg",
+  "username": "Webster_Corkery",
+  "email": "Isom.Wilderman@hotmail.com",
+  "address": {
+    "street": "Wiza Gateway",
+    "suite": "Apt. 274",
+    "city": "East Janyton",
+    "zipcode": "28358-8277",
+    "geo": {
+      "lat": -47.0768,
+      "lng": 116.6362
+    }
+  },
+  "phone": "137.857.2889 x65814",
+  "website": "betsy.name",
+  "company": {
+    "name": "Bednar - Daniel",
+    "catchPhrase": "Versatile scalable info-mediaries",
+    "bs": "plug-and-play strategize e-services"
+  },
+  "id": "94e2ccf5-6938-4516-be32-08a87110be5a",
+  "testnumobjnums": {
+    "num1": 75580,
+    "num2": 49390,
+    "num3": 22094,
+    "deeper": {
+      "arr": [
+        30057,
+        26445,
+        29871,
+        20285.5
+      ]
+    }
+  },
+  "lastSaid": "value-added seize architectures"
+}

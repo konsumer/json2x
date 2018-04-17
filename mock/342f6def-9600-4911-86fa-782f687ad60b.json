@@ -1,0 +1,38 @@
+{
+  "name": "Lorenz Crooks",
+  "username": "Jarred_Connelly",
+  "email": "Selina_Kihn@yahoo.com",
+  "address": {
+    "street": "Oran Mills",
+    "suite": "Apt. 812",
+    "city": "Lake Lauren",
+    "zipcode": "52016",
+    "geo": {
+      "lat": 67.7916,
+      "lng": 39.8474
+    }
+  },
+  "phone": "1-269-533-5634 x413",
+  "website": "keagan.org",
+  "company": {
+    "name": "Yost Group",
+    "catchPhrase": "Synergistic value-added secured line",
+    "bs": "seamless repurpose paradigms"
+  },
+  "id": "342f6def-9600-4911-86fa-782f687ad60b",
+  "testnumobjnums": {
+    "num1": 904,
+    "num2": 93776,
+    "num3": 12080.5,
+    "deeper": {
+      "arr": [
+        6275,
+        95332,
+        27772,
+        23857
+      ]
+    }
+  },
+  "doing": "capacitor quantifying",
+  "lastSaid": "The THX protocol is down, calculate the neural bandwidth so we can quantify the HTTP port!"
+}

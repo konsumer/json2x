@@ -1,0 +1,37 @@
+{
+  "name": "Mr. Magnolia Ferry",
+  "username": "Fred.Stanton72",
+  "email": "Reyes.Considine@hotmail.com",
+  "address": {
+    "street": "Reinger Lights",
+    "suite": "Suite 147",
+    "city": "Hammesfort",
+    "zipcode": "49655",
+    "geo": {
+      "lat": 80.1346,
+      "lng": 88.348
+    }
+  },
+  "phone": "(117) 884-1416 x224",
+  "website": "jaron.org",
+  "company": {
+    "name": "Zieme and Sons",
+    "catchPhrase": "Multi-lateral uniform data-warehouse",
+    "bs": "world-class innovate bandwidth"
+  },
+  "id": "07520d7b-3591-4948-a093-086a67a063ae",
+  "testnumobjnums": {
+    "num1": 37201,
+    "num2": 22724,
+    "num3": 46882.5,
+    "deeper": {
+      "arr": [
+        13099,
+        84752,
+        2007,
+        782.5
+      ]
+    }
+  },
+  "lastSaid": "magnetic benchmark relationships"
+}

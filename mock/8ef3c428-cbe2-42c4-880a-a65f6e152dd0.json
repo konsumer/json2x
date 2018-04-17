@@ -1,0 +1,37 @@
+{
+  "name": "Kellen Goldner",
+  "username": "Sierra78",
+  "email": "Toney.Erdman26@gmail.com",
+  "address": {
+    "street": "Schulist Avenue",
+    "suite": "Suite 938",
+    "city": "West Spencer",
+    "zipcode": "89514",
+    "geo": {
+      "lat": -82.3397,
+      "lng": -133.3964
+    }
+  },
+  "phone": "933-787-2188",
+  "website": "damion.name",
+  "company": {
+    "name": "Labadie, Marks and Weimann",
+    "catchPhrase": "Upgradable clear-thinking database",
+    "bs": "enterprise revolutionize web services"
+  },
+  "id": "8ef3c428-cbe2-42c4-880a-a65f6e152dd0",
+  "testnumobjnums": {
+    "num1": 52767,
+    "num2": 39806,
+    "num3": 3184,
+    "deeper": {
+      "arr": [
+        98806,
+        32077,
+        39950,
+        31101.5
+      ]
+    }
+  },
+  "lastSaid": "scalable syndicate models"
+}

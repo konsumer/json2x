@@ -1,0 +1,38 @@
+{
+  "name": "Amiya Metz",
+  "username": "Kirsten77",
+  "email": "Jamel.Waelchi67@yahoo.com",
+  "address": {
+    "street": "Rempel Unions",
+    "suite": "Apt. 023",
+    "city": "Strackeborough",
+    "zipcode": "96333-0818",
+    "geo": {
+      "lat": -2.6043,
+      "lng": -143.1435
+    }
+  },
+  "phone": "325-704-5785",
+  "website": "evie.name",
+  "company": {
+    "name": "Bernier - Shanahan",
+    "catchPhrase": "Universal contextually-based architecture",
+    "bs": "mission-critical cultivate infomediaries"
+  },
+  "id": "1275ed94-6477-485d-88d2-8be759d5b3c5",
+  "testnumobjnums": {
+    "num1": 12738,
+    "num2": 84087,
+    "num3": 28588,
+    "deeper": {
+      "arr": [
+        30389,
+        8810,
+        16187,
+        46046
+      ]
+    }
+  },
+  "doing": "monitor bypassing",
+  "lastSaid": "backing up the firewall won't do anything, we need to parse the primary IB bus!"
+}

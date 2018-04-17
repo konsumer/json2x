@@ -1,0 +1,38 @@
+{
+  "name": "Malinda Marquardt",
+  "username": "Gunner_Gorczany73",
+  "email": "Willow13@hotmail.com",
+  "address": {
+    "street": "Audra Club",
+    "suite": "Suite 104",
+    "city": "Nehatown",
+    "zipcode": "19259-2326",
+    "geo": {
+      "lat": -38.8973,
+      "lng": -32.9884
+    }
+  },
+  "phone": "(771) 841-6493 x747",
+  "website": "angelina.name",
+  "company": {
+    "name": "Thompson - Weber",
+    "catchPhrase": "Persevering 6th generation internet solution",
+    "bs": "web-enabled extend methodologies"
+  },
+  "id": "e9ebb7aa-5bc3-4716-a0e7-206b3c80c761",
+  "testnumobjnums": {
+    "num1": 19304,
+    "num2": 57965,
+    "num3": 33746.5,
+    "deeper": {
+      "arr": [
+        71387,
+        94239,
+        54377,
+        19272.5
+      ]
+    }
+  },
+  "doing": "microchip quantifying",
+  "lastSaid": "Use the digital IB transmitter, then you can calculate the open-source pixel!"
+}

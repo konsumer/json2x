@@ -1,0 +1,37 @@
+{
+  "name": "Verla Lind",
+  "username": "Kelvin78",
+  "email": "Tatum_Cormier24@yahoo.com",
+  "address": {
+    "street": "Blanche Heights",
+    "suite": "Apt. 375",
+    "city": "Margaritashire",
+    "zipcode": "98332",
+    "geo": {
+      "lat": -71.6534,
+      "lng": 27.5336
+    }
+  },
+  "phone": "145-963-3244 x6303",
+  "website": "peyton.net",
+  "company": {
+    "name": "Kessler - McKenzie",
+    "catchPhrase": "Inverse clear-thinking ability",
+    "bs": "customized embrace experiences"
+  },
+  "id": "fb6e9df0-902b-4080-9e9a-e8c53d40a3be",
+  "testnumobjnums": {
+    "num1": 56510,
+    "num2": 49413,
+    "num3": 14284,
+    "deeper": {
+      "arr": [
+        3996,
+        46567,
+        4158,
+        36214
+      ]
+    }
+  },
+  "lastSaid": "visionary monetize ROI"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Josiane Halvorson",
+  "username": "Ottis43",
+  "email": "Marvin78@hotmail.com",
+  "address": {
+    "street": "Quitzon Island",
+    "suite": "Suite 892",
+    "city": "Watersburgh",
+    "zipcode": "26874-2511",
+    "geo": {
+      "lat": 10.3258,
+      "lng": 72.4069
+    }
+  },
+  "phone": "745-221-9711 x3154",
+  "website": "agnes.biz",
+  "company": {
+    "name": "Hayes and Sons",
+    "catchPhrase": "Compatible attitude-oriented archive",
+    "bs": "magnetic mesh platforms"
+  },
+  "id": "44fc4797-29b9-447f-86b3-2a8e39214e29",
+  "testnumobjnums": {
+    "num1": 43573,
+    "num2": 90321,
+    "num3": 13241,
+    "deeper": {
+      "arr": [
+        65298,
+        53488,
+        58776,
+        21501.5
+      ]
+    }
+  },
+  "lastSaid": "viral seize portals"
+}

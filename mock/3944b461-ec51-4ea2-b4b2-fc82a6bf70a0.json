@@ -1,0 +1,38 @@
+{
+  "name": "Carole Kshlerin II",
+  "username": "Elyssa.Bogan15",
+  "email": "Ottilie83@yahoo.com",
+  "address": {
+    "street": "Schumm Brooks",
+    "suite": "Apt. 946",
+    "city": "Monroemouth",
+    "zipcode": "53697-9710",
+    "geo": {
+      "lat": -1.976,
+      "lng": 151.424
+    }
+  },
+  "phone": "952-222-1188",
+  "website": "glenna.org",
+  "company": {
+    "name": "Deckow - Carroll",
+    "catchPhrase": "Public-key responsive contingency",
+    "bs": "world-class evolve functionalities"
+  },
+  "id": "3944b461-ec51-4ea2-b4b2-fc82a6bf70a0",
+  "testnumobjnums": {
+    "num1": 77513,
+    "num2": 14916,
+    "num3": 30032.5,
+    "deeper": {
+      "arr": [
+        21946,
+        27314,
+        52444,
+        49325
+      ]
+    }
+  },
+  "doing": "panel indexing",
+  "lastSaid": "Try to back up the PCI bus, maybe it will copy the cross-platform program!"
+}

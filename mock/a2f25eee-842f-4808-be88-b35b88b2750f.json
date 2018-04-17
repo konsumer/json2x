@@ -1,0 +1,37 @@
+{
+  "name": "Lavon Larson",
+  "username": "Urban.Abbott68",
+  "email": "Nikita_Legros@yahoo.com",
+  "address": {
+    "street": "Collins Rest",
+    "suite": "Apt. 518",
+    "city": "Lorenzoburgh",
+    "zipcode": "16770-7927",
+    "geo": {
+      "lat": 6.5478,
+      "lng": -124.0933
+    }
+  },
+  "phone": "(174) 657-3493",
+  "website": "casimir.net",
+  "company": {
+    "name": "Little, Schneider and Kassulke",
+    "catchPhrase": "Networked logistical groupware",
+    "bs": "vertical enhance functionalities"
+  },
+  "id": "a2f25eee-842f-4808-be88-b35b88b2750f",
+  "testnumobjnums": {
+    "num1": 3733,
+    "num2": 38053,
+    "num3": 42634,
+    "deeper": {
+      "arr": [
+        60880,
+        16786,
+        2958,
+        8894
+      ]
+    }
+  },
+  "lastSaid": "rich implement schemas"
+}

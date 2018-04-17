@@ -1,0 +1,38 @@
+{
+  "name": "Milton Keeling",
+  "username": "Yolanda74",
+  "email": "Elias.Schaden@hotmail.com",
+  "address": {
+    "street": "Akeem Route",
+    "suite": "Apt. 671",
+    "city": "Dickinsonmouth",
+    "zipcode": "42559-5817",
+    "geo": {
+      "lat": 3.6368,
+      "lng": -71.0331
+    }
+  },
+  "phone": "(657) 939-7802",
+  "website": "kiel.info",
+  "company": {
+    "name": "Rogahn and Sons",
+    "catchPhrase": "Persevering national ability",
+    "bs": "visionary generate relationships"
+  },
+  "id": "18541d73-6ac2-4d45-b76b-466de6a993ed",
+  "testnumobjnums": {
+    "num1": 39580,
+    "num2": 10531,
+    "num3": 48305.5,
+    "deeper": {
+      "arr": [
+        49446,
+        14698,
+        43637,
+        40098
+      ]
+    }
+  },
+  "doing": "system calculating",
+  "lastSaid": "We need to reboot the neural SCSI capacitor!"
+}

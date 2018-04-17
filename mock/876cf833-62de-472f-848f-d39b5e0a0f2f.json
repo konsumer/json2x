@@ -1,0 +1,38 @@
+{
+  "name": "Nannie Ferry",
+  "username": "Freida0",
+  "email": "Hailee62@hotmail.com",
+  "address": {
+    "street": "Gabriella Valleys",
+    "suite": "Suite 595",
+    "city": "East Alanna",
+    "zipcode": "48527",
+    "geo": {
+      "lat": 74.2871,
+      "lng": 126.9521
+    }
+  },
+  "phone": "062.556.4440",
+  "website": "brandi.net",
+  "company": {
+    "name": "Conn, Paucek and Lind",
+    "catchPhrase": "Right-sized system-worthy function",
+    "bs": "impactful syndicate partnerships"
+  },
+  "id": "876cf833-62de-472f-848f-d39b5e0a0f2f",
+  "testnumobjnums": {
+    "num1": 71782,
+    "num2": 61118,
+    "num3": 33609,
+    "deeper": {
+      "arr": [
+        48502,
+        24201,
+        5594,
+        17351.5
+      ]
+    }
+  },
+  "doing": "feed compressing",
+  "lastSaid": "We need to quantify the multi-byte SMTP application!"
+}

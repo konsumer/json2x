@@ -1,0 +1,37 @@
+{
+  "name": "Garret Eichmann IV",
+  "username": "Jayson_Lubowitz",
+  "email": "Ryann_MacGyver72@gmail.com",
+  "address": {
+    "street": "Yundt Lake",
+    "suite": "Apt. 849",
+    "city": "East Stone",
+    "zipcode": "96106",
+    "geo": {
+      "lat": -81.0703,
+      "lng": -36.093
+    }
+  },
+  "phone": "(716) 179-0613",
+  "website": "shirley.biz",
+  "company": {
+    "name": "Balistreri LLC",
+    "catchPhrase": "Exclusive 6th generation knowledge base",
+    "bs": "strategic productize networks"
+  },
+  "id": "463c88b6-1f03-4e35-a68f-d57dc95f4062",
+  "testnumobjnums": {
+    "num1": 99995,
+    "num2": 43520,
+    "num3": 1314,
+    "deeper": {
+      "arr": [
+        39498,
+        21514,
+        5691,
+        28673.5
+      ]
+    }
+  },
+  "lastSaid": "end-to-end revolutionize interfaces"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Irma Schmitt",
+  "username": "Katlynn96",
+  "email": "Penelope_Ziemann@yahoo.com",
+  "address": {
+    "street": "Stoltenberg Crossroad",
+    "suite": "Apt. 415",
+    "city": "Goyettefurt",
+    "zipcode": "09377-1244",
+    "geo": {
+      "lat": -57.3231,
+      "lng": 174.3878
+    }
+  },
+  "phone": "(714) 194-8670 x957",
+  "website": "ayla.com",
+  "company": {
+    "name": "D'Amore LLC",
+    "catchPhrase": "Virtual multi-state portal",
+    "bs": "wireless implement relationships"
+  },
+  "id": "091b9b9d-e2d7-48f2-a882-803429cb3db5",
+  "testnumobjnums": {
+    "num1": 71136,
+    "num2": 13943,
+    "num3": 34847,
+    "deeper": {
+      "arr": [
+        99813,
+        43339,
+        51109,
+        23464.5
+      ]
+    }
+  },
+  "doing": "microchip overriding",
+  "lastSaid": "Try to override the AI hard drive, maybe it will transmit the cross-platform firewall!"
+}

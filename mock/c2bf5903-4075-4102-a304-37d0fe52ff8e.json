@@ -1,0 +1,38 @@
+{
+  "name": "Stacy Hegmann",
+  "username": "Simeon52",
+  "email": "Adolph52@yahoo.com",
+  "address": {
+    "street": "Ramiro Walk",
+    "suite": "Suite 889",
+    "city": "Kayleefort",
+    "zipcode": "01031-7754",
+    "geo": {
+      "lat": 16.5517,
+      "lng": -137.0966
+    }
+  },
+  "phone": "(509) 601-0005",
+  "website": "dulce.info",
+  "company": {
+    "name": "Feil, Moore and Hagenes",
+    "catchPhrase": "Enhanced mission-critical Graphical User Interface",
+    "bs": "cross-media evolve markets"
+  },
+  "id": "c2bf5903-4075-4102-a304-37d0fe52ff8e",
+  "testnumobjnums": {
+    "num1": 48534,
+    "num2": 36397,
+    "num3": 14987.5,
+    "deeper": {
+      "arr": [
+        50690,
+        44826,
+        88313,
+        38368
+      ]
+    }
+  },
+  "doing": "monitor transmitting",
+  "lastSaid": "Try to connect the TCP feed, maybe it will calculate the neural array!"
+}

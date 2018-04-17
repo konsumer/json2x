@@ -1,0 +1,37 @@
+{
+  "name": "Geovanni Kuhn",
+  "username": "Tyrell_OConner",
+  "email": "Katelynn_Schoen92@yahoo.com",
+  "address": {
+    "street": "Trycia Crossroad",
+    "suite": "Apt. 091",
+    "city": "Margarettachester",
+    "zipcode": "79199-8693",
+    "geo": {
+      "lat": 2.9222,
+      "lng": -20.3942
+    }
+  },
+  "phone": "(475) 074-2845",
+  "website": "keven.biz",
+  "company": {
+    "name": "Durgan - McClure",
+    "catchPhrase": "Exclusive neutral complexity",
+    "bs": "out-of-the-box redefine ROI"
+  },
+  "id": "ccd6f4cd-40c1-44ca-bc50-fc9f1bfe7a98",
+  "testnumobjnums": {
+    "num1": 41275,
+    "num2": 505,
+    "num3": 19292.5,
+    "deeper": {
+      "arr": [
+        2829,
+        46687,
+        61036,
+        2951
+      ]
+    }
+  },
+  "lastSaid": "extensible evolve vortals"
+}

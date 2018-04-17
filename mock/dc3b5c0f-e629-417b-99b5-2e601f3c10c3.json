@@ -1,0 +1,38 @@
+{
+  "name": "Lonny Satterfield",
+  "username": "Jammie_Strosin",
+  "email": "Gregg.Cronin@yahoo.com",
+  "address": {
+    "street": "Brielle Lodge",
+    "suite": "Apt. 085",
+    "city": "West Stephanyport",
+    "zipcode": "93028-6092",
+    "geo": {
+      "lat": 77.3312,
+      "lng": -71.0501
+    }
+  },
+  "phone": "876.851.3615 x9873",
+  "website": "wilton.biz",
+  "company": {
+    "name": "Schneider, Grady and Willms",
+    "catchPhrase": "Future-proofed analyzing functionalities",
+    "bs": "dynamic embrace experiences"
+  },
+  "id": "dc3b5c0f-e629-417b-99b5-2e601f3c10c3",
+  "testnumobjnums": {
+    "num1": 70376,
+    "num2": 30576,
+    "num3": 12021,
+    "deeper": {
+      "arr": [
+        96772,
+        9664,
+        77670,
+        40038.5
+      ]
+    }
+  },
+  "doing": "circuit quantifying",
+  "lastSaid": "Try to override the SQL application, maybe it will hack the primary array!"
+}

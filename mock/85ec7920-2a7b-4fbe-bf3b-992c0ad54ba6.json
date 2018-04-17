@@ -1,0 +1,37 @@
+{
+  "name": "Ms. Sammie Cummings",
+  "username": "Devonte_Blanda93",
+  "email": "Antone18@hotmail.com",
+  "address": {
+    "street": "Krista Shoals",
+    "suite": "Suite 407",
+    "city": "West Joanyburgh",
+    "zipcode": "77186",
+    "geo": {
+      "lat": 67.6494,
+      "lng": -91.8956
+    }
+  },
+  "phone": "1-100-754-2090 x69649",
+  "website": "ruthe.net",
+  "company": {
+    "name": "Macejkovic - Cormier",
+    "catchPhrase": "Triple-buffered high-level strategy",
+    "bs": "cutting-edge unleash initiatives"
+  },
+  "id": "85ec7920-2a7b-4fbe-bf3b-992c0ad54ba6",
+  "testnumobjnums": {
+    "num1": 96364,
+    "num2": 32339,
+    "num3": 19414,
+    "deeper": {
+      "arr": [
+        2956,
+        56,
+        27209,
+        32607.5
+      ]
+    }
+  },
+  "lastSaid": "mission-critical deploy action-items"
+}

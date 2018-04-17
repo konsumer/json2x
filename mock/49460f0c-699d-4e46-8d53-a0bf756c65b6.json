@@ -1,0 +1,37 @@
+{
+  "name": "Chelsea Collins",
+  "username": "Wilfredo76",
+  "email": "Adela_Kirlin78@hotmail.com",
+  "address": {
+    "street": "Aniyah Haven",
+    "suite": "Apt. 302",
+    "city": "Lake Jonathan",
+    "zipcode": "07656-2384",
+    "geo": {
+      "lat": -83.4324,
+      "lng": -137.1399
+    }
+  },
+  "phone": "1-291-316-5867",
+  "website": "ramona.com",
+  "company": {
+    "name": "Tillman - Lockman",
+    "catchPhrase": "Function-based 4th generation pricing structure",
+    "bs": "transparent aggregate experiences"
+  },
+  "id": "49460f0c-699d-4e46-8d53-a0bf756c65b6",
+  "testnumobjnums": {
+    "num1": 75611,
+    "num2": 55564,
+    "num3": 36283.5,
+    "deeper": {
+      "arr": [
+        48002,
+        38143,
+        29517,
+        34239.5
+      ]
+    }
+  },
+  "lastSaid": "end-to-end innovate technologies"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Rhea Sanford",
+  "username": "Irwin_Jerde",
+  "email": "Paul_Bergstrom91@hotmail.com",
+  "address": {
+    "street": "Treutel Run",
+    "suite": "Suite 363",
+    "city": "Goodwinmouth",
+    "zipcode": "30852",
+    "geo": {
+      "lat": 43.7036,
+      "lng": -160.8317
+    }
+  },
+  "phone": "881.824.0207 x9553",
+  "website": "elda.com",
+  "company": {
+    "name": "Krajcik, Terry and Brekke",
+    "catchPhrase": "Phased demand-driven knowledge base",
+    "bs": "plug-and-play generate metrics"
+  },
+  "id": "76941240-4eec-4a42-b028-cf77aa0d9814",
+  "testnumobjnums": {
+    "num1": 53744,
+    "num2": 63167,
+    "num3": 6052.5,
+    "deeper": {
+      "arr": [
+        62291,
+        48952,
+        88198,
+        5065
+      ]
+    }
+  },
+  "lastSaid": "dot-com visualize channels"
+}

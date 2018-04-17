@@ -1,0 +1,38 @@
+{
+  "name": "Khalid Champlin III",
+  "username": "Olga90",
+  "email": "Leanne.Marquardt75@gmail.com",
+  "address": {
+    "street": "Funk Mountain",
+    "suite": "Suite 907",
+    "city": "Lolaborough",
+    "zipcode": "93326-2527",
+    "geo": {
+      "lat": 12.5875,
+      "lng": -68.8605
+    }
+  },
+  "phone": "913-375-6278 x6667",
+  "website": "deonte.net",
+  "company": {
+    "name": "Schaefer - Altenwerth",
+    "catchPhrase": "De-engineered impactful implementation",
+    "bs": "strategic syndicate bandwidth"
+  },
+  "id": "abc00853-8f32-4094-99d0-56118bf70896",
+  "testnumobjnums": {
+    "num1": 31339,
+    "num2": 5224,
+    "num3": 41591,
+    "deeper": {
+      "arr": [
+        1383,
+        38417,
+        84763,
+        8125.5
+      ]
+    }
+  },
+  "doing": "port indexing",
+  "lastSaid": "Try to synthesize the ADP sensor, maybe it will copy the redundant bus!"
+}

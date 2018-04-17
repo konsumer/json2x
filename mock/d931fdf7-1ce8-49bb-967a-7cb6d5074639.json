@@ -1,0 +1,38 @@
+{
+  "name": "Nathanial Schinner",
+  "username": "Rodolfo57",
+  "email": "Margarita.Gottlieb@gmail.com",
+  "address": {
+    "street": "Remington Knoll",
+    "suite": "Apt. 529",
+    "city": "Jasminbury",
+    "zipcode": "71644-3487",
+    "geo": {
+      "lat": -24.11,
+      "lng": 64.2057
+    }
+  },
+  "phone": "856-527-9877",
+  "website": "ben.net",
+  "company": {
+    "name": "Heidenreich Group",
+    "catchPhrase": "Compatible even-keeled middleware",
+    "bs": "global evolve portals"
+  },
+  "id": "d931fdf7-1ce8-49bb-967a-7cb6d5074639",
+  "testnumobjnums": {
+    "num1": 14293,
+    "num2": 73502,
+    "num3": 24850,
+    "deeper": {
+      "arr": [
+        8557,
+        33049,
+        76921,
+        42272
+      ]
+    }
+  },
+  "doing": "bus indexing",
+  "lastSaid": "The GB monitor is down, compress the optical hard drive so we can compress the XML panel!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Mariam Haag",
+  "username": "Bella_Welch",
+  "email": "Cathryn_OKeefe@gmail.com",
+  "address": {
+    "street": "Julius Views",
+    "suite": "Apt. 561",
+    "city": "South Talia",
+    "zipcode": "16452-8654",
+    "geo": {
+      "lat": 16.1936,
+      "lng": -133.5675
+    }
+  },
+  "phone": "(177) 629-7103 x43673",
+  "website": "art.net",
+  "company": {
+    "name": "Flatley, Metz and Hettinger",
+    "catchPhrase": "Re-engineered executive capability",
+    "bs": "back-end redefine e-commerce"
+  },
+  "id": "82a69a8d-09f5-4ba9-8441-57f3fef110a0",
+  "testnumobjnums": {
+    "num1": 66996,
+    "num2": 81381,
+    "num3": 20247.5,
+    "deeper": {
+      "arr": [
+        42434,
+        9855,
+        13563,
+        32429
+      ]
+    }
+  },
+  "lastSaid": "transparent deploy action-items"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Jerry Bauch II",
+  "username": "Quentin_Ritchie",
+  "email": "Julianne99@hotmail.com",
+  "address": {
+    "street": "Margarita Forge",
+    "suite": "Suite 389",
+    "city": "Port Kari",
+    "zipcode": "09368-7228",
+    "geo": {
+      "lat": -51.0132,
+      "lng": 173.7999
+    }
+  },
+  "phone": "129.860.6454 x2362",
+  "website": "dangelo.net",
+  "company": {
+    "name": "Ullrich, Volkman and Purdy",
+    "catchPhrase": "Organic context-sensitive help-desk",
+    "bs": "sticky engineer web services"
+  },
+  "id": "672bb56b-7fa6-463e-abd0-967e91b08d5b",
+  "testnumobjnums": {
+    "num1": 7270,
+    "num2": 55638,
+    "num3": 48712.5,
+    "deeper": {
+      "arr": [
+        68353,
+        52907,
+        77496,
+        4370
+      ]
+    }
+  },
+  "doing": "driver bypassing",
+  "lastSaid": "We need to hack the haptic IB panel!"
+}

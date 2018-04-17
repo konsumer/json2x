@@ -1,0 +1,37 @@
+{
+  "name": "Brenna Hegmann",
+  "username": "Elisha70",
+  "email": "Wilfrid.Bednar73@yahoo.com",
+  "address": {
+    "street": "Brianne Viaduct",
+    "suite": "Apt. 111",
+    "city": "Powlowskiburgh",
+    "zipcode": "57790-4028",
+    "geo": {
+      "lat": 0.5692,
+      "lng": -56.7721
+    }
+  },
+  "phone": "(473) 056-3369 x4835",
+  "website": "zula.name",
+  "company": {
+    "name": "Johns and Sons",
+    "catchPhrase": "Vision-oriented well-modulated application",
+    "bs": "granular orchestrate vortals"
+  },
+  "id": "635b8fae-0360-41c1-876c-6b2df82e1f19",
+  "testnumobjnums": {
+    "num1": 66263,
+    "num2": 84381,
+    "num3": 7181,
+    "deeper": {
+      "arr": [
+        16399,
+        91243,
+        290,
+        48889
+      ]
+    }
+  },
+  "lastSaid": "viral integrate convergence"
+}

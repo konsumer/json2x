@@ -1,0 +1,37 @@
+{
+  "name": "Cicero Kuphal",
+  "username": "Lacy.Mayer",
+  "email": "Hailie.Rowe@gmail.com",
+  "address": {
+    "street": "Doyle Underpass",
+    "suite": "Suite 802",
+    "city": "Romainebury",
+    "zipcode": "27236-9318",
+    "geo": {
+      "lat": 68.2393,
+      "lng": -111.8158
+    }
+  },
+  "phone": "665-624-7740",
+  "website": "daisy.com",
+  "company": {
+    "name": "Lynch, Harris and Corwin",
+    "catchPhrase": "De-engineered radical benchmark",
+    "bs": "bricks-and-clicks synergize convergence"
+  },
+  "id": "0f6d8f13-1daf-4250-a527-be04c2f963d6",
+  "testnumobjnums": {
+    "num1": 88637,
+    "num2": 90195,
+    "num3": 39294.5,
+    "deeper": {
+      "arr": [
+        50119,
+        95961,
+        31071,
+        43976
+      ]
+    }
+  },
+  "lastSaid": "value-added integrate deliverables"
+}

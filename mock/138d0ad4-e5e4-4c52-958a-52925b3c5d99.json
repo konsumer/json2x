@@ -1,0 +1,38 @@
+{
+  "name": "Kaleb Hagenes",
+  "username": "Elnora_Bailey14",
+  "email": "Jerrold19@gmail.com",
+  "address": {
+    "street": "Cronin Garden",
+    "suite": "Apt. 688",
+    "city": "Luigimouth",
+    "zipcode": "41222",
+    "geo": {
+      "lat": -33.6376,
+      "lng": 50.4787
+    }
+  },
+  "phone": "(545) 839-4911 x26794",
+  "website": "kallie.net",
+  "company": {
+    "name": "Connelly - Sauer",
+    "catchPhrase": "Multi-channelled encompassing frame",
+    "bs": "web-enabled transition interfaces"
+  },
+  "id": "138d0ad4-e5e4-4c52-958a-52925b3c5d99",
+  "testnumobjnums": {
+    "num1": 5171,
+    "num2": 48258,
+    "num3": 41138,
+    "deeper": {
+      "arr": [
+        9486,
+        33342,
+        31952,
+        30556
+      ]
+    }
+  },
+  "doing": "sensor navigating",
+  "lastSaid": "We need to parse the digital AGP pixel!"
+}

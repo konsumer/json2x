@@ -1,0 +1,38 @@
+{
+  "name": "Wiley Bogisich",
+  "username": "Wallace.Breitenberg",
+  "email": "Emmet.Ebert@gmail.com",
+  "address": {
+    "street": "Paucek Courts",
+    "suite": "Suite 805",
+    "city": "East Twila",
+    "zipcode": "73821-6735",
+    "geo": {
+      "lat": 33.1017,
+      "lng": -24.4781
+    }
+  },
+  "phone": "(526) 170-7803 x12892",
+  "website": "clovis.net",
+  "company": {
+    "name": "McClure Group",
+    "catchPhrase": "User-centric optimizing functionalities",
+    "bs": "web-enabled iterate experiences"
+  },
+  "id": "a01e4e78-d5c8-4eb1-af14-70530cea9a67",
+  "testnumobjnums": {
+    "num1": 91711,
+    "num2": 77874,
+    "num3": 12657.5,
+    "deeper": {
+      "arr": [
+        6329,
+        22964,
+        75426,
+        47148
+      ]
+    }
+  },
+  "doing": "bandwidth transmitting",
+  "lastSaid": "I'll connect the online HDD system, that should panel the RAM feed!"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Norval Kuhic",
+  "username": "Isabelle.Collins",
+  "email": "Edwin.Olson85@gmail.com",
+  "address": {
+    "street": "Gutkowski Mission",
+    "suite": "Suite 411",
+    "city": "Denisville",
+    "zipcode": "42896-7812",
+    "geo": {
+      "lat": -69.342,
+      "lng": 64.227
+    }
+  },
+  "phone": "212-641-4168 x15163",
+  "website": "derek.biz",
+  "company": {
+    "name": "Pagac, Leuschke and McGlynn",
+    "catchPhrase": "User-centric full-range hardware",
+    "bs": "granular morph bandwidth"
+  },
+  "id": "1afb436b-78a1-466f-9fd8-f65eb1684b2a",
+  "testnumobjnums": {
+    "num1": 57728,
+    "num2": 33049,
+    "num3": 44777.5,
+    "deeper": {
+      "arr": [
+        21457,
+        99543,
+        69738,
+        7032.5
+      ]
+    }
+  },
+  "doing": "interface connecting",
+  "lastSaid": "Use the 1080p TCP sensor, then you can reboot the wireless card!"
+}

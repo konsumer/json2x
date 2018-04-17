@@ -1,0 +1,37 @@
+{
+  "name": "Maximilian Kertzmann III",
+  "username": "Katlyn.Legros18",
+  "email": "Yessenia_Wolf@hotmail.com",
+  "address": {
+    "street": "John Hill",
+    "suite": "Suite 037",
+    "city": "Wizaburgh",
+    "zipcode": "28817",
+    "geo": {
+      "lat": 67.4189,
+      "lng": 125.888
+    }
+  },
+  "phone": "(479) 716-9080",
+  "website": "delpha.com",
+  "company": {
+    "name": "Eichmann - Nitzsche",
+    "catchPhrase": "Fundamental coherent internet solution",
+    "bs": "24/7 implement e-business"
+  },
+  "id": "ea52f319-a8ef-4128-88b2-036f5f6ea69e",
+  "testnumobjnums": {
+    "num1": 29717,
+    "num2": 50318,
+    "num3": 31322.5,
+    "deeper": {
+      "arr": [
+        42447,
+        97527,
+        35615,
+        46212
+      ]
+    }
+  },
+  "lastSaid": "real-time aggregate infrastructures"
+}

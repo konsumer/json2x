@@ -1,0 +1,38 @@
+{
+  "name": "Nella Zieme",
+  "username": "Wava22",
+  "email": "Casper_Lemke@hotmail.com",
+  "address": {
+    "street": "Stehr Lock",
+    "suite": "Apt. 888",
+    "city": "Sibylmouth",
+    "zipcode": "77978-7910",
+    "geo": {
+      "lat": 89.5292,
+      "lng": 172.7874
+    }
+  },
+  "phone": "922.192.5724",
+  "website": "terrell.name",
+  "company": {
+    "name": "Rosenbaum - Steuber",
+    "catchPhrase": "Persistent mobile parallelism",
+    "bs": "visionary unleash action-items"
+  },
+  "id": "71232324-758d-41e2-95dd-beecd73242e5",
+  "testnumobjnums": {
+    "num1": 54757,
+    "num2": 37043,
+    "num3": 49810.5,
+    "deeper": {
+      "arr": [
+        52725,
+        36145,
+        55845,
+        1277
+      ]
+    }
+  },
+  "doing": "monitor synthesizing",
+  "lastSaid": "The JBOD matrix is down, calculate the primary array so we can synthesize the SAS microchip!"
+}

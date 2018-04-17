@@ -1,0 +1,38 @@
+{
+  "name": "Edgardo Bartoletti",
+  "username": "Camilla.Nader0",
+  "email": "Werner.Metz33@hotmail.com",
+  "address": {
+    "street": "Cheyanne Ways",
+    "suite": "Apt. 301",
+    "city": "Carloshire",
+    "zipcode": "47122",
+    "geo": {
+      "lat": -21.7884,
+      "lng": 61.2447
+    }
+  },
+  "phone": "903.716.0045 x338",
+  "website": "chaz.net",
+  "company": {
+    "name": "Gerhold - Prosacco",
+    "catchPhrase": "Decentralized tertiary groupware",
+    "bs": "mission-critical cultivate content"
+  },
+  "id": "4a36fdee-67dc-40fa-aa33-f9b5a08a1a87",
+  "testnumobjnums": {
+    "num1": 20020,
+    "num2": 67519,
+    "num3": 24840.5,
+    "deeper": {
+      "arr": [
+        86497,
+        45096,
+        32464,
+        17540
+      ]
+    }
+  },
+  "doing": "bus backing up",
+  "lastSaid": "If we compress the sensor, we can get to the EXE capacitor through the 1080p HDD port!"
+}

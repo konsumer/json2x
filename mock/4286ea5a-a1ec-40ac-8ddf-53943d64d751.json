@@ -1,0 +1,38 @@
+{
+  "name": "Jeff Wolf",
+  "username": "Julio.Goldner73",
+  "email": "Cassie.Christiansen54@hotmail.com",
+  "address": {
+    "street": "Rau Unions",
+    "suite": "Apt. 036",
+    "city": "Maybelleborough",
+    "zipcode": "96523",
+    "geo": {
+      "lat": 20.665,
+      "lng": 77.7928
+    }
+  },
+  "phone": "239-388-0319",
+  "website": "santa.com",
+  "company": {
+    "name": "Bosco Inc",
+    "catchPhrase": "Enterprise-wide composite model",
+    "bs": "24/365 deliver e-commerce"
+  },
+  "id": "4286ea5a-a1ec-40ac-8ddf-53943d64d751",
+  "testnumobjnums": {
+    "num1": 73708,
+    "num2": 44104,
+    "num3": 31876.5,
+    "deeper": {
+      "arr": [
+        69485,
+        74,
+        27412,
+        8515
+      ]
+    }
+  },
+  "doing": "card quantifying",
+  "lastSaid": "Try to index the GB array, maybe it will input the neural pixel!"
+}

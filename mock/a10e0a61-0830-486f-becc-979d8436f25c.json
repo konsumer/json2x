@@ -1,0 +1,37 @@
+{
+  "name": "Mr. Esther Wolf",
+  "username": "Rhett.Gutmann7",
+  "email": "Juston.Langosh71@yahoo.com",
+  "address": {
+    "street": "Stanton Shoal",
+    "suite": "Suite 031",
+    "city": "Esmeraldaton",
+    "zipcode": "76545-5874",
+    "geo": {
+      "lat": 31.0908,
+      "lng": -31.2609
+    }
+  },
+  "phone": "(030) 930-6545",
+  "website": "marcellus.biz",
+  "company": {
+    "name": "Shields, Adams and Boehm",
+    "catchPhrase": "Decentralized optimal ability",
+    "bs": "global target relationships"
+  },
+  "id": "a10e0a61-0830-486f-becc-979d8436f25c",
+  "testnumobjnums": {
+    "num1": 27524,
+    "num2": 88606,
+    "num3": 20738.5,
+    "deeper": {
+      "arr": [
+        97439,
+        86182,
+        72502,
+        2041
+      ]
+    }
+  },
+  "lastSaid": "customized monetize ROI"
+}

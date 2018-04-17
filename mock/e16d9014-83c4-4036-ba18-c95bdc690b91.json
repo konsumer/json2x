@@ -1,0 +1,37 @@
+{
+  "name": "Elza Berge",
+  "username": "Marcia_Murazik70",
+  "email": "Domenica4@yahoo.com",
+  "address": {
+    "street": "Freeda Road",
+    "suite": "Suite 356",
+    "city": "Port Ernieshire",
+    "zipcode": "33743",
+    "geo": {
+      "lat": 12.6938,
+      "lng": 132.4661
+    }
+  },
+  "phone": "790-292-4556 x555",
+  "website": "evert.name",
+  "company": {
+    "name": "Bergnaum - Shields",
+    "catchPhrase": "Right-sized foreground knowledge base",
+    "bs": "mission-critical productize architectures"
+  },
+  "id": "e16d9014-83c4-4036-ba18-c95bdc690b91",
+  "testnumobjnums": {
+    "num1": 39700,
+    "num2": 39673,
+    "num3": 29101,
+    "deeper": {
+      "arr": [
+        68495,
+        47020,
+        46296,
+        37764.5
+      ]
+    }
+  },
+  "lastSaid": "dot-com brand action-items"
+}

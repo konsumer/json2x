@@ -1,0 +1,38 @@
+{
+  "name": "Glenda Corkery",
+  "username": "Agnes_Lockman36",
+  "email": "Hyman71@hotmail.com",
+  "address": {
+    "street": "Gilda Fort",
+    "suite": "Suite 638",
+    "city": "Kirlinmouth",
+    "zipcode": "99902",
+    "geo": {
+      "lat": 39.8298,
+      "lng": -163.1558
+    }
+  },
+  "phone": "070-147-1537 x23483",
+  "website": "julio.biz",
+  "company": {
+    "name": "Bernhard, Stoltenberg and Goldner",
+    "catchPhrase": "Intuitive methodical contingency",
+    "bs": "B2C target supply-chains"
+  },
+  "id": "723bd0de-155d-4ad3-aefb-2ebac56d2e06",
+  "testnumobjnums": {
+    "num1": 99646,
+    "num2": 1457,
+    "num3": 10731,
+    "deeper": {
+      "arr": [
+        29811,
+        50590,
+        78337,
+        2211
+      ]
+    }
+  },
+  "doing": "system hacking",
+  "lastSaid": "Use the neural HTTP microchip, then you can override the redundant application!"
+}

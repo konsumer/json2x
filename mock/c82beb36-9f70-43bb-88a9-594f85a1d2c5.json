@@ -1,0 +1,38 @@
+{
+  "name": "Ross Schulist",
+  "username": "Angus_Hilpert",
+  "email": "Bartholome13@yahoo.com",
+  "address": {
+    "street": "Cassin Orchard",
+    "suite": "Apt. 295",
+    "city": "East Holly",
+    "zipcode": "48654-8759",
+    "geo": {
+      "lat": -35.5853,
+      "lng": -28.0418
+    }
+  },
+  "phone": "994.984.7387",
+  "website": "kelsi.com",
+  "company": {
+    "name": "Simonis - Oberbrunner",
+    "catchPhrase": "Pre-emptive impactful pricing structure",
+    "bs": "end-to-end transition methodologies"
+  },
+  "id": "c82beb36-9f70-43bb-88a9-594f85a1d2c5",
+  "testnumobjnums": {
+    "num1": 70978,
+    "num2": 46424,
+    "num3": 42142,
+    "deeper": {
+      "arr": [
+        20146,
+        25455,
+        81226,
+        12520
+      ]
+    }
+  },
+  "doing": "program backing up",
+  "lastSaid": "We need to hack the digital PNG matrix!"
+}

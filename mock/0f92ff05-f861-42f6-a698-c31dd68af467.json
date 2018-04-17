@@ -1,0 +1,38 @@
+{
+  "name": "Dalton O'Conner",
+  "username": "Dudley65",
+  "email": "Estefania97@gmail.com",
+  "address": {
+    "street": "Alexzander Court",
+    "suite": "Suite 294",
+    "city": "Lake Lionel",
+    "zipcode": "59470",
+    "geo": {
+      "lat": 41.678,
+      "lng": 18.1462
+    }
+  },
+  "phone": "(024) 336-2616 x387",
+  "website": "leland.com",
+  "company": {
+    "name": "Bernhard Group",
+    "catchPhrase": "Multi-tiered systemic open architecture",
+    "bs": "rich scale communities"
+  },
+  "id": "0f92ff05-f861-42f6-a698-c31dd68af467",
+  "testnumobjnums": {
+    "num1": 58058,
+    "num2": 76366,
+    "num3": 26447,
+    "deeper": {
+      "arr": [
+        31060,
+        63724,
+        1754,
+        598
+      ]
+    }
+  },
+  "doing": "array quantifying",
+  "lastSaid": "Use the bluetooth XML feed, then you can compress the virtual application!"
+}

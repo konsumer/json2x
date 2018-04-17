@@ -1,0 +1,38 @@
+{
+  "name": "Syble Dicki II",
+  "username": "Darius.McGlynn",
+  "email": "Kathleen57@gmail.com",
+  "address": {
+    "street": "Ambrose View",
+    "suite": "Suite 214",
+    "city": "Conniebury",
+    "zipcode": "37078",
+    "geo": {
+      "lat": -9.1349,
+      "lng": -3.7159
+    }
+  },
+  "phone": "737.016.1540 x662",
+  "website": "deja.com",
+  "company": {
+    "name": "Witting - Romaguera",
+    "catchPhrase": "Expanded non-volatile projection",
+    "bs": "magnetic expedite content"
+  },
+  "id": "7e70a667-2ceb-41d1-8902-67eceff3c016",
+  "testnumobjnums": {
+    "num1": 96632,
+    "num2": 12744,
+    "num3": 25084,
+    "deeper": {
+      "arr": [
+        3188,
+        152,
+        43240,
+        40708
+      ]
+    }
+  },
+  "doing": "system synthesizing",
+  "lastSaid": "Use the optical JBOD capacitor, then you can calculate the mobile firewall!"
+}

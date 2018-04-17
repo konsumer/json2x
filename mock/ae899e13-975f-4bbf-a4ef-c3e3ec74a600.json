@@ -1,0 +1,37 @@
+{
+  "name": "Onie Zieme",
+  "username": "Stefanie77",
+  "email": "Cecil14@hotmail.com",
+  "address": {
+    "street": "Grady Fields",
+    "suite": "Suite 109",
+    "city": "South Pedrofurt",
+    "zipcode": "69065-9635",
+    "geo": {
+      "lat": -85.0256,
+      "lng": 176.5989
+    }
+  },
+  "phone": "502-356-4955",
+  "website": "rossie.info",
+  "company": {
+    "name": "Harvey, Batz and Simonis",
+    "catchPhrase": "Innovative intermediate moratorium",
+    "bs": "ubiquitous brand portals"
+  },
+  "id": "ae899e13-975f-4bbf-a4ef-c3e3ec74a600",
+  "testnumobjnums": {
+    "num1": 24752,
+    "num2": 61225,
+    "num3": 12287.5,
+    "deeper": {
+      "arr": [
+        92593,
+        58568,
+        80701,
+        36949
+      ]
+    }
+  },
+  "lastSaid": "extensible matrix ROI"
+}

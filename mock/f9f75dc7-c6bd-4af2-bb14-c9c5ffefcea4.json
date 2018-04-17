@@ -1,0 +1,37 @@
+{
+  "name": "Breana Schoen",
+  "username": "Harmony_Cassin",
+  "email": "Lucious54@yahoo.com",
+  "address": {
+    "street": "Rohan Fork",
+    "suite": "Suite 376",
+    "city": "Luciushaven",
+    "zipcode": "80608",
+    "geo": {
+      "lat": 44.0262,
+      "lng": 169.7705
+    }
+  },
+  "phone": "725-091-3288 x2680",
+  "website": "holly.com",
+  "company": {
+    "name": "McCullough, Nienow and Blick",
+    "catchPhrase": "Ergonomic impactful throughput",
+    "bs": "cross-platform synthesize paradigms"
+  },
+  "id": "f9f75dc7-c6bd-4af2-bb14-c9c5ffefcea4",
+  "testnumobjnums": {
+    "num1": 38558,
+    "num2": 91198,
+    "num3": 17937,
+    "deeper": {
+      "arr": [
+        36326,
+        37764,
+        75705,
+        43669
+      ]
+    }
+  },
+  "lastSaid": "virtual morph systems"
+}

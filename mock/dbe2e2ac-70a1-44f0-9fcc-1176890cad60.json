@@ -1,0 +1,38 @@
+{
+  "name": "Josie Feeney PhD",
+  "username": "Frances.Cruickshank",
+  "email": "Diamond70@gmail.com",
+  "address": {
+    "street": "Danny Light",
+    "suite": "Apt. 139",
+    "city": "Audreannefort",
+    "zipcode": "06927-8250",
+    "geo": {
+      "lat": -28.6975,
+      "lng": -1.5636
+    }
+  },
+  "phone": "928-106-1510",
+  "website": "keira.net",
+  "company": {
+    "name": "Swift Group",
+    "catchPhrase": "Distributed national approach",
+    "bs": "proactive streamline ROI"
+  },
+  "id": "dbe2e2ac-70a1-44f0-9fcc-1176890cad60",
+  "testnumobjnums": {
+    "num1": 81019,
+    "num2": 10110,
+    "num3": 6855.5,
+    "deeper": {
+      "arr": [
+        18137,
+        64032,
+        76127,
+        5882.5
+      ]
+    }
+  },
+  "doing": "interface transmitting",
+  "lastSaid": "calculating the circuit won't do anything, we need to bypass the solid state SSL application!"
+}

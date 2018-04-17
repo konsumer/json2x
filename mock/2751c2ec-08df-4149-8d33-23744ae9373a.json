@@ -1,0 +1,38 @@
+{
+  "name": "Marian Bode",
+  "username": "Antonina.Auer",
+  "email": "Jayne_Jenkins@yahoo.com",
+  "address": {
+    "street": "Amani Road",
+    "suite": "Suite 090",
+    "city": "West Roman",
+    "zipcode": "28524-3933",
+    "geo": {
+      "lat": -63.0017,
+      "lng": 136.9001
+    }
+  },
+  "phone": "291.284.7293 x826",
+  "website": "brooklyn.net",
+  "company": {
+    "name": "Kozey - Beahan",
+    "catchPhrase": "Innovative bottom-line collaboration",
+    "bs": "sticky synthesize functionalities"
+  },
+  "id": "2751c2ec-08df-4149-8d33-23744ae9373a",
+  "testnumobjnums": {
+    "num1": 71048,
+    "num2": 35410,
+    "num3": 25191.5,
+    "deeper": {
+      "arr": [
+        65749,
+        59147,
+        45134,
+        7220.5
+      ]
+    }
+  },
+  "doing": "microchip calculating",
+  "lastSaid": "I'll back up the mobile XSS transmitter, that should matrix the FTP application!"
+}

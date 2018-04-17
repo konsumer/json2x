@@ -1,0 +1,37 @@
+{
+  "name": "Rae Klein",
+  "username": "Erling21",
+  "email": "Soledad_Cormier@hotmail.com",
+  "address": {
+    "street": "Amy Gateway",
+    "suite": "Apt. 431",
+    "city": "Uptontown",
+    "zipcode": "99681",
+    "geo": {
+      "lat": -65.8843,
+      "lng": -122.9309
+    }
+  },
+  "phone": "945-234-1412 x7194",
+  "website": "raoul.org",
+  "company": {
+    "name": "Quitzon Group",
+    "catchPhrase": "Ameliorated zero defect secured line",
+    "bs": "world-class facilitate infrastructures"
+  },
+  "id": "eee2cdab-dbfb-4678-b380-63ad9c320710",
+  "testnumobjnums": {
+    "num1": 21896,
+    "num2": 12848,
+    "num3": 44738.5,
+    "deeper": {
+      "arr": [
+        92624,
+        44075,
+        34129,
+        44224
+      ]
+    }
+  },
+  "lastSaid": "next-generation incentivize partnerships"
+}

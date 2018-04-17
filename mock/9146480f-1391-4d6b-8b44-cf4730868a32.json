@@ -1,0 +1,37 @@
+{
+  "name": "Erwin Christiansen DVM",
+  "username": "Electa_Heidenreich",
+  "email": "Max_Hilpert33@gmail.com",
+  "address": {
+    "street": "Lubowitz Pike",
+    "suite": "Suite 566",
+    "city": "East Dorcas",
+    "zipcode": "45138-9545",
+    "geo": {
+      "lat": 24.6799,
+      "lng": -176.2056
+    }
+  },
+  "phone": "346.222.1743",
+  "website": "felix.net",
+  "company": {
+    "name": "Eichmann - Dicki",
+    "catchPhrase": "Realigned maximized software",
+    "bs": "clicks-and-mortar exploit web-readiness"
+  },
+  "id": "9146480f-1391-4d6b-8b44-cf4730868a32",
+  "testnumobjnums": {
+    "num1": 36805,
+    "num2": 78453,
+    "num3": 7265,
+    "deeper": {
+      "arr": [
+        95112,
+        54096,
+        2187,
+        47221.5
+      ]
+    }
+  },
+  "lastSaid": "back-end grow functionalities"
+}

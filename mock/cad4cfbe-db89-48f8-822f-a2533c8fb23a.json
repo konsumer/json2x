@@ -1,0 +1,38 @@
+{
+  "name": "Domenick Stroman V",
+  "username": "Maximus34",
+  "email": "Alexys70@hotmail.com",
+  "address": {
+    "street": "Lind Fields",
+    "suite": "Apt. 039",
+    "city": "Rickeybury",
+    "zipcode": "59493",
+    "geo": {
+      "lat": -76.1276,
+      "lng": -96.9359
+    }
+  },
+  "phone": "1-581-155-4747 x7537",
+  "website": "brando.com",
+  "company": {
+    "name": "Purdy and Sons",
+    "catchPhrase": "Total bifurcated instruction set",
+    "bs": "24/365 scale experiences"
+  },
+  "id": "cad4cfbe-db89-48f8-822f-a2533c8fb23a",
+  "testnumobjnums": {
+    "num1": 98972,
+    "num2": 97023,
+    "num3": 24511,
+    "deeper": {
+      "arr": [
+        69341,
+        85812,
+        71994,
+        37420.5
+      ]
+    }
+  },
+  "doing": "application overriding",
+  "lastSaid": "Use the mobile PNG circuit, then you can calculate the primary hard drive!"
+}

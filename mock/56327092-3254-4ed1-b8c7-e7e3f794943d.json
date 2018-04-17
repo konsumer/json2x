@@ -1,0 +1,38 @@
+{
+  "name": "Lura Lakin",
+  "username": "Mia.Bernier",
+  "email": "Jeffrey.Hickle@yahoo.com",
+  "address": {
+    "street": "Jimmy Motorway",
+    "suite": "Suite 157",
+    "city": "Lake Americoport",
+    "zipcode": "36776-6338",
+    "geo": {
+      "lat": 70.3897,
+      "lng": 39.918
+    }
+  },
+  "phone": "(172) 681-3657 x36536",
+  "website": "ernie.name",
+  "company": {
+    "name": "Olson, Hartmann and Spinka",
+    "catchPhrase": "Advanced optimal ability",
+    "bs": "granular brand initiatives"
+  },
+  "id": "56327092-3254-4ed1-b8c7-e7e3f794943d",
+  "testnumobjnums": {
+    "num1": 58897,
+    "num2": 18309,
+    "num3": 22265,
+    "deeper": {
+      "arr": [
+        31873,
+        22927,
+        92849,
+        18750
+      ]
+    }
+  },
+  "doing": "port navigating",
+  "lastSaid": "I'll input the online XML pixel, that should alarm the COM hard drive!"
+}

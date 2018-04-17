@@ -1,0 +1,37 @@
+{
+  "name": "Mrs. Pinkie Gorczany",
+  "username": "Calista.Klein4",
+  "email": "Sarah84@gmail.com",
+  "address": {
+    "street": "Powlowski Ranch",
+    "suite": "Suite 279",
+    "city": "Bradlymouth",
+    "zipcode": "11977-3243",
+    "geo": {
+      "lat": 42.2473,
+      "lng": 158.9556
+    }
+  },
+  "phone": "903.694.3852",
+  "website": "liliane.net",
+  "company": {
+    "name": "Jakubowski, Paucek and Will",
+    "catchPhrase": "Right-sized bandwidth-monitored local area network",
+    "bs": "proactive harness networks"
+  },
+  "id": "f5fca319-cf51-43a0-80e5-2efc23288558",
+  "testnumobjnums": {
+    "num1": 64350,
+    "num2": 92612,
+    "num3": 37499.5,
+    "deeper": {
+      "arr": [
+        97107,
+        1551,
+        84413,
+        37919
+      ]
+    }
+  },
+  "lastSaid": "B2B integrate relationships"
+}

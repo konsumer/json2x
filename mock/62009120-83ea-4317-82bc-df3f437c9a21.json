@@ -1,0 +1,37 @@
+{
+  "name": "Guillermo Stracke",
+  "username": "Allene23",
+  "email": "Alisha_Mraz@hotmail.com",
+  "address": {
+    "street": "Schroeder Burgs",
+    "suite": "Apt. 471",
+    "city": "Dejuanchester",
+    "zipcode": "14852",
+    "geo": {
+      "lat": 85.0645,
+      "lng": -171.3771
+    }
+  },
+  "phone": "072.983.1200",
+  "website": "napoleon.com",
+  "company": {
+    "name": "Balistreri, Williamson and Klein",
+    "catchPhrase": "Front-line 5th generation secured line",
+    "bs": "e-business whiteboard markets"
+  },
+  "id": "62009120-83ea-4317-82bc-df3f437c9a21",
+  "testnumobjnums": {
+    "num1": 70432,
+    "num2": 88794,
+    "num3": 11407,
+    "deeper": {
+      "arr": [
+        19221,
+        52424,
+        23895,
+        47547.5
+      ]
+    }
+  },
+  "lastSaid": "cross-media redefine metrics"
+}

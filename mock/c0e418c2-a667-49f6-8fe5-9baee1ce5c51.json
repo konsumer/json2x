@@ -1,0 +1,37 @@
+{
+  "name": "Miss Veronica Farrell",
+  "username": "Foster87",
+  "email": "Anabel.Mitchell@gmail.com",
+  "address": {
+    "street": "Kristin Mission",
+    "suite": "Suite 440",
+    "city": "East Willy",
+    "zipcode": "99270",
+    "geo": {
+      "lat": -2.9917,
+      "lng": -120.6296
+    }
+  },
+  "phone": "120-695-3463",
+  "website": "corene.com",
+  "company": {
+    "name": "Kihn - Steuber",
+    "catchPhrase": "Proactive value-added installation",
+    "bs": "strategic generate methodologies"
+  },
+  "id": "c0e418c2-a667-49f6-8fe5-9baee1ce5c51",
+  "testnumobjnums": {
+    "num1": 29839,
+    "num2": 7785,
+    "num3": 9216,
+    "deeper": {
+      "arr": [
+        67261,
+        48637,
+        71963,
+        36079
+      ]
+    }
+  },
+  "lastSaid": "cross-platform facilitate applications"
+}

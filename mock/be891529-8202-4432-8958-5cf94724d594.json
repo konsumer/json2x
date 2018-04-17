@@ -1,0 +1,38 @@
+{
+  "name": "Alisa MacGyver",
+  "username": "Britney_Schiller",
+  "email": "Kiana_Borer93@hotmail.com",
+  "address": {
+    "street": "Swaniawski Fort",
+    "suite": "Suite 649",
+    "city": "Lake Paolo",
+    "zipcode": "87788-2745",
+    "geo": {
+      "lat": 3.2507,
+      "lng": 36.0101
+    }
+  },
+  "phone": "525.454.0845",
+  "website": "britney.info",
+  "company": {
+    "name": "Hilpert Inc",
+    "catchPhrase": "Adaptive eco-centric emulation",
+    "bs": "end-to-end strategize web services"
+  },
+  "id": "be891529-8202-4432-8958-5cf94724d594",
+  "testnumobjnums": {
+    "num1": 12631,
+    "num2": 97593,
+    "num3": 6875,
+    "deeper": {
+      "arr": [
+        15562,
+        98036,
+        19978,
+        8866
+      ]
+    }
+  },
+  "doing": "interface bypassing",
+  "lastSaid": "You can't synthesize the circuit without calculating the primary XSS pixel!"
+}

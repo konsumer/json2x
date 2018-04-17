@@ -1,0 +1,38 @@
+{
+  "name": "Makenzie Abernathy",
+  "username": "Christine_Gleichner",
+  "email": "Darion.Heller@yahoo.com",
+  "address": {
+    "street": "Stroman Roads",
+    "suite": "Suite 503",
+    "city": "South Janis",
+    "zipcode": "83523-4610",
+    "geo": {
+      "lat": 76.9705,
+      "lng": 110.1886
+    }
+  },
+  "phone": "000.000.6284",
+  "website": "jared.com",
+  "company": {
+    "name": "Franecki, Blanda and Langworth",
+    "catchPhrase": "Stand-alone analyzing Graphical User Interface",
+    "bs": "real-time mesh e-markets"
+  },
+  "id": "a5f6acd5-c0cf-41a7-a616-98f5bd3b29ec",
+  "testnumobjnums": {
+    "num1": 84639,
+    "num2": 20107,
+    "num3": 12060.5,
+    "deeper": {
+      "arr": [
+        60071,
+        71052,
+        95895,
+        45484.5
+      ]
+    }
+  },
+  "doing": "feed overriding",
+  "lastSaid": "I'll copy the haptic SMTP matrix, that should program the RSS matrix!"
+}

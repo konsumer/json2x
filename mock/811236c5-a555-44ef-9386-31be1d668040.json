@@ -1,0 +1,37 @@
+{
+  "name": "Lucile Maggio",
+  "username": "Wayne.Haag",
+  "email": "Angelica81@gmail.com",
+  "address": {
+    "street": "Carter Mission",
+    "suite": "Suite 148",
+    "city": "Selenashire",
+    "zipcode": "68167",
+    "geo": {
+      "lat": -83.0853,
+      "lng": -91.3239
+    }
+  },
+  "phone": "(390) 702-2802",
+  "website": "waino.com",
+  "company": {
+    "name": "Keeling and Sons",
+    "catchPhrase": "Decentralized attitude-oriented open system",
+    "bs": "world-class disintermediate e-tailers"
+  },
+  "id": "811236c5-a555-44ef-9386-31be1d668040",
+  "testnumobjnums": {
+    "num1": 89386,
+    "num2": 19236,
+    "num3": 29919.5,
+    "deeper": {
+      "arr": [
+        89610,
+        5327,
+        98916,
+        26882.5
+      ]
+    }
+  },
+  "lastSaid": "impactful extend partnerships"
+}

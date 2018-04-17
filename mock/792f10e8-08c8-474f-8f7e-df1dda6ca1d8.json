@@ -1,0 +1,38 @@
+{
+  "name": "Eve Hoppe",
+  "username": "Idell99",
+  "email": "Magali73@yahoo.com",
+  "address": {
+    "street": "Ferry Parks",
+    "suite": "Apt. 715",
+    "city": "Vonbury",
+    "zipcode": "35599-4576",
+    "geo": {
+      "lat": 1.4867,
+      "lng": -61.1481
+    }
+  },
+  "phone": "1-181-035-1026",
+  "website": "chaya.com",
+  "company": {
+    "name": "Reinger - Jast",
+    "catchPhrase": "User-friendly stable concept",
+    "bs": "dot-com benchmark infomediaries"
+  },
+  "id": "792f10e8-08c8-474f-8f7e-df1dda6ca1d8",
+  "testnumobjnums": {
+    "num1": 20271,
+    "num2": 56038,
+    "num3": 2333,
+    "deeper": {
+      "arr": [
+        77846,
+        80189,
+        36668,
+        6648.5
+      ]
+    }
+  },
+  "doing": "microchip connecting",
+  "lastSaid": "The TCP pixel is down, hack the back-end monitor so we can index the HDD bandwidth!"
+}

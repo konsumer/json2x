@@ -1,0 +1,37 @@
+{
+  "name": "Jermaine Feeney III",
+  "username": "Bailee_Kovacek7",
+  "email": "Kamryn_Strosin32@gmail.com",
+  "address": {
+    "street": "Karina Cliff",
+    "suite": "Suite 005",
+    "city": "Port Patience",
+    "zipcode": "26543-0803",
+    "geo": {
+      "lat": 85.1914,
+      "lng": 25.7178
+    }
+  },
+  "phone": "1-419-820-5474",
+  "website": "jackeline.biz",
+  "company": {
+    "name": "Spinka Group",
+    "catchPhrase": "Diverse well-modulated concept",
+    "bs": "compelling drive functionalities"
+  },
+  "id": "a987bc8f-6927-4597-8eee-8f604fc6dce2",
+  "testnumobjnums": {
+    "num1": 84551,
+    "num2": 12032,
+    "num3": 2149,
+    "deeper": {
+      "arr": [
+        70196,
+        48940,
+        97753,
+        45030
+      ]
+    }
+  },
+  "lastSaid": "open-source orchestrate e-tailers"
+}

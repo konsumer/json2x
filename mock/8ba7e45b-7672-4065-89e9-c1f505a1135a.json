@@ -1,0 +1,37 @@
+{
+  "name": "Mckayla Altenwerth",
+  "username": "Zachary.Schuppe",
+  "email": "Alvera.Spinka82@hotmail.com",
+  "address": {
+    "street": "Metz Via",
+    "suite": "Apt. 278",
+    "city": "Hudsonport",
+    "zipcode": "63252-6483",
+    "geo": {
+      "lat": 4.8239,
+      "lng": -116.6662
+    }
+  },
+  "phone": "(558) 630-8586",
+  "website": "hope.com",
+  "company": {
+    "name": "Rippin, Wisozk and Corkery",
+    "catchPhrase": "Universal human-resource portal",
+    "bs": "vertical drive functionalities"
+  },
+  "id": "8ba7e45b-7672-4065-89e9-c1f505a1135a",
+  "testnumobjnums": {
+    "num1": 32446,
+    "num2": 1805,
+    "num3": 39860,
+    "deeper": {
+      "arr": [
+        54307,
+        67244,
+        52148,
+        41250
+      ]
+    }
+  },
+  "lastSaid": "user-centric e-enable ROI"
+}

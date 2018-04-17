@@ -1,0 +1,38 @@
+{
+  "name": "Yazmin Fay",
+  "username": "Mac_Bins",
+  "email": "Cordia_Heidenreich@gmail.com",
+  "address": {
+    "street": "Helmer Spur",
+    "suite": "Apt. 614",
+    "city": "South Gillian",
+    "zipcode": "60930",
+    "geo": {
+      "lat": 71.0557,
+      "lng": -117.96
+    }
+  },
+  "phone": "429-265-0996 x453",
+  "website": "paige.biz",
+  "company": {
+    "name": "Feeney - O'Hara",
+    "catchPhrase": "Self-enabling human-resource encoding",
+    "bs": "one-to-one repurpose systems"
+  },
+  "id": "f31efbc3-52f0-446a-b006-8b73b2fc2f02",
+  "testnumobjnums": {
+    "num1": 24287,
+    "num2": 25985,
+    "num3": 34987.5,
+    "deeper": {
+      "arr": [
+        79062,
+        58889,
+        77833,
+        21049.5
+      ]
+    }
+  },
+  "doing": "circuit copying",
+  "lastSaid": "indexing the transmitter won't do anything, we need to parse the cross-platform HTTP panel!"
+}

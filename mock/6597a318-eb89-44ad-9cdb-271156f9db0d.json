@@ -1,0 +1,38 @@
+{
+  "name": "Shanon Hintz",
+  "username": "Brenden_Reichert51",
+  "email": "Monroe.Schamberger9@hotmail.com",
+  "address": {
+    "street": "Stanton Branch",
+    "suite": "Apt. 714",
+    "city": "Hammesberg",
+    "zipcode": "12353",
+    "geo": {
+      "lat": -41.325,
+      "lng": 18.2371
+    }
+  },
+  "phone": "1-872-286-3545 x25696",
+  "website": "omari.org",
+  "company": {
+    "name": "Greenfelder, Shields and Ledner",
+    "catchPhrase": "Face to face bottom-line alliance",
+    "bs": "cutting-edge syndicate technologies"
+  },
+  "id": "6597a318-eb89-44ad-9cdb-271156f9db0d",
+  "testnumobjnums": {
+    "num1": 87,
+    "num2": 59782,
+    "num3": 39021,
+    "deeper": {
+      "arr": [
+        67816,
+        15047,
+        36839,
+        23783.5
+      ]
+    }
+  },
+  "doing": "alarm copying",
+  "lastSaid": "If we quantify the capacitor, we can get to the COM transmitter through the 1080p HDD protocol!"
+}

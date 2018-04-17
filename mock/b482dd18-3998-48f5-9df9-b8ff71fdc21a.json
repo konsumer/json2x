@@ -1,0 +1,37 @@
+{
+  "name": "Cora Hintz",
+  "username": "Will_Bernier",
+  "email": "Rosalind79@hotmail.com",
+  "address": {
+    "street": "Borer Green",
+    "suite": "Apt. 423",
+    "city": "Krajcikmouth",
+    "zipcode": "30797-5310",
+    "geo": {
+      "lat": -42.2339,
+      "lng": -131.3367
+    }
+  },
+  "phone": "1-941-161-8735",
+  "website": "jess.org",
+  "company": {
+    "name": "Grady, Stokes and Rutherford",
+    "catchPhrase": "Distributed coherent software",
+    "bs": "B2B syndicate bandwidth"
+  },
+  "id": "b482dd18-3998-48f5-9df9-b8ff71fdc21a",
+  "testnumobjnums": {
+    "num1": 3975,
+    "num2": 26964,
+    "num3": 20750,
+    "deeper": {
+      "arr": [
+        94480,
+        18305,
+        26132,
+        6970.5
+      ]
+    }
+  },
+  "lastSaid": "killer cultivate schemas"
+}

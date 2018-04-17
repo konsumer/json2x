@@ -1,0 +1,37 @@
+{
+  "name": "Paul Schaden",
+  "username": "Wilburn92",
+  "email": "Hardy69@yahoo.com",
+  "address": {
+    "street": "Rene Point",
+    "suite": "Suite 384",
+    "city": "Doylefort",
+    "zipcode": "74589",
+    "geo": {
+      "lat": -81.7294,
+      "lng": -146.4007
+    }
+  },
+  "phone": "452-368-4901",
+  "website": "leonie.org",
+  "company": {
+    "name": "Von, Schulist and Schowalter",
+    "catchPhrase": "Grass-roots background moderator",
+    "bs": "visionary reinvent bandwidth"
+  },
+  "id": "3901284a-0c4c-4f29-9b96-a54d2576047a",
+  "testnumobjnums": {
+    "num1": 45121,
+    "num2": 4968,
+    "num3": 28581.5,
+    "deeper": {
+      "arr": [
+        47315,
+        39576,
+        11699,
+        16945.5
+      ]
+    }
+  },
+  "lastSaid": "web-enabled repurpose networks"
+}

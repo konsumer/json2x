@@ -1,0 +1,37 @@
+{
+  "name": "Dr. Lily Hermann",
+  "username": "Annette_Lemke48",
+  "email": "Euna_Crooks21@yahoo.com",
+  "address": {
+    "street": "Lynch Overpass",
+    "suite": "Suite 625",
+    "city": "Port Janatown",
+    "zipcode": "70998-9720",
+    "geo": {
+      "lat": -76.6029,
+      "lng": 79.1454
+    }
+  },
+  "phone": "1-033-607-7450",
+  "website": "dina.biz",
+  "company": {
+    "name": "Spencer - Weimann",
+    "catchPhrase": "Re-contextualized real-time core",
+    "bs": "proactive visualize bandwidth"
+  },
+  "id": "23a389c9-e9bf-4f3a-9008-0368cabfd52b",
+  "testnumobjnums": {
+    "num1": 93604,
+    "num2": 77189,
+    "num3": 4223,
+    "deeper": {
+      "arr": [
+        68197,
+        74595,
+        37243,
+        15093
+      ]
+    }
+  },
+  "lastSaid": "holistic implement models"
+}

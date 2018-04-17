@@ -1,0 +1,37 @@
+{
+  "name": "Serenity Medhurst",
+  "username": "Alanna42",
+  "email": "Katrina.Weissnat@gmail.com",
+  "address": {
+    "street": "Jacobson Extension",
+    "suite": "Suite 692",
+    "city": "Martaton",
+    "zipcode": "94066-2170",
+    "geo": {
+      "lat": -52.5415,
+      "lng": -60.4244
+    }
+  },
+  "phone": "1-333-374-3544 x1432",
+  "website": "chad.name",
+  "company": {
+    "name": "Olson, O'Conner and Wintheiser",
+    "catchPhrase": "De-engineered logistical intranet",
+    "bs": "B2B e-enable e-markets"
+  },
+  "id": "7918f434-61cf-43fa-b786-39b20bd0de4f",
+  "testnumobjnums": {
+    "num1": 40938,
+    "num2": 95266,
+    "num3": 36101.5,
+    "deeper": {
+      "arr": [
+        18404,
+        98949,
+        68428,
+        3119.5
+      ]
+    }
+  },
+  "lastSaid": "intuitive cultivate ROI"
+}

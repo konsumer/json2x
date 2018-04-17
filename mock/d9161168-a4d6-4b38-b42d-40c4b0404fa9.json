@@ -1,0 +1,38 @@
+{
+  "name": "Aisha Mante IV",
+  "username": "Americo12",
+  "email": "Rosalyn_Yundt25@yahoo.com",
+  "address": {
+    "street": "Rocky Loaf",
+    "suite": "Suite 121",
+    "city": "East Devonteland",
+    "zipcode": "74871",
+    "geo": {
+      "lat": -73.1562,
+      "lng": 48.8119
+    }
+  },
+  "phone": "503-342-9781",
+  "website": "isabelle.net",
+  "company": {
+    "name": "Johnson, Carroll and Bosco",
+    "catchPhrase": "Fundamental asynchronous projection",
+    "bs": "collaborative maximize solutions"
+  },
+  "id": "d9161168-a4d6-4b38-b42d-40c4b0404fa9",
+  "testnumobjnums": {
+    "num1": 45444,
+    "num2": 96527,
+    "num3": 49644,
+    "deeper": {
+      "arr": [
+        45383,
+        22430,
+        97913,
+        47161.5
+      ]
+    }
+  },
+  "doing": "protocol navigating",
+  "lastSaid": "The RSS protocol is down, index the optical pixel so we can override the IB hard drive!"
+}

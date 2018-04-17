@@ -1,0 +1,38 @@
+{
+  "name": "Brannon Schoen",
+  "username": "Efren_Will",
+  "email": "Isabel78@gmail.com",
+  "address": {
+    "street": "Dane Squares",
+    "suite": "Suite 233",
+    "city": "West Miguelhaven",
+    "zipcode": "17709",
+    "geo": {
+      "lat": -3.7529,
+      "lng": -102.1473
+    }
+  },
+  "phone": "563-324-7749",
+  "website": "alysson.info",
+  "company": {
+    "name": "Greenholt, Hudson and Medhurst",
+    "catchPhrase": "Optional bifurcated software",
+    "bs": "robust strategize action-items"
+  },
+  "id": "fc28cf4b-1e38-4abd-82f5-7cdb590c0821",
+  "testnumobjnums": {
+    "num1": 39893,
+    "num2": 68835,
+    "num3": 17975.5,
+    "deeper": {
+      "arr": [
+        93156,
+        8524,
+        97071,
+        47512.5
+      ]
+    }
+  },
+  "doing": "pixel calculating",
+  "lastSaid": "We need to transmit the multi-byte SCSI monitor!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Veda Senger",
+  "username": "Dallas.Mohr16",
+  "email": "Dortha.Murphy@hotmail.com",
+  "address": {
+    "street": "Hagenes Point",
+    "suite": "Suite 035",
+    "city": "North Shawnstad",
+    "zipcode": "21764",
+    "geo": {
+      "lat": -88.9304,
+      "lng": -172.3294
+    }
+  },
+  "phone": "427-082-9917",
+  "website": "haylie.biz",
+  "company": {
+    "name": "Kuhn LLC",
+    "catchPhrase": "Integrated disintermediate complexity",
+    "bs": "front-end enable portals"
+  },
+  "id": "27d7cd1c-7a1f-4680-a4fa-e2a67debda0b",
+  "testnumobjnums": {
+    "num1": 5099,
+    "num2": 54539,
+    "num3": 12685,
+    "deeper": {
+      "arr": [
+        46954,
+        51094,
+        9179,
+        18771.5
+      ]
+    }
+  },
+  "lastSaid": "seamless streamline convergence"
+}

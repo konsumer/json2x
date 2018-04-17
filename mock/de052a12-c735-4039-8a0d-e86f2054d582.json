@@ -1,0 +1,37 @@
+{
+  "name": "Rocky Oberbrunner",
+  "username": "Leora_Kovacek64",
+  "email": "Cecil56@gmail.com",
+  "address": {
+    "street": "Sauer Crest",
+    "suite": "Apt. 237",
+    "city": "New Peteview",
+    "zipcode": "87999",
+    "geo": {
+      "lat": -0.1453,
+      "lng": 130.4501
+    }
+  },
+  "phone": "1-938-676-3042",
+  "website": "claudine.info",
+  "company": {
+    "name": "Thiel, Stamm and Turcotte",
+    "catchPhrase": "Realigned explicit algorithm",
+    "bs": "24/365 syndicate partnerships"
+  },
+  "id": "de052a12-c735-4039-8a0d-e86f2054d582",
+  "testnumobjnums": {
+    "num1": 83603,
+    "num2": 24964,
+    "num3": 38035.5,
+    "deeper": {
+      "arr": [
+        37293,
+        4576,
+        3700,
+        45714.5
+      ]
+    }
+  },
+  "lastSaid": "frictionless seize networks"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Dariana Kunze",
+  "username": "Adelbert88",
+  "email": "Everette41@yahoo.com",
+  "address": {
+    "street": "Chaz Corners",
+    "suite": "Apt. 694",
+    "city": "New Lucieborough",
+    "zipcode": "10232-3200",
+    "geo": {
+      "lat": -10.1068,
+      "lng": 29.4315
+    }
+  },
+  "phone": "1-080-892-1285 x377",
+  "website": "dennis.net",
+  "company": {
+    "name": "Spencer and Sons",
+    "catchPhrase": "Function-based executive utilisation",
+    "bs": "dynamic engineer platforms"
+  },
+  "id": "ec5ac193-7d17-4d54-9796-bbe8f61988c1",
+  "testnumobjnums": {
+    "num1": 87408,
+    "num2": 44721,
+    "num3": 22130,
+    "deeper": {
+      "arr": [
+        73837,
+        86018,
+        88414,
+        1895.5
+      ]
+    }
+  },
+  "lastSaid": "back-end whiteboard users"
+}

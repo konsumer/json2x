@@ -1,0 +1,38 @@
+{
+  "name": "Courtney Bauch",
+  "username": "Joanny.Heaney",
+  "email": "Rafaela.Tremblay49@hotmail.com",
+  "address": {
+    "street": "Scottie Wells",
+    "suite": "Apt. 813",
+    "city": "Rueckerchester",
+    "zipcode": "76423-6807",
+    "geo": {
+      "lat": 17.0041,
+      "lng": 135.8251
+    }
+  },
+  "phone": "(100) 093-6499 x177",
+  "website": "halie.org",
+  "company": {
+    "name": "Harvey LLC",
+    "catchPhrase": "Inverse hybrid product",
+    "bs": "collaborative target mindshare"
+  },
+  "id": "0fa98b3c-64b1-4f99-bd19-dcca3ae1dd9f",
+  "testnumobjnums": {
+    "num1": 34786,
+    "num2": 97051,
+    "num3": 19691.5,
+    "deeper": {
+      "arr": [
+        81468,
+        31402,
+        4819,
+        14989
+      ]
+    }
+  },
+  "doing": "application overriding",
+  "lastSaid": "I'll reboot the bluetooth SAS protocol, that should sensor the IB transmitter!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Mr. Marjolaine Anderson",
+  "username": "Alisha49",
+  "email": "Burley_Renner17@hotmail.com",
+  "address": {
+    "street": "Senger Brook",
+    "suite": "Apt. 210",
+    "city": "North Eduardoview",
+    "zipcode": "21759",
+    "geo": {
+      "lat": 86.7908,
+      "lng": -7.7096
+    }
+  },
+  "phone": "(921) 120-0468",
+  "website": "libby.name",
+  "company": {
+    "name": "Mertz - Rath",
+    "catchPhrase": "Inverse solution-oriented matrix",
+    "bs": "impactful transform metrics"
+  },
+  "id": "cc6ccc74-99b8-458b-8625-227c28e9e0c6",
+  "testnumobjnums": {
+    "num1": 64872,
+    "num2": 75632,
+    "num3": 16766,
+    "deeper": {
+      "arr": [
+        85630,
+        46794,
+        53817,
+        25517.5
+      ]
+    }
+  },
+  "lastSaid": "seamless reintermediate deliverables"
+}

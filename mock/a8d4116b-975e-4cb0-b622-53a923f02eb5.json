@@ -1,0 +1,37 @@
+{
+  "name": "Miss Bridie Dach",
+  "username": "Stephan32",
+  "email": "Austyn.Rau91@yahoo.com",
+  "address": {
+    "street": "Mills Ramp",
+    "suite": "Apt. 488",
+    "city": "South Gabriellachester",
+    "zipcode": "98032-4324",
+    "geo": {
+      "lat": -4.1821,
+      "lng": -139.5313
+    }
+  },
+  "phone": "(232) 351-1084 x392",
+  "website": "joanie.com",
+  "company": {
+    "name": "O'Hara Inc",
+    "catchPhrase": "Re-engineered hybrid application",
+    "bs": "next-generation aggregate models"
+  },
+  "id": "a8d4116b-975e-4cb0-b622-53a923f02eb5",
+  "testnumobjnums": {
+    "num1": 67837,
+    "num2": 97940,
+    "num3": 31830.5,
+    "deeper": {
+      "arr": [
+        69847,
+        24363,
+        71299,
+        26090.5
+      ]
+    }
+  },
+  "lastSaid": "clicks-and-mortar recontextualize markets"
+}
