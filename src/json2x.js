@@ -6,6 +6,8 @@ import { readFileSync } from 'fs'
 import yargs from 'yargs'
 import globR from 'glob-require'
 
+require('babel-polyfill')
+
 const noop = () => {}
 const g = promisify(globR)
 
