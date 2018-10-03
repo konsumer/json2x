@@ -9,29 +9,20 @@ exports[`json2x should get average from types for [1, 2, 3.5, 5] 1`] = `"float"`
 exports[`json2x should get the commands I expect 1`] = `
 Array [
   Object {
-    "exports": Object {
-      "description": "Generate GraphQL types from your data",
-      "makeType": [Function],
-      "options": [Function],
-      "run": [Function],
-    },
-    "path": "/Users/konsumer/Documents/otherdev/json2x/src/generators/graphql.js",
+    "description": "Generate GraphQL types from your data",
+    "makeType": [Function],
+    "options": [Function],
+    "run": [Function],
   },
   Object {
-    "exports": Object {
-      "description": "Generate JSONSchema from your data",
-      "run": [Function],
-    },
-    "path": "/Users/konsumer/Documents/otherdev/json2x/src/generators/jsonschema.js",
+    "description": "Generate JSONSchema from your data",
+    "run": [Function],
   },
   Object {
-    "exports": Object {
-      "description": "Generate GraphQL types from your data",
-      "makeType": [Function],
-      "options": [Function],
-      "run": [Function],
-    },
-    "path": "/Users/konsumer/Documents/otherdev/json2x/src/generators/proto.js",
+    "description": "Generate GraphQL types from your data",
+    "makeType": [Function],
+    "options": [Function],
+    "run": [Function],
   },
 ]
 `;

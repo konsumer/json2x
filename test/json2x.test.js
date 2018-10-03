@@ -5,7 +5,8 @@ import { getAverageType, getTypes } from '../src/index'
 
 describe('json2x', () => {
   it('should get the commands I expect', async () => {
-    expect(await getCommands()).toMatchSnapshot()
+    const commands = (await getCommands()).map(({ exports }) => exports)
+    expect(commands).toMatchSnapshot()
   })
 
   it('should get average from types for [1, 2, 3.5, 5]', () => {
