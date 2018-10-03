@@ -1,6 +1,6 @@
 # json2x
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/konsumer/json2x.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/konsumer/json2x.svg?branch=master)](https://travis-ci.org/konsumer/json2x) [![Greenkeeper badge](https://badges.greenkeeper.io/konsumer/json2x.svg)](https://greenkeeper.io/)
 
 Use your JSON data to generate models for various things.
 
