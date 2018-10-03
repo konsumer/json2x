@@ -1,0 +1,38 @@
+{
+  "name": "Miss Kiley Smith",
+  "username": "Verona.Durgan",
+  "email": "Irwin.Considine42@hotmail.com",
+  "address": {
+    "street": "Ella Field",
+    "suite": "Suite 173",
+    "city": "Port Noemi",
+    "zipcode": "18252",
+    "geo": {
+      "lat": 50.2542,
+      "lng": -110.721
+    }
+  },
+  "phone": "1-224-524-3042 x0380",
+  "website": "hildegard.biz",
+  "company": {
+    "name": "Sipes, Bosco and Rau",
+    "catchPhrase": "Robust local instruction set",
+    "bs": "web-enabled reintermediate infomediaries"
+  },
+  "id": "1710da25-5b1b-48a0-b22d-28d59e972d2a",
+  "testnumobjnums": {
+    "num1": 19555,
+    "num2": 52112,
+    "num3": 43411.5,
+    "deeper": {
+      "arr": [
+        1903,
+        58968,
+        82448,
+        43731.5
+      ]
+    }
+  },
+  "doing": "port backing up",
+  "lastSaid": "If we parse the port, we can get to the HTTP port through the back-end USB panel!"
+}

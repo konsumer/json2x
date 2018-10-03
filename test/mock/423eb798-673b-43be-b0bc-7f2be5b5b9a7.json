@@ -1,0 +1,37 @@
+{
+  "name": "Kirk Marvin",
+  "username": "Paris0",
+  "email": "Clair95@gmail.com",
+  "address": {
+    "street": "Kuhic Rest",
+    "suite": "Suite 428",
+    "city": "Myrlfort",
+    "zipcode": "14973-9179",
+    "geo": {
+      "lat": -5.5491,
+      "lng": -93.3078
+    }
+  },
+  "phone": "1-621-481-3765 x094",
+  "website": "ayana.biz",
+  "company": {
+    "name": "Will - Nienow",
+    "catchPhrase": "Fundamental client-driven software",
+    "bs": "intuitive synergize infrastructures"
+  },
+  "id": "423eb798-673b-43be-b0bc-7f2be5b5b9a7",
+  "testnumobjnums": {
+    "num1": 16447,
+    "num2": 25610,
+    "num3": 27314,
+    "deeper": {
+      "arr": [
+        35482,
+        87681,
+        88721,
+        45690.5
+      ]
+    }
+  },
+  "lastSaid": "cross-media leverage web services"
+}

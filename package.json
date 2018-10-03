@@ -15,7 +15,8 @@
   "scripts": {
     "build": "babel src -d build",
     "prepublish": "npm run build",
-    "mock": "babel-node src/mock.js"
+    "mock": "babel-node __tests__/mock.js",
+    "test": "jest"
   },
   "bin": {
     "json2x": "build/json2x.js"
@@ -47,7 +48,9 @@
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "babel-preset-stage-3": "^6.24.1",
-    "faker": "^4.1.0"
+    "faker": "^4.1.0",
+    "jest": "^23.6.0",
+    "jest-babel": "^1.0.1"
   },
   "babel": {
     "presets": [
@@ -57,5 +60,8 @@
     "plugins": [
       "shebang"
     ]
+  },
+  "jest": {
+    "testRegex": "/test/.+\\.(test|spec)\\.js$"
   }
 }

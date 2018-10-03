@@ -1,0 +1,37 @@
+{
+  "name": "Stone Sanford",
+  "username": "Sandra14",
+  "email": "Wilma49@hotmail.com",
+  "address": {
+    "street": "Batz Lodge",
+    "suite": "Apt. 899",
+    "city": "New Audreyberg",
+    "zipcode": "70495",
+    "geo": {
+      "lat": 84.5626,
+      "lng": -128.8691
+    }
+  },
+  "phone": "149-453-2381 x163",
+  "website": "lucious.biz",
+  "company": {
+    "name": "Lehner, O'Reilly and Purdy",
+    "catchPhrase": "Streamlined 6th generation protocol",
+    "bs": "frictionless redefine eyeballs"
+  },
+  "id": "da6abc07-f29d-420a-9c66-9c3019e42099",
+  "testnumobjnums": {
+    "num1": 60263,
+    "num2": 94109,
+    "num3": 8647,
+    "deeper": {
+      "arr": [
+        58324,
+        5593,
+        95061,
+        7444.5
+      ]
+    }
+  },
+  "lastSaid": "rich exploit platforms"
+}

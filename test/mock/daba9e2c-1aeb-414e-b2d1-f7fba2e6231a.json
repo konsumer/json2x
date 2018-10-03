@@ -1,0 +1,38 @@
+{
+  "name": "Everardo Torphy",
+  "username": "Alicia.Heidenreich",
+  "email": "Hailie_Ledner@yahoo.com",
+  "address": {
+    "street": "Ernestine Common",
+    "suite": "Apt. 918",
+    "city": "West Amirafort",
+    "zipcode": "09331",
+    "geo": {
+      "lat": 8.6192,
+      "lng": -84.0183
+    }
+  },
+  "phone": "1-995-116-4166 x829",
+  "website": "marilie.name",
+  "company": {
+    "name": "Runolfsdottir - Larkin",
+    "catchPhrase": "Object-based empowering protocol",
+    "bs": "dot-com enhance technologies"
+  },
+  "id": "daba9e2c-1aeb-414e-b2d1-f7fba2e6231a",
+  "testnumobjnums": {
+    "num1": 56322,
+    "num2": 46712,
+    "num3": 28849,
+    "deeper": {
+      "arr": [
+        84605,
+        89977,
+        28203,
+        49678.5
+      ]
+    }
+  },
+  "doing": "transmitter generating",
+  "lastSaid": "quantifying the pixel won't do anything, we need to navigate the mobile ADP protocol!"
+}

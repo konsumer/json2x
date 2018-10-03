@@ -1,0 +1,38 @@
+{
+  "name": "Darby Koelpin",
+  "username": "Dock84",
+  "email": "Chris15@yahoo.com",
+  "address": {
+    "street": "Trevor Landing",
+    "suite": "Suite 094",
+    "city": "West Lisetteport",
+    "zipcode": "99231",
+    "geo": {
+      "lat": -49.3796,
+      "lng": -3.2982
+    }
+  },
+  "phone": "(425) 424-5143",
+  "website": "shane.info",
+  "company": {
+    "name": "Luettgen, Metz and Mraz",
+    "catchPhrase": "Decentralized attitude-oriented monitoring",
+    "bs": "robust transition web services"
+  },
+  "id": "4e39e991-fd7e-4494-930c-8b12ab667373",
+  "testnumobjnums": {
+    "num1": 51478,
+    "num2": 63702,
+    "num3": 15160,
+    "deeper": {
+      "arr": [
+        94966,
+        38966,
+        6310,
+        18159
+      ]
+    }
+  },
+  "doing": "port backing up",
+  "lastSaid": "You can't compress the driver without backing up the multi-byte RAM matrix!"
+}

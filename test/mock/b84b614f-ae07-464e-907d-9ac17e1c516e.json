@@ -1,0 +1,38 @@
+{
+  "name": "Billy Jenkins",
+  "username": "Flossie.Dickens75",
+  "email": "Otha.Howe13@gmail.com",
+  "address": {
+    "street": "Daija Summit",
+    "suite": "Apt. 276",
+    "city": "Gottliebview",
+    "zipcode": "20679",
+    "geo": {
+      "lat": -38.4404,
+      "lng": 30.1334
+    }
+  },
+  "phone": "(240) 823-5297",
+  "website": "merlin.com",
+  "company": {
+    "name": "Beier - Erdman",
+    "catchPhrase": "Future-proofed scalable algorithm",
+    "bs": "plug-and-play leverage methodologies"
+  },
+  "id": "b84b614f-ae07-464e-907d-9ac17e1c516e",
+  "testnumobjnums": {
+    "num1": 90880,
+    "num2": 95131,
+    "num3": 9727.5,
+    "deeper": {
+      "arr": [
+        83957,
+        37697,
+        87734,
+        21508.5
+      ]
+    }
+  },
+  "doing": "array overriding",
+  "lastSaid": "Try to copy the SMTP microchip, maybe it will back up the virtual circuit!"
+}

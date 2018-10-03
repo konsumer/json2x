@@ -1,0 +1,38 @@
+{
+  "name": "Frieda Ruecker",
+  "username": "Otho_Emmerich91",
+  "email": "Georgette.Toy@hotmail.com",
+  "address": {
+    "street": "Gutkowski Ridges",
+    "suite": "Suite 272",
+    "city": "Greenfelderland",
+    "zipcode": "52012-7616",
+    "geo": {
+      "lat": 28.424,
+      "lng": 17.7852
+    }
+  },
+  "phone": "945.388.1431",
+  "website": "annamae.biz",
+  "company": {
+    "name": "Schaefer, Ledner and Rolfson",
+    "catchPhrase": "Multi-channelled mission-critical knowledge base",
+    "bs": "sexy engineer relationships"
+  },
+  "id": "e20dfdda-bd8b-4ea2-a1cd-697168fb2412",
+  "testnumobjnums": {
+    "num1": 29961,
+    "num2": 77985,
+    "num3": 31047,
+    "deeper": {
+      "arr": [
+        1554,
+        66027,
+        93026,
+        5485
+      ]
+    }
+  },
+  "doing": "circuit connecting",
+  "lastSaid": "We need to input the haptic SSL pixel!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Bell Herman",
+  "username": "Monty_Pacocha",
+  "email": "Carissa70@gmail.com",
+  "address": {
+    "street": "Schaden Fort",
+    "suite": "Suite 697",
+    "city": "Lowemouth",
+    "zipcode": "14574",
+    "geo": {
+      "lat": 5.6877,
+      "lng": -143.9919
+    }
+  },
+  "phone": "703-023-1036 x2763",
+  "website": "lolita.net",
+  "company": {
+    "name": "Crooks - Carter",
+    "catchPhrase": "Visionary disintermediate function",
+    "bs": "interactive generate vortals"
+  },
+  "id": "8b93570b-e315-42cd-8c37-b08669dfbecd",
+  "testnumobjnums": {
+    "num1": 90748,
+    "num2": 95397,
+    "num3": 6437.5,
+    "deeper": {
+      "arr": [
+        46763,
+        83635,
+        6,
+        3184.5
+      ]
+    }
+  },
+  "lastSaid": "sexy reintermediate models"
+}

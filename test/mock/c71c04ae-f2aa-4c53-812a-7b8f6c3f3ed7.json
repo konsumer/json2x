@@ -1,0 +1,38 @@
+{
+  "name": "Hailie Boyer",
+  "username": "Jaclyn.Spencer55",
+  "email": "Marlee_Kris83@hotmail.com",
+  "address": {
+    "street": "Gavin Tunnel",
+    "suite": "Apt. 048",
+    "city": "Carolynchester",
+    "zipcode": "42240",
+    "geo": {
+      "lat": 7.921,
+      "lng": -46.4287
+    }
+  },
+  "phone": "323-214-4925",
+  "website": "esteban.info",
+  "company": {
+    "name": "Will, Lynch and Toy",
+    "catchPhrase": "Mandatory empowering strategy",
+    "bs": "extensible leverage e-markets"
+  },
+  "id": "c71c04ae-f2aa-4c53-812a-7b8f6c3f3ed7",
+  "testnumobjnums": {
+    "num1": 43925,
+    "num2": 26651,
+    "num3": 16271.5,
+    "deeper": {
+      "arr": [
+        61644,
+        79193,
+        96233,
+        18312
+      ]
+    }
+  },
+  "doing": "matrix indexing",
+  "lastSaid": "You can't index the hard drive without indexing the digital RSS circuit!"
+}

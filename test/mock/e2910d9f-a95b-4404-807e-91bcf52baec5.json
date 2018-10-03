@@ -1,0 +1,38 @@
+{
+  "name": "Jay Conroy Jr.",
+  "username": "Everette.Anderson",
+  "email": "Dylan.Gulgowski@yahoo.com",
+  "address": {
+    "street": "Randi Locks",
+    "suite": "Suite 326",
+    "city": "Alessandraland",
+    "zipcode": "96771",
+    "geo": {
+      "lat": 2.3772,
+      "lng": 68.7322
+    }
+  },
+  "phone": "(127) 255-5384",
+  "website": "maeve.net",
+  "company": {
+    "name": "Wisoky, Schiller and Dach",
+    "catchPhrase": "Organized holistic open architecture",
+    "bs": "intuitive exploit e-business"
+  },
+  "id": "e2910d9f-a95b-4404-807e-91bcf52baec5",
+  "testnumobjnums": {
+    "num1": 51121,
+    "num2": 24811,
+    "num3": 22900,
+    "deeper": {
+      "arr": [
+        8077,
+        71910,
+        20565,
+        12837
+      ]
+    }
+  },
+  "doing": "protocol compressing",
+  "lastSaid": "overriding the sensor won't do anything, we need to synthesize the haptic ADP program!"
+}

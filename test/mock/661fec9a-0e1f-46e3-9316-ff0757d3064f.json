@@ -1,0 +1,38 @@
+{
+  "name": "Andy Casper",
+  "username": "Effie.Rosenbaum",
+  "email": "Bulah58@gmail.com",
+  "address": {
+    "street": "Kuphal Throughway",
+    "suite": "Suite 463",
+    "city": "Port Arturo",
+    "zipcode": "97567-8471",
+    "geo": {
+      "lat": 78.1781,
+      "lng": -146.4289
+    }
+  },
+  "phone": "024.322.7789",
+  "website": "naomie.biz",
+  "company": {
+    "name": "Cummings, Koch and Pagac",
+    "catchPhrase": "Extended zero defect budgetary management",
+    "bs": "frictionless evolve e-services"
+  },
+  "id": "661fec9a-0e1f-46e3-9316-ff0757d3064f",
+  "testnumobjnums": {
+    "num1": 45773,
+    "num2": 31979,
+    "num3": 33712,
+    "deeper": {
+      "arr": [
+        13157,
+        14209,
+        57800,
+        37505.5
+      ]
+    }
+  },
+  "doing": "monitor backing up",
+  "lastSaid": "Use the cross-platform HTTP protocol, then you can reboot the solid state application!"
+}

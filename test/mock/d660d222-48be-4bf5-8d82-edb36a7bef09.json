@@ -1,0 +1,38 @@
+{
+  "name": "Adrien Pfeffer",
+  "username": "Danyka.Torp0",
+  "email": "Zachery_Rosenbaum@gmail.com",
+  "address": {
+    "street": "Rhianna Cape",
+    "suite": "Apt. 996",
+    "city": "South Sarahborough",
+    "zipcode": "43566",
+    "geo": {
+      "lat": 20.4352,
+      "lng": -175.2342
+    }
+  },
+  "phone": "1-661-685-6962",
+  "website": "nikki.org",
+  "company": {
+    "name": "Davis and Sons",
+    "catchPhrase": "Exclusive 4th generation Graphic Interface",
+    "bs": "distributed synergize e-business"
+  },
+  "id": "d660d222-48be-4bf5-8d82-edb36a7bef09",
+  "testnumobjnums": {
+    "num1": 98471,
+    "num2": 95318,
+    "num3": 43863.5,
+    "deeper": {
+      "arr": [
+        4919,
+        70327,
+        86988,
+        9439
+      ]
+    }
+  },
+  "doing": "microchip synthesizing",
+  "lastSaid": "If we program the transmitter, we can get to the SMTP port through the 1080p SDD monitor!"
+}

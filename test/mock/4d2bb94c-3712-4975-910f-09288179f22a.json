@@ -1,0 +1,37 @@
+{
+  "name": "Shaun Klein",
+  "username": "Kyler29",
+  "email": "Preston_Windler@gmail.com",
+  "address": {
+    "street": "Ritchie Pines",
+    "suite": "Suite 178",
+    "city": "North Corine",
+    "zipcode": "16986",
+    "geo": {
+      "lat": 54.6469,
+      "lng": 123.0141
+    }
+  },
+  "phone": "1-610-071-5249",
+  "website": "bradford.biz",
+  "company": {
+    "name": "Lynch, Pollich and Hegmann",
+    "catchPhrase": "Innovative system-worthy approach",
+    "bs": "dot-com iterate applications"
+  },
+  "id": "4d2bb94c-3712-4975-910f-09288179f22a",
+  "testnumobjnums": {
+    "num1": 96922,
+    "num2": 600,
+    "num3": 22187,
+    "deeper": {
+      "arr": [
+        41770,
+        64098,
+        27288,
+        20670
+      ]
+    }
+  },
+  "lastSaid": "plug-and-play enable e-services"
+}

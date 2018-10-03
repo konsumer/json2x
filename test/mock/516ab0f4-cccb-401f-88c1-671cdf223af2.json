@@ -1,0 +1,38 @@
+{
+  "name": "Myles Simonis",
+  "username": "Kari84",
+  "email": "Fabian22@gmail.com",
+  "address": {
+    "street": "Beatty Freeway",
+    "suite": "Suite 733",
+    "city": "New Cecelia",
+    "zipcode": "13215",
+    "geo": {
+      "lat": 56.0571,
+      "lng": -173.0779
+    }
+  },
+  "phone": "856-477-5283",
+  "website": "juana.org",
+  "company": {
+    "name": "Boehm - Rodriguez",
+    "catchPhrase": "Universal needs-based software",
+    "bs": "revolutionary generate bandwidth"
+  },
+  "id": "516ab0f4-cccb-401f-88c1-671cdf223af2",
+  "testnumobjnums": {
+    "num1": 25271,
+    "num2": 69849,
+    "num3": 47752,
+    "deeper": {
+      "arr": [
+        93806,
+        95860,
+        47505,
+        38857
+      ]
+    }
+  },
+  "doing": "matrix quantifying",
+  "lastSaid": "copying the bandwidth won't do anything, we need to input the haptic FTP monitor!"
+}

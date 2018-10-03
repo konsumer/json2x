@@ -1,0 +1,38 @@
+{
+  "name": "Alfred Collins",
+  "username": "Jayme42",
+  "email": "Violet.Kertzmann68@gmail.com",
+  "address": {
+    "street": "Phyllis Turnpike",
+    "suite": "Suite 214",
+    "city": "Kentonburgh",
+    "zipcode": "13454-0271",
+    "geo": {
+      "lat": -66.2807,
+      "lng": 71.7105
+    }
+  },
+  "phone": "1-636-945-5853",
+  "website": "libby.net",
+  "company": {
+    "name": "Terry - Windler",
+    "catchPhrase": "Fundamental tangible artificial intelligence",
+    "bs": "efficient redefine web-readiness"
+  },
+  "id": "e20b351e-3908-4f33-9891-d46f97a871e9",
+  "testnumobjnums": {
+    "num1": 88020,
+    "num2": 1907,
+    "num3": 1638.5,
+    "deeper": {
+      "arr": [
+        36258,
+        98369,
+        21598,
+        44750
+      ]
+    }
+  },
+  "doing": "program calculating",
+  "lastSaid": "Try to quantify the TCP firewall, maybe it will quantify the redundant driver!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Giovanna McLaughlin",
+  "username": "Norwood.Sauer94",
+  "email": "Emelia18@gmail.com",
+  "address": {
+    "street": "Upton Mission",
+    "suite": "Suite 816",
+    "city": "North Cynthia",
+    "zipcode": "58433",
+    "geo": {
+      "lat": -62.4663,
+      "lng": -60.5985
+    }
+  },
+  "phone": "181-773-6365 x5103",
+  "website": "emiliano.org",
+  "company": {
+    "name": "Lemke and Sons",
+    "catchPhrase": "Face to face non-volatile product",
+    "bs": "bleeding-edge strategize synergies"
+  },
+  "id": "550bc894-1d8a-492c-bdf2-fc2cefd9d9df",
+  "testnumobjnums": {
+    "num1": 17116,
+    "num2": 67098,
+    "num3": 26446.5,
+    "deeper": {
+      "arr": [
+        73715,
+        20867,
+        78821,
+        35605.5
+      ]
+    }
+  },
+  "lastSaid": "transparent repurpose interfaces"
+}

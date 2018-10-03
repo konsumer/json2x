@@ -1,0 +1,37 @@
+{
+  "name": "Mr. Elaina Olson",
+  "username": "Gerard49",
+  "email": "Callie_Stanton@hotmail.com",
+  "address": {
+    "street": "Kunze Vista",
+    "suite": "Suite 485",
+    "city": "Lake Wayne",
+    "zipcode": "62469",
+    "geo": {
+      "lat": 44.8626,
+      "lng": 85.5698
+    }
+  },
+  "phone": "(413) 820-5653",
+  "website": "lilliana.org",
+  "company": {
+    "name": "Botsford, Hirthe and Towne",
+    "catchPhrase": "Mandatory interactive knowledge user",
+    "bs": "cross-media matrix architectures"
+  },
+  "id": "c93d5acf-401e-4ac9-bb35-708133c48f14",
+  "testnumobjnums": {
+    "num1": 9328,
+    "num2": 44136,
+    "num3": 49167,
+    "deeper": {
+      "arr": [
+        20327,
+        82632,
+        71563,
+        49387.5
+      ]
+    }
+  },
+  "lastSaid": "web-enabled deliver e-services"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Dessie Rau",
+  "username": "Jevon_Kuphal",
+  "email": "Trent.Considine@hotmail.com",
+  "address": {
+    "street": "Fadel Fields",
+    "suite": "Suite 595",
+    "city": "East Ethelynstad",
+    "zipcode": "97551-6375",
+    "geo": {
+      "lat": 28.738,
+      "lng": 111.1562
+    }
+  },
+  "phone": "497.374.9917",
+  "website": "leola.net",
+  "company": {
+    "name": "Quitzon and Sons",
+    "catchPhrase": "Team-oriented transitional strategy",
+    "bs": "end-to-end deliver communities"
+  },
+  "id": "9ed9fccb-c3b4-4f18-9672-1a6036b26d5d",
+  "testnumobjnums": {
+    "num1": 6220,
+    "num2": 14726,
+    "num3": 34464,
+    "deeper": {
+      "arr": [
+        60772,
+        93220,
+        38548,
+        10636
+      ]
+    }
+  },
+  "lastSaid": "global envisioneer users"
+}

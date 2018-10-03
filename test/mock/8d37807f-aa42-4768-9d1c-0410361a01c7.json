@@ -1,0 +1,38 @@
+{
+  "name": "Mr. Alta Bruen",
+  "username": "Moshe.Bosco56",
+  "email": "Sebastian.Lakin93@yahoo.com",
+  "address": {
+    "street": "Katelyn Keys",
+    "suite": "Apt. 392",
+    "city": "Traceville",
+    "zipcode": "48947-8093",
+    "geo": {
+      "lat": -73.121,
+      "lng": -47.3176
+    }
+  },
+  "phone": "1-839-434-5253 x24953",
+  "website": "cathrine.com",
+  "company": {
+    "name": "Bauch, Lind and Nienow",
+    "catchPhrase": "Open-source scalable monitoring",
+    "bs": "viral synergize deliverables"
+  },
+  "id": "8d37807f-aa42-4768-9d1c-0410361a01c7",
+  "testnumobjnums": {
+    "num1": 73802,
+    "num2": 21334,
+    "num3": 40665.5,
+    "deeper": {
+      "arr": [
+        80249,
+        70541,
+        60646,
+        47522.5
+      ]
+    }
+  },
+  "doing": "firewall copying",
+  "lastSaid": "We need to quantify the optical SAS sensor!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Fatima Welch",
+  "username": "Mae.Leuschke94",
+  "email": "Mallie.Rolfson@hotmail.com",
+  "address": {
+    "street": "Treutel Mountain",
+    "suite": "Suite 125",
+    "city": "West Albinburgh",
+    "zipcode": "73736",
+    "geo": {
+      "lat": -20.9424,
+      "lng": -11.5753
+    }
+  },
+  "phone": "998-749-1838",
+  "website": "marta.net",
+  "company": {
+    "name": "Jacobson and Sons",
+    "catchPhrase": "Advanced mission-critical strategy",
+    "bs": "plug-and-play empower systems"
+  },
+  "id": "b91cffe4-85f6-48bd-85c4-e6b7b4ec60b3",
+  "testnumobjnums": {
+    "num1": 93167,
+    "num2": 44498,
+    "num3": 27104.5,
+    "deeper": {
+      "arr": [
+        11595,
+        20194,
+        52480,
+        21410
+      ]
+    }
+  },
+  "lastSaid": "open-source harness partnerships"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Kendall Sawayn",
+  "username": "Domenic.Shields44",
+  "email": "Haven_Mante@yahoo.com",
+  "address": {
+    "street": "Turner Row",
+    "suite": "Apt. 819",
+    "city": "Feeneybury",
+    "zipcode": "43262",
+    "geo": {
+      "lat": -66.42,
+      "lng": 164.3566
+    }
+  },
+  "phone": "1-130-221-1385",
+  "website": "donna.biz",
+  "company": {
+    "name": "Harvey, Wisoky and Purdy",
+    "catchPhrase": "Multi-tiered bandwidth-monitored definition",
+    "bs": "revolutionary matrix methodologies"
+  },
+  "id": "62c5e675-0a74-4093-990b-161fe8e06932",
+  "testnumobjnums": {
+    "num1": 96074,
+    "num2": 88265,
+    "num3": 34047,
+    "deeper": {
+      "arr": [
+        78262,
+        49327,
+        35859,
+        33880.5
+      ]
+    }
+  },
+  "doing": "system overriding",
+  "lastSaid": "We need to compress the haptic SDD capacitor!"
+}

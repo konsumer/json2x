@@ -1,0 +1,37 @@
+{
+  "name": "Liliane Nikolaus II",
+  "username": "Neha.Renner",
+  "email": "Bailey_Graham46@hotmail.com",
+  "address": {
+    "street": "Fadel Underpass",
+    "suite": "Suite 674",
+    "city": "Port Jordane",
+    "zipcode": "22225-4096",
+    "geo": {
+      "lat": 8.0721,
+      "lng": 49.7602
+    }
+  },
+  "phone": "869.650.6374 x24614",
+  "website": "shana.org",
+  "company": {
+    "name": "Dach, Bauch and Hoppe",
+    "catchPhrase": "Programmable optimizing budgetary management",
+    "bs": "open-source monetize systems"
+  },
+  "id": "504304e0-9417-483f-8ad8-03e11dc2c234",
+  "testnumobjnums": {
+    "num1": 1442,
+    "num2": 79781,
+    "num3": 29520.5,
+    "deeper": {
+      "arr": [
+        83621,
+        47351,
+        91244,
+        14909.5
+      ]
+    }
+  },
+  "lastSaid": "plug-and-play envisioneer systems"
+}

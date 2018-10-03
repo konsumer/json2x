@@ -1,0 +1,38 @@
+{
+  "name": "Melvina Reynolds",
+  "username": "Hailey2",
+  "email": "Mable.Veum79@gmail.com",
+  "address": {
+    "street": "Gislason Mountain",
+    "suite": "Apt. 100",
+    "city": "Lake Ransom",
+    "zipcode": "31445",
+    "geo": {
+      "lat": -80.4822,
+      "lng": 15.1476
+    }
+  },
+  "phone": "003-333-7962",
+  "website": "leonard.net",
+  "company": {
+    "name": "Gutkowski, Doyle and D'Amore",
+    "catchPhrase": "Realigned static flexibility",
+    "bs": "customized utilize supply-chains"
+  },
+  "id": "e6020bed-6b6a-4da7-843b-cf666ae98a65",
+  "testnumobjnums": {
+    "num1": 88471,
+    "num2": 13882,
+    "num3": 1010,
+    "deeper": {
+      "arr": [
+        90196,
+        18447,
+        90309,
+        17559.5
+      ]
+    }
+  },
+  "doing": "application quantifying",
+  "lastSaid": "I'll index the neural AI hard drive, that should matrix the HDD application!"
+}

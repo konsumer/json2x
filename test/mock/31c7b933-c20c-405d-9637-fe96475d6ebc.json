@@ -1,0 +1,38 @@
+{
+  "name": "Oral Blanda",
+  "username": "Cara_Pfannerstill56",
+  "email": "Fredy53@yahoo.com",
+  "address": {
+    "street": "Hassan Locks",
+    "suite": "Suite 111",
+    "city": "North Erinbury",
+    "zipcode": "66935-4929",
+    "geo": {
+      "lat": 24.9485,
+      "lng": 131.8587
+    }
+  },
+  "phone": "1-784-636-0849 x151",
+  "website": "garnett.biz",
+  "company": {
+    "name": "Koss, Bednar and Howe",
+    "catchPhrase": "Front-line modular Graphic Interface",
+    "bs": "B2C exploit metrics"
+  },
+  "id": "31c7b933-c20c-405d-9637-fe96475d6ebc",
+  "testnumobjnums": {
+    "num1": 68492,
+    "num2": 36122,
+    "num3": 19093.5,
+    "deeper": {
+      "arr": [
+        9476,
+        63091,
+        6083,
+        42112.5
+      ]
+    }
+  },
+  "doing": "protocol copying",
+  "lastSaid": "You can't compress the program without calculating the online AI bus!"
+}

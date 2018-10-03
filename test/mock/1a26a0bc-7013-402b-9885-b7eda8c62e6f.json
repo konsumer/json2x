@@ -1,0 +1,38 @@
+{
+  "name": "Adrianna Casper",
+  "username": "Ella.Hilll22",
+  "email": "Turner_Hartmann85@hotmail.com",
+  "address": {
+    "street": "Bins Pass",
+    "suite": "Suite 425",
+    "city": "Satterfieldstad",
+    "zipcode": "39197-4617",
+    "geo": {
+      "lat": 42.4948,
+      "lng": -46.3064
+    }
+  },
+  "phone": "(818) 228-8675",
+  "website": "ephraim.org",
+  "company": {
+    "name": "Pouros, Barrows and Smitham",
+    "catchPhrase": "Reduced cohesive capability",
+    "bs": "innovative optimize vortals"
+  },
+  "id": "1a26a0bc-7013-402b-9885-b7eda8c62e6f",
+  "testnumobjnums": {
+    "num1": 95634,
+    "num2": 40407,
+    "num3": 22997.5,
+    "deeper": {
+      "arr": [
+        49401,
+        10205,
+        9090,
+        5365
+      ]
+    }
+  },
+  "doing": "interface navigating",
+  "lastSaid": "If we index the system, we can get to the SQL driver through the solid state PNG circuit!"
+}

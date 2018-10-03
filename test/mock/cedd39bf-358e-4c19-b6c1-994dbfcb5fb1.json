@@ -1,0 +1,38 @@
+{
+  "name": "Angelo Reichert",
+  "username": "Euna64",
+  "email": "Jeffry31@hotmail.com",
+  "address": {
+    "street": "Miller Mountains",
+    "suite": "Suite 152",
+    "city": "Framiside",
+    "zipcode": "59961-5901",
+    "geo": {
+      "lat": 65.305,
+      "lng": -131.0345
+    }
+  },
+  "phone": "1-640-166-3184 x33063",
+  "website": "mariano.net",
+  "company": {
+    "name": "Fritsch Group",
+    "catchPhrase": "Virtual value-added matrix",
+    "bs": "strategic revolutionize experiences"
+  },
+  "id": "cedd39bf-358e-4c19-b6c1-994dbfcb5fb1",
+  "testnumobjnums": {
+    "num1": 80585,
+    "num2": 16454,
+    "num3": 39745,
+    "deeper": {
+      "arr": [
+        23943,
+        52242,
+        73059,
+        29949
+      ]
+    }
+  },
+  "doing": "card hacking",
+  "lastSaid": "Try to back up the RSS monitor, maybe it will input the wireless firewall!"
+}

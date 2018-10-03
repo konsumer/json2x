@@ -1,0 +1,38 @@
+{
+  "name": "Darron Walsh",
+  "username": "Zola_Lind16",
+  "email": "Kari57@gmail.com",
+  "address": {
+    "street": "Corkery Road",
+    "suite": "Apt. 576",
+    "city": "South Rubenside",
+    "zipcode": "98087",
+    "geo": {
+      "lat": 3.8867,
+      "lng": -170.5895
+    }
+  },
+  "phone": "(959) 854-5683",
+  "website": "horace.com",
+  "company": {
+    "name": "Bayer and Sons",
+    "catchPhrase": "Vision-oriented bi-directional focus group",
+    "bs": "granular mesh portals"
+  },
+  "id": "f199a78c-de99-4ecf-a70d-11c2db5d7c2a",
+  "testnumobjnums": {
+    "num1": 69237,
+    "num2": 81836,
+    "num3": 49742,
+    "deeper": {
+      "arr": [
+        11026,
+        32348,
+        89369,
+        5198.5
+      ]
+    }
+  },
+  "doing": "bandwidth synthesizing",
+  "lastSaid": "Try to input the PNG program, maybe it will connect the 1080p program!"
+}

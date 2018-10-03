@@ -1,0 +1,38 @@
+{
+  "name": "Deshawn Bruen",
+  "username": "Matteo_Schmitt28",
+  "email": "Myrna.Feil@hotmail.com",
+  "address": {
+    "street": "Everett Mills",
+    "suite": "Apt. 184",
+    "city": "West Trudiefurt",
+    "zipcode": "80783",
+    "geo": {
+      "lat": 89.9177,
+      "lng": 33.464
+    }
+  },
+  "phone": "1-784-788-1042 x47807",
+  "website": "jamey.info",
+  "company": {
+    "name": "Runolfsson, Doyle and Zieme",
+    "catchPhrase": "Synergistic content-based success",
+    "bs": "back-end incubate synergies"
+  },
+  "id": "6dad6b52-8941-4ad1-b848-cf4c326ed48a",
+  "testnumobjnums": {
+    "num1": 27776,
+    "num2": 34887,
+    "num3": 21621,
+    "deeper": {
+      "arr": [
+        39629,
+        34906,
+        12919,
+        37261
+      ]
+    }
+  },
+  "doing": "application programming",
+  "lastSaid": "Try to quantify the SQL pixel, maybe it will copy the multi-byte system!"
+}

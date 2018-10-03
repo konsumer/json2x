@@ -1,0 +1,38 @@
+{
+  "name": "Jaylen Zulauf",
+  "username": "Isom.Kerluke",
+  "email": "Braeden.Batz@hotmail.com",
+  "address": {
+    "street": "Jaunita Flats",
+    "suite": "Apt. 236",
+    "city": "Donaldbury",
+    "zipcode": "06380",
+    "geo": {
+      "lat": -63.6389,
+      "lng": 2.2306
+    }
+  },
+  "phone": "1-406-090-1875 x73547",
+  "website": "dave.info",
+  "company": {
+    "name": "Casper - Murray",
+    "catchPhrase": "Multi-lateral heuristic challenge",
+    "bs": "open-source repurpose applications"
+  },
+  "id": "41ca9fa8-4bca-44d7-9451-8088ca9e8d3e",
+  "testnumobjnums": {
+    "num1": 81985,
+    "num2": 29944,
+    "num3": 26085,
+    "deeper": {
+      "arr": [
+        74848,
+        75206,
+        20060,
+        17527
+      ]
+    }
+  },
+  "doing": "matrix compressing",
+  "lastSaid": "The SAS hard drive is down, back up the mobile alarm so we can parse the XSS card!"
+}

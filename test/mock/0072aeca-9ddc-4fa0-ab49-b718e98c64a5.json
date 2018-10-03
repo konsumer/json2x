@@ -1,0 +1,38 @@
+{
+  "name": "Cullen Jerde",
+  "username": "Pansy.Wilderman",
+  "email": "Haylee42@gmail.com",
+  "address": {
+    "street": "Rempel Rapids",
+    "suite": "Apt. 132",
+    "city": "New Stephania",
+    "zipcode": "77497-4777",
+    "geo": {
+      "lat": 33.3331,
+      "lng": -69.1716
+    }
+  },
+  "phone": "504.205.5336 x11170",
+  "website": "grover.name",
+  "company": {
+    "name": "Reilly Inc",
+    "catchPhrase": "Inverse asynchronous paradigm",
+    "bs": "innovative repurpose e-tailers"
+  },
+  "id": "0072aeca-9ddc-4fa0-ab49-b718e98c64a5",
+  "testnumobjnums": {
+    "num1": 95585,
+    "num2": 69551,
+    "num3": 18884,
+    "deeper": {
+      "arr": [
+        71174,
+        71368,
+        91127,
+        19852.5
+      ]
+    }
+  },
+  "doing": "protocol quantifying",
+  "lastSaid": "If we transmit the feed, we can get to the SMTP port through the online TCP pixel!"
+}

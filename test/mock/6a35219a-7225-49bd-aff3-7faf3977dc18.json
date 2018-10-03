@@ -1,0 +1,37 @@
+{
+  "name": "Bertrand Olson",
+  "username": "Orville.Lakin98",
+  "email": "Arjun_Raynor@hotmail.com",
+  "address": {
+    "street": "Jeffery Inlet",
+    "suite": "Suite 422",
+    "city": "Mitchellview",
+    "zipcode": "82841-8699",
+    "geo": {
+      "lat": -9.9514,
+      "lng": 152.8685
+    }
+  },
+  "phone": "998-484-8051",
+  "website": "abbie.info",
+  "company": {
+    "name": "Schmeler LLC",
+    "catchPhrase": "Cloned dedicated leverage",
+    "bs": "distributed incubate e-business"
+  },
+  "id": "6a35219a-7225-49bd-aff3-7faf3977dc18",
+  "testnumobjnums": {
+    "num1": 56932,
+    "num2": 49770,
+    "num3": 49464.5,
+    "deeper": {
+      "arr": [
+        1553,
+        21487,
+        56922,
+        10763.5
+      ]
+    }
+  },
+  "lastSaid": "next-generation orchestrate bandwidth"
+}

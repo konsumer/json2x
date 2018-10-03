@@ -1,0 +1,37 @@
+{
+  "name": "Dr. Reba Kemmer",
+  "username": "Deron38",
+  "email": "Nicolas26@yahoo.com",
+  "address": {
+    "street": "Dooley Coves",
+    "suite": "Apt. 736",
+    "city": "Strackeshire",
+    "zipcode": "15882-9737",
+    "geo": {
+      "lat": -17.9712,
+      "lng": -32.4978
+    }
+  },
+  "phone": "(994) 988-2239",
+  "website": "eugenia.net",
+  "company": {
+    "name": "Rau - Kuvalis",
+    "catchPhrase": "Progressive object-oriented task-force",
+    "bs": "24/365 brand niches"
+  },
+  "id": "b448aed0-e05c-4ed7-9b59-e507487424e7",
+  "testnumobjnums": {
+    "num1": 71001,
+    "num2": 19570,
+    "num3": 5730,
+    "deeper": {
+      "arr": [
+        45067,
+        90739,
+        72484,
+        16991.5
+      ]
+    }
+  },
+  "lastSaid": "distributed reinvent e-services"
+}

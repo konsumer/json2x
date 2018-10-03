@@ -1,0 +1,37 @@
+{
+  "name": "Lela Schowalter",
+  "username": "Tyrese92",
+  "email": "Macie97@hotmail.com",
+  "address": {
+    "street": "Jon Loop",
+    "suite": "Apt. 627",
+    "city": "Port Virginieland",
+    "zipcode": "13710",
+    "geo": {
+      "lat": -9.7143,
+      "lng": 143.0506
+    }
+  },
+  "phone": "697-220-1359",
+  "website": "jalyn.info",
+  "company": {
+    "name": "O'Hara, Bartoletti and Ledner",
+    "catchPhrase": "Organized fresh-thinking model",
+    "bs": "one-to-one expedite deliverables"
+  },
+  "id": "bad63d56-0ada-4bfc-93ea-668445bd48de",
+  "testnumobjnums": {
+    "num1": 97536,
+    "num2": 46054,
+    "num3": 12630.5,
+    "deeper": {
+      "arr": [
+        45433,
+        6152,
+        46215,
+        23720
+      ]
+    }
+  },
+  "lastSaid": "user-centric exploit web services"
+}

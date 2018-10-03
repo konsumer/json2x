@@ -1,0 +1,37 @@
+{
+  "name": "Duncan O'Conner",
+  "username": "Brock57",
+  "email": "Richmond71@gmail.com",
+  "address": {
+    "street": "Erdman Ford",
+    "suite": "Apt. 406",
+    "city": "West Wendellchester",
+    "zipcode": "80571",
+    "geo": {
+      "lat": 33.0794,
+      "lng": 128.4724
+    }
+  },
+  "phone": "455.327.3979",
+  "website": "rashad.org",
+  "company": {
+    "name": "Pouros, Pfannerstill and Hartmann",
+    "catchPhrase": "Programmable full-range time-frame",
+    "bs": "viral incubate applications"
+  },
+  "id": "ec25a41a-c79e-4998-bbd0-3188e8c8ffb4",
+  "testnumobjnums": {
+    "num1": 1453,
+    "num2": 99637,
+    "num3": 23454.5,
+    "deeper": {
+      "arr": [
+        88106,
+        79534,
+        27906,
+        3278.5
+      ]
+    }
+  },
+  "lastSaid": "customized orchestrate initiatives"
+}

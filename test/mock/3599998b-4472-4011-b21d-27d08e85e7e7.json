@@ -1,0 +1,38 @@
+{
+  "name": "Shanel Larkin DVM",
+  "username": "Emily58",
+  "email": "Ozella_Schumm10@gmail.com",
+  "address": {
+    "street": "Daron Island",
+    "suite": "Apt. 748",
+    "city": "Port Alfordborough",
+    "zipcode": "50105",
+    "geo": {
+      "lat": 71.7932,
+      "lng": 110.763
+    }
+  },
+  "phone": "356.861.4354",
+  "website": "ramon.org",
+  "company": {
+    "name": "Kassulke, Goyette and Glover",
+    "catchPhrase": "Persistent bifurcated workforce",
+    "bs": "value-added evolve networks"
+  },
+  "id": "3599998b-4472-4011-b21d-27d08e85e7e7",
+  "testnumobjnums": {
+    "num1": 18517,
+    "num2": 60357,
+    "num3": 24608.5,
+    "deeper": {
+      "arr": [
+        61563,
+        61964,
+        14240,
+        39062
+      ]
+    }
+  },
+  "doing": "circuit generating",
+  "lastSaid": "We need to generate the auxiliary ADP array!"
+}

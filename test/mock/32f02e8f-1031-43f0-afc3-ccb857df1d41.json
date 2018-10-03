@@ -1,0 +1,37 @@
+{
+  "name": "Rosendo Spencer",
+  "username": "Anastacio.Maggio",
+  "email": "Kaci15@yahoo.com",
+  "address": {
+    "street": "Hilll Locks",
+    "suite": "Apt. 399",
+    "city": "Creminbury",
+    "zipcode": "60136",
+    "geo": {
+      "lat": -86.8464,
+      "lng": 96.5897
+    }
+  },
+  "phone": "(134) 179-3795",
+  "website": "kristopher.info",
+  "company": {
+    "name": "Macejkovic LLC",
+    "catchPhrase": "Visionary human-resource help-desk",
+    "bs": "value-added iterate supply-chains"
+  },
+  "id": "32f02e8f-1031-43f0-afc3-ccb857df1d41",
+  "testnumobjnums": {
+    "num1": 70738,
+    "num2": 65944,
+    "num3": 40438.5,
+    "deeper": {
+      "arr": [
+        63349,
+        49475,
+        15402,
+        11965
+      ]
+    }
+  },
+  "lastSaid": "granular grow synergies"
+}

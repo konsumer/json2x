@@ -1,0 +1,38 @@
+{
+  "name": "Maryam Herzog",
+  "username": "Katelin58",
+  "email": "Lindsey59@gmail.com",
+  "address": {
+    "street": "Heather Drives",
+    "suite": "Apt. 800",
+    "city": "New Anikamouth",
+    "zipcode": "69687-2010",
+    "geo": {
+      "lat": -66.393,
+      "lng": 170.5745
+    }
+  },
+  "phone": "1-156-777-9635",
+  "website": "noelia.name",
+  "company": {
+    "name": "Schowalter - Huels",
+    "catchPhrase": "Grass-roots human-resource productivity",
+    "bs": "impactful synergize paradigms"
+  },
+  "id": "6a9cafb9-8fca-4fd1-85c9-11c59b47740f",
+  "testnumobjnums": {
+    "num1": 48163,
+    "num2": 52392,
+    "num3": 3413,
+    "deeper": {
+      "arr": [
+        24744,
+        33175,
+        53799,
+        9250
+      ]
+    }
+  },
+  "doing": "protocol overriding",
+  "lastSaid": "The SMS system is down, reboot the bluetooth port so we can quantify the COM application!"
+}

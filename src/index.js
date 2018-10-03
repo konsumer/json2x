@@ -1,24 +1,17 @@
-const allArraySame = obj => {
+export const allArraySame = obj => {
   for (var i = 1; i < obj.length; i++) {
     if (obj[i] !== obj[0]) return false
   }
   return true
 }
 
-const betterType = obj => ({}).toString.call(obj).split(' ')[1].slice(0, -1).toLowerCase()
+export const isFloat = n => n === +n && n !== (n | 0)
 
-const isFloat = n => n === +n && n !== (n | 0)
-
-const getBestType = value => {
-  const t = betterType(value)
+export const getBestType = obj => {
+  const t = ({}).toString.call(obj).split(' ')[1].slice(0, -1).toLowerCase()
   switch (t) {
-    case 'object': return Array.isArray(value) ? 'array' : 'object'
-    case 'number':
-      if (isFloat(value)) {
-        return 'float'
-      } else {
-        return 'int'
-      }
+    case 'object': return Array.isArray(obj) ? 'array' : 'object'
+    case 'number': return isFloat(obj) ? 'float' : 'int'
     default: return t
   }
 }
@@ -27,24 +20,25 @@ const getAverageFromTypes = types => {
   if (allArraySame(types)) {
     return types[0]
   }
+  // if any are a string, return string
   if (types.indexOf('string') !== -1) {
     return 'string'
   }
+  // if any are a float, return float
   if (types.indexOf('float') !== -1) {
     return 'float'
   }
-  // not sure what to do here...
   return types[0]
 }
 
-const getAverageType = values => getAverageFromTypes(values.map(getBestType))
+export const getAverageType = values => getAverageFromTypes(values.map(getBestType))
 
 /**
  * Get types from an Object filled with similar objects
  * @param  object data An Object filled with similar objects
  * @return object      Type info
  */
-const getTypes = data => {
+export const getTypes = data => {
   const fields = {}
   const out = {}
   const objs = {}

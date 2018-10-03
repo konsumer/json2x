@@ -1,0 +1,38 @@
+{
+  "name": "Megane Hackett DVM",
+  "username": "Jonathon13",
+  "email": "Stephon_Collier@yahoo.com",
+  "address": {
+    "street": "Douglas Well",
+    "suite": "Suite 311",
+    "city": "New Sage",
+    "zipcode": "97411-7722",
+    "geo": {
+      "lat": -34.7663,
+      "lng": 58.7662
+    }
+  },
+  "phone": "061-670-3218",
+  "website": "susanna.com",
+  "company": {
+    "name": "Predovic - Jacobi",
+    "catchPhrase": "Phased intermediate algorithm",
+    "bs": "mission-critical generate eyeballs"
+  },
+  "id": "1755a3e0-b980-43f6-a412-41ef3ca211a8",
+  "testnumobjnums": {
+    "num1": 4730,
+    "num2": 42833,
+    "num3": 39874.5,
+    "deeper": {
+      "arr": [
+        81227,
+        35669,
+        52928,
+        41527
+      ]
+    }
+  },
+  "doing": "sensor navigating",
+  "lastSaid": "Try to calculate the PCI monitor, maybe it will navigate the 1080p transmitter!"
+}

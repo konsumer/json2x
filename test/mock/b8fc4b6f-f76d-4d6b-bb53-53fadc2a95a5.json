@@ -1,0 +1,37 @@
+{
+  "name": "Aryanna Gaylord",
+  "username": "Jimmy.Reichel",
+  "email": "Emily.Stamm75@gmail.com",
+  "address": {
+    "street": "Harold Hollow",
+    "suite": "Apt. 835",
+    "city": "West Cletus",
+    "zipcode": "33125",
+    "geo": {
+      "lat": -53.9031,
+      "lng": 130.2016
+    }
+  },
+  "phone": "(961) 431-1913 x42279",
+  "website": "garret.org",
+  "company": {
+    "name": "Kautzer - Lakin",
+    "catchPhrase": "Centralized transitional success",
+    "bs": "wireless evolve solutions"
+  },
+  "id": "b8fc4b6f-f76d-4d6b-bb53-53fadc2a95a5",
+  "testnumobjnums": {
+    "num1": 15817,
+    "num2": 18978,
+    "num3": 29826.5,
+    "deeper": {
+      "arr": [
+        80931,
+        91188,
+        75198,
+        35331.5
+      ]
+    }
+  },
+  "lastSaid": "B2C expedite e-business"
+}

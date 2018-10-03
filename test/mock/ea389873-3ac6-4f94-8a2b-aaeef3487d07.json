@@ -1,0 +1,38 @@
+{
+  "name": "Eda Lowe",
+  "username": "Sage28",
+  "email": "Devon91@yahoo.com",
+  "address": {
+    "street": "Powlowski Junction",
+    "suite": "Suite 208",
+    "city": "Conroyside",
+    "zipcode": "29229-9782",
+    "geo": {
+      "lat": -80.6919,
+      "lng": -114.8324
+    }
+  },
+  "phone": "847.060.1697",
+  "website": "kamille.info",
+  "company": {
+    "name": "Kunde - McKenzie",
+    "catchPhrase": "Front-line fresh-thinking software",
+    "bs": "virtual strategize web services"
+  },
+  "id": "ea389873-3ac6-4f94-8a2b-aaeef3487d07",
+  "testnumobjnums": {
+    "num1": 47306,
+    "num2": 24096,
+    "num3": 41853,
+    "deeper": {
+      "arr": [
+        62080,
+        82358,
+        22686,
+        16384
+      ]
+    }
+  },
+  "doing": "bus copying",
+  "lastSaid": "bypassing the firewall won't do anything, we need to copy the neural SAS driver!"
+}

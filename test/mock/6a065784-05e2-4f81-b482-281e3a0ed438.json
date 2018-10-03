@@ -1,0 +1,38 @@
+{
+  "name": "Ansel Green",
+  "username": "Erin.Kiehn",
+  "email": "Holly9@gmail.com",
+  "address": {
+    "street": "Jordy Ports",
+    "suite": "Apt. 742",
+    "city": "Larkinborough",
+    "zipcode": "75032-1413",
+    "geo": {
+      "lat": 61.2412,
+      "lng": -146.4167
+    }
+  },
+  "phone": "1-188-877-0159 x72457",
+  "website": "corbin.org",
+  "company": {
+    "name": "Johnson - Ankunding",
+    "catchPhrase": "Secured attitude-oriented customer loyalty",
+    "bs": "viral expedite users"
+  },
+  "id": "6a065784-05e2-4f81-b482-281e3a0ed438",
+  "testnumobjnums": {
+    "num1": 89160,
+    "num2": 79220,
+    "num3": 43367.5,
+    "deeper": {
+      "arr": [
+        17095,
+        2543,
+        43081,
+        31106.5
+      ]
+    }
+  },
+  "doing": "card copying",
+  "lastSaid": "You can't back up the panel without compressing the optical FTP capacitor!"
+}

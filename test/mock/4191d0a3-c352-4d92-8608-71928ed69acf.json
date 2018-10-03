@@ -1,0 +1,38 @@
+{
+  "name": "Clarabelle Flatley",
+  "username": "Shanna.Nicolas",
+  "email": "Noelia.Borer@yahoo.com",
+  "address": {
+    "street": "Golda Ridge",
+    "suite": "Apt. 338",
+    "city": "South Raquelview",
+    "zipcode": "77899-5799",
+    "geo": {
+      "lat": 14.0631,
+      "lng": 140.887
+    }
+  },
+  "phone": "130-879-5533 x833",
+  "website": "camille.biz",
+  "company": {
+    "name": "Grimes, Johns and Wuckert",
+    "catchPhrase": "Integrated dynamic secured line",
+    "bs": "virtual whiteboard infrastructures"
+  },
+  "id": "4191d0a3-c352-4d92-8608-71928ed69acf",
+  "testnumobjnums": {
+    "num1": 51462,
+    "num2": 4335,
+    "num3": 47772.5,
+    "deeper": {
+      "arr": [
+        74805,
+        85492,
+        89690,
+        41306
+      ]
+    }
+  },
+  "doing": "program connecting",
+  "lastSaid": "We need to copy the open-source XSS interface!"
+}

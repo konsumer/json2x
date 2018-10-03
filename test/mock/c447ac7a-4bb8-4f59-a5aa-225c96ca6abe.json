@@ -1,0 +1,38 @@
+{
+  "name": "Ettie Yundt",
+  "username": "Ryder_Bayer",
+  "email": "Marjorie_Cartwright61@gmail.com",
+  "address": {
+    "street": "Hahn Circles",
+    "suite": "Suite 476",
+    "city": "South Piper",
+    "zipcode": "71332",
+    "geo": {
+      "lat": 1.819,
+      "lng": -118.8106
+    }
+  },
+  "phone": "(193) 484-9751",
+  "website": "patsy.com",
+  "company": {
+    "name": "Jacobi - Moen",
+    "catchPhrase": "Future-proofed systematic hardware",
+    "bs": "frictionless embrace experiences"
+  },
+  "id": "c447ac7a-4bb8-4f59-a5aa-225c96ca6abe",
+  "testnumobjnums": {
+    "num1": 50529,
+    "num2": 4997,
+    "num3": 36032,
+    "deeper": {
+      "arr": [
+        89048,
+        46481,
+        28793,
+        25851
+      ]
+    }
+  },
+  "doing": "protocol navigating",
+  "lastSaid": "If we parse the bus, we can get to the CSS microchip through the 1080p AGP microchip!"
+}

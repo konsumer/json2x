@@ -1,0 +1,37 @@
+{
+  "name": "Pete Herman",
+  "username": "Olga.Herman",
+  "email": "Antonetta_Stiedemann14@gmail.com",
+  "address": {
+    "street": "Dallas Divide",
+    "suite": "Apt. 759",
+    "city": "South Janelleborough",
+    "zipcode": "90612-2609",
+    "geo": {
+      "lat": 52.2531,
+      "lng": 155.0638
+    }
+  },
+  "phone": "1-162-872-5026",
+  "website": "jermaine.info",
+  "company": {
+    "name": "Thompson Group",
+    "catchPhrase": "Self-enabling zero tolerance neural-net",
+    "bs": "viral whiteboard technologies"
+  },
+  "id": "38e8426a-a46c-4b49-a0d2-c141d12a263f",
+  "testnumobjnums": {
+    "num1": 70442,
+    "num2": 81787,
+    "num3": 39669.5,
+    "deeper": {
+      "arr": [
+        73787,
+        91053,
+        55882,
+        29745
+      ]
+    }
+  },
+  "lastSaid": "out-of-the-box morph technologies"
+}

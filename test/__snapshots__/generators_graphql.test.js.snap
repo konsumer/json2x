@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`generators/graphql should have the expected description 1`] = `"Generate GraphQL types from your data"`;
+
+exports[`generators/graphql should output the expected graphql input schema for the mock 1`] = `
+"type TestInput {
+  name: String
+  username: String
+  email: String
+  phone: String
+  website: String
+  id: String
+  lastSaid: String
+  doing: String
+  address: TestinputAddress
+  company: TestinputCompany
+  testnumobjnums: TestinputTestnumobjnums
+}
+type TestinputAddress {
+  street: String
+  suite: String
+  city: String
+  zipcode: String
+  geo: TestinputaddressGeo
+}
+type TestinputaddressGeo {
+  lat: Float
+  lng: Float
+}
+type TestinputCompany {
+  name: String
+  catchPhrase: String
+  bs: String
+}
+type TestinputTestnumobjnums {
+  num1: Int
+  num2: Int
+  num3: Float
+  deeper: TestinputtestnumobjnumsDeeper
+}
+type TestinputtestnumobjnumsDeeper {
+  arr: [Float]
+}
+input InputTestInput {
+  name: String
+  username: String
+  email: String
+  phone: String
+  website: String
+  id: String
+  lastSaid: String
+  doing: String
+  address: InputtestinputAddress
+  company: InputtestinputCompany
+  testnumobjnums: InputtestinputTestnumobjnums
+}
+input InputtestinputAddress {
+  street: String
+  suite: String
+  city: String
+  zipcode: String
+  geo: InputtestinputaddressGeo
+}
+input InputtestinputaddressGeo {
+  lat: Float
+  lng: Float
+}
+input InputtestinputCompany {
+  name: String
+  catchPhrase: String
+  bs: String
+}
+input InputtestinputTestnumobjnums {
+  num1: Int
+  num2: Int
+  num3: Float
+  deeper: InputtestinputtestnumobjnumsDeeper
+}
+input InputtestinputtestnumobjnumsDeeper {
+  arr: [Float]
+}
+"
+`;
+
+exports[`generators/graphql should output the expected graphql schema for the mock 1`] = `
+"type TestType {
+  name: String
+  username: String
+  email: String
+  phone: String
+  website: String
+  id: String
+  lastSaid: String
+  doing: String
+  address: TesttypeAddress
+  company: TesttypeCompany
+  testnumobjnums: TesttypeTestnumobjnums
+}
+type TesttypeAddress {
+  street: String
+  suite: String
+  city: String
+  zipcode: String
+  geo: TesttypeaddressGeo
+}
+type TesttypeaddressGeo {
+  lat: Float
+  lng: Float
+}
+type TesttypeCompany {
+  name: String
+  catchPhrase: String
+  bs: String
+}
+type TesttypeTestnumobjnums {
+  num1: Int
+  num2: Int
+  num3: Float
+  deeper: TesttypetestnumobjnumsDeeper
+}
+type TesttypetestnumobjnumsDeeper {
+  arr: [Float]
+}
+"
+`;

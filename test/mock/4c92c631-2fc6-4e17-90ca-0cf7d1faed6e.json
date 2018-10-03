@@ -1,0 +1,37 @@
+{
+  "name": "Mr. Mariano Gulgowski",
+  "username": "Brianne_Lebsack",
+  "email": "Lee.Cronin@yahoo.com",
+  "address": {
+    "street": "Alicia Field",
+    "suite": "Suite 719",
+    "city": "Kozeyfurt",
+    "zipcode": "64112",
+    "geo": {
+      "lat": 16.4625,
+      "lng": 88.5326
+    }
+  },
+  "phone": "924.380.6366 x7916",
+  "website": "luther.net",
+  "company": {
+    "name": "Jones - Leannon",
+    "catchPhrase": "Sharable client-server time-frame",
+    "bs": "revolutionary grow methodologies"
+  },
+  "id": "4c92c631-2fc6-4e17-90ca-0cf7d1faed6e",
+  "testnumobjnums": {
+    "num1": 76873,
+    "num2": 23122,
+    "num3": 28325,
+    "deeper": {
+      "arr": [
+        65796,
+        22811,
+        70821,
+        13869.5
+      ]
+    }
+  },
+  "lastSaid": "cross-media repurpose interfaces"
+}

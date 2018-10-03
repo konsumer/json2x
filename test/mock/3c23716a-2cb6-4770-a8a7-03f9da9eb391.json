@@ -1,0 +1,38 @@
+{
+  "name": "Sigurd O'Connell",
+  "username": "Jonathan51",
+  "email": "Gilberto.Rath46@gmail.com",
+  "address": {
+    "street": "Lucy Inlet",
+    "suite": "Suite 535",
+    "city": "South Maybelle",
+    "zipcode": "06575-1459",
+    "geo": {
+      "lat": -35.541,
+      "lng": 156.7326
+    }
+  },
+  "phone": "1-868-417-5238",
+  "website": "odie.info",
+  "company": {
+    "name": "Gleason and Sons",
+    "catchPhrase": "Fully-configurable dedicated algorithm",
+    "bs": "strategic envisioneer systems"
+  },
+  "id": "3c23716a-2cb6-4770-a8a7-03f9da9eb391",
+  "testnumobjnums": {
+    "num1": 43644,
+    "num2": 29718,
+    "num3": 22147,
+    "deeper": {
+      "arr": [
+        18076,
+        98543,
+        14753,
+        39455
+      ]
+    }
+  },
+  "doing": "array programming",
+  "lastSaid": "If we reboot the feed, we can get to the USB feed through the bluetooth EXE firewall!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Bud Schaden",
+  "username": "Gregoria_Schroeder2",
+  "email": "Edison_Kuhlman39@yahoo.com",
+  "address": {
+    "street": "Johns Plains",
+    "suite": "Suite 235",
+    "city": "Nathanialmouth",
+    "zipcode": "76275-8682",
+    "geo": {
+      "lat": 17.394,
+      "lng": -53.8698
+    }
+  },
+  "phone": "(658) 584-9567",
+  "website": "tess.com",
+  "company": {
+    "name": "Hudson, Douglas and O'Keefe",
+    "catchPhrase": "Phased interactive toolset",
+    "bs": "innovative reinvent web-readiness"
+  },
+  "id": "408342a5-e029-4a38-84cc-700611590396",
+  "testnumobjnums": {
+    "num1": 40328,
+    "num2": 82358,
+    "num3": 49435.5,
+    "deeper": {
+      "arr": [
+        90449,
+        45598,
+        97075,
+        16040
+      ]
+    }
+  },
+  "lastSaid": "customized evolve markets"
+}

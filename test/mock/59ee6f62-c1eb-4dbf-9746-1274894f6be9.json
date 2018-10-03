@@ -1,0 +1,37 @@
+{
+  "name": "Onie Sipes",
+  "username": "Eleazar_Kuphal71",
+  "email": "Maxwell49@yahoo.com",
+  "address": {
+    "street": "Koepp Circle",
+    "suite": "Suite 341",
+    "city": "Lake Barton",
+    "zipcode": "19898",
+    "geo": {
+      "lat": 62.1861,
+      "lng": 103.4272
+    }
+  },
+  "phone": "567.803.0387 x572",
+  "website": "rafael.name",
+  "company": {
+    "name": "Gulgowski - Schroeder",
+    "catchPhrase": "Devolved zero defect pricing structure",
+    "bs": "plug-and-play mesh e-services"
+  },
+  "id": "59ee6f62-c1eb-4dbf-9746-1274894f6be9",
+  "testnumobjnums": {
+    "num1": 91134,
+    "num2": 9740,
+    "num3": 28349.5,
+    "deeper": {
+      "arr": [
+        73187,
+        29534,
+        97179,
+        2366
+      ]
+    }
+  },
+  "lastSaid": "next-generation extend web services"
+}

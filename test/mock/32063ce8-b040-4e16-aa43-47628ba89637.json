@@ -1,0 +1,37 @@
+{
+  "name": "Kayli Corwin",
+  "username": "Jarrod61",
+  "email": "Jaleel_Conn@yahoo.com",
+  "address": {
+    "street": "Spencer Greens",
+    "suite": "Apt. 465",
+    "city": "South Katelynton",
+    "zipcode": "69458",
+    "geo": {
+      "lat": 85.1482,
+      "lng": -140.6755
+    }
+  },
+  "phone": "037.956.2897",
+  "website": "carlie.name",
+  "company": {
+    "name": "Reichel, Bayer and Lakin",
+    "catchPhrase": "Programmable well-modulated success",
+    "bs": "frictionless deploy functionalities"
+  },
+  "id": "32063ce8-b040-4e16-aa43-47628ba89637",
+  "testnumobjnums": {
+    "num1": 41627,
+    "num2": 93916,
+    "num3": 29374,
+    "deeper": {
+      "arr": [
+        8850,
+        46648,
+        38618,
+        15887
+      ]
+    }
+  },
+  "lastSaid": "web-enabled enhance web services"
+}

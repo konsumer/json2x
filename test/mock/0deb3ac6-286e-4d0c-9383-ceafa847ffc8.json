@@ -1,0 +1,38 @@
+{
+  "name": "Charity Lubowitz",
+  "username": "Kendrick.Anderson95",
+  "email": "Macie12@gmail.com",
+  "address": {
+    "street": "Leffler Village",
+    "suite": "Apt. 417",
+    "city": "North Earline",
+    "zipcode": "70510",
+    "geo": {
+      "lat": 9.0247,
+      "lng": -25.7662
+    }
+  },
+  "phone": "241-390-2354 x378",
+  "website": "billy.org",
+  "company": {
+    "name": "Simonis - Spinka",
+    "catchPhrase": "Intuitive 4th generation open system",
+    "bs": "out-of-the-box transform systems"
+  },
+  "id": "0deb3ac6-286e-4d0c-9383-ceafa847ffc8",
+  "testnumobjnums": {
+    "num1": 26616,
+    "num2": 1607,
+    "num3": 45542.5,
+    "deeper": {
+      "arr": [
+        80001,
+        45276,
+        79341,
+        26606
+      ]
+    }
+  },
+  "doing": "pixel transmitting",
+  "lastSaid": "You can't navigate the circuit without connecting the haptic SSL protocol!"
+}

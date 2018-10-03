@@ -1,0 +1,37 @@
+{
+  "name": "Justina Lynch",
+  "username": "Kaleigh.Rogahn15",
+  "email": "Heather.Mills16@gmail.com",
+  "address": {
+    "street": "Jorge Keys",
+    "suite": "Suite 061",
+    "city": "Durwardmouth",
+    "zipcode": "50146",
+    "geo": {
+      "lat": -66.539,
+      "lng": -81.3352
+    }
+  },
+  "phone": "1-386-861-5026",
+  "website": "ebony.net",
+  "company": {
+    "name": "Denesik LLC",
+    "catchPhrase": "Future-proofed interactive internet solution",
+    "bs": "seamless transform web services"
+  },
+  "id": "842ce620-829c-4cae-85be-322bcea5127c",
+  "testnumobjnums": {
+    "num1": 97307,
+    "num2": 75599,
+    "num3": 48980,
+    "deeper": {
+      "arr": [
+        669,
+        55487,
+        57540,
+        12267.5
+      ]
+    }
+  },
+  "lastSaid": "innovative evolve web-readiness"
+}

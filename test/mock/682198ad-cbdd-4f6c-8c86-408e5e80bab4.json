@@ -1,0 +1,38 @@
+{
+  "name": "Hipolito Murazik",
+  "username": "Archibald89",
+  "email": "Margret.Wehner39@gmail.com",
+  "address": {
+    "street": "Greta Trail",
+    "suite": "Apt. 558",
+    "city": "New Catalina",
+    "zipcode": "02713-3333",
+    "geo": {
+      "lat": 10.6083,
+      "lng": -9.5212
+    }
+  },
+  "phone": "832.227.6004",
+  "website": "caroline.org",
+  "company": {
+    "name": "Pouros - Langworth",
+    "catchPhrase": "Fully-configurable mission-critical paradigm",
+    "bs": "best-of-breed facilitate metrics"
+  },
+  "id": "682198ad-cbdd-4f6c-8c86-408e5e80bab4",
+  "testnumobjnums": {
+    "num1": 99319,
+    "num2": 97282,
+    "num3": 19243.5,
+    "deeper": {
+      "arr": [
+        94307,
+        98693,
+        42271,
+        24919.5
+      ]
+    }
+  },
+  "doing": "hard drive transmitting",
+  "lastSaid": "programming the circuit won't do anything, we need to copy the cross-platform SDD monitor!"
+}

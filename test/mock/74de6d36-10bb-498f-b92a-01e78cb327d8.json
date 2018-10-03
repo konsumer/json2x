@@ -1,0 +1,37 @@
+{
+  "name": "Bernadine Hamill Jr.",
+  "username": "Zoe96",
+  "email": "Bernita94@hotmail.com",
+  "address": {
+    "street": "Bayer Ford",
+    "suite": "Suite 365",
+    "city": "Uptonbury",
+    "zipcode": "81102-2790",
+    "geo": {
+      "lat": 88.7471,
+      "lng": 152.7883
+    }
+  },
+  "phone": "(710) 525-8224",
+  "website": "arch.info",
+  "company": {
+    "name": "Blick, Parker and Marks",
+    "catchPhrase": "Phased client-driven core",
+    "bs": "efficient target interfaces"
+  },
+  "id": "74de6d36-10bb-498f-b92a-01e78cb327d8",
+  "testnumobjnums": {
+    "num1": 40477,
+    "num2": 9300,
+    "num3": 30423,
+    "deeper": {
+      "arr": [
+        36806,
+        92138,
+        13426,
+        4722
+      ]
+    }
+  },
+  "lastSaid": "interactive repurpose e-markets"
+}

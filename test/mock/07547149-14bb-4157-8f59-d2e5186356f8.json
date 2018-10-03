@@ -1,0 +1,38 @@
+{
+  "name": "Earnest Smith",
+  "username": "Mireille_Balistreri",
+  "email": "Susanna38@gmail.com",
+  "address": {
+    "street": "Brianne Pines",
+    "suite": "Apt. 829",
+    "city": "Antoniafurt",
+    "zipcode": "75674-0355",
+    "geo": {
+      "lat": -29.6608,
+      "lng": -143.2038
+    }
+  },
+  "phone": "(940) 299-8364",
+  "website": "ahmad.org",
+  "company": {
+    "name": "Ritchie Inc",
+    "catchPhrase": "Visionary executive intranet",
+    "bs": "24/365 monetize action-items"
+  },
+  "id": "07547149-14bb-4157-8f59-d2e5186356f8",
+  "testnumobjnums": {
+    "num1": 74980,
+    "num2": 35288,
+    "num3": 48767.5,
+    "deeper": {
+      "arr": [
+        9280,
+        80310,
+        68287,
+        2712
+      ]
+    }
+  },
+  "doing": "bandwidth quantifying",
+  "lastSaid": "Use the back-end SMTP application, then you can generate the open-source microchip!"
+}

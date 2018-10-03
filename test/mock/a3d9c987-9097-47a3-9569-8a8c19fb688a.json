@@ -1,0 +1,37 @@
+{
+  "name": "Ms. Jaleel Rath",
+  "username": "Evie_Gusikowski59",
+  "email": "Annamarie97@yahoo.com",
+  "address": {
+    "street": "Fermin Port",
+    "suite": "Apt. 558",
+    "city": "Carterstad",
+    "zipcode": "91250",
+    "geo": {
+      "lat": 70.8926,
+      "lng": -15.5608
+    }
+  },
+  "phone": "890-754-0249",
+  "website": "estell.net",
+  "company": {
+    "name": "Ritchie - Williamson",
+    "catchPhrase": "Synchronised impactful forecast",
+    "bs": "scalable benchmark supply-chains"
+  },
+  "id": "a3d9c987-9097-47a3-9569-8a8c19fb688a",
+  "testnumobjnums": {
+    "num1": 13945,
+    "num2": 9695,
+    "num3": 21027,
+    "deeper": {
+      "arr": [
+        59396,
+        87532,
+        18028,
+        33899
+      ]
+    }
+  },
+  "lastSaid": "innovative matrix users"
+}

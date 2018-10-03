@@ -1,0 +1,37 @@
+{
+  "name": "Hilma Harvey",
+  "username": "Lizeth.Altenwerth",
+  "email": "Matilde.Harris@gmail.com",
+  "address": {
+    "street": "Ines Stream",
+    "suite": "Apt. 536",
+    "city": "Dereckborough",
+    "zipcode": "43588",
+    "geo": {
+      "lat": 65.3753,
+      "lng": -57.9106
+    }
+  },
+  "phone": "1-586-341-4925",
+  "website": "malinda.biz",
+  "company": {
+    "name": "Pfannerstill, Johnson and Marvin",
+    "catchPhrase": "Multi-channelled motivating archive",
+    "bs": "one-to-one embrace functionalities"
+  },
+  "id": "43b1801a-2008-4495-ba44-f6b695d7583e",
+  "testnumobjnums": {
+    "num1": 96239,
+    "num2": 69386,
+    "num3": 34216,
+    "deeper": {
+      "arr": [
+        79848,
+        84285,
+        5917,
+        42384
+      ]
+    }
+  },
+  "lastSaid": "revolutionary optimize web-readiness"
+}

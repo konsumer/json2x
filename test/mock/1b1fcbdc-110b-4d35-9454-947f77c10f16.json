@@ -1,0 +1,37 @@
+{
+  "name": "Kariane Thompson",
+  "username": "Clarissa_Block",
+  "email": "Kiera_Reichel@gmail.com",
+  "address": {
+    "street": "Renner Ridge",
+    "suite": "Suite 409",
+    "city": "Walterport",
+    "zipcode": "66189",
+    "geo": {
+      "lat": -34.0155,
+      "lng": 34.8462
+    }
+  },
+  "phone": "581.713.5309",
+  "website": "ola.net",
+  "company": {
+    "name": "Rippin, Daugherty and Dibbert",
+    "catchPhrase": "Phased analyzing internet solution",
+    "bs": "enterprise optimize methodologies"
+  },
+  "id": "1b1fcbdc-110b-4d35-9454-947f77c10f16",
+  "testnumobjnums": {
+    "num1": 91181,
+    "num2": 48797,
+    "num3": 22279,
+    "deeper": {
+      "arr": [
+        70794,
+        61250,
+        15549,
+        9767
+      ]
+    }
+  },
+  "lastSaid": "compelling engineer systems"
+}

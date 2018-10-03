@@ -1,0 +1,38 @@
+{
+  "name": "Kaylah Bosco",
+  "username": "Amelia2",
+  "email": "Shaun.Beer37@yahoo.com",
+  "address": {
+    "street": "Ellsworth Squares",
+    "suite": "Suite 841",
+    "city": "Wilkinsonside",
+    "zipcode": "03835-8995",
+    "geo": {
+      "lat": 27.5865,
+      "lng": 143.7718
+    }
+  },
+  "phone": "1-491-413-8267 x6517",
+  "website": "winfield.biz",
+  "company": {
+    "name": "Monahan Group",
+    "catchPhrase": "Exclusive 24 hour leverage",
+    "bs": "mission-critical engage infomediaries"
+  },
+  "id": "226fed66-1b14-4923-85ff-6b6f35ec5d74",
+  "testnumobjnums": {
+    "num1": 23627,
+    "num2": 94974,
+    "num3": 43108.5,
+    "deeper": {
+      "arr": [
+        7055,
+        86301,
+        18678,
+        21925
+      ]
+    }
+  },
+  "doing": "bandwidth synthesizing",
+  "lastSaid": "If we parse the driver, we can get to the PCI program through the cross-platform SMTP microchip!"
+}

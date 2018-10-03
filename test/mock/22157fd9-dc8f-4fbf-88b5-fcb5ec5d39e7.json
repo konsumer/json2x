@@ -1,0 +1,37 @@
+{
+  "name": "Gunner Gusikowski",
+  "username": "Aurelia_Bradtke",
+  "email": "Wava_Dibbert82@hotmail.com",
+  "address": {
+    "street": "Osinski Lake",
+    "suite": "Suite 351",
+    "city": "Marjoryborough",
+    "zipcode": "98095",
+    "geo": {
+      "lat": -14.5028,
+      "lng": -5.4172
+    }
+  },
+  "phone": "815.974.9376",
+  "website": "marcia.name",
+  "company": {
+    "name": "Willms - Ondricka",
+    "catchPhrase": "Optional contextually-based challenge",
+    "bs": "customized utilize methodologies"
+  },
+  "id": "22157fd9-dc8f-4fbf-88b5-fcb5ec5d39e7",
+  "testnumobjnums": {
+    "num1": 37323,
+    "num2": 11148,
+    "num3": 49263,
+    "deeper": {
+      "arr": [
+        16508,
+        20477,
+        34070,
+        12899
+      ]
+    }
+  },
+  "lastSaid": "compelling innovate users"
+}

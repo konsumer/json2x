@@ -1,0 +1,37 @@
+{
+  "name": "Davin Christiansen",
+  "username": "Efren_Heidenreich96",
+  "email": "Dakota.Abbott@hotmail.com",
+  "address": {
+    "street": "Lucy Club",
+    "suite": "Apt. 135",
+    "city": "South Lessie",
+    "zipcode": "14332",
+    "geo": {
+      "lat": 14.2318,
+      "lng": -126.147
+    }
+  },
+  "phone": "049.618.0786",
+  "website": "immanuel.biz",
+  "company": {
+    "name": "Legros - Yundt",
+    "catchPhrase": "Future-proofed didactic archive",
+    "bs": "real-time empower eyeballs"
+  },
+  "id": "5eb6e87d-84f6-445e-a0a1-94f894f56218",
+  "testnumobjnums": {
+    "num1": 60110,
+    "num2": 45093,
+    "num3": 31851.5,
+    "deeper": {
+      "arr": [
+        8872,
+        10202,
+        67681,
+        6854
+      ]
+    }
+  },
+  "lastSaid": "integrated target systems"
+}

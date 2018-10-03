@@ -1,0 +1,37 @@
+{
+  "name": "Amelia Monahan",
+  "username": "Gabe51",
+  "email": "Webster.Borer12@gmail.com",
+  "address": {
+    "street": "Rempel Rapid",
+    "suite": "Apt. 027",
+    "city": "Rueckershire",
+    "zipcode": "55620",
+    "geo": {
+      "lat": 76.2936,
+      "lng": -101.0007
+    }
+  },
+  "phone": "1-284-515-6779 x82107",
+  "website": "jarrod.org",
+  "company": {
+    "name": "Moen LLC",
+    "catchPhrase": "Virtual system-worthy algorithm",
+    "bs": "synergistic visualize e-markets"
+  },
+  "id": "c4541bac-36cd-4e0c-9663-a8af73a6d89f",
+  "testnumobjnums": {
+    "num1": 9279,
+    "num2": 99428,
+    "num3": 37977,
+    "deeper": {
+      "arr": [
+        68353,
+        70343,
+        96238,
+        30930
+      ]
+    }
+  },
+  "lastSaid": "intuitive implement channels"
+}

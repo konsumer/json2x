@@ -1,0 +1,38 @@
+{
+  "name": "Helena Huel",
+  "username": "Simone46",
+  "email": "Ernesto.Dooley@yahoo.com",
+  "address": {
+    "street": "Botsford Pines",
+    "suite": "Suite 922",
+    "city": "East Edentown",
+    "zipcode": "83678",
+    "geo": {
+      "lat": 75.0387,
+      "lng": -131.1316
+    }
+  },
+  "phone": "1-348-068-9797 x035",
+  "website": "dudley.biz",
+  "company": {
+    "name": "Turner Group",
+    "catchPhrase": "Centralized user-facing help-desk",
+    "bs": "revolutionary monetize supply-chains"
+  },
+  "id": "bf82d888-57aa-4372-a298-dde57dc58c65",
+  "testnumobjnums": {
+    "num1": 26311,
+    "num2": 92848,
+    "num3": 12138,
+    "deeper": {
+      "arr": [
+        68884,
+        96151,
+        82053,
+        34485.5
+      ]
+    }
+  },
+  "doing": "interface connecting",
+  "lastSaid": "If we index the capacitor, we can get to the SDD driver through the back-end FTP panel!"
+}

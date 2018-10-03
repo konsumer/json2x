@@ -1,0 +1,37 @@
+{
+  "name": "Miss Edgar Paucek",
+  "username": "Charlotte_Batz84",
+  "email": "Christine_Marks@hotmail.com",
+  "address": {
+    "street": "Kautzer Plains",
+    "suite": "Apt. 656",
+    "city": "East Casimirchester",
+    "zipcode": "15417",
+    "geo": {
+      "lat": -89.0654,
+      "lng": -113.6586
+    }
+  },
+  "phone": "224-987-9740 x694",
+  "website": "lue.info",
+  "company": {
+    "name": "Wiza, Hilpert and Paucek",
+    "catchPhrase": "Synergized analyzing middleware",
+    "bs": "ubiquitous iterate models"
+  },
+  "id": "2baca55a-a7e9-4def-a485-b3f4b744a033",
+  "testnumobjnums": {
+    "num1": 90732,
+    "num2": 24549,
+    "num3": 9418,
+    "deeper": {
+      "arr": [
+        37431,
+        15271,
+        27125,
+        45341.5
+      ]
+    }
+  },
+  "lastSaid": "leading-edge disintermediate models"
+}

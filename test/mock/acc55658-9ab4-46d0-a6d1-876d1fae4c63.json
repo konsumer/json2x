@@ -1,0 +1,38 @@
+{
+  "name": "Bradly Weber",
+  "username": "Devyn1",
+  "email": "Hazel34@hotmail.com",
+  "address": {
+    "street": "Kris Crest",
+    "suite": "Suite 575",
+    "city": "Harveymouth",
+    "zipcode": "97553",
+    "geo": {
+      "lat": 6.8001,
+      "lng": 5.1338
+    }
+  },
+  "phone": "1-800-146-7487 x40557",
+  "website": "larissa.info",
+  "company": {
+    "name": "Terry - Swaniawski",
+    "catchPhrase": "Organized real-time open architecture",
+    "bs": "real-time strategize e-tailers"
+  },
+  "id": "acc55658-9ab4-46d0-a6d1-876d1fae4c63",
+  "testnumobjnums": {
+    "num1": 95515,
+    "num2": 46260,
+    "num3": 9847.5,
+    "deeper": {
+      "arr": [
+        17312,
+        75783,
+        99606,
+        36377.5
+      ]
+    }
+  },
+  "doing": "card synthesizing",
+  "lastSaid": "You can't index the array without parsing the digital COM capacitor!"
+}

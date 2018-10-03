@@ -1,0 +1,38 @@
+{
+  "name": "Cecilia Becker",
+  "username": "Tiara_Bogan54",
+  "email": "Rafael_Raynor@hotmail.com",
+  "address": {
+    "street": "Johns Freeway",
+    "suite": "Apt. 403",
+    "city": "East Magali",
+    "zipcode": "52527-5537",
+    "geo": {
+      "lat": -65.4394,
+      "lng": -81.2464
+    }
+  },
+  "phone": "(914) 609-1514 x5147",
+  "website": "bradly.name",
+  "company": {
+    "name": "Cummings Group",
+    "catchPhrase": "Virtual client-server hierarchy",
+    "bs": "scalable productize e-tailers"
+  },
+  "id": "4cf6a7c1-f5f7-49a3-b1e9-66c2bb2b4291",
+  "testnumobjnums": {
+    "num1": 499,
+    "num2": 6440,
+    "num3": 7193,
+    "deeper": {
+      "arr": [
+        97198,
+        59610,
+        94517,
+        2034.5
+      ]
+    }
+  },
+  "doing": "hard drive indexing",
+  "lastSaid": "You can't quantify the microchip without compressing the haptic SMTP bandwidth!"
+}

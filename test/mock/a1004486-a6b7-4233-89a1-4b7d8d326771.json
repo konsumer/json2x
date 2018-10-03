@@ -1,0 +1,37 @@
+{
+  "name": "Bessie Feest",
+  "username": "Abraham_Breitenberg",
+  "email": "Liliane16@yahoo.com",
+  "address": {
+    "street": "Cronin Club",
+    "suite": "Apt. 314",
+    "city": "Daronborough",
+    "zipcode": "78845",
+    "geo": {
+      "lat": 10.178,
+      "lng": 125.4441
+    }
+  },
+  "phone": "027-529-4334",
+  "website": "jakob.com",
+  "company": {
+    "name": "Mann, Gerhold and Runte",
+    "catchPhrase": "Synergized 24 hour superstructure",
+    "bs": "dot-com mesh networks"
+  },
+  "id": "a1004486-a6b7-4233-89a1-4b7d8d326771",
+  "testnumobjnums": {
+    "num1": 13157,
+    "num2": 54042,
+    "num3": 3064,
+    "deeper": {
+      "arr": [
+        5190,
+        97880,
+        83116,
+        48642
+      ]
+    }
+  },
+  "lastSaid": "synergistic whiteboard markets"
+}

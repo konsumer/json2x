@@ -1,0 +1,38 @@
+{
+  "name": "Shaylee Willms",
+  "username": "Orville27",
+  "email": "Evert.Rodriguez@hotmail.com",
+  "address": {
+    "street": "Shanahan Skyway",
+    "suite": "Suite 704",
+    "city": "Barrowsview",
+    "zipcode": "25186-7586",
+    "geo": {
+      "lat": 65.7609,
+      "lng": -124.9077
+    }
+  },
+  "phone": "812-508-3254 x72806",
+  "website": "kelli.net",
+  "company": {
+    "name": "Walter Inc",
+    "catchPhrase": "Enhanced fault-tolerant service-desk",
+    "bs": "customized strategize partnerships"
+  },
+  "id": "83c88291-83ef-4194-be99-e1746a35af4f",
+  "testnumobjnums": {
+    "num1": 63143,
+    "num2": 16023,
+    "num3": 39321.5,
+    "deeper": {
+      "arr": [
+        75520,
+        95118,
+        47600,
+        41677.5
+      ]
+    }
+  },
+  "doing": "matrix calculating",
+  "lastSaid": "If we hack the hard drive, we can get to the SMS panel through the mobile HTTP capacitor!"
+}

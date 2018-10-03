@@ -1,0 +1,37 @@
+{
+  "name": "Tiffany Dooley",
+  "username": "Danika.Bosco",
+  "email": "Juvenal_Block@gmail.com",
+  "address": {
+    "street": "Kreiger Lock",
+    "suite": "Apt. 937",
+    "city": "Violettefort",
+    "zipcode": "36683-4236",
+    "geo": {
+      "lat": 82.1489,
+      "lng": 31.7066
+    }
+  },
+  "phone": "668-330-6187 x26014",
+  "website": "treva.name",
+  "company": {
+    "name": "Hammes, Kris and Cummerata",
+    "catchPhrase": "Face to face 6th generation array",
+    "bs": "open-source maximize e-markets"
+  },
+  "id": "776deef7-eee1-4aad-8294-e8aa08fe94d3",
+  "testnumobjnums": {
+    "num1": 5302,
+    "num2": 56840,
+    "num3": 21645.5,
+    "deeper": {
+      "arr": [
+        44362,
+        22948,
+        89071,
+        41920
+      ]
+    }
+  },
+  "lastSaid": "holistic redefine methodologies"
+}

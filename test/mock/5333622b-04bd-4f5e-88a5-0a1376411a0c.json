@@ -1,0 +1,38 @@
+{
+  "name": "Piper Cartwright",
+  "username": "Creola44",
+  "email": "Nelson_Deckow@yahoo.com",
+  "address": {
+    "street": "Jamel Street",
+    "suite": "Apt. 762",
+    "city": "Lake Leonoraland",
+    "zipcode": "24779",
+    "geo": {
+      "lat": 62.8331,
+      "lng": -37.25
+    }
+  },
+  "phone": "1-217-803-8650",
+  "website": "keshaun.net",
+  "company": {
+    "name": "Nolan, Lakin and Yost",
+    "catchPhrase": "Organic local instruction set",
+    "bs": "killer e-enable e-markets"
+  },
+  "id": "5333622b-04bd-4f5e-88a5-0a1376411a0c",
+  "testnumobjnums": {
+    "num1": 32783,
+    "num2": 12291,
+    "num3": 23713,
+    "deeper": {
+      "arr": [
+        7121,
+        1666,
+        60997,
+        37533.5
+      ]
+    }
+  },
+  "doing": "card synthesizing",
+  "lastSaid": "You can't compress the hard drive without synthesizing the optical EXE hard drive!"
+}

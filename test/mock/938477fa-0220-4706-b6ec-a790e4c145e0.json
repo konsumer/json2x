@@ -1,0 +1,38 @@
+{
+  "name": "Tracey Bednar",
+  "username": "Mark11",
+  "email": "Viola_Paucek87@hotmail.com",
+  "address": {
+    "street": "Rey Cape",
+    "suite": "Suite 659",
+    "city": "South Shania",
+    "zipcode": "02811-6841",
+    "geo": {
+      "lat": -10.4375,
+      "lng": -137.7323
+    }
+  },
+  "phone": "1-005-069-0841",
+  "website": "garrick.org",
+  "company": {
+    "name": "Morar, Howell and Rowe",
+    "catchPhrase": "Cross-group mission-critical analyzer",
+    "bs": "ubiquitous incentivize vortals"
+  },
+  "id": "938477fa-0220-4706-b6ec-a790e4c145e0",
+  "testnumobjnums": {
+    "num1": 14572,
+    "num2": 13889,
+    "num3": 46942,
+    "deeper": {
+      "arr": [
+        3527,
+        29966,
+        59003,
+        41931.5
+      ]
+    }
+  },
+  "doing": "array connecting",
+  "lastSaid": "You can't hack the circuit without connecting the open-source AGP firewall!"
+}

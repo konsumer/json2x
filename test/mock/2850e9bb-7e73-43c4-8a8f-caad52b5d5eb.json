@@ -1,0 +1,37 @@
+{
+  "name": "Addison Bernier II",
+  "username": "Delphia.Brekke25",
+  "email": "Elizabeth_Boehm95@gmail.com",
+  "address": {
+    "street": "Johnston Way",
+    "suite": "Apt. 475",
+    "city": "South Kristaburgh",
+    "zipcode": "10566-4248",
+    "geo": {
+      "lat": 72.7612,
+      "lng": -32.0371
+    }
+  },
+  "phone": "(069) 366-9807",
+  "website": "liza.biz",
+  "company": {
+    "name": "Bergnaum, Hayes and Huel",
+    "catchPhrase": "Diverse optimizing capability",
+    "bs": "killer aggregate systems"
+  },
+  "id": "2850e9bb-7e73-43c4-8a8f-caad52b5d5eb",
+  "testnumobjnums": {
+    "num1": 44467,
+    "num2": 4513,
+    "num3": 8264.5,
+    "deeper": {
+      "arr": [
+        12788,
+        48813,
+        51257,
+        34380.5
+      ]
+    }
+  },
+  "lastSaid": "24/365 implement e-commerce"
+}

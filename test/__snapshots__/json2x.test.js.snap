@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`json2x should get average from types for ["a", 1, 2, 3.0, 5] 1`] = `"string"`;
+
+exports[`json2x should get average from types for [1, 2, 3.0, 5] 1`] = `"int"`;
+
+exports[`json2x should get average from types for [1, 2, 3.5, 5] 1`] = `"float"`;
+
+exports[`json2x should get the commands I expect 1`] = `
+Array [
+  Object {
+    "exports": Object {
+      "description": "Generate GraphQL types from your data",
+      "makeType": [Function],
+      "options": [Function],
+      "run": [Function],
+    },
+    "path": "/Users/konsumer/Documents/otherdev/json2x/src/generators/graphql.js",
+  },
+  Object {
+    "exports": Object {
+      "description": "Generate JSONSchema from your data",
+      "run": [Function],
+    },
+    "path": "/Users/konsumer/Documents/otherdev/json2x/src/generators/jsonschema.js",
+  },
+  Object {
+    "exports": Object {
+      "description": "Generate GraphQL types from your data",
+      "makeType": [Function],
+      "options": [Function],
+      "run": [Function],
+    },
+    "path": "/Users/konsumer/Documents/otherdev/json2x/src/generators/proto.js",
+  },
+]
+`;
+
+exports[`json2x should get types from a more complex objects 1`] = `
+Object {
+  "address": Object {
+    "city": "string",
+    "geo": Object {
+      "lat": "float",
+      "lng": "float",
+    },
+    "street": "string",
+    "suite": "string",
+    "zipcode": "string",
+  },
+  "company": Object {
+    "bs": "string",
+    "catchPhrase": "string",
+    "name": "string",
+  },
+  "doing": "string",
+  "email": "string",
+  "id": "string",
+  "lastSaid": "string",
+  "name": "string",
+  "phone": "string",
+  "testnumobjnums": Object {
+    "deeper": Object {
+      "arr": Array [
+        "float",
+      ],
+    },
+    "num1": "int",
+    "num2": "int",
+    "num3": "float",
+  },
+  "username": "string",
+  "website": "string",
+}
+`;

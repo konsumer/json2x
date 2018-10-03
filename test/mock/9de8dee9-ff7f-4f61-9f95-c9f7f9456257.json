@@ -1,0 +1,37 @@
+{
+  "name": "Eden Bergnaum",
+  "username": "Aylin_Predovic",
+  "email": "Yoshiko.McGlynn@hotmail.com",
+  "address": {
+    "street": "Bruen Roads",
+    "suite": "Suite 275",
+    "city": "Yasmineton",
+    "zipcode": "94971",
+    "geo": {
+      "lat": -18.5744,
+      "lng": -80.6422
+    }
+  },
+  "phone": "1-796-485-5481 x91004",
+  "website": "ashton.com",
+  "company": {
+    "name": "Ziemann Inc",
+    "catchPhrase": "Extended grid-enabled project",
+    "bs": "dynamic architect architectures"
+  },
+  "id": "9de8dee9-ff7f-4f61-9f95-c9f7f9456257",
+  "testnumobjnums": {
+    "num1": 62736,
+    "num2": 63062,
+    "num3": 21180.5,
+    "deeper": {
+      "arr": [
+        4686,
+        18148,
+        55406,
+        4811
+      ]
+    }
+  },
+  "lastSaid": "front-end deploy initiatives"
+}

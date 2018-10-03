@@ -1,0 +1,38 @@
+{
+  "name": "Ms. Neoma Kulas",
+  "username": "Floy_Senger83",
+  "email": "Daisy96@gmail.com",
+  "address": {
+    "street": "Garret Terrace",
+    "suite": "Suite 102",
+    "city": "Gottliebbury",
+    "zipcode": "07877-3617",
+    "geo": {
+      "lat": -52.1904,
+      "lng": -5.1193
+    }
+  },
+  "phone": "(987) 827-3309 x7046",
+  "website": "minnie.net",
+  "company": {
+    "name": "Leffler Group",
+    "catchPhrase": "Object-based coherent artificial intelligence",
+    "bs": "e-business productize infrastructures"
+  },
+  "id": "5eef0c4a-5c8c-4a6d-9f48-87007fc51cf1",
+  "testnumobjnums": {
+    "num1": 73604,
+    "num2": 65988,
+    "num3": 37464,
+    "deeper": {
+      "arr": [
+        42114,
+        84933,
+        6292,
+        36408.5
+      ]
+    }
+  },
+  "doing": "card connecting",
+  "lastSaid": "We need to synthesize the bluetooth SQL program!"
+}

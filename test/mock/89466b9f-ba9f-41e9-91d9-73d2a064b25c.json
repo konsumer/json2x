@@ -1,0 +1,37 @@
+{
+  "name": "Hadley Parisian",
+  "username": "Margarete_Ferry",
+  "email": "Jordane_Toy5@yahoo.com",
+  "address": {
+    "street": "Hunter Squares",
+    "suite": "Apt. 868",
+    "city": "Turnerberg",
+    "zipcode": "04208-9137",
+    "geo": {
+      "lat": -33.394,
+      "lng": 7.7668
+    }
+  },
+  "phone": "(252) 556-0897 x28388",
+  "website": "simone.info",
+  "company": {
+    "name": "Bode - Hackett",
+    "catchPhrase": "Future-proofed national time-frame",
+    "bs": "plug-and-play enhance synergies"
+  },
+  "id": "89466b9f-ba9f-41e9-91d9-73d2a064b25c",
+  "testnumobjnums": {
+    "num1": 36461,
+    "num2": 76432,
+    "num3": 5266,
+    "deeper": {
+      "arr": [
+        67246,
+        42423,
+        95920,
+        8458.5
+      ]
+    }
+  },
+  "lastSaid": "compelling target networks"
+}

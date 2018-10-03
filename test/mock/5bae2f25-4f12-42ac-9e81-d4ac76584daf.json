@@ -1,0 +1,38 @@
+{
+  "name": "Mona Howell",
+  "username": "Everardo.Schmitt15",
+  "email": "Emory_Huel@yahoo.com",
+  "address": {
+    "street": "McGlynn Port",
+    "suite": "Suite 245",
+    "city": "Schusterton",
+    "zipcode": "99317-4031",
+    "geo": {
+      "lat": -32.6811,
+      "lng": -26.6959
+    }
+  },
+  "phone": "1-307-544-0242",
+  "website": "naomi.net",
+  "company": {
+    "name": "Shanahan - Beatty",
+    "catchPhrase": "Profit-focused web-enabled infrastructure",
+    "bs": "dynamic streamline content"
+  },
+  "id": "5bae2f25-4f12-42ac-9e81-d4ac76584daf",
+  "testnumobjnums": {
+    "num1": 35823,
+    "num2": 12592,
+    "num3": 14269.5,
+    "deeper": {
+      "arr": [
+        49933,
+        75092,
+        14725,
+        36603
+      ]
+    }
+  },
+  "doing": "sensor backing up",
+  "lastSaid": "Use the bluetooth SSL panel, then you can copy the neural alarm!"
+}

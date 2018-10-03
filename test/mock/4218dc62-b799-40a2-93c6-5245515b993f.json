@@ -1,0 +1,37 @@
+{
+  "name": "Madonna Reinger",
+  "username": "Hanna_Kemmer",
+  "email": "Stephen56@yahoo.com",
+  "address": {
+    "street": "Ferry Shoal",
+    "suite": "Apt. 636",
+    "city": "North Bethtown",
+    "zipcode": "65574",
+    "geo": {
+      "lat": 52.6466,
+      "lng": 174.0362
+    }
+  },
+  "phone": "1-013-828-6537 x6905",
+  "website": "dalton.name",
+  "company": {
+    "name": "Stracke, Kunze and Simonis",
+    "catchPhrase": "Decentralized dynamic contingency",
+    "bs": "proactive synthesize solutions"
+  },
+  "id": "4218dc62-b799-40a2-93c6-5245515b993f",
+  "testnumobjnums": {
+    "num1": 57378,
+    "num2": 35430,
+    "num3": 6590,
+    "deeper": {
+      "arr": [
+        25512,
+        4006,
+        47629,
+        15349
+      ]
+    }
+  },
+  "lastSaid": "open-source disintermediate schemas"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Eulalia Aufderhar",
+  "username": "Armani.Robel36",
+  "email": "Giuseppe99@gmail.com",
+  "address": {
+    "street": "Huels Glen",
+    "suite": "Apt. 901",
+    "city": "East Codyhaven",
+    "zipcode": "10868",
+    "geo": {
+      "lat": -2.9313,
+      "lng": -176.098
+    }
+  },
+  "phone": "(267) 662-3030 x69028",
+  "website": "anibal.com",
+  "company": {
+    "name": "Mosciski - Spinka",
+    "catchPhrase": "Right-sized upward-trending support",
+    "bs": "granular brand ROI"
+  },
+  "id": "2f167218-1002-4848-bb48-7a92b9e5b67a",
+  "testnumobjnums": {
+    "num1": 70045,
+    "num2": 57537,
+    "num3": 31008.5,
+    "deeper": {
+      "arr": [
+        43321,
+        40042,
+        35733,
+        30723
+      ]
+    }
+  },
+  "lastSaid": "strategic evolve vortals"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Sophie Reynolds",
+  "username": "Minnie61",
+  "email": "Lela56@gmail.com",
+  "address": {
+    "street": "Graham Crest",
+    "suite": "Suite 194",
+    "city": "Dietrichside",
+    "zipcode": "54228-8894",
+    "geo": {
+      "lat": -13.7278,
+      "lng": 138.4202
+    }
+  },
+  "phone": "(596) 164-3798 x9397",
+  "website": "ila.com",
+  "company": {
+    "name": "Goyette and Sons",
+    "catchPhrase": "Persistent dynamic project",
+    "bs": "24/7 innovate systems"
+  },
+  "id": "547c1e45-9f15-4717-95fd-3ca8799bd229",
+  "testnumobjnums": {
+    "num1": 48238,
+    "num2": 55354,
+    "num3": 21019.5,
+    "deeper": {
+      "arr": [
+        69884,
+        95847,
+        54602,
+        44166
+      ]
+    }
+  },
+  "lastSaid": "frictionless extend solutions"
+}

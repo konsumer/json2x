@@ -1,0 +1,38 @@
+{
+  "name": "Emmett Becker",
+  "username": "Lavada_Williamson5",
+  "email": "Cloyd.Moore70@gmail.com",
+  "address": {
+    "street": "Buster Streets",
+    "suite": "Apt. 056",
+    "city": "Oberbrunnerside",
+    "zipcode": "69493-0318",
+    "geo": {
+      "lat": 83.2912,
+      "lng": -177.0546
+    }
+  },
+  "phone": "(094) 049-6122 x4407",
+  "website": "arnaldo.name",
+  "company": {
+    "name": "Hamill Inc",
+    "catchPhrase": "Stand-alone client-driven approach",
+    "bs": "strategic revolutionize systems"
+  },
+  "id": "00984a1f-398c-4107-be52-be308b4068fa",
+  "testnumobjnums": {
+    "num1": 48580,
+    "num2": 65871,
+    "num3": 11806,
+    "deeper": {
+      "arr": [
+        2880,
+        76588,
+        29090,
+        17935.5
+      ]
+    }
+  },
+  "doing": "transmitter navigating",
+  "lastSaid": "If we bypass the port, we can get to the SCSI driver through the multi-byte AI microchip!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Bryon Stracke",
+  "username": "Micaela50",
+  "email": "Mossie.Bradtke27@yahoo.com",
+  "address": {
+    "street": "Jones Mill",
+    "suite": "Apt. 132",
+    "city": "Lake Brooktown",
+    "zipcode": "27892-3799",
+    "geo": {
+      "lat": -51.9755,
+      "lng": -167.4188
+    }
+  },
+  "phone": "1-798-718-3521 x645",
+  "website": "cloyd.org",
+  "company": {
+    "name": "Mueller - Fisher",
+    "catchPhrase": "Expanded 6th generation matrices",
+    "bs": "vertical mesh synergies"
+  },
+  "id": "8ca4d6f1-9c66-4a3d-8923-c661804c8d79",
+  "testnumobjnums": {
+    "num1": 87340,
+    "num2": 47198,
+    "num3": 30774.5,
+    "deeper": {
+      "arr": [
+        3495,
+        64772,
+        63557,
+        33812
+      ]
+    }
+  },
+  "lastSaid": "out-of-the-box morph eyeballs"
+}

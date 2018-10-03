@@ -1,0 +1,37 @@
+{
+  "name": "Cletus Monahan",
+  "username": "Rodrick.Blick63",
+  "email": "Bertram77@hotmail.com",
+  "address": {
+    "street": "Denesik Manor",
+    "suite": "Apt. 229",
+    "city": "Bradleymouth",
+    "zipcode": "11318",
+    "geo": {
+      "lat": 21.553,
+      "lng": 20.9504
+    }
+  },
+  "phone": "516.966.1033 x11772",
+  "website": "immanuel.biz",
+  "company": {
+    "name": "Bins - MacGyver",
+    "catchPhrase": "Persevering composite pricing structure",
+    "bs": "mission-critical envisioneer initiatives"
+  },
+  "id": "78083e55-e0aa-4149-a8a8-3ba2af84564d",
+  "testnumobjnums": {
+    "num1": 91850,
+    "num2": 63198,
+    "num3": 20597.5,
+    "deeper": {
+      "arr": [
+        25842,
+        79143,
+        2293,
+        15406.5
+      ]
+    }
+  },
+  "lastSaid": "transparent architect deliverables"
+}

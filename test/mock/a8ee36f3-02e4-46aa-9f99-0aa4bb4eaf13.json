@@ -1,0 +1,37 @@
+{
+  "name": "Janessa Williamson",
+  "username": "Triston.Marks86",
+  "email": "Reta_Mraz29@yahoo.com",
+  "address": {
+    "street": "Koepp Shoals",
+    "suite": "Apt. 206",
+    "city": "New Jayceechester",
+    "zipcode": "74786",
+    "geo": {
+      "lat": -36.7787,
+      "lng": 20.6124
+    }
+  },
+  "phone": "495-326-3613 x813",
+  "website": "tremaine.name",
+  "company": {
+    "name": "Mante, Treutel and Yost",
+    "catchPhrase": "Switchable cohesive application",
+    "bs": "user-centric harness solutions"
+  },
+  "id": "a8ee36f3-02e4-46aa-9f99-0aa4bb4eaf13",
+  "testnumobjnums": {
+    "num1": 11997,
+    "num2": 9840,
+    "num3": 20611,
+    "deeper": {
+      "arr": [
+        11712,
+        15430,
+        96800,
+        46637.5
+      ]
+    }
+  },
+  "lastSaid": "bricks-and-clicks optimize systems"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Darby Kertzmann MD",
+  "username": "Janie.Mitchell",
+  "email": "Darrel88@yahoo.com",
+  "address": {
+    "street": "Freddy Stravenue",
+    "suite": "Suite 328",
+    "city": "South Lourdes",
+    "zipcode": "59137-1110",
+    "geo": {
+      "lat": -16.2388,
+      "lng": -22.3567
+    }
+  },
+  "phone": "(990) 284-4980",
+  "website": "danika.net",
+  "company": {
+    "name": "Windler Inc",
+    "catchPhrase": "Progressive system-worthy knowledge base",
+    "bs": "dot-com reinvent technologies"
+  },
+  "id": "b969ad3b-6689-44e1-88e4-9189af89556e",
+  "testnumobjnums": {
+    "num1": 3709,
+    "num2": 82204,
+    "num3": 21626,
+    "deeper": {
+      "arr": [
+        35612,
+        40749,
+        16906,
+        49668
+      ]
+    }
+  },
+  "lastSaid": "efficient cultivate infrastructures"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Tyrel Tromp",
+  "username": "Jovani_Barton",
+  "email": "Rosemary_Lakin80@yahoo.com",
+  "address": {
+    "street": "Greta Well",
+    "suite": "Apt. 231",
+    "city": "West Lawson",
+    "zipcode": "23720",
+    "geo": {
+      "lat": 82.1765,
+      "lng": 160.0309
+    }
+  },
+  "phone": "1-813-655-0359 x2925",
+  "website": "ned.info",
+  "company": {
+    "name": "Weimann, Osinski and Ratke",
+    "catchPhrase": "Expanded asymmetric artificial intelligence",
+    "bs": "B2C harness relationships"
+  },
+  "id": "e2414a0c-e14c-42e5-b6b0-ecd599f1c664",
+  "testnumobjnums": {
+    "num1": 52523,
+    "num2": 8434,
+    "num3": 29464.5,
+    "deeper": {
+      "arr": [
+        39497,
+        29525,
+        762,
+        10836
+      ]
+    }
+  },
+  "lastSaid": "24/365 productize infrastructures"
+}

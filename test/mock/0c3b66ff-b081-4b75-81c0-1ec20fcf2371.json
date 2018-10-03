@@ -1,0 +1,37 @@
+{
+  "name": "Moshe Lebsack Sr.",
+  "username": "Janie_Gottlieb9",
+  "email": "Rosalinda40@gmail.com",
+  "address": {
+    "street": "Streich Unions",
+    "suite": "Suite 518",
+    "city": "Williamsonland",
+    "zipcode": "08245-8777",
+    "geo": {
+      "lat": -42.1209,
+      "lng": -128.6197
+    }
+  },
+  "phone": "1-824-234-5826",
+  "website": "emmalee.com",
+  "company": {
+    "name": "Walter, Gibson and Prohaska",
+    "catchPhrase": "Automated motivating implementation",
+    "bs": "customized synthesize experiences"
+  },
+  "id": "0c3b66ff-b081-4b75-81c0-1ec20fcf2371",
+  "testnumobjnums": {
+    "num1": 32530,
+    "num2": 47011,
+    "num3": 31114,
+    "deeper": {
+      "arr": [
+        91565,
+        10640,
+        12866,
+        11442.5
+      ]
+    }
+  },
+  "lastSaid": "visionary synergize infrastructures"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Anahi Hills",
+  "username": "Aletha_OKon",
+  "email": "Luis_Effertz71@hotmail.com",
+  "address": {
+    "street": "Will Crest",
+    "suite": "Apt. 851",
+    "city": "Lucilestad",
+    "zipcode": "28789",
+    "geo": {
+      "lat": -5.4997,
+      "lng": 82.5705
+    }
+  },
+  "phone": "(438) 576-6465",
+  "website": "anastacio.name",
+  "company": {
+    "name": "Murazik, Hickle and Reynolds",
+    "catchPhrase": "Universal 4th generation hardware",
+    "bs": "seamless aggregate methodologies"
+  },
+  "id": "bb27c08a-8148-4d90-9db2-8feef445acec",
+  "testnumobjnums": {
+    "num1": 39367,
+    "num2": 30484,
+    "num3": 18522,
+    "deeper": {
+      "arr": [
+        40348,
+        68408,
+        57387,
+        12224
+      ]
+    }
+  },
+  "doing": "port copying",
+  "lastSaid": "You can't bypass the hard drive without programming the open-source PNG system!"
+}

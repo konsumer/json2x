@@ -1,0 +1,37 @@
+{
+  "name": "Florence Keebler V",
+  "username": "April_Hyatt",
+  "email": "Waldo_Schmeler@yahoo.com",
+  "address": {
+    "street": "Marks Glen",
+    "suite": "Apt. 037",
+    "city": "East Savion",
+    "zipcode": "62556-5989",
+    "geo": {
+      "lat": -69.792,
+      "lng": -168.414
+    }
+  },
+  "phone": "969-440-4517 x5603",
+  "website": "adell.com",
+  "company": {
+    "name": "Balistreri - Kreiger",
+    "catchPhrase": "Front-line high-level artificial intelligence",
+    "bs": "dot-com grow paradigms"
+  },
+  "id": "bf087031-05c0-45be-90c3-61c4308663e8",
+  "testnumobjnums": {
+    "num1": 52377,
+    "num2": 5525,
+    "num3": 32771.5,
+    "deeper": {
+      "arr": [
+        17839,
+        40703,
+        82787,
+        22200.5
+      ]
+    }
+  },
+  "lastSaid": "transparent benchmark synergies"
+}

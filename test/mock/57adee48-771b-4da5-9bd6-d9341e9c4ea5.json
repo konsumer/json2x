@@ -1,0 +1,37 @@
+{
+  "name": "Dandre Sawayn",
+  "username": "Antonina13",
+  "email": "Avis.Carroll@yahoo.com",
+  "address": {
+    "street": "Bergstrom Bypass",
+    "suite": "Suite 316",
+    "city": "Marvinside",
+    "zipcode": "39663-8022",
+    "geo": {
+      "lat": -19.4446,
+      "lng": 132.676
+    }
+  },
+  "phone": "990-121-1397",
+  "website": "emmitt.name",
+  "company": {
+    "name": "Schuppe, Reynolds and Runolfsson",
+    "catchPhrase": "Face to face eco-centric moratorium",
+    "bs": "transparent leverage portals"
+  },
+  "id": "57adee48-771b-4da5-9bd6-d9341e9c4ea5",
+  "testnumobjnums": {
+    "num1": 57878,
+    "num2": 43285,
+    "num3": 1453,
+    "deeper": {
+      "arr": [
+        38248,
+        2000,
+        63058,
+        10839.5
+      ]
+    }
+  },
+  "lastSaid": "mission-critical facilitate synergies"
+}

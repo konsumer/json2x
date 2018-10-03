@@ -1,0 +1,37 @@
+{
+  "name": "Mervin Kirlin",
+  "username": "Gustave_Mann85",
+  "email": "Jayne84@gmail.com",
+  "address": {
+    "street": "Marco Via",
+    "suite": "Apt. 078",
+    "city": "Robynside",
+    "zipcode": "08805-4797",
+    "geo": {
+      "lat": 49.0537,
+      "lng": 118.983
+    }
+  },
+  "phone": "664.142.5551 x4751",
+  "website": "furman.org",
+  "company": {
+    "name": "Spinka, Langosh and Kunze",
+    "catchPhrase": "Virtual high-level portal",
+    "bs": "24/365 optimize methodologies"
+  },
+  "id": "16b28eb2-4dd6-4518-bf48-70001832d009",
+  "testnumobjnums": {
+    "num1": 81645,
+    "num2": 3147,
+    "num3": 13353,
+    "deeper": {
+      "arr": [
+        7529,
+        75601,
+        28954,
+        38001.5
+      ]
+    }
+  },
+  "lastSaid": "leading-edge facilitate models"
+}

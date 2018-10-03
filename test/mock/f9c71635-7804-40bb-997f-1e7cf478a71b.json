@@ -1,0 +1,37 @@
+{
+  "name": "Loyal Hermann",
+  "username": "Julio13",
+  "email": "Jarrell_Pouros44@hotmail.com",
+  "address": {
+    "street": "Bernadine Station",
+    "suite": "Apt. 924",
+    "city": "Bennettmouth",
+    "zipcode": "39824-8126",
+    "geo": {
+      "lat": -48.828,
+      "lng": -162.3769
+    }
+  },
+  "phone": "(288) 439-5462 x383",
+  "website": "tomasa.com",
+  "company": {
+    "name": "Larson - Schinner",
+    "catchPhrase": "Visionary client-server conglomeration",
+    "bs": "mission-critical revolutionize web-readiness"
+  },
+  "id": "f9c71635-7804-40bb-997f-1e7cf478a71b",
+  "testnumobjnums": {
+    "num1": 36316,
+    "num2": 59903,
+    "num3": 40287.5,
+    "deeper": {
+      "arr": [
+        18030,
+        98262,
+        74966,
+        28118
+      ]
+    }
+  },
+  "lastSaid": "integrated morph infrastructures"
+}

@@ -9,10 +9,12 @@ import globR from 'glob-require'
 require('babel-polyfill')
 
 const noop = () => {}
-const g = promisify(globR)
+export const g = promisify(globR)
 
-const main = async () => {
-  const commands = await g('**/*.js', {cwd: `${__dirname}/generators`})
+export const getCommands = () => g('**/*.js', {cwd: `${__dirname}/generators`})
+
+export const main = async () => {
+  const commands = await getCommands()
 
   commands.forEach(({path, exports: {description, options, run}}) => {
     const name = basename(path, '.js')
@@ -27,7 +29,7 @@ const main = async () => {
           opt.raw[source] = readFileSync(source).toString()
           opt.data[source] = JSON.parse(opt.raw[source])
         })
-        Promise.resolve(run(opt)).then(results => console.log(results))
+        Promise.resolve(run(opt)).then(console.log)
       }
     )
     yargs.example(`$0 ${name} -h`, `Get some help with the ${name} command`)
@@ -42,4 +44,7 @@ const main = async () => {
     .wrap(process.stdout.columns)
     .argv
 }
-main()
+
+if (require.main === module) {
+  main()
+}

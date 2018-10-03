@@ -1,0 +1,38 @@
+{
+  "name": "Maritza Marvin",
+  "username": "Miracle_White",
+  "email": "Darian.Hamill94@hotmail.com",
+  "address": {
+    "street": "Conroy Flat",
+    "suite": "Suite 958",
+    "city": "North Okey",
+    "zipcode": "20933",
+    "geo": {
+      "lat": -0.9585,
+      "lng": 95.6813
+    }
+  },
+  "phone": "1-731-315-8039 x385",
+  "website": "delphine.info",
+  "company": {
+    "name": "Bogisich, Lemke and Treutel",
+    "catchPhrase": "Centralized client-server core",
+    "bs": "granular reintermediate technologies"
+  },
+  "id": "de928999-04cb-4ca5-a725-856b5512e9c3",
+  "testnumobjnums": {
+    "num1": 75924,
+    "num2": 15642,
+    "num3": 25445.5,
+    "deeper": {
+      "arr": [
+        64923,
+        93885,
+        85237,
+        30365.5
+      ]
+    }
+  },
+  "doing": "array connecting",
+  "lastSaid": "Try to index the JBOD sensor, maybe it will connect the open-source port!"
+}

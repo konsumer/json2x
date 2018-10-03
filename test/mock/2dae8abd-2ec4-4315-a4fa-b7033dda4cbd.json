@@ -1,0 +1,38 @@
+{
+  "name": "Lafayette Zieme",
+  "username": "Norval85",
+  "email": "Montana.Satterfield@yahoo.com",
+  "address": {
+    "street": "Marc Ranch",
+    "suite": "Apt. 546",
+    "city": "North Ernafort",
+    "zipcode": "19559",
+    "geo": {
+      "lat": -13.2606,
+      "lng": 103.61
+    }
+  },
+  "phone": "1-731-919-9961 x22760",
+  "website": "ralph.org",
+  "company": {
+    "name": "Hessel, Mills and Bradtke",
+    "catchPhrase": "Secured systematic solution",
+    "bs": "next-generation cultivate interfaces"
+  },
+  "id": "2dae8abd-2ec4-4315-a4fa-b7033dda4cbd",
+  "testnumobjnums": {
+    "num1": 97135,
+    "num2": 40787,
+    "num3": 8344.5,
+    "deeper": {
+      "arr": [
+        94441,
+        78485,
+        22194,
+        19369.5
+      ]
+    }
+  },
+  "doing": "driver hacking",
+  "lastSaid": "The COM sensor is down, generate the multi-byte monitor so we can back up the HDD capacitor!"
+}

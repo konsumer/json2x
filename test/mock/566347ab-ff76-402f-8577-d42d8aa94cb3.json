@@ -1,0 +1,38 @@
+{
+  "name": "Tierra Lang",
+  "username": "Tristin_Cartwright68",
+  "email": "Armando.Cassin@gmail.com",
+  "address": {
+    "street": "Schmitt Motorway",
+    "suite": "Suite 647",
+    "city": "Dollytown",
+    "zipcode": "43592-5150",
+    "geo": {
+      "lat": 54.1412,
+      "lng": -155.0247
+    }
+  },
+  "phone": "411.000.8471",
+  "website": "abelardo.name",
+  "company": {
+    "name": "Thompson - Sporer",
+    "catchPhrase": "Versatile web-enabled access",
+    "bs": "e-business reintermediate niches"
+  },
+  "id": "566347ab-ff76-402f-8577-d42d8aa94cb3",
+  "testnumobjnums": {
+    "num1": 35700,
+    "num2": 27100,
+    "num3": 7180.5,
+    "deeper": {
+      "arr": [
+        74400,
+        54408,
+        2841,
+        7508.5
+      ]
+    }
+  },
+  "doing": "transmitter parsing",
+  "lastSaid": "indexing the transmitter won't do anything, we need to connect the cross-platform SMS system!"
+}

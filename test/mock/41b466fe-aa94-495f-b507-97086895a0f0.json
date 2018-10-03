@@ -1,0 +1,37 @@
+{
+  "name": "Eduardo Bergnaum",
+  "username": "Donald.Heidenreich",
+  "email": "Toy_Powlowski@hotmail.com",
+  "address": {
+    "street": "Tanner Hollow",
+    "suite": "Apt. 294",
+    "city": "New Marcel",
+    "zipcode": "17031",
+    "geo": {
+      "lat": 10.989,
+      "lng": 99.2094
+    }
+  },
+  "phone": "1-833-320-1187",
+  "website": "nathen.name",
+  "company": {
+    "name": "Hyatt Group",
+    "catchPhrase": "Assimilated modular frame",
+    "bs": "cross-media deploy networks"
+  },
+  "id": "41b466fe-aa94-495f-b507-97086895a0f0",
+  "testnumobjnums": {
+    "num1": 75217,
+    "num2": 11552,
+    "num3": 41001.5,
+    "deeper": {
+      "arr": [
+        49629,
+        69179,
+        2641,
+        22268
+      ]
+    }
+  },
+  "lastSaid": "extensible incentivize solutions"
+}

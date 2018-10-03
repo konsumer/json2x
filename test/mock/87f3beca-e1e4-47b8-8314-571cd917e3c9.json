@@ -1,0 +1,37 @@
+{
+  "name": "Cali Gerhold",
+  "username": "Shana46",
+  "email": "Michale_Stracke@yahoo.com",
+  "address": {
+    "street": "Rice Fields",
+    "suite": "Suite 246",
+    "city": "Blickshire",
+    "zipcode": "55733-7833",
+    "geo": {
+      "lat": -42.1023,
+      "lng": -115.698
+    }
+  },
+  "phone": "1-435-360-7705 x309",
+  "website": "alec.name",
+  "company": {
+    "name": "Schneider Inc",
+    "catchPhrase": "Configurable maximized service-desk",
+    "bs": "enterprise scale markets"
+  },
+  "id": "87f3beca-e1e4-47b8-8314-571cd917e3c9",
+  "testnumobjnums": {
+    "num1": 88454,
+    "num2": 55145,
+    "num3": 38213.5,
+    "deeper": {
+      "arr": [
+        65248,
+        96699,
+        63281,
+        42019
+      ]
+    }
+  },
+  "lastSaid": "cutting-edge harness architectures"
+}

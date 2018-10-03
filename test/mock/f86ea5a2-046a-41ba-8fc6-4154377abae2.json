@@ -1,0 +1,37 @@
+{
+  "name": "Vernon Heaney",
+  "username": "Demetrius6",
+  "email": "Rowland53@yahoo.com",
+  "address": {
+    "street": "Corwin Inlet",
+    "suite": "Apt. 446",
+    "city": "New Fabiolaville",
+    "zipcode": "09893",
+    "geo": {
+      "lat": 71.0016,
+      "lng": -168.9697
+    }
+  },
+  "phone": "713.551.1291",
+  "website": "anika.net",
+  "company": {
+    "name": "Dooley, Wehner and Larkin",
+    "catchPhrase": "Focused human-resource secured line",
+    "bs": "synergistic cultivate users"
+  },
+  "id": "f86ea5a2-046a-41ba-8fc6-4154377abae2",
+  "testnumobjnums": {
+    "num1": 9637,
+    "num2": 12071,
+    "num3": 24002,
+    "deeper": {
+      "arr": [
+        12366,
+        45220,
+        37916,
+        8529.5
+      ]
+    }
+  },
+  "lastSaid": "front-end extend supply-chains"
+}

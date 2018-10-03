@@ -1,0 +1,37 @@
+{
+  "name": "Ali Dicki",
+  "username": "Darrin_Lemke79",
+  "email": "Maximus.Nolan15@yahoo.com",
+  "address": {
+    "street": "Zemlak Cliff",
+    "suite": "Apt. 590",
+    "city": "Port Opheliastad",
+    "zipcode": "25509",
+    "geo": {
+      "lat": 25.537,
+      "lng": 4.0539
+    }
+  },
+  "phone": "248.126.6705 x9647",
+  "website": "hipolito.name",
+  "company": {
+    "name": "Bashirian Inc",
+    "catchPhrase": "Programmable modular framework",
+    "bs": "front-end architect deliverables"
+  },
+  "id": "e3e9d70e-9cf0-412e-940e-2fa625e38266",
+  "testnumobjnums": {
+    "num1": 71834,
+    "num2": 96600,
+    "num3": 35014,
+    "deeper": {
+      "arr": [
+        41258,
+        24882,
+        63973,
+        16305
+      ]
+    }
+  },
+  "lastSaid": "back-end iterate architectures"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Ms. Hiram Willms",
+  "username": "Willa50",
+  "email": "Shaylee_Kling1@gmail.com",
+  "address": {
+    "street": "Muller Course",
+    "suite": "Apt. 742",
+    "city": "West Murrayfort",
+    "zipcode": "99041-0078",
+    "geo": {
+      "lat": 28.0856,
+      "lng": 64.5775
+    }
+  },
+  "phone": "636.652.2013 x547",
+  "website": "delia.info",
+  "company": {
+    "name": "Donnelly, Mohr and Howe",
+    "catchPhrase": "Future-proofed solution-oriented portal",
+    "bs": "leading-edge empower infomediaries"
+  },
+  "id": "9d787346-b30a-41b6-a252-63c1a1656a0c",
+  "testnumobjnums": {
+    "num1": 8617,
+    "num2": 13960,
+    "num3": 26558,
+    "deeper": {
+      "arr": [
+        64410,
+        7134,
+        32475,
+        36831
+      ]
+    }
+  },
+  "doing": "bus connecting",
+  "lastSaid": "We need to back up the redundant GB circuit!"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Ludie Hilpert",
+  "username": "Shaun78",
+  "email": "Bettie34@yahoo.com",
+  "address": {
+    "street": "Brannon Crest",
+    "suite": "Apt. 449",
+    "city": "Yolandafort",
+    "zipcode": "17118",
+    "geo": {
+      "lat": 69.2222,
+      "lng": 152.7168
+    }
+  },
+  "phone": "(700) 517-1645 x4058",
+  "website": "misael.name",
+  "company": {
+    "name": "Strosin, Hoeger and Jones",
+    "catchPhrase": "Managed 24 hour website",
+    "bs": "scalable maximize infrastructures"
+  },
+  "id": "13b221e4-21b3-4ed4-888b-53a053fcf7a0",
+  "testnumobjnums": {
+    "num1": 53179,
+    "num2": 74730,
+    "num3": 6790,
+    "deeper": {
+      "arr": [
+        47303,
+        74382,
+        61725,
+        45143.5
+      ]
+    }
+  },
+  "doing": "hard drive indexing",
+  "lastSaid": "The PCI alarm is down, quantify the optical feed so we can generate the AI pixel!"
+}

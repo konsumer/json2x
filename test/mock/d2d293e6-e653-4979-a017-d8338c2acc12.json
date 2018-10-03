@@ -1,0 +1,38 @@
+{
+  "name": "Anais Altenwerth",
+  "username": "Michel_Carroll",
+  "email": "Assunta_Harber84@hotmail.com",
+  "address": {
+    "street": "Chandler Meadows",
+    "suite": "Apt. 200",
+    "city": "Wymanbury",
+    "zipcode": "17216-0035",
+    "geo": {
+      "lat": -71.8312,
+      "lng": 16.5604
+    }
+  },
+  "phone": "1-639-070-9804 x4713",
+  "website": "twila.com",
+  "company": {
+    "name": "Marvin LLC",
+    "catchPhrase": "Open-source contextually-based productivity",
+    "bs": "frictionless mesh systems"
+  },
+  "id": "d2d293e6-e653-4979-a017-d8338c2acc12",
+  "testnumobjnums": {
+    "num1": 9335,
+    "num2": 75374,
+    "num3": 45477.5,
+    "deeper": {
+      "arr": [
+        17768,
+        39993,
+        24414,
+        27341.5
+      ]
+    }
+  },
+  "doing": "matrix synthesizing",
+  "lastSaid": "Use the digital HTTP system, then you can copy the haptic card!"
+}

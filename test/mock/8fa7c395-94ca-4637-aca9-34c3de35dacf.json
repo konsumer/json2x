@@ -1,0 +1,38 @@
+{
+  "name": "Leif Harber PhD",
+  "username": "Lue_Deckow61",
+  "email": "Jeanette.Lesch18@yahoo.com",
+  "address": {
+    "street": "Considine Wells",
+    "suite": "Suite 118",
+    "city": "Novellamouth",
+    "zipcode": "72556",
+    "geo": {
+      "lat": -28.3406,
+      "lng": 116.159
+    }
+  },
+  "phone": "1-408-853-9618",
+  "website": "tania.net",
+  "company": {
+    "name": "Hermann, Rippin and Luettgen",
+    "catchPhrase": "Persistent user-facing throughput",
+    "bs": "best-of-breed streamline web services"
+  },
+  "id": "8fa7c395-94ca-4637-aca9-34c3de35dacf",
+  "testnumobjnums": {
+    "num1": 81285,
+    "num2": 92793,
+    "num3": 32374.5,
+    "deeper": {
+      "arr": [
+        65219,
+        17529,
+        58097,
+        19606
+      ]
+    }
+  },
+  "doing": "alarm copying",
+  "lastSaid": "You can't index the transmitter without navigating the primary AI transmitter!"
+}

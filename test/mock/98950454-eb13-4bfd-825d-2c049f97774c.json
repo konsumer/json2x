@@ -1,0 +1,38 @@
+{
+  "name": "Omer Labadie",
+  "username": "Savanna44",
+  "email": "Vena57@hotmail.com",
+  "address": {
+    "street": "Mann View",
+    "suite": "Apt. 695",
+    "city": "Port Prudence",
+    "zipcode": "49165",
+    "geo": {
+      "lat": -65.1394,
+      "lng": -158.0449
+    }
+  },
+  "phone": "945.172.1574 x315",
+  "website": "orion.net",
+  "company": {
+    "name": "Gislason LLC",
+    "catchPhrase": "Enterprise-wide cohesive workforce",
+    "bs": "intuitive evolve supply-chains"
+  },
+  "id": "98950454-eb13-4bfd-825d-2c049f97774c",
+  "testnumobjnums": {
+    "num1": 91178,
+    "num2": 7034,
+    "num3": 36754.5,
+    "deeper": {
+      "arr": [
+        5064,
+        90431,
+        18016,
+        28328
+      ]
+    }
+  },
+  "doing": "card transmitting",
+  "lastSaid": "Use the auxiliary SQL bandwidth, then you can bypass the haptic array!"
+}

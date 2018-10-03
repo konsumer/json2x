@@ -1,0 +1,37 @@
+{
+  "name": "Velva Hirthe",
+  "username": "Larry69",
+  "email": "Dock_Dickinson@hotmail.com",
+  "address": {
+    "street": "Berge Road",
+    "suite": "Apt. 004",
+    "city": "Bernhardport",
+    "zipcode": "56285",
+    "geo": {
+      "lat": 55.8163,
+      "lng": -6.6829
+    }
+  },
+  "phone": "(479) 092-5760",
+  "website": "dino.org",
+  "company": {
+    "name": "Gerlach - Wolff",
+    "catchPhrase": "Pre-emptive impactful encoding",
+    "bs": "seamless orchestrate schemas"
+  },
+  "id": "d0bd2453-9cbe-40bc-a0ef-d8c164f2dcb0",
+  "testnumobjnums": {
+    "num1": 36782,
+    "num2": 37445,
+    "num3": 11780,
+    "deeper": {
+      "arr": [
+        42853,
+        11855,
+        56693,
+        10440
+      ]
+    }
+  },
+  "lastSaid": "leading-edge engage experiences"
+}

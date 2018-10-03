@@ -1,0 +1,38 @@
+{
+  "name": "Miss Freida Hammes",
+  "username": "Edna.Sawayn",
+  "email": "Karl_Weissnat@yahoo.com",
+  "address": {
+    "street": "Elizabeth Forges",
+    "suite": "Apt. 461",
+    "city": "South Llewellyn",
+    "zipcode": "09439-9120",
+    "geo": {
+      "lat": 70.0293,
+      "lng": 146.5944
+    }
+  },
+  "phone": "(139) 822-6522 x709",
+  "website": "gregoria.com",
+  "company": {
+    "name": "Ondricka, Farrell and Hudson",
+    "catchPhrase": "Business-focused exuding internet solution",
+    "bs": "holistic optimize synergies"
+  },
+  "id": "e6e2d8fc-8de6-456d-aed6-4d893a3a2ecd",
+  "testnumobjnums": {
+    "num1": 3706,
+    "num2": 63364,
+    "num3": 49800,
+    "deeper": {
+      "arr": [
+        90600,
+        42042,
+        14073,
+        11995.5
+      ]
+    }
+  },
+  "doing": "bandwidth overriding",
+  "lastSaid": "Use the neural JSON circuit, then you can copy the online feed!"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Filomena Reichert",
+  "username": "Sabina22",
+  "email": "Richard62@yahoo.com",
+  "address": {
+    "street": "Maeve Bridge",
+    "suite": "Apt. 725",
+    "city": "Schultzchester",
+    "zipcode": "76368",
+    "geo": {
+      "lat": 7.8586,
+      "lng": -23.5684
+    }
+  },
+  "phone": "211-711-1367 x8688",
+  "website": "ivory.name",
+  "company": {
+    "name": "Stoltenberg, Cremin and Hahn",
+    "catchPhrase": "Cross-platform tertiary secured line",
+    "bs": "open-source visualize vortals"
+  },
+  "id": "2a99f992-3aad-41d4-8d81-11741907d72a",
+  "testnumobjnums": {
+    "num1": 65205,
+    "num2": 29619,
+    "num3": 30346.5,
+    "deeper": {
+      "arr": [
+        6671,
+        14145,
+        13127,
+        43397.5
+      ]
+    }
+  },
+  "doing": "protocol copying",
+  "lastSaid": "You can't input the matrix without synthesizing the neural THX driver!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Jaydon Von",
+  "username": "Jerrold25",
+  "email": "Garett_Kihn@hotmail.com",
+  "address": {
+    "street": "Rubie Cliffs",
+    "suite": "Suite 729",
+    "city": "North Sheridanland",
+    "zipcode": "63463-7515",
+    "geo": {
+      "lat": 85.4863,
+      "lng": 165.4837
+    }
+  },
+  "phone": "(862) 212-5271 x4724",
+  "website": "vallie.info",
+  "company": {
+    "name": "Rogahn and Sons",
+    "catchPhrase": "Visionary impactful frame",
+    "bs": "front-end productize portals"
+  },
+  "id": "f50ae0e5-d4ea-4854-8d03-905313730d33",
+  "testnumobjnums": {
+    "num1": 26979,
+    "num2": 44119,
+    "num3": 1324.5,
+    "deeper": {
+      "arr": [
+        85708,
+        60599,
+        15331,
+        45438
+      ]
+    }
+  },
+  "lastSaid": "dot-com incentivize infrastructures"
+}

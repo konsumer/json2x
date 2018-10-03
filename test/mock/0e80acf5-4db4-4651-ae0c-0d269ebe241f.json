@@ -1,0 +1,38 @@
+{
+  "name": "Mr. Gianni Yundt",
+  "username": "Demario.Friesen85",
+  "email": "Anissa_Adams@hotmail.com",
+  "address": {
+    "street": "Giuseppe Camp",
+    "suite": "Apt. 849",
+    "city": "West Zechariah",
+    "zipcode": "16232",
+    "geo": {
+      "lat": 83.0272,
+      "lng": 125.2922
+    }
+  },
+  "phone": "014-256-4022 x202",
+  "website": "elena.net",
+  "company": {
+    "name": "Marks, Turner and Kuhic",
+    "catchPhrase": "Mandatory cohesive moratorium",
+    "bs": "enterprise grow paradigms"
+  },
+  "id": "0e80acf5-4db4-4651-ae0c-0d269ebe241f",
+  "testnumobjnums": {
+    "num1": 27485,
+    "num2": 38605,
+    "num3": 3237.5,
+    "deeper": {
+      "arr": [
+        61609,
+        70884,
+        90636,
+        24185.5
+      ]
+    }
+  },
+  "doing": "capacitor navigating",
+  "lastSaid": "You can't override the firewall without programming the cross-platform TCP interface!"
+}

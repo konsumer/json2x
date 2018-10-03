@@ -1,0 +1,37 @@
+{
+  "name": "Ryleigh Feil",
+  "username": "Aliza_Casper1",
+  "email": "Eula.Roob@hotmail.com",
+  "address": {
+    "street": "Adan Village",
+    "suite": "Apt. 559",
+    "city": "Dibbertchester",
+    "zipcode": "86627-9670",
+    "geo": {
+      "lat": -59.541,
+      "lng": 39.5478
+    }
+  },
+  "phone": "(774) 594-2587",
+  "website": "marty.net",
+  "company": {
+    "name": "Heidenreich - Botsford",
+    "catchPhrase": "User-friendly bi-directional access",
+    "bs": "B2C scale metrics"
+  },
+  "id": "b427e95a-91bf-4f47-9775-93ed70c81caa",
+  "testnumobjnums": {
+    "num1": 7581,
+    "num2": 38108,
+    "num3": 308.5,
+    "deeper": {
+      "arr": [
+        4589,
+        61313,
+        4126,
+        21747.5
+      ]
+    }
+  },
+  "lastSaid": "web-enabled streamline platforms"
+}

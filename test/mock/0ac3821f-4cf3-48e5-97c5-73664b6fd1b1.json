@@ -1,0 +1,37 @@
+{
+  "name": "Wyatt Berge",
+  "username": "Rosetta54",
+  "email": "Sister98@hotmail.com",
+  "address": {
+    "street": "Towne Views",
+    "suite": "Suite 584",
+    "city": "West Odie",
+    "zipcode": "08950",
+    "geo": {
+      "lat": -54.2343,
+      "lng": 84.7713
+    }
+  },
+  "phone": "275-692-1166 x6151",
+  "website": "cyril.info",
+  "company": {
+    "name": "Hudson, Lowe and Dickens",
+    "catchPhrase": "Open-source analyzing focus group",
+    "bs": "one-to-one streamline e-markets"
+  },
+  "id": "0ac3821f-4cf3-48e5-97c5-73664b6fd1b1",
+  "testnumobjnums": {
+    "num1": 39151,
+    "num2": 98087,
+    "num3": 3597,
+    "deeper": {
+      "arr": [
+        78236,
+        95154,
+        65717,
+        7492.5
+      ]
+    }
+  },
+  "lastSaid": "dynamic visualize paradigms"
+}

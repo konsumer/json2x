@@ -1,0 +1,38 @@
+{
+  "name": "Devonte Waters",
+  "username": "Durward75",
+  "email": "Kassandra_Feeney@hotmail.com",
+  "address": {
+    "street": "Reuben Shores",
+    "suite": "Apt. 048",
+    "city": "Goyetteview",
+    "zipcode": "22555",
+    "geo": {
+      "lat": 39.206,
+      "lng": -115.4132
+    }
+  },
+  "phone": "919-903-2004 x2348",
+  "website": "kathryne.com",
+  "company": {
+    "name": "Okuneva, Tillman and Bartoletti",
+    "catchPhrase": "Organic fault-tolerant conglomeration",
+    "bs": "cross-media recontextualize eyeballs"
+  },
+  "id": "6b981f36-7e5f-404e-b5f1-6ff6a38720f0",
+  "testnumobjnums": {
+    "num1": 8730,
+    "num2": 38107,
+    "num3": 21003,
+    "deeper": {
+      "arr": [
+        8732,
+        85867,
+        25381,
+        2116
+      ]
+    }
+  },
+  "doing": "port calculating",
+  "lastSaid": "You can't override the array without calculating the back-end PNG panel!"
+}

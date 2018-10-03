@@ -1,0 +1,38 @@
+{
+  "name": "Camila Daugherty",
+  "username": "Rosa_Bergstrom12",
+  "email": "Magdalen19@yahoo.com",
+  "address": {
+    "street": "Don Cliffs",
+    "suite": "Suite 003",
+    "city": "Ricefurt",
+    "zipcode": "67278-1429",
+    "geo": {
+      "lat": -79.3816,
+      "lng": 96.6365
+    }
+  },
+  "phone": "(842) 375-2174",
+  "website": "vern.name",
+  "company": {
+    "name": "Reilly Inc",
+    "catchPhrase": "Phased foreground knowledge user",
+    "bs": "next-generation transform experiences"
+  },
+  "id": "c718b113-f446-4db3-acfa-6fc1bc182c95",
+  "testnumobjnums": {
+    "num1": 71172,
+    "num2": 23564,
+    "num3": 6103,
+    "deeper": {
+      "arr": [
+        30036,
+        13879,
+        97691,
+        29814.5
+      ]
+    }
+  },
+  "doing": "circuit quantifying",
+  "lastSaid": "You can't input the card without transmitting the haptic AGP alarm!"
+}

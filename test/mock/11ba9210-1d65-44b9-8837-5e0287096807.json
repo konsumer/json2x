@@ -1,0 +1,37 @@
+{
+  "name": "Otto Harvey",
+  "username": "Emma_Green",
+  "email": "Romaine.Homenick49@gmail.com",
+  "address": {
+    "street": "Baby Forges",
+    "suite": "Suite 961",
+    "city": "Schroedermouth",
+    "zipcode": "45048-4221",
+    "geo": {
+      "lat": 89.7474,
+      "lng": 56.2314
+    }
+  },
+  "phone": "(806) 803-8113 x1733",
+  "website": "treva.biz",
+  "company": {
+    "name": "Bode - Jacobs",
+    "catchPhrase": "Adaptive fault-tolerant framework",
+    "bs": "B2C mesh systems"
+  },
+  "id": "11ba9210-1d65-44b9-8837-5e0287096807",
+  "testnumobjnums": {
+    "num1": 69237,
+    "num2": 65637,
+    "num3": 10628,
+    "deeper": {
+      "arr": [
+        21051,
+        17172,
+        50878,
+        9025
+      ]
+    }
+  },
+  "lastSaid": "holistic brand action-items"
+}

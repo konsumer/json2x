@@ -1,0 +1,38 @@
+{
+  "name": "Kurtis Crooks",
+  "username": "Corrine93",
+  "email": "Albina.Stiedemann@hotmail.com",
+  "address": {
+    "street": "Rogers Burgs",
+    "suite": "Apt. 714",
+    "city": "Langshire",
+    "zipcode": "62765",
+    "geo": {
+      "lat": -23.825,
+      "lng": 34.1183
+    }
+  },
+  "phone": "354-951-0378 x343",
+  "website": "micheal.org",
+  "company": {
+    "name": "Klein Group",
+    "catchPhrase": "Profit-focused asynchronous success",
+    "bs": "turn-key deploy action-items"
+  },
+  "id": "93c6a6db-0343-49d0-b69d-1ac7cb7af980",
+  "testnumobjnums": {
+    "num1": 7227,
+    "num2": 44131,
+    "num3": 10367,
+    "deeper": {
+      "arr": [
+        13187,
+        2619,
+        83432,
+        33778.5
+      ]
+    }
+  },
+  "doing": "system calculating",
+  "lastSaid": "The HDD application is down, copy the redundant system so we can quantify the IB card!"
+}

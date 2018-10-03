@@ -1,0 +1,38 @@
+{
+  "name": "Felicia Monahan",
+  "username": "Autumn_Denesik25",
+  "email": "Adrain47@yahoo.com",
+  "address": {
+    "street": "Walker Creek",
+    "suite": "Suite 172",
+    "city": "Maggiomouth",
+    "zipcode": "21894-8306",
+    "geo": {
+      "lat": 66.2169,
+      "lng": 41.5331
+    }
+  },
+  "phone": "(987) 223-2629 x98098",
+  "website": "javier.net",
+  "company": {
+    "name": "Jacobson - Grant",
+    "catchPhrase": "Profound upward-trending installation",
+    "bs": "magnetic morph e-tailers"
+  },
+  "id": "65d554be-a692-42d2-a30e-5300ebcb81c1",
+  "testnumobjnums": {
+    "num1": 52135,
+    "num2": 99422,
+    "num3": 4539.5,
+    "deeper": {
+      "arr": [
+        31587,
+        63185,
+        58742,
+        8806.5
+      ]
+    }
+  },
+  "doing": "microchip parsing",
+  "lastSaid": "The COM transmitter is down, program the bluetooth protocol so we can hack the SQL monitor!"
+}

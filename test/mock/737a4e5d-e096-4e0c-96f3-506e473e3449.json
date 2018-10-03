@@ -1,0 +1,38 @@
+{
+  "name": "Zoe Hermiston",
+  "username": "Sofia.Bailey44",
+  "email": "Dominic38@hotmail.com",
+  "address": {
+    "street": "Saige Extensions",
+    "suite": "Apt. 777",
+    "city": "Muellerstad",
+    "zipcode": "92021-4166",
+    "geo": {
+      "lat": -11.1753,
+      "lng": -165.054
+    }
+  },
+  "phone": "058-657-0388 x5238",
+  "website": "estrella.net",
+  "company": {
+    "name": "Lubowitz and Sons",
+    "catchPhrase": "Optimized non-volatile hierarchy",
+    "bs": "impactful facilitate interfaces"
+  },
+  "id": "737a4e5d-e096-4e0c-96f3-506e473e3449",
+  "testnumobjnums": {
+    "num1": 79222,
+    "num2": 63687,
+    "num3": 42512.5,
+    "deeper": {
+      "arr": [
+        90884,
+        78238,
+        876,
+        24909.5
+      ]
+    }
+  },
+  "doing": "program bypassing",
+  "lastSaid": "We need to quantify the digital PCI system!"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Ellen Welch",
+  "username": "Dortha30",
+  "email": "Rod8@gmail.com",
+  "address": {
+    "street": "Leopoldo Inlet",
+    "suite": "Suite 947",
+    "city": "Kirlinburgh",
+    "zipcode": "95550-1098",
+    "geo": {
+      "lat": -0.7177,
+      "lng": 122.0907
+    }
+  },
+  "phone": "(987) 097-8661",
+  "website": "hilton.biz",
+  "company": {
+    "name": "Marks Group",
+    "catchPhrase": "Focused next generation software",
+    "bs": "24/365 maximize experiences"
+  },
+  "id": "c7ca6e7c-bf07-46cf-b482-9c73ec613dc8",
+  "testnumobjnums": {
+    "num1": 32140,
+    "num2": 1179,
+    "num3": 27781.5,
+    "deeper": {
+      "arr": [
+        6360,
+        61663,
+        37925,
+        8178.5
+      ]
+    }
+  },
+  "doing": "alarm transmitting",
+  "lastSaid": "I'll synthesize the open-source PNG panel, that should protocol the SMTP panel!"
+}

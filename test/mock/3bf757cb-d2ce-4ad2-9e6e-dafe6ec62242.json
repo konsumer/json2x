@@ -1,0 +1,37 @@
+{
+  "name": "Katelynn Stracke",
+  "username": "Brisa.Reichel",
+  "email": "Maxime.DAmore@gmail.com",
+  "address": {
+    "street": "Stark Creek",
+    "suite": "Suite 723",
+    "city": "East Mckenzie",
+    "zipcode": "21651-0798",
+    "geo": {
+      "lat": -23.7428,
+      "lng": 149.6291
+    }
+  },
+  "phone": "1-830-687-6628",
+  "website": "lorna.name",
+  "company": {
+    "name": "Schulist, Durgan and Kshlerin",
+    "catchPhrase": "Organized object-oriented flexibility",
+    "bs": "distributed architect partnerships"
+  },
+  "id": "3bf757cb-d2ce-4ad2-9e6e-dafe6ec62242",
+  "testnumobjnums": {
+    "num1": 9386,
+    "num2": 31790,
+    "num3": 29267.5,
+    "deeper": {
+      "arr": [
+        86857,
+        12636,
+        73419,
+        45679.5
+      ]
+    }
+  },
+  "lastSaid": "frictionless incubate metrics"
+}

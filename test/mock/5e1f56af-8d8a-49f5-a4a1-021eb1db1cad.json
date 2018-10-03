@@ -1,0 +1,38 @@
+{
+  "name": "Jermain Heaney PhD",
+  "username": "Dianna.Rosenbaum",
+  "email": "Kristina_Carter9@yahoo.com",
+  "address": {
+    "street": "Sammy Rapids",
+    "suite": "Apt. 085",
+    "city": "East Freddieside",
+    "zipcode": "98655",
+    "geo": {
+      "lat": -45.0736,
+      "lng": 125.538
+    }
+  },
+  "phone": "1-909-453-2311",
+  "website": "keven.org",
+  "company": {
+    "name": "Kub - Yundt",
+    "catchPhrase": "Profound fresh-thinking capability",
+    "bs": "one-to-one exploit e-business"
+  },
+  "id": "5e1f56af-8d8a-49f5-a4a1-021eb1db1cad",
+  "testnumobjnums": {
+    "num1": 71441,
+    "num2": 79535,
+    "num3": 49218.5,
+    "deeper": {
+      "arr": [
+        99164,
+        48287,
+        7634,
+        11586.5
+      ]
+    }
+  },
+  "doing": "interface transmitting",
+  "lastSaid": "Try to transmit the SAS circuit, maybe it will program the primary driver!"
+}

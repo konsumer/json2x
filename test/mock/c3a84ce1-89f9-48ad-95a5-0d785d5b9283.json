@@ -1,0 +1,38 @@
+{
+  "name": "Bryce Powlowski",
+  "username": "Jefferey57",
+  "email": "Chet_Stoltenberg@yahoo.com",
+  "address": {
+    "street": "Tiana Village",
+    "suite": "Apt. 814",
+    "city": "Philipmouth",
+    "zipcode": "42182",
+    "geo": {
+      "lat": -67.8067,
+      "lng": -22.6325
+    }
+  },
+  "phone": "653.203.3033 x652",
+  "website": "fausto.info",
+  "company": {
+    "name": "Homenick, Pfeffer and Gutkowski",
+    "catchPhrase": "Centralized disintermediate hierarchy",
+    "bs": "cross-media extend supply-chains"
+  },
+  "id": "c3a84ce1-89f9-48ad-95a5-0d785d5b9283",
+  "testnumobjnums": {
+    "num1": 8880,
+    "num2": 46459,
+    "num3": 18638,
+    "deeper": {
+      "arr": [
+        82164,
+        72248,
+        68682,
+        16728
+      ]
+    }
+  },
+  "doing": "sensor quantifying",
+  "lastSaid": "We need to synthesize the 1080p XML alarm!"
+}

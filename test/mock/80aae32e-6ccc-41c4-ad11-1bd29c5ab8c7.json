@@ -1,0 +1,38 @@
+{
+  "name": "Moses Ratke",
+  "username": "Bonita_Langosh1",
+  "email": "Leo30@hotmail.com",
+  "address": {
+    "street": "Flavie Prairie",
+    "suite": "Apt. 450",
+    "city": "South Fernandochester",
+    "zipcode": "88735",
+    "geo": {
+      "lat": 86.5909,
+      "lng": 146.4082
+    }
+  },
+  "phone": "(907) 917-0655 x896",
+  "website": "maggie.biz",
+  "company": {
+    "name": "Kuhic Group",
+    "catchPhrase": "Face to face stable policy",
+    "bs": "plug-and-play seize supply-chains"
+  },
+  "id": "80aae32e-6ccc-41c4-ad11-1bd29c5ab8c7",
+  "testnumobjnums": {
+    "num1": 92335,
+    "num2": 93653,
+    "num3": 14180,
+    "deeper": {
+      "arr": [
+        42788,
+        30252,
+        4397,
+        3981
+      ]
+    }
+  },
+  "doing": "program hacking",
+  "lastSaid": "I'll quantify the neural SCSI panel, that should array the RAM program!"
+}

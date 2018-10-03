@@ -1,0 +1,38 @@
+{
+  "name": "Bria Pfeffer",
+  "username": "Pansy22",
+  "email": "Domenico34@gmail.com",
+  "address": {
+    "street": "Marjolaine Cove",
+    "suite": "Suite 707",
+    "city": "Port Melba",
+    "zipcode": "37662",
+    "geo": {
+      "lat": -87.3103,
+      "lng": 45.8358
+    }
+  },
+  "phone": "1-493-581-8808 x8412",
+  "website": "isai.com",
+  "company": {
+    "name": "O'Conner - Moen",
+    "catchPhrase": "Balanced modular portal",
+    "bs": "B2B reinvent schemas"
+  },
+  "id": "a7b3cfe7-a376-4ba9-85bb-f08692bebfb4",
+  "testnumobjnums": {
+    "num1": 23068,
+    "num2": 9444,
+    "num3": 9708,
+    "deeper": {
+      "arr": [
+        67059,
+        9792,
+        81834,
+        38210.5
+      ]
+    }
+  },
+  "doing": "alarm navigating",
+  "lastSaid": "You can't calculate the driver without overriding the neural CSS feed!"
+}

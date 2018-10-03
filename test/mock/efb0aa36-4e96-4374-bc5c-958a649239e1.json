@@ -1,0 +1,37 @@
+{
+  "name": "Marcel O'Kon",
+  "username": "Hershel_Runte",
+  "email": "Zoey.Little@gmail.com",
+  "address": {
+    "street": "Funk Rue",
+    "suite": "Apt. 037",
+    "city": "West Edwardomouth",
+    "zipcode": "28736-1188",
+    "geo": {
+      "lat": -6.2912,
+      "lng": -138.3746
+    }
+  },
+  "phone": "223.507.5444 x200",
+  "website": "abbey.com",
+  "company": {
+    "name": "Rogahn - Nicolas",
+    "catchPhrase": "Team-oriented mobile encryption",
+    "bs": "customized orchestrate convergence"
+  },
+  "id": "efb0aa36-4e96-4374-bc5c-958a649239e1",
+  "testnumobjnums": {
+    "num1": 4279,
+    "num2": 63800,
+    "num3": 29418.5,
+    "deeper": {
+      "arr": [
+        49471,
+        8874,
+        57888,
+        35448.5
+      ]
+    }
+  },
+  "lastSaid": "holistic morph web services"
+}

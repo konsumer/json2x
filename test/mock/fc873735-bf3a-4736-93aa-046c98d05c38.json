@@ -1,0 +1,37 @@
+{
+  "name": "Brett Connelly",
+  "username": "Muhammad_Powlowski",
+  "email": "Antwan69@hotmail.com",
+  "address": {
+    "street": "Murazik Coves",
+    "suite": "Apt. 434",
+    "city": "North Lyda",
+    "zipcode": "72945",
+    "geo": {
+      "lat": 80.5537,
+      "lng": 37.2166
+    }
+  },
+  "phone": "1-923-380-5563 x2572",
+  "website": "domenic.name",
+  "company": {
+    "name": "Kirlin - Gulgowski",
+    "catchPhrase": "De-engineered high-level circuit",
+    "bs": "seamless optimize bandwidth"
+  },
+  "id": "fc873735-bf3a-4736-93aa-046c98d05c38",
+  "testnumobjnums": {
+    "num1": 58613,
+    "num2": 12585,
+    "num3": 4008.5,
+    "deeper": {
+      "arr": [
+        84638,
+        46453,
+        86723,
+        16019
+      ]
+    }
+  },
+  "lastSaid": "holistic aggregate initiatives"
+}

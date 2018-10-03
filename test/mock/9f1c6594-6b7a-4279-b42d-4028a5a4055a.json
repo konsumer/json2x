@@ -1,0 +1,38 @@
+{
+  "name": "Meda Grady",
+  "username": "Buddy_Ratke",
+  "email": "Tillman_Sanford@hotmail.com",
+  "address": {
+    "street": "Dicki Avenue",
+    "suite": "Suite 306",
+    "city": "Kalliechester",
+    "zipcode": "24000-0296",
+    "geo": {
+      "lat": -38.48,
+      "lng": 145.4014
+    }
+  },
+  "phone": "862.567.6835 x08667",
+  "website": "zane.info",
+  "company": {
+    "name": "Kiehn, McLaughlin and Metz",
+    "catchPhrase": "Virtual multi-state analyzer",
+    "bs": "open-source implement models"
+  },
+  "id": "9f1c6594-6b7a-4279-b42d-4028a5a4055a",
+  "testnumobjnums": {
+    "num1": 57592,
+    "num2": 69533,
+    "num3": 1412,
+    "deeper": {
+      "arr": [
+        51855,
+        94133,
+        36903,
+        44198
+      ]
+    }
+  },
+  "doing": "microchip synthesizing",
+  "lastSaid": "We need to reboot the bluetooth GB card!"
+}

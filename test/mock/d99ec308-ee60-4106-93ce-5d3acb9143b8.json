@@ -1,0 +1,37 @@
+{
+  "name": "Aletha Barton DDS",
+  "username": "Mikel_Yost60",
+  "email": "Caleb59@hotmail.com",
+  "address": {
+    "street": "Erdman Fields",
+    "suite": "Suite 679",
+    "city": "Lake Gavinton",
+    "zipcode": "65278-9461",
+    "geo": {
+      "lat": -9.8181,
+      "lng": -100.6764
+    }
+  },
+  "phone": "349.773.5348 x341",
+  "website": "jaylon.com",
+  "company": {
+    "name": "Upton Group",
+    "catchPhrase": "Progressive content-based middleware",
+    "bs": "killer integrate e-business"
+  },
+  "id": "d99ec308-ee60-4106-93ce-5d3acb9143b8",
+  "testnumobjnums": {
+    "num1": 39586,
+    "num2": 14450,
+    "num3": 8928,
+    "deeper": {
+      "arr": [
+        46954,
+        69404,
+        34845,
+        28585
+      ]
+    }
+  },
+  "lastSaid": "clicks-and-mortar matrix relationships"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Destiney Schaden",
+  "username": "Lula43",
+  "email": "Alexandrea_Watsica99@yahoo.com",
+  "address": {
+    "street": "Ratke Parkway",
+    "suite": "Apt. 243",
+    "city": "South Federico",
+    "zipcode": "40073-3144",
+    "geo": {
+      "lat": -86.8442,
+      "lng": -159.7859
+    }
+  },
+  "phone": "712.933.0984 x6737",
+  "website": "ruby.net",
+  "company": {
+    "name": "Waters Inc",
+    "catchPhrase": "Decentralized composite Graphical User Interface",
+    "bs": "vertical monetize ROI"
+  },
+  "id": "ec86fdca-95c7-4c59-b242-4054c5dc7485",
+  "testnumobjnums": {
+    "num1": 57688,
+    "num2": 71252,
+    "num3": 11153,
+    "deeper": {
+      "arr": [
+        90499,
+        74337,
+        45621,
+        27724.5
+      ]
+    }
+  },
+  "lastSaid": "plug-and-play whiteboard content"
+}

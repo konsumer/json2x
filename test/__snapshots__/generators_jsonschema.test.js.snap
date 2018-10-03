@@ -1,0 +1,153 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`generators/graphql should have the expected description 1`] = `"Generate JSONSchema from your data"`;
+
+exports[`generators/graphql should output the expected jsonschema for the mock 1`] = `
+"{
+  \\"$schema\\": \\"http://json-schema.org/draft-04/schema#\\",
+  \\"description\\": \\"TestType\\",
+  \\"type\\": \\"object\\",
+  \\"properties\\": {
+    \\"name\\": {
+      \\"type\\": \\"string\\",
+      \\"minLength\\": 1
+    },
+    \\"username\\": {
+      \\"type\\": \\"string\\",
+      \\"minLength\\": 1
+    },
+    \\"email\\": {
+      \\"type\\": \\"string\\",
+      \\"minLength\\": 1
+    },
+    \\"address\\": {
+      \\"type\\": \\"object\\",
+      \\"properties\\": {
+        \\"street\\": {
+          \\"type\\": \\"string\\",
+          \\"minLength\\": 1
+        },
+        \\"suite\\": {
+          \\"type\\": \\"string\\",
+          \\"minLength\\": 1
+        },
+        \\"city\\": {
+          \\"type\\": \\"string\\",
+          \\"minLength\\": 1
+        },
+        \\"zipcode\\": {
+          \\"type\\": \\"string\\",
+          \\"minLength\\": 1
+        },
+        \\"geo\\": {
+          \\"type\\": \\"object\\",
+          \\"properties\\": {
+            \\"lat\\": {
+              \\"type\\": \\"number\\"
+            },
+            \\"lng\\": {
+              \\"type\\": \\"number\\"
+            }
+          },
+          \\"required\\": [
+            \\"lat\\",
+            \\"lng\\"
+          ]
+        }
+      },
+      \\"required\\": [
+        \\"street\\",
+        \\"suite\\",
+        \\"city\\",
+        \\"zipcode\\",
+        \\"geo\\"
+      ]
+    },
+    \\"phone\\": {
+      \\"type\\": \\"string\\",
+      \\"minLength\\": 1
+    },
+    \\"website\\": {
+      \\"type\\": \\"string\\",
+      \\"minLength\\": 1
+    },
+    \\"company\\": {
+      \\"type\\": \\"object\\",
+      \\"properties\\": {
+        \\"name\\": {
+          \\"type\\": \\"string\\",
+          \\"minLength\\": 1
+        },
+        \\"catchPhrase\\": {
+          \\"type\\": \\"string\\",
+          \\"minLength\\": 1
+        },
+        \\"bs\\": {
+          \\"type\\": \\"string\\",
+          \\"minLength\\": 1
+        }
+      },
+      \\"required\\": [
+        \\"name\\",
+        \\"catchPhrase\\",
+        \\"bs\\"
+      ]
+    },
+    \\"id\\": {
+      \\"type\\": \\"string\\",
+      \\"minLength\\": 1
+    },
+    \\"testnumobjnums\\": {
+      \\"type\\": \\"object\\",
+      \\"properties\\": {
+        \\"num1\\": {
+          \\"type\\": \\"number\\"
+        },
+        \\"num2\\": {
+          \\"type\\": \\"number\\"
+        },
+        \\"num3\\": {
+          \\"type\\": \\"number\\"
+        },
+        \\"deeper\\": {
+          \\"type\\": \\"object\\",
+          \\"properties\\": {
+            \\"arr\\": {
+              \\"type\\": \\"array\\",
+              \\"items\\": {
+                \\"required\\": [],
+                \\"properties\\": {}
+              }
+            }
+          },
+          \\"required\\": [
+            \\"arr\\"
+          ]
+        }
+      },
+      \\"required\\": [
+        \\"num1\\",
+        \\"num2\\",
+        \\"num3\\",
+        \\"deeper\\"
+      ]
+    },
+    \\"lastSaid\\": {
+      \\"type\\": \\"string\\",
+      \\"minLength\\": 1
+    }
+  },
+  \\"required\\": [
+    \\"name\\",
+    \\"username\\",
+    \\"email\\",
+    \\"address\\",
+    \\"phone\\",
+    \\"website\\",
+    \\"company\\",
+    \\"id\\",
+    \\"testnumobjnums\\",
+    \\"lastSaid\\"
+  ]
+}"
+`;

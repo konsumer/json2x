@@ -1,0 +1,37 @@
+{
+  "name": "Gina Dach",
+  "username": "Hiram.Hermann22",
+  "email": "Claudine94@yahoo.com",
+  "address": {
+    "street": "Abshire Run",
+    "suite": "Suite 083",
+    "city": "Mazieland",
+    "zipcode": "51614",
+    "geo": {
+      "lat": -65.3629,
+      "lng": 117.0106
+    }
+  },
+  "phone": "076-113-9878",
+  "website": "helena.name",
+  "company": {
+    "name": "Kassulke, Schuster and Pouros",
+    "catchPhrase": "Upgradable multi-tasking installation",
+    "bs": "transparent recontextualize markets"
+  },
+  "id": "57806f95-27a7-4413-9f96-5df3ae354183",
+  "testnumobjnums": {
+    "num1": 96745,
+    "num2": 4256,
+    "num3": 22341,
+    "deeper": {
+      "arr": [
+        25535,
+        58131,
+        67179,
+        26586.5
+      ]
+    }
+  },
+  "lastSaid": "sexy recontextualize models"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Arden Fisher I",
+  "username": "Verner_King",
+  "email": "Rita44@hotmail.com",
+  "address": {
+    "street": "Ferne Loaf",
+    "suite": "Suite 669",
+    "city": "South Jarrod",
+    "zipcode": "78469-3738",
+    "geo": {
+      "lat": 87.0742,
+      "lng": -164.3546
+    }
+  },
+  "phone": "(786) 988-1194 x4148",
+  "website": "elouise.net",
+  "company": {
+    "name": "Wolff Inc",
+    "catchPhrase": "Face to face solution-oriented service-desk",
+    "bs": "scalable empower metrics"
+  },
+  "id": "fb19a6b4-d216-4e98-a46b-bf0c458fba01",
+  "testnumobjnums": {
+    "num1": 62699,
+    "num2": 1298,
+    "num3": 33809.5,
+    "deeper": {
+      "arr": [
+        44012,
+        37722,
+        51785,
+        10733
+      ]
+    }
+  },
+  "doing": "sensor calculating",
+  "lastSaid": "The SAS matrix is down, input the haptic array so we can index the AGP system!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Clara Cronin",
+  "username": "Diana_Kiehn",
+  "email": "Santina_Boyer31@yahoo.com",
+  "address": {
+    "street": "Orn Track",
+    "suite": "Suite 280",
+    "city": "South Yvettefurt",
+    "zipcode": "52794",
+    "geo": {
+      "lat": 8.6849,
+      "lng": 2.8574
+    }
+  },
+  "phone": "084.099.8811 x96740",
+  "website": "damon.name",
+  "company": {
+    "name": "Osinski and Sons",
+    "catchPhrase": "Pre-emptive empowering knowledge user",
+    "bs": "customized syndicate vortals"
+  },
+  "id": "491a0bf9-a1dd-4418-8d20-9eefc5b50766",
+  "testnumobjnums": {
+    "num1": 67801,
+    "num2": 99759,
+    "num3": 18825.5,
+    "deeper": {
+      "arr": [
+        88361,
+        14752,
+        81461,
+        42722.5
+      ]
+    }
+  },
+  "lastSaid": "global envisioneer technologies"
+}

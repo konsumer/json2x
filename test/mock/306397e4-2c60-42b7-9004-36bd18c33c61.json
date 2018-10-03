@@ -1,0 +1,37 @@
+{
+  "name": "Carolyne Ledner",
+  "username": "Eleazar46",
+  "email": "Gilberto.Fahey@gmail.com",
+  "address": {
+    "street": "Carole Cliff",
+    "suite": "Suite 588",
+    "city": "North Lincolnfort",
+    "zipcode": "23351",
+    "geo": {
+      "lat": -84.0928,
+      "lng": -36.2373
+    }
+  },
+  "phone": "1-153-974-8429 x809",
+  "website": "rafael.biz",
+  "company": {
+    "name": "Hodkiewicz - Labadie",
+    "catchPhrase": "Self-enabling leading edge budgetary management",
+    "bs": "virtual enable partnerships"
+  },
+  "id": "306397e4-2c60-42b7-9004-36bd18c33c61",
+  "testnumobjnums": {
+    "num1": 49632,
+    "num2": 20550,
+    "num3": 7837,
+    "deeper": {
+      "arr": [
+        41738,
+        15318,
+        94398,
+        7155
+      ]
+    }
+  },
+  "lastSaid": "leading-edge enable models"
+}

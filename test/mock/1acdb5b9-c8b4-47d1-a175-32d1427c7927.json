@@ -1,0 +1,37 @@
+{
+  "name": "Catherine Leuschke",
+  "username": "Toy89",
+  "email": "Chanelle.Steuber@hotmail.com",
+  "address": {
+    "street": "Grady Ranch",
+    "suite": "Suite 693",
+    "city": "East Antoniamouth",
+    "zipcode": "10601-6296",
+    "geo": {
+      "lat": -82.8278,
+      "lng": 173.6882
+    }
+  },
+  "phone": "729-026-9738",
+  "website": "jermain.net",
+  "company": {
+    "name": "Kuhlman, Sanford and Hane",
+    "catchPhrase": "Focused actuating database",
+    "bs": "compelling matrix partnerships"
+  },
+  "id": "1acdb5b9-c8b4-47d1-a175-32d1427c7927",
+  "testnumobjnums": {
+    "num1": 21846,
+    "num2": 33747,
+    "num3": 8255,
+    "deeper": {
+      "arr": [
+        89487,
+        27406,
+        38204,
+        36641.5
+      ]
+    }
+  },
+  "lastSaid": "granular facilitate web-readiness"
+}

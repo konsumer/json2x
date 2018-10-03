@@ -1,0 +1,37 @@
+{
+  "name": "Carli Schinner",
+  "username": "Briana_Jacobson",
+  "email": "Catherine.Legros53@yahoo.com",
+  "address": {
+    "street": "Vesta Drive",
+    "suite": "Suite 518",
+    "city": "Kosstown",
+    "zipcode": "49220-6885",
+    "geo": {
+      "lat": 48.2363,
+      "lng": 132.3027
+    }
+  },
+  "phone": "1-890-543-0321 x678",
+  "website": "onie.net",
+  "company": {
+    "name": "Jakubowski, Steuber and Ziemann",
+    "catchPhrase": "Down-sized encompassing standardization",
+    "bs": "bricks-and-clicks recontextualize infomediaries"
+  },
+  "id": "094da712-5406-473e-a1ef-197d4b979fed",
+  "testnumobjnums": {
+    "num1": 65701,
+    "num2": 4707,
+    "num3": 36928.5,
+    "deeper": {
+      "arr": [
+        40868,
+        88608,
+        81745,
+        14408.5
+      ]
+    }
+  },
+  "lastSaid": "vertical iterate interfaces"
+}

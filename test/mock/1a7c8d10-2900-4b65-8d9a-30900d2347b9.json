@@ -1,0 +1,38 @@
+{
+  "name": "Cesar Bogan",
+  "username": "Kelley38",
+  "email": "Dylan.Beer@yahoo.com",
+  "address": {
+    "street": "Erich Station",
+    "suite": "Apt. 255",
+    "city": "Virgilmouth",
+    "zipcode": "30497-8426",
+    "geo": {
+      "lat": 81.7009,
+      "lng": -90.5375
+    }
+  },
+  "phone": "827.833.9837 x9546",
+  "website": "fritz.org",
+  "company": {
+    "name": "Pfannerstill Inc",
+    "catchPhrase": "Focused demand-driven toolset",
+    "bs": "real-time reinvent bandwidth"
+  },
+  "id": "1a7c8d10-2900-4b65-8d9a-30900d2347b9",
+  "testnumobjnums": {
+    "num1": 6323,
+    "num2": 66708,
+    "num3": 9244.5,
+    "deeper": {
+      "arr": [
+        43833,
+        51995,
+        51458,
+        11802
+      ]
+    }
+  },
+  "doing": "driver programming",
+  "lastSaid": "transmitting the interface won't do anything, we need to generate the wireless SMTP circuit!"
+}

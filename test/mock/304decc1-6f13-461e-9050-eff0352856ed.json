@@ -1,0 +1,37 @@
+{
+  "name": "Katheryn Hettinger",
+  "username": "Jocelyn10",
+  "email": "Lonie_Lakin52@gmail.com",
+  "address": {
+    "street": "Jennie Fort",
+    "suite": "Apt. 067",
+    "city": "West Mathilde",
+    "zipcode": "04898",
+    "geo": {
+      "lat": 31.1814,
+      "lng": 160.8119
+    }
+  },
+  "phone": "673-014-2363",
+  "website": "demetrius.biz",
+  "company": {
+    "name": "Spinka Inc",
+    "catchPhrase": "Streamlined mobile customer loyalty",
+    "bs": "frictionless transition relationships"
+  },
+  "id": "304decc1-6f13-461e-9050-eff0352856ed",
+  "testnumobjnums": {
+    "num1": 22765,
+    "num2": 18660,
+    "num3": 20983.5,
+    "deeper": {
+      "arr": [
+        90905,
+        47166,
+        91106,
+        48540
+      ]
+    }
+  },
+  "lastSaid": "24/7 aggregate web services"
+}

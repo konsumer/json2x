@@ -1,0 +1,37 @@
+{
+  "name": "Dr. Fleta Pacocha",
+  "username": "Mackenzie_Upton",
+  "email": "Einar_OReilly41@yahoo.com",
+  "address": {
+    "street": "Aubrey Union",
+    "suite": "Suite 433",
+    "city": "Kunzeborough",
+    "zipcode": "76836-3237",
+    "geo": {
+      "lat": 75.9096,
+      "lng": 45.4581
+    }
+  },
+  "phone": "070.022.7030",
+  "website": "jude.com",
+  "company": {
+    "name": "Buckridge, Farrell and Kiehn",
+    "catchPhrase": "Inverse clear-thinking intranet",
+    "bs": "bricks-and-clicks envisioneer communities"
+  },
+  "id": "51ccfec7-4164-40cb-84d0-aa23d4d491f5",
+  "testnumobjnums": {
+    "num1": 86646,
+    "num2": 49489,
+    "num3": 13035.5,
+    "deeper": {
+      "arr": [
+        51735,
+        36641,
+        23841,
+        31268
+      ]
+    }
+  },
+  "lastSaid": "customized strategize e-commerce"
+}

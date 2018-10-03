@@ -1,0 +1,38 @@
+{
+  "name": "Coty Krajcik",
+  "username": "Linda_Denesik67",
+  "email": "Kayley.Wiza@hotmail.com",
+  "address": {
+    "street": "Margarita Parkways",
+    "suite": "Suite 690",
+    "city": "East Joelle",
+    "zipcode": "54447-1130",
+    "geo": {
+      "lat": -47.9328,
+      "lng": -55.1337
+    }
+  },
+  "phone": "421-304-6532",
+  "website": "emmanuel.name",
+  "company": {
+    "name": "Stokes, Olson and Balistreri",
+    "catchPhrase": "Enhanced 24/7 definition",
+    "bs": "dynamic drive ROI"
+  },
+  "id": "02d4ec85-275a-4f1a-abf2-4813338f2b85",
+  "testnumobjnums": {
+    "num1": 66477,
+    "num2": 37521,
+    "num3": 6871,
+    "deeper": {
+      "arr": [
+        74357,
+        70915,
+        78449,
+        5283.5
+      ]
+    }
+  },
+  "doing": "hard drive parsing",
+  "lastSaid": "We need to parse the haptic SDD matrix!"
+}

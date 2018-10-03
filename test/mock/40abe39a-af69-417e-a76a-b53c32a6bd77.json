@@ -1,0 +1,38 @@
+{
+  "name": "Anais Bailey",
+  "username": "Virginie.Pacocha2",
+  "email": "Ana46@yahoo.com",
+  "address": {
+    "street": "Cummings Avenue",
+    "suite": "Suite 316",
+    "city": "Daughertyton",
+    "zipcode": "71921",
+    "geo": {
+      "lat": 27.1787,
+      "lng": 63.6149
+    }
+  },
+  "phone": "193.900.3042",
+  "website": "dorcas.biz",
+  "company": {
+    "name": "Mohr, MacGyver and Schneider",
+    "catchPhrase": "Public-key intangible task-force",
+    "bs": "scalable innovate infomediaries"
+  },
+  "id": "40abe39a-af69-417e-a76a-b53c32a6bd77",
+  "testnumobjnums": {
+    "num1": 93786,
+    "num2": 80449,
+    "num3": 43775.5,
+    "deeper": {
+      "arr": [
+        81365,
+        28021,
+        20389,
+        31028
+      ]
+    }
+  },
+  "doing": "port navigating",
+  "lastSaid": "The AGP port is down, override the mobile matrix so we can input the JSON array!"
+}

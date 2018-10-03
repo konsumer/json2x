@@ -1,0 +1,38 @@
+{
+  "name": "Zaria Zulauf",
+  "username": "Rosemary_Kub59",
+  "email": "Nichole_Ullrich81@hotmail.com",
+  "address": {
+    "street": "Sonia Shoals",
+    "suite": "Suite 804",
+    "city": "New Krystelmouth",
+    "zipcode": "72044",
+    "geo": {
+      "lat": -32.2428,
+      "lng": -132.7576
+    }
+  },
+  "phone": "026.032.0432",
+  "website": "joshua.org",
+  "company": {
+    "name": "Bailey - Rice",
+    "catchPhrase": "Persevering intangible archive",
+    "bs": "end-to-end reinvent solutions"
+  },
+  "id": "16a4a4e2-efce-42d3-bf10-fbcebb6e2a90",
+  "testnumobjnums": {
+    "num1": 82237,
+    "num2": 25502,
+    "num3": 42417.5,
+    "deeper": {
+      "arr": [
+        38311,
+        21529,
+        66920,
+        1616.5
+      ]
+    }
+  },
+  "doing": "pixel connecting",
+  "lastSaid": "I'll input the 1080p SDD system, that should card the SAS port!"
+}

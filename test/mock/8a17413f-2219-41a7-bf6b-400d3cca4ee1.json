@@ -1,0 +1,37 @@
+{
+  "name": "Santina Franecki",
+  "username": "Pasquale_Little73",
+  "email": "Fausto_Thompson@hotmail.com",
+  "address": {
+    "street": "Jerde Orchard",
+    "suite": "Apt. 680",
+    "city": "South Nicholebury",
+    "zipcode": "87477-0207",
+    "geo": {
+      "lat": 42.6935,
+      "lng": 44.0241
+    }
+  },
+  "phone": "1-398-425-1435 x38702",
+  "website": "hailie.com",
+  "company": {
+    "name": "Jacobson, Spinka and Schaden",
+    "catchPhrase": "Synergized multi-state architecture",
+    "bs": "24/7 utilize models"
+  },
+  "id": "8a17413f-2219-41a7-bf6b-400d3cca4ee1",
+  "testnumobjnums": {
+    "num1": 75398,
+    "num2": 54962,
+    "num3": 21327,
+    "deeper": {
+      "arr": [
+        30556,
+        36117,
+        87055,
+        3200
+      ]
+    }
+  },
+  "lastSaid": "open-source unleash channels"
+}

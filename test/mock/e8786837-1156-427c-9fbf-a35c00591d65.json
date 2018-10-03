@@ -1,0 +1,37 @@
+{
+  "name": "Oceane Sawayn",
+  "username": "Mina_Friesen93",
+  "email": "Santa99@yahoo.com",
+  "address": {
+    "street": "Lula Underpass",
+    "suite": "Apt. 081",
+    "city": "Rosemarytown",
+    "zipcode": "13632",
+    "geo": {
+      "lat": 10.3245,
+      "lng": -136.5687
+    }
+  },
+  "phone": "1-625-357-8114",
+  "website": "ima.com",
+  "company": {
+    "name": "Buckridge - Cummings",
+    "catchPhrase": "Compatible bifurcated utilisation",
+    "bs": "customized exploit web-readiness"
+  },
+  "id": "e8786837-1156-427c-9fbf-a35c00591d65",
+  "testnumobjnums": {
+    "num1": 38374,
+    "num2": 72327,
+    "num3": 21980,
+    "deeper": {
+      "arr": [
+        90649,
+        97452,
+        28722,
+        17387
+      ]
+    }
+  },
+  "lastSaid": "bleeding-edge monetize solutions"
+}

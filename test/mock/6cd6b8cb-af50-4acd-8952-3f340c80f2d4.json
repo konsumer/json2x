@@ -1,0 +1,37 @@
+{
+  "name": "Vicenta Waters",
+  "username": "Emory_Upton",
+  "email": "Keshaun96@gmail.com",
+  "address": {
+    "street": "Thaddeus Isle",
+    "suite": "Apt. 801",
+    "city": "North Jovanimouth",
+    "zipcode": "75750-3561",
+    "geo": {
+      "lat": 41.9667,
+      "lng": -34.8717
+    }
+  },
+  "phone": "365.954.2860 x42299",
+  "website": "bettye.com",
+  "company": {
+    "name": "Homenick, Kuhn and Johnson",
+    "catchPhrase": "Implemented foreground customer loyalty",
+    "bs": "open-source synergize models"
+  },
+  "id": "6cd6b8cb-af50-4acd-8952-3f340c80f2d4",
+  "testnumobjnums": {
+    "num1": 33648,
+    "num2": 88371,
+    "num3": 35137,
+    "deeper": {
+      "arr": [
+        13298,
+        23912,
+        9196,
+        7162.5
+      ]
+    }
+  },
+  "lastSaid": "cross-platform engage interfaces"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Meghan Kertzmann",
+  "username": "Krista.Towne",
+  "email": "Meaghan.OConner1@yahoo.com",
+  "address": {
+    "street": "Lockman Alley",
+    "suite": "Suite 407",
+    "city": "Lake Lenorebury",
+    "zipcode": "55935-0616",
+    "geo": {
+      "lat": -66.598,
+      "lng": -53.3009
+    }
+  },
+  "phone": "(192) 604-5903",
+  "website": "jailyn.net",
+  "company": {
+    "name": "Romaguera - Kuphal",
+    "catchPhrase": "Proactive value-added forecast",
+    "bs": "real-time enhance methodologies"
+  },
+  "id": "3632776a-4f58-480c-9fed-ec7696e26e09",
+  "testnumobjnums": {
+    "num1": 66056,
+    "num2": 69306,
+    "num3": 19527.5,
+    "deeper": {
+      "arr": [
+        72829,
+        23538,
+        61344,
+        17574.5
+      ]
+    }
+  },
+  "doing": "interface quantifying",
+  "lastSaid": "The HDD bandwidth is down, quantify the open-source hard drive so we can connect the GB sensor!"
+}

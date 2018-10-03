@@ -1,0 +1,37 @@
+{
+  "name": "Mrs. Virgil Schmitt",
+  "username": "Allison47",
+  "email": "Osbaldo.Stehr@gmail.com",
+  "address": {
+    "street": "Wisozk Curve",
+    "suite": "Apt. 129",
+    "city": "West Jasmin",
+    "zipcode": "29086-4728",
+    "geo": {
+      "lat": 28.4225,
+      "lng": -142.7753
+    }
+  },
+  "phone": "564.988.0573",
+  "website": "eunice.net",
+  "company": {
+    "name": "Ziemann, Anderson and Hane",
+    "catchPhrase": "Digitized tangible orchestration",
+    "bs": "B2C evolve content"
+  },
+  "id": "d024fd40-bf15-43ab-ad32-bdeeef3b3496",
+  "testnumobjnums": {
+    "num1": 89413,
+    "num2": 54373,
+    "num3": 32973.5,
+    "deeper": {
+      "arr": [
+        30836,
+        88909,
+        12452,
+        19038
+      ]
+    }
+  },
+  "lastSaid": "leading-edge enable experiences"
+}

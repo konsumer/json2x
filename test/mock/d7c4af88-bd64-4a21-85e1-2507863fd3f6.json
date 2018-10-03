@@ -1,0 +1,38 @@
+{
+  "name": "Miss Chaz Daugherty",
+  "username": "Juvenal.Goyette",
+  "email": "Francesco.Leannon@yahoo.com",
+  "address": {
+    "street": "Courtney Curve",
+    "suite": "Apt. 660",
+    "city": "Lake Crawfordtown",
+    "zipcode": "45571",
+    "geo": {
+      "lat": 68.8168,
+      "lng": 21.7613
+    }
+  },
+  "phone": "1-078-626-8575 x686",
+  "website": "archibald.name",
+  "company": {
+    "name": "Heaney, Beatty and Breitenberg",
+    "catchPhrase": "Devolved neutral standardization",
+    "bs": "rich integrate e-tailers"
+  },
+  "id": "d7c4af88-bd64-4a21-85e1-2507863fd3f6",
+  "testnumobjnums": {
+    "num1": 52287,
+    "num2": 96046,
+    "num3": 25921.5,
+    "deeper": {
+      "arr": [
+        98119,
+        19889,
+        87815,
+        28924.5
+      ]
+    }
+  },
+  "doing": "microchip copying",
+  "lastSaid": "Use the primary FTP firewall, then you can program the optical monitor!"
+}

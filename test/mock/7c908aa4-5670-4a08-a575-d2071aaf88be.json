@@ -1,0 +1,38 @@
+{
+  "name": "Dena Kassulke",
+  "username": "Johanna77",
+  "email": "Anthony_Williamson36@yahoo.com",
+  "address": {
+    "street": "Gianni Green",
+    "suite": "Apt. 740",
+    "city": "South Jailyn",
+    "zipcode": "64235-5399",
+    "geo": {
+      "lat": -0.4552,
+      "lng": 90.4838
+    }
+  },
+  "phone": "1-189-743-5156 x501",
+  "website": "daryl.com",
+  "company": {
+    "name": "Kling, Altenwerth and Abernathy",
+    "catchPhrase": "Universal leading edge task-force",
+    "bs": "next-generation incentivize e-services"
+  },
+  "id": "7c908aa4-5670-4a08-a575-d2071aaf88be",
+  "testnumobjnums": {
+    "num1": 23324,
+    "num2": 30356,
+    "num3": 19426.5,
+    "deeper": {
+      "arr": [
+        96979,
+        30803,
+        80180,
+        18220.5
+      ]
+    }
+  },
+  "doing": "system calculating",
+  "lastSaid": "programming the microchip won't do anything, we need to index the optical SMTP system!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Serena Raynor",
+  "username": "Gerhard_Padberg",
+  "email": "Myrna_Daugherty34@gmail.com",
+  "address": {
+    "street": "Romaguera Orchard",
+    "suite": "Apt. 533",
+    "city": "East Hopeside",
+    "zipcode": "00054-1708",
+    "geo": {
+      "lat": 29.9386,
+      "lng": 174.1395
+    }
+  },
+  "phone": "147.442.3245 x6200",
+  "website": "stefanie.com",
+  "company": {
+    "name": "Gibson Group",
+    "catchPhrase": "Realigned holistic function",
+    "bs": "revolutionary exploit functionalities"
+  },
+  "id": "7ab87122-baa4-406d-8ba6-858b389da54d",
+  "testnumobjnums": {
+    "num1": 44122,
+    "num2": 14116,
+    "num3": 13264,
+    "deeper": {
+      "arr": [
+        1487,
+        43079,
+        65579,
+        16211.5
+      ]
+    }
+  },
+  "lastSaid": "dot-com productize models"
+}

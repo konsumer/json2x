@@ -1,0 +1,37 @@
+{
+  "name": "Alvena VonRueden",
+  "username": "Skye_Ryan",
+  "email": "Theresa56@gmail.com",
+  "address": {
+    "street": "Coy Street",
+    "suite": "Apt. 240",
+    "city": "New Mikefort",
+    "zipcode": "09828",
+    "geo": {
+      "lat": -86.6587,
+      "lng": -38.834
+    }
+  },
+  "phone": "1-016-709-7213 x26024",
+  "website": "darron.info",
+  "company": {
+    "name": "Jaskolski, Kilback and Bechtelar",
+    "catchPhrase": "Polarised value-added forecast",
+    "bs": "B2B transform interfaces"
+  },
+  "id": "85f36837-b4b0-4d11-b615-37c42e6f21e5",
+  "testnumobjnums": {
+    "num1": 1189,
+    "num2": 95975,
+    "num3": 21675,
+    "deeper": {
+      "arr": [
+        18911,
+        5193,
+        81174,
+        10605
+      ]
+    }
+  },
+  "lastSaid": "24/365 synergize relationships"
+}

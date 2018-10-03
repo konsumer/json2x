@@ -1,0 +1,37 @@
+{
+  "name": "Brandyn Feest",
+  "username": "Alanis18",
+  "email": "Edna56@yahoo.com",
+  "address": {
+    "street": "Baumbach Courts",
+    "suite": "Suite 167",
+    "city": "Americoland",
+    "zipcode": "39800",
+    "geo": {
+      "lat": -21.73,
+      "lng": -73.8819
+    }
+  },
+  "phone": "378-535-0577 x807",
+  "website": "nella.biz",
+  "company": {
+    "name": "Heathcote - Cummings",
+    "catchPhrase": "Inverse impactful middleware",
+    "bs": "strategic incentivize e-services"
+  },
+  "id": "592c125e-1d77-4dd0-bfdb-1cf1ffd0010e",
+  "testnumobjnums": {
+    "num1": 44445,
+    "num2": 98309,
+    "num3": 15158,
+    "deeper": {
+      "arr": [
+        1026,
+        525,
+        99986,
+        3761
+      ]
+    }
+  },
+  "lastSaid": "seamless engineer infomediaries"
+}

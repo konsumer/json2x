@@ -1,0 +1,37 @@
+{
+  "name": "Fae Runolfsdottir",
+  "username": "Mitchell.Friesen",
+  "email": "Dana31@yahoo.com",
+  "address": {
+    "street": "Diamond Overpass",
+    "suite": "Suite 030",
+    "city": "Halvorsonview",
+    "zipcode": "89879",
+    "geo": {
+      "lat": -35.2664,
+      "lng": -85.6234
+    }
+  },
+  "phone": "1-562-923-2556 x715",
+  "website": "gustave.name",
+  "company": {
+    "name": "Bailey - Kshlerin",
+    "catchPhrase": "Expanded foreground capability",
+    "bs": "cross-media implement portals"
+  },
+  "id": "018305e8-7c61-43d1-a912-17f5e6a73ba3",
+  "testnumobjnums": {
+    "num1": 72996,
+    "num2": 55108,
+    "num3": 14230.5,
+    "deeper": {
+      "arr": [
+        2267,
+        24501,
+        6495,
+        48775.5
+      ]
+    }
+  },
+  "lastSaid": "ubiquitous scale partnerships"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Lessie Moore",
+  "username": "Kenny_Goldner",
+  "email": "Gabriel.Johnston44@gmail.com",
+  "address": {
+    "street": "Felipe Wall",
+    "suite": "Suite 922",
+    "city": "Greentown",
+    "zipcode": "87797",
+    "geo": {
+      "lat": 83.1995,
+      "lng": 142.4262
+    }
+  },
+  "phone": "1-120-103-3326",
+  "website": "napoleon.biz",
+  "company": {
+    "name": "Kuhic - Weissnat",
+    "catchPhrase": "Monitored attitude-oriented infrastructure",
+    "bs": "efficient strategize action-items"
+  },
+  "id": "4b8ced6a-7609-4a7d-9151-8ca2ccfa93c3",
+  "testnumobjnums": {
+    "num1": 56322,
+    "num2": 58361,
+    "num3": 47413,
+    "deeper": {
+      "arr": [
+        38024,
+        29483,
+        70560,
+        6552.5
+      ]
+    }
+  },
+  "lastSaid": "efficient target paradigms"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Zita Rowe",
+  "username": "Lyda_Hodkiewicz90",
+  "email": "Jaden.Graham27@gmail.com",
+  "address": {
+    "street": "Max Green",
+    "suite": "Apt. 621",
+    "city": "East Wilfordburgh",
+    "zipcode": "44015",
+    "geo": {
+      "lat": -85.0069,
+      "lng": 106.1662
+    }
+  },
+  "phone": "1-268-390-1228 x622",
+  "website": "edna.com",
+  "company": {
+    "name": "Rodriguez, Torp and Lueilwitz",
+    "catchPhrase": "Organic multi-tasking Graphical User Interface",
+    "bs": "next-generation facilitate content"
+  },
+  "id": "04b6cc96-2849-430d-a0b0-4ec61b1b7ffa",
+  "testnumobjnums": {
+    "num1": 46113,
+    "num2": 3300,
+    "num3": 13346,
+    "deeper": {
+      "arr": [
+        28456,
+        94349,
+        73632,
+        9445.5
+      ]
+    }
+  },
+  "lastSaid": "dynamic streamline communities"
+}

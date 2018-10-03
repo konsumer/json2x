@@ -1,0 +1,38 @@
+{
+  "name": "Melvin Koepp",
+  "username": "Aryanna.Ruecker82",
+  "email": "Andres1@gmail.com",
+  "address": {
+    "street": "Clint Lock",
+    "suite": "Apt. 548",
+    "city": "Carmelostad",
+    "zipcode": "52366",
+    "geo": {
+      "lat": 15.772,
+      "lng": 63.0922
+    }
+  },
+  "phone": "679.123.1312 x78675",
+  "website": "chet.info",
+  "company": {
+    "name": "Fahey - Beier",
+    "catchPhrase": "Monitored well-modulated flexibility",
+    "bs": "turn-key monetize markets"
+  },
+  "id": "1953a013-c5ff-4c59-8c44-97cf33d55eb9",
+  "testnumobjnums": {
+    "num1": 84956,
+    "num2": 24940,
+    "num3": 46365,
+    "deeper": {
+      "arr": [
+        60320,
+        32029,
+        86052,
+        8306
+      ]
+    }
+  },
+  "doing": "sensor quantifying",
+  "lastSaid": "If we hack the firewall, we can get to the EXE microchip through the primary THX sensor!"
+}

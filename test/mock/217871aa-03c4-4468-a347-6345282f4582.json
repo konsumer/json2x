@@ -1,0 +1,37 @@
+{
+  "name": "Lulu Abernathy",
+  "username": "Sofia85",
+  "email": "Kenyon96@yahoo.com",
+  "address": {
+    "street": "Milford Court",
+    "suite": "Suite 437",
+    "city": "Buckridgeborough",
+    "zipcode": "38287-9076",
+    "geo": {
+      "lat": 82.4545,
+      "lng": 159.6866
+    }
+  },
+  "phone": "(202) 661-9684 x1453",
+  "website": "kassandra.org",
+  "company": {
+    "name": "Lesch - Emmerich",
+    "catchPhrase": "Future-proofed secondary moratorium",
+    "bs": "cutting-edge monetize vortals"
+  },
+  "id": "217871aa-03c4-4468-a347-6345282f4582",
+  "testnumobjnums": {
+    "num1": 43026,
+    "num2": 39611,
+    "num3": 14066,
+    "deeper": {
+      "arr": [
+        67858,
+        91833,
+        51757,
+        10963
+      ]
+    }
+  },
+  "lastSaid": "innovative empower applications"
+}

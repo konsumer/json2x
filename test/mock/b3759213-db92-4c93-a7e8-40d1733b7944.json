@@ -1,0 +1,37 @@
+{
+  "name": "Stephanie Schaefer",
+  "username": "Kris43",
+  "email": "Alisha.Goyette@hotmail.com",
+  "address": {
+    "street": "Berniece Grove",
+    "suite": "Suite 091",
+    "city": "Roselynland",
+    "zipcode": "91086-8251",
+    "geo": {
+      "lat": -20.4581,
+      "lng": -64.5341
+    }
+  },
+  "phone": "254-002-7299 x357",
+  "website": "mike.org",
+  "company": {
+    "name": "Moore - Kovacek",
+    "catchPhrase": "Diverse 6th generation open system",
+    "bs": "visionary benchmark ROI"
+  },
+  "id": "b3759213-db92-4c93-a7e8-40d1733b7944",
+  "testnumobjnums": {
+    "num1": 34306,
+    "num2": 89857,
+    "num3": 25317.5,
+    "deeper": {
+      "arr": [
+        83024,
+        79807,
+        4629,
+        10120.5
+      ]
+    }
+  },
+  "lastSaid": "virtual repurpose infrastructures"
+}

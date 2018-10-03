@@ -1,0 +1,38 @@
+{
+  "name": "Vida Block",
+  "username": "Cristian8",
+  "email": "Marisol.Adams@gmail.com",
+  "address": {
+    "street": "Herman Knoll",
+    "suite": "Apt. 627",
+    "city": "East Rosefort",
+    "zipcode": "80801",
+    "geo": {
+      "lat": -45.8217,
+      "lng": 96.7372
+    }
+  },
+  "phone": "356.400.4458",
+  "website": "kristoffer.net",
+  "company": {
+    "name": "Wintheiser Group",
+    "catchPhrase": "Switchable fresh-thinking extranet",
+    "bs": "robust implement niches"
+  },
+  "id": "135e92b9-6239-4b92-8940-b1a86231bb13",
+  "testnumobjnums": {
+    "num1": 41978,
+    "num2": 46027,
+    "num3": 7830.5,
+    "deeper": {
+      "arr": [
+        34430,
+        64468,
+        38247,
+        4998.5
+      ]
+    }
+  },
+  "doing": "capacitor programming",
+  "lastSaid": "The JSON capacitor is down, quantify the cross-platform array so we can quantify the AI card!"
+}

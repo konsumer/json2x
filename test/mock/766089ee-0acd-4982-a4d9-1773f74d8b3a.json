@@ -1,0 +1,38 @@
+{
+  "name": "Loyal Goldner",
+  "username": "Julius.Sipes61",
+  "email": "Kameron74@hotmail.com",
+  "address": {
+    "street": "Hassan Harbor",
+    "suite": "Suite 479",
+    "city": "Schmelertown",
+    "zipcode": "88209-8377",
+    "geo": {
+      "lat": -2.9865,
+      "lng": -111.7491
+    }
+  },
+  "phone": "019-387-2627 x51431",
+  "website": "delia.org",
+  "company": {
+    "name": "Hilpert Group",
+    "catchPhrase": "Devolved foreground attitude",
+    "bs": "real-time e-enable architectures"
+  },
+  "id": "766089ee-0acd-4982-a4d9-1773f74d8b3a",
+  "testnumobjnums": {
+    "num1": 14581,
+    "num2": 83322,
+    "num3": 27114,
+    "deeper": {
+      "arr": [
+        53433,
+        58994,
+        58202,
+        12579.5
+      ]
+    }
+  },
+  "doing": "matrix generating",
+  "lastSaid": "Try to override the EXE alarm, maybe it will input the digital bus!"
+}

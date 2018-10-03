@@ -1,0 +1,37 @@
+{
+  "name": "Cheyanne Krajcik",
+  "username": "Clotilde.Hermiston",
+  "email": "Stephen_Hilll8@hotmail.com",
+  "address": {
+    "street": "Else Radial",
+    "suite": "Suite 307",
+    "city": "Port Joyshire",
+    "zipcode": "30455-7396",
+    "geo": {
+      "lat": -74.9926,
+      "lng": 15.8062
+    }
+  },
+  "phone": "1-588-352-6806",
+  "website": "alfonso.net",
+  "company": {
+    "name": "Jones, Nikolaus and Schiller",
+    "catchPhrase": "Persistent human-resource installation",
+    "bs": "transparent incubate users"
+  },
+  "id": "dc117bcd-cdd2-4a0e-ab3a-024b74e6b3b1",
+  "testnumobjnums": {
+    "num1": 53516,
+    "num2": 94357,
+    "num3": 10722,
+    "deeper": {
+      "arr": [
+        59791,
+        94529,
+        26356,
+        17349.5
+      ]
+    }
+  },
+  "lastSaid": "viral empower niches"
+}

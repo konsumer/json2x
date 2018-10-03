@@ -1,0 +1,38 @@
+{
+  "name": "Vito Bernhard",
+  "username": "Jamarcus65",
+  "email": "Leonie_Bartell@gmail.com",
+  "address": {
+    "street": "Myles Ramp",
+    "suite": "Suite 581",
+    "city": "North Alecborough",
+    "zipcode": "39226",
+    "geo": {
+      "lat": -60.8274,
+      "lng": -165.5859
+    }
+  },
+  "phone": "1-575-244-4269 x815",
+  "website": "erika.name",
+  "company": {
+    "name": "Nitzsche LLC",
+    "catchPhrase": "Enterprise-wide local circuit",
+    "bs": "end-to-end harness bandwidth"
+  },
+  "id": "f5809908-787b-4f4f-90cf-d4b289370fb7",
+  "testnumobjnums": {
+    "num1": 69589,
+    "num2": 38076,
+    "num3": 11404,
+    "deeper": {
+      "arr": [
+        533,
+        99599,
+        24005,
+        40674
+      ]
+    }
+  },
+  "doing": "interface bypassing",
+  "lastSaid": "The RSS interface is down, override the multi-byte driver so we can bypass the THX feed!"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Juwan Paucek",
+  "username": "Herman25",
+  "email": "Fatima_Greenfelder79@gmail.com",
+  "address": {
+    "street": "Borer Overpass",
+    "suite": "Suite 622",
+    "city": "Felipaport",
+    "zipcode": "79873-7091",
+    "geo": {
+      "lat": -6.8106,
+      "lng": -37.8269
+    }
+  },
+  "phone": "797.600.1715 x0114",
+  "website": "russell.net",
+  "company": {
+    "name": "Schamberger - Donnelly",
+    "catchPhrase": "Fundamental solution-oriented neural-net",
+    "bs": "efficient target models"
+  },
+  "id": "c8a63147-4f8d-4365-96e2-21609508dc9e",
+  "testnumobjnums": {
+    "num1": 89082,
+    "num2": 66404,
+    "num3": 17482,
+    "deeper": {
+      "arr": [
+        80201,
+        68818,
+        76914,
+        23412
+      ]
+    }
+  },
+  "doing": "bus programming",
+  "lastSaid": "The IB protocol is down, bypass the bluetooth microchip so we can copy the SAS bus!"
+}

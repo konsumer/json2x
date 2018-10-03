@@ -1,0 +1,38 @@
+{
+  "name": "Marguerite Konopelski",
+  "username": "Lawson.Marks17",
+  "email": "Zoila_Davis75@gmail.com",
+  "address": {
+    "street": "Collier Valleys",
+    "suite": "Apt. 641",
+    "city": "East Iliana",
+    "zipcode": "31518-0583",
+    "geo": {
+      "lat": -66.7337,
+      "lng": -177.23
+    }
+  },
+  "phone": "(247) 287-0707 x109",
+  "website": "reagan.biz",
+  "company": {
+    "name": "Shanahan - Champlin",
+    "catchPhrase": "Multi-channelled global interface",
+    "bs": "B2B generate relationships"
+  },
+  "id": "66e9c3d0-c8c0-4bd1-85ce-add8f66529ec",
+  "testnumobjnums": {
+    "num1": 50287,
+    "num2": 84812,
+    "num3": 16469.5,
+    "deeper": {
+      "arr": [
+        4011,
+        94922,
+        57712,
+        13204.5
+      ]
+    }
+  },
+  "doing": "monitor indexing",
+  "lastSaid": "If we index the firewall, we can get to the RSS circuit through the open-source PCI matrix!"
+}

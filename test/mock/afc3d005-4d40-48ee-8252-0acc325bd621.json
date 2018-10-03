@@ -1,0 +1,37 @@
+{
+  "name": "Adalberto Prohaska DDS",
+  "username": "Laila38",
+  "email": "Katelynn16@yahoo.com",
+  "address": {
+    "street": "Schoen Parkways",
+    "suite": "Suite 913",
+    "city": "North Mandymouth",
+    "zipcode": "21338",
+    "geo": {
+      "lat": -10.2052,
+      "lng": 25.0803
+    }
+  },
+  "phone": "(762) 166-0191",
+  "website": "mafalda.biz",
+  "company": {
+    "name": "Hoppe LLC",
+    "catchPhrase": "Intuitive disintermediate monitoring",
+    "bs": "24/7 optimize e-services"
+  },
+  "id": "afc3d005-4d40-48ee-8252-0acc325bd621",
+  "testnumobjnums": {
+    "num1": 2334,
+    "num2": 5096,
+    "num3": 22765.5,
+    "deeper": {
+      "arr": [
+        75851,
+        19832,
+        42624,
+        34474.5
+      ]
+    }
+  },
+  "lastSaid": "visionary empower ROI"
+}

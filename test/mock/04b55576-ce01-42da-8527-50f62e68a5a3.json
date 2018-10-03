@@ -1,0 +1,37 @@
+{
+  "name": "Brendon Rempel I",
+  "username": "Roderick_Goodwin",
+  "email": "Daniela_Zboncak@hotmail.com",
+  "address": {
+    "street": "Vicente Drives",
+    "suite": "Apt. 678",
+    "city": "Creolahaven",
+    "zipcode": "92591",
+    "geo": {
+      "lat": 60.2618,
+      "lng": -99.1276
+    }
+  },
+  "phone": "1-611-655-7128 x222",
+  "website": "tressie.org",
+  "company": {
+    "name": "Heathcote - Treutel",
+    "catchPhrase": "Cloned background neural-net",
+    "bs": "frictionless deliver models"
+  },
+  "id": "04b55576-ce01-42da-8527-50f62e68a5a3",
+  "testnumobjnums": {
+    "num1": 78387,
+    "num2": 47416,
+    "num3": 1766,
+    "deeper": {
+      "arr": [
+        38594,
+        56831,
+        13180,
+        38347.5
+      ]
+    }
+  },
+  "lastSaid": "open-source extend channels"
+}

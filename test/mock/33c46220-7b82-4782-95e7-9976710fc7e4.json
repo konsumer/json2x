@@ -1,0 +1,37 @@
+{
+  "name": "Odie Casper",
+  "username": "Macy53",
+  "email": "Conner.Kub@gmail.com",
+  "address": {
+    "street": "Chaya Trafficway",
+    "suite": "Suite 874",
+    "city": "Bodeborough",
+    "zipcode": "16231-3739",
+    "geo": {
+      "lat": -21.9145,
+      "lng": 151.5287
+    }
+  },
+  "phone": "(089) 758-1074 x104",
+  "website": "bernardo.net",
+  "company": {
+    "name": "Moore and Sons",
+    "catchPhrase": "Cloned context-sensitive functionalities",
+    "bs": "out-of-the-box synthesize e-markets"
+  },
+  "id": "33c46220-7b82-4782-95e7-9976710fc7e4",
+  "testnumobjnums": {
+    "num1": 91620,
+    "num2": 28169,
+    "num3": 7484,
+    "deeper": {
+      "arr": [
+        5826,
+        30290,
+        37644,
+        16823.5
+      ]
+    }
+  },
+  "lastSaid": "ubiquitous recontextualize communities"
+}

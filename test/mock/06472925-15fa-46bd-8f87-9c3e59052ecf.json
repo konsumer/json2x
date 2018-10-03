@@ -1,0 +1,38 @@
+{
+  "name": "Jordon Price",
+  "username": "Raheem.Mitchell",
+  "email": "Finn.Hettinger@yahoo.com",
+  "address": {
+    "street": "Bernhard Summit",
+    "suite": "Apt. 183",
+    "city": "Port Leonardville",
+    "zipcode": "07623",
+    "geo": {
+      "lat": -89.4377,
+      "lng": -83.7608
+    }
+  },
+  "phone": "400-191-0974 x72732",
+  "website": "jacinthe.com",
+  "company": {
+    "name": "Runte - Morissette",
+    "catchPhrase": "Realigned actuating hardware",
+    "bs": "bricks-and-clicks whiteboard bandwidth"
+  },
+  "id": "06472925-15fa-46bd-8f87-9c3e59052ecf",
+  "testnumobjnums": {
+    "num1": 41413,
+    "num2": 68547,
+    "num3": 5200.5,
+    "deeper": {
+      "arr": [
+        22923,
+        26341,
+        83369,
+        646
+      ]
+    }
+  },
+  "doing": "hard drive overriding",
+  "lastSaid": "hacking the protocol won't do anything, we need to reboot the cross-platform XSS array!"
+}

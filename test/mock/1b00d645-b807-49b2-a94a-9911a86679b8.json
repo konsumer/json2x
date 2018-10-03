@@ -1,0 +1,37 @@
+{
+  "name": "Ulises Schaden DVM",
+  "username": "Cecelia_MacGyver",
+  "email": "Marcella_Funk30@gmail.com",
+  "address": {
+    "street": "Grant Valley",
+    "suite": "Suite 429",
+    "city": "Murrayfurt",
+    "zipcode": "80165-5939",
+    "geo": {
+      "lat": 35.6675,
+      "lng": -56.2662
+    }
+  },
+  "phone": "(339) 989-2460",
+  "website": "annabel.com",
+  "company": {
+    "name": "Bartell, Johnston and Weber",
+    "catchPhrase": "Adaptive clear-thinking service-desk",
+    "bs": "out-of-the-box grow ROI"
+  },
+  "id": "1b00d645-b807-49b2-a94a-9911a86679b8",
+  "testnumobjnums": {
+    "num1": 77648,
+    "num2": 41571,
+    "num3": 36902.5,
+    "deeper": {
+      "arr": [
+        81771,
+        91921,
+        42236,
+        28449
+      ]
+    }
+  },
+  "lastSaid": "end-to-end incentivize functionalities"
+}

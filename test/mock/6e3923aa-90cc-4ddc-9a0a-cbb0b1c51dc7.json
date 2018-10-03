@@ -1,0 +1,37 @@
+{
+  "name": "Bell Stiedemann Jr.",
+  "username": "Demetris61",
+  "email": "Dimitri3@yahoo.com",
+  "address": {
+    "street": "Faustino Row",
+    "suite": "Suite 124",
+    "city": "Rueckerfort",
+    "zipcode": "50295",
+    "geo": {
+      "lat": -38.6647,
+      "lng": -145.2372
+    }
+  },
+  "phone": "726-922-6282",
+  "website": "sheldon.biz",
+  "company": {
+    "name": "Keeling, Koelpin and Swift",
+    "catchPhrase": "Universal eco-centric protocol",
+    "bs": "enterprise leverage schemas"
+  },
+  "id": "6e3923aa-90cc-4ddc-9a0a-cbb0b1c51dc7",
+  "testnumobjnums": {
+    "num1": 22941,
+    "num2": 42547,
+    "num3": 11580,
+    "deeper": {
+      "arr": [
+        81724,
+        96335,
+        33028,
+        24369
+      ]
+    }
+  },
+  "lastSaid": "sexy brand markets"
+}

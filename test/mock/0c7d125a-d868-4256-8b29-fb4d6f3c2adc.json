@@ -1,0 +1,37 @@
+{
+  "name": "Gerardo Howell",
+  "username": "Velda.Shields16",
+  "email": "Rhiannon.Glover88@gmail.com",
+  "address": {
+    "street": "Schowalter Keys",
+    "suite": "Apt. 899",
+    "city": "New Mervin",
+    "zipcode": "78497-1360",
+    "geo": {
+      "lat": 67.4488,
+      "lng": 153.9435
+    }
+  },
+  "phone": "444.059.5354 x46961",
+  "website": "fredy.info",
+  "company": {
+    "name": "Wyman and Sons",
+    "catchPhrase": "Reduced maximized complexity",
+    "bs": "dot-com innovate models"
+  },
+  "id": "0c7d125a-d868-4256-8b29-fb4d6f3c2adc",
+  "testnumobjnums": {
+    "num1": 68149,
+    "num2": 58054,
+    "num3": 22546.5,
+    "deeper": {
+      "arr": [
+        77894,
+        87653,
+        76838,
+        41429.5
+      ]
+    }
+  },
+  "lastSaid": "efficient benchmark eyeballs"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Zechariah Heller",
+  "username": "Cynthia.Stamm18",
+  "email": "Terrance_Gorczany7@gmail.com",
+  "address": {
+    "street": "Morar Port",
+    "suite": "Suite 220",
+    "city": "Port Stantonland",
+    "zipcode": "78373-0482",
+    "geo": {
+      "lat": 7.3324,
+      "lng": 62.3127
+    }
+  },
+  "phone": "(521) 244-6223",
+  "website": "noah.biz",
+  "company": {
+    "name": "Abernathy - Stoltenberg",
+    "catchPhrase": "Adaptive maximized firmware",
+    "bs": "revolutionary drive bandwidth"
+  },
+  "id": "ff017ca4-2d44-4ef0-9efa-8473166ac305",
+  "testnumobjnums": {
+    "num1": 27287,
+    "num2": 9379,
+    "num3": 22684,
+    "deeper": {
+      "arr": [
+        52948,
+        14101,
+        30992,
+        5615.5
+      ]
+    }
+  },
+  "lastSaid": "B2C extend e-business"
+}

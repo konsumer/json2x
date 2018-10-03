@@ -1,0 +1,38 @@
+{
+  "name": "Dr. Ciara Bogisich",
+  "username": "Queen_Lesch24",
+  "email": "Frankie.Wolf7@yahoo.com",
+  "address": {
+    "street": "Schmidt Fort",
+    "suite": "Apt. 702",
+    "city": "Ryanview",
+    "zipcode": "81257-2633",
+    "geo": {
+      "lat": -39.3909,
+      "lng": 171.3321
+    }
+  },
+  "phone": "(789) 783-9089 x590",
+  "website": "akeem.info",
+  "company": {
+    "name": "Schneider - Barrows",
+    "catchPhrase": "Intuitive heuristic protocol",
+    "bs": "customized engage infomediaries"
+  },
+  "id": "777d78cb-513f-49ac-9848-33ee7e94498e",
+  "testnumobjnums": {
+    "num1": 7396,
+    "num2": 85223,
+    "num3": 22280.5,
+    "deeper": {
+      "arr": [
+        15804,
+        80987,
+        16809,
+        25647
+      ]
+    }
+  },
+  "doing": "microchip transmitting",
+  "lastSaid": "I'll copy the solid state XML protocol, that should sensor the AGP bandwidth!"
+}

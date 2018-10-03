@@ -1,0 +1,37 @@
+{
+  "name": "Vanessa Schmeler",
+  "username": "Reece_Larson",
+  "email": "Ilene99@hotmail.com",
+  "address": {
+    "street": "Pollich Pine",
+    "suite": "Suite 345",
+    "city": "New Helenabury",
+    "zipcode": "47148",
+    "geo": {
+      "lat": 61.5773,
+      "lng": 165.1971
+    }
+  },
+  "phone": "095-271-6157",
+  "website": "waino.net",
+  "company": {
+    "name": "Kub LLC",
+    "catchPhrase": "Total systemic concept",
+    "bs": "sexy whiteboard schemas"
+  },
+  "id": "2813f674-9138-4c72-83ca-86336736ea7d",
+  "testnumobjnums": {
+    "num1": 85020,
+    "num2": 95813,
+    "num3": 35462.5,
+    "deeper": {
+      "arr": [
+        31144,
+        21307,
+        22310,
+        18427
+      ]
+    }
+  },
+  "lastSaid": "extensible unleash mindshare"
+}

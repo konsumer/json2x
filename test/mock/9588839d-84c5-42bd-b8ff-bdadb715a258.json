@@ -1,0 +1,38 @@
+{
+  "name": "Jayde Beier",
+  "username": "Maye34",
+  "email": "Adelle.Heidenreich@yahoo.com",
+  "address": {
+    "street": "Leopold Motorway",
+    "suite": "Suite 883",
+    "city": "Lake Jairo",
+    "zipcode": "87203",
+    "geo": {
+      "lat": 58.3541,
+      "lng": -159.3514
+    }
+  },
+  "phone": "045.621.9994",
+  "website": "ilene.info",
+  "company": {
+    "name": "Paucek - Roob",
+    "catchPhrase": "Optimized secondary intranet",
+    "bs": "dot-com drive bandwidth"
+  },
+  "id": "9588839d-84c5-42bd-b8ff-bdadb715a258",
+  "testnumobjnums": {
+    "num1": 12076,
+    "num2": 79084,
+    "num3": 36064.5,
+    "deeper": {
+      "arr": [
+        78218,
+        64794,
+        3366,
+        4933.5
+      ]
+    }
+  },
+  "doing": "driver hacking",
+  "lastSaid": "The SMS transmitter is down, index the auxiliary application so we can hack the SCSI firewall!"
+}

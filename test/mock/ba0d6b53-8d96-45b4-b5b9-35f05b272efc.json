@@ -1,0 +1,38 @@
+{
+  "name": "Solon Rosenbaum",
+  "username": "Vicenta14",
+  "email": "Lizzie24@gmail.com",
+  "address": {
+    "street": "Schroeder Brook",
+    "suite": "Apt. 016",
+    "city": "Lake Rhodaport",
+    "zipcode": "66131",
+    "geo": {
+      "lat": 41.6471,
+      "lng": -76.852
+    }
+  },
+  "phone": "(526) 310-9186",
+  "website": "caesar.biz",
+  "company": {
+    "name": "Strosin - Hoppe",
+    "catchPhrase": "Ergonomic didactic firmware",
+    "bs": "visionary unleash applications"
+  },
+  "id": "ba0d6b53-8d96-45b4-b5b9-35f05b272efc",
+  "testnumobjnums": {
+    "num1": 41067,
+    "num2": 82887,
+    "num3": 47569,
+    "deeper": {
+      "arr": [
+        13046,
+        66501,
+        70824,
+        3368.5
+      ]
+    }
+  },
+  "doing": "panel generating",
+  "lastSaid": "You can't reboot the pixel without programming the auxiliary PCI application!"
+}

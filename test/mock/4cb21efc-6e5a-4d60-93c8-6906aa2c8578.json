@@ -1,0 +1,38 @@
+{
+  "name": "Barbara Glover",
+  "username": "Hilma50",
+  "email": "Liana_Rippin@yahoo.com",
+  "address": {
+    "street": "Yost Orchard",
+    "suite": "Suite 233",
+    "city": "Kuhlmanside",
+    "zipcode": "81605-6655",
+    "geo": {
+      "lat": 9.6271,
+      "lng": 67.2421
+    }
+  },
+  "phone": "(370) 937-7863",
+  "website": "duane.info",
+  "company": {
+    "name": "Harvey Group",
+    "catchPhrase": "Persevering static open system",
+    "bs": "revolutionary aggregate relationships"
+  },
+  "id": "4cb21efc-6e5a-4d60-93c8-6906aa2c8578",
+  "testnumobjnums": {
+    "num1": 62662,
+    "num2": 77334,
+    "num3": 46606,
+    "deeper": {
+      "arr": [
+        6279,
+        35564,
+        16493,
+        12729.5
+      ]
+    }
+  },
+  "doing": "panel synthesizing",
+  "lastSaid": "We need to bypass the neural GB system!"
+}

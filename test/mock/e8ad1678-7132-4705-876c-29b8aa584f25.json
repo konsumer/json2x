@@ -1,0 +1,37 @@
+{
+  "name": "Hermina Gottlieb",
+  "username": "Alford_Von",
+  "email": "Bill_Herzog33@hotmail.com",
+  "address": {
+    "street": "Ford Field",
+    "suite": "Apt. 992",
+    "city": "Padbergmouth",
+    "zipcode": "89651-6752",
+    "geo": {
+      "lat": -54.6615,
+      "lng": -178.7818
+    }
+  },
+  "phone": "823.867.5603 x229",
+  "website": "sabina.name",
+  "company": {
+    "name": "Hills LLC",
+    "catchPhrase": "Reduced composite knowledge base",
+    "bs": "next-generation monetize web services"
+  },
+  "id": "e8ad1678-7132-4705-876c-29b8aa584f25",
+  "testnumobjnums": {
+    "num1": 88707,
+    "num2": 7305,
+    "num3": 36013,
+    "deeper": {
+      "arr": [
+        35412,
+        20833,
+        13830,
+        20111
+      ]
+    }
+  },
+  "lastSaid": "strategic recontextualize partnerships"
+}

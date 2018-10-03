@@ -1,0 +1,37 @@
+{
+  "name": "Fatima Abbott DVM",
+  "username": "Berry.Gleason36",
+  "email": "Tamia65@gmail.com",
+  "address": {
+    "street": "Wilburn Points",
+    "suite": "Suite 074",
+    "city": "Franeckihaven",
+    "zipcode": "18035",
+    "geo": {
+      "lat": 76.5217,
+      "lng": -117.449
+    }
+  },
+  "phone": "869.434.3355 x2379",
+  "website": "aurelie.biz",
+  "company": {
+    "name": "Stokes - Sipes",
+    "catchPhrase": "Triple-buffered foreground application",
+    "bs": "vertical synthesize communities"
+  },
+  "id": "11ed909a-a0c8-4ea8-9a4b-bc947cc7d545",
+  "testnumobjnums": {
+    "num1": 80642,
+    "num2": 38387,
+    "num3": 9560,
+    "deeper": {
+      "arr": [
+        67744,
+        73249,
+        50763,
+        45203
+      ]
+    }
+  },
+  "lastSaid": "seamless grow infrastructures"
+}

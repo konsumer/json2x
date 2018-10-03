@@ -1,0 +1,38 @@
+{
+  "name": "Irving Hudson",
+  "username": "Nathanael_Weber58",
+  "email": "Colby.Schumm@hotmail.com",
+  "address": {
+    "street": "Adams Falls",
+    "suite": "Apt. 797",
+    "city": "Heathport",
+    "zipcode": "38816",
+    "geo": {
+      "lat": 87.7481,
+      "lng": -61.9392
+    }
+  },
+  "phone": "209.971.3546 x990",
+  "website": "hertha.org",
+  "company": {
+    "name": "Grimes - Toy",
+    "catchPhrase": "Pre-emptive 6th generation extranet",
+    "bs": "e-business harness eyeballs"
+  },
+  "id": "673f0b32-6af4-4485-89b5-9aaacd8d65fb",
+  "testnumobjnums": {
+    "num1": 54101,
+    "num2": 11372,
+    "num3": 32739,
+    "deeper": {
+      "arr": [
+        51507,
+        5480,
+        19582,
+        20297
+      ]
+    }
+  },
+  "doing": "bandwidth backing up",
+  "lastSaid": "I'll index the back-end GB panel, that should transmitter the ADP card!"
+}

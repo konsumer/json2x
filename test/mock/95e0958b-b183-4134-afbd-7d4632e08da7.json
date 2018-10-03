@@ -1,0 +1,38 @@
+{
+  "name": "Jevon Buckridge",
+  "username": "Judah42",
+  "email": "Garry61@gmail.com",
+  "address": {
+    "street": "Heidenreich Light",
+    "suite": "Apt. 115",
+    "city": "North Tamia",
+    "zipcode": "06218-0430",
+    "geo": {
+      "lat": 3.7243,
+      "lng": 62.7771
+    }
+  },
+  "phone": "1-923-665-0098",
+  "website": "yazmin.biz",
+  "company": {
+    "name": "Ebert, Osinski and Will",
+    "catchPhrase": "Balanced human-resource knowledge base",
+    "bs": "holistic synergize systems"
+  },
+  "id": "95e0958b-b183-4134-afbd-7d4632e08da7",
+  "testnumobjnums": {
+    "num1": 62417,
+    "num2": 91674,
+    "num3": 30631,
+    "deeper": {
+      "arr": [
+        23369,
+        31880,
+        8656,
+        31398.5
+      ]
+    }
+  },
+  "doing": "feed indexing",
+  "lastSaid": "Use the 1080p SMTP feed, then you can connect the online array!"
+}

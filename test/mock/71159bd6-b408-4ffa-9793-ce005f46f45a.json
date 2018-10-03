@@ -1,0 +1,38 @@
+{
+  "name": "Chelsey Will",
+  "username": "Dewitt.Herman",
+  "email": "Aletha.Rutherford@hotmail.com",
+  "address": {
+    "street": "Colleen Neck",
+    "suite": "Apt. 651",
+    "city": "Blickbury",
+    "zipcode": "08547",
+    "geo": {
+      "lat": 67.5268,
+      "lng": -142.8833
+    }
+  },
+  "phone": "(914) 087-9216 x8347",
+  "website": "rick.net",
+  "company": {
+    "name": "Lesch and Sons",
+    "catchPhrase": "Monitored fresh-thinking migration",
+    "bs": "B2B incubate interfaces"
+  },
+  "id": "71159bd6-b408-4ffa-9793-ce005f46f45a",
+  "testnumobjnums": {
+    "num1": 83597,
+    "num2": 90587,
+    "num3": 33275,
+    "deeper": {
+      "arr": [
+        64886,
+        86474,
+        58569,
+        44136.5
+      ]
+    }
+  },
+  "doing": "feed copying",
+  "lastSaid": "We need to connect the cross-platform AGP interface!"
+}

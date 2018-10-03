@@ -1,0 +1,37 @@
+{
+  "name": "Tyree Parisian",
+  "username": "Larry96",
+  "email": "Lyla56@hotmail.com",
+  "address": {
+    "street": "Moore Burgs",
+    "suite": "Apt. 787",
+    "city": "Lake Ernestburgh",
+    "zipcode": "03179",
+    "geo": {
+      "lat": 15.725,
+      "lng": 83.3413
+    }
+  },
+  "phone": "1-655-762-8066 x2554",
+  "website": "anika.com",
+  "company": {
+    "name": "Johnston Group",
+    "catchPhrase": "Focused local model",
+    "bs": "end-to-end evolve e-tailers"
+  },
+  "id": "62af6d8c-2ca5-44b4-a0a2-b791db81eee9",
+  "testnumobjnums": {
+    "num1": 70679,
+    "num2": 58812,
+    "num3": 2159,
+    "deeper": {
+      "arr": [
+        47333,
+        83918,
+        46034,
+        727
+      ]
+    }
+  },
+  "lastSaid": "extensible visualize eyeballs"
+}

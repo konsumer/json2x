@@ -1,0 +1,38 @@
+{
+  "name": "Henderson Braun Jr.",
+  "username": "Khalil_Kessler84",
+  "email": "Claud_Farrell@hotmail.com",
+  "address": {
+    "street": "Purdy Islands",
+    "suite": "Suite 463",
+    "city": "Evelyntown",
+    "zipcode": "30169",
+    "geo": {
+      "lat": -85.8936,
+      "lng": -38.48
+    }
+  },
+  "phone": "953.287.3014 x5812",
+  "website": "kayden.name",
+  "company": {
+    "name": "Schulist, Ondricka and Green",
+    "catchPhrase": "Secured needs-based challenge",
+    "bs": "enterprise unleash eyeballs"
+  },
+  "id": "025224c4-836c-4503-a181-e7a59299e9dd",
+  "testnumobjnums": {
+    "num1": 93603,
+    "num2": 35107,
+    "num3": 26063.5,
+    "deeper": {
+      "arr": [
+        57468,
+        35343,
+        61521,
+        28694.5
+      ]
+    }
+  },
+  "doing": "bus indexing",
+  "lastSaid": "The SQL driver is down, copy the redundant application so we can override the GB matrix!"
+}

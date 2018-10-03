@@ -1,0 +1,37 @@
+{
+  "name": "Albertha McKenzie",
+  "username": "Ronaldo63",
+  "email": "Crawford94@hotmail.com",
+  "address": {
+    "street": "Crystel Ranch",
+    "suite": "Apt. 910",
+    "city": "East Sadieland",
+    "zipcode": "42151-6094",
+    "geo": {
+      "lat": 75.5339,
+      "lng": -141.1729
+    }
+  },
+  "phone": "557-180-3959",
+  "website": "pete.com",
+  "company": {
+    "name": "Halvorson Group",
+    "catchPhrase": "Expanded 24 hour attitude",
+    "bs": "transparent evolve web services"
+  },
+  "id": "5b618b15-9e30-4297-b410-23339cb60c13",
+  "testnumobjnums": {
+    "num1": 3821,
+    "num2": 18805,
+    "num3": 28774.5,
+    "deeper": {
+      "arr": [
+        84109,
+        44360,
+        32366,
+        6765.5
+      ]
+    }
+  },
+  "lastSaid": "e-business utilize bandwidth"
+}

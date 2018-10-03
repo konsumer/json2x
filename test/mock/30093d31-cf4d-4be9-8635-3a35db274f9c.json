@@ -1,0 +1,37 @@
+{
+  "name": "Glen Mann Sr.",
+  "username": "Hattie_Howell",
+  "email": "Freeda67@yahoo.com",
+  "address": {
+    "street": "Tromp Cliffs",
+    "suite": "Apt. 439",
+    "city": "Stiedemannside",
+    "zipcode": "59641-2155",
+    "geo": {
+      "lat": 40.4963,
+      "lng": -22.3809
+    }
+  },
+  "phone": "(481) 016-7501 x3214",
+  "website": "ransom.org",
+  "company": {
+    "name": "Ruecker Inc",
+    "catchPhrase": "Enterprise-wide zero defect approach",
+    "bs": "visionary embrace communities"
+  },
+  "id": "30093d31-cf4d-4be9-8635-3a35db274f9c",
+  "testnumobjnums": {
+    "num1": 91255,
+    "num2": 55151,
+    "num3": 38858.5,
+    "deeper": {
+      "arr": [
+        11487,
+        85621,
+        52378,
+        27535.5
+      ]
+    }
+  },
+  "lastSaid": "dynamic whiteboard channels"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Julia Spencer",
+  "username": "Doyle_Johnston70",
+  "email": "Orlo38@gmail.com",
+  "address": {
+    "street": "Bogisich Branch",
+    "suite": "Suite 322",
+    "city": "South Jacquesborough",
+    "zipcode": "80814",
+    "geo": {
+      "lat": 28.5084,
+      "lng": -52.1787
+    }
+  },
+  "phone": "370-586-6871 x4716",
+  "website": "simone.info",
+  "company": {
+    "name": "Gislason, Fahey and Brown",
+    "catchPhrase": "Reactive optimal monitoring",
+    "bs": "proactive monetize niches"
+  },
+  "id": "6b29bd8b-a651-405b-af68-976cf5bd46af",
+  "testnumobjnums": {
+    "num1": 84941,
+    "num2": 62892,
+    "num3": 43580,
+    "deeper": {
+      "arr": [
+        99096,
+        19831,
+        4350,
+        39343
+      ]
+    }
+  },
+  "lastSaid": "B2B envisioneer action-items"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Ezequiel Kertzmann",
+  "username": "Keith14",
+  "email": "Vance_Quitzon@yahoo.com",
+  "address": {
+    "street": "Von Springs",
+    "suite": "Apt. 908",
+    "city": "Lake Alice",
+    "zipcode": "62525",
+    "geo": {
+      "lat": 18.6083,
+      "lng": 158.442
+    }
+  },
+  "phone": "(639) 066-5193 x40531",
+  "website": "horacio.net",
+  "company": {
+    "name": "Cassin Inc",
+    "catchPhrase": "Stand-alone full-range neural-net",
+    "bs": "scalable productize methodologies"
+  },
+  "id": "ecaaf2fc-2349-4490-9bba-2da8433c60ed",
+  "testnumobjnums": {
+    "num1": 31600,
+    "num2": 66093,
+    "num3": 20192.5,
+    "deeper": {
+      "arr": [
+        43633,
+        98041,
+        25505,
+        9753.5
+      ]
+    }
+  },
+  "doing": "program connecting",
+  "lastSaid": "backing up the feed won't do anything, we need to quantify the primary EXE application!"
+}

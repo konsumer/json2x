@@ -1,0 +1,37 @@
+{
+  "name": "Oma Keeling",
+  "username": "Maci23",
+  "email": "Abel_Turcotte1@yahoo.com",
+  "address": {
+    "street": "Cameron Shoals",
+    "suite": "Suite 275",
+    "city": "New Amely",
+    "zipcode": "60024-3855",
+    "geo": {
+      "lat": -34.2661,
+      "lng": -164.4369
+    }
+  },
+  "phone": "1-816-990-4933 x594",
+  "website": "gia.org",
+  "company": {
+    "name": "Schumm, Douglas and Renner",
+    "catchPhrase": "Networked real-time superstructure",
+    "bs": "robust engage portals"
+  },
+  "id": "7a8b15c3-a5a6-4a15-9942-e480bd4dcad8",
+  "testnumobjnums": {
+    "num1": 58282,
+    "num2": 44828,
+    "num3": 27718,
+    "deeper": {
+      "arr": [
+        28037,
+        80720,
+        97430,
+        25155.5
+      ]
+    }
+  },
+  "lastSaid": "next-generation incentivize bandwidth"
+}

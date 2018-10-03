@@ -1,0 +1,38 @@
+{
+  "name": "Christophe Weissnat",
+  "username": "Alexis_Beier62",
+  "email": "Evan72@yahoo.com",
+  "address": {
+    "street": "Goodwin Ports",
+    "suite": "Suite 628",
+    "city": "Cronafurt",
+    "zipcode": "49205-2149",
+    "geo": {
+      "lat": -56.5233,
+      "lng": 119.5471
+    }
+  },
+  "phone": "(290) 406-1452",
+  "website": "justice.biz",
+  "company": {
+    "name": "Reilly and Sons",
+    "catchPhrase": "Down-sized impactful algorithm",
+    "bs": "world-class embrace mindshare"
+  },
+  "id": "3a1fc6e6-65dd-4b28-81bf-2f3701e1c1be",
+  "testnumobjnums": {
+    "num1": 95775,
+    "num2": 82264,
+    "num3": 37469,
+    "deeper": {
+      "arr": [
+        25299,
+        40677,
+        82983,
+        20090.5
+      ]
+    }
+  },
+  "doing": "panel bypassing",
+  "lastSaid": "compressing the circuit won't do anything, we need to back up the 1080p SMS array!"
+}

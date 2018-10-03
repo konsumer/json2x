@@ -1,0 +1,37 @@
+{
+  "name": "Pete Brekke",
+  "username": "Augustus.Monahan52",
+  "email": "Violet_Bernhard@hotmail.com",
+  "address": {
+    "street": "Schamberger Forge",
+    "suite": "Apt. 761",
+    "city": "Smithburgh",
+    "zipcode": "79835-6165",
+    "geo": {
+      "lat": -13.161,
+      "lng": -159.3155
+    }
+  },
+  "phone": "081-589-5870 x9433",
+  "website": "delfina.biz",
+  "company": {
+    "name": "Barton and Sons",
+    "catchPhrase": "Horizontal solution-oriented open architecture",
+    "bs": "end-to-end morph content"
+  },
+  "id": "bb0d6408-7c31-4c2b-b9ef-cba92dd13021",
+  "testnumobjnums": {
+    "num1": 64502,
+    "num2": 11071,
+    "num3": 9817,
+    "deeper": {
+      "arr": [
+        78465,
+        8355,
+        8126,
+        12356.5
+      ]
+    }
+  },
+  "lastSaid": "plug-and-play synthesize solutions"
+}

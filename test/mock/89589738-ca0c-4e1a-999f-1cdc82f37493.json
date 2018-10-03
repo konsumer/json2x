@@ -1,0 +1,37 @@
+{
+  "name": "Corbin Runolfsdottir",
+  "username": "Keely_Johns",
+  "email": "Eli.Daniel@hotmail.com",
+  "address": {
+    "street": "Imelda Walks",
+    "suite": "Apt. 337",
+    "city": "New Jamarcus",
+    "zipcode": "00188",
+    "geo": {
+      "lat": -58.3496,
+      "lng": -106.3283
+    }
+  },
+  "phone": "803-429-2296 x73458",
+  "website": "jordon.com",
+  "company": {
+    "name": "Balistreri, Spinka and Lynch",
+    "catchPhrase": "Multi-lateral methodical initiative",
+    "bs": "wireless envisioneer systems"
+  },
+  "id": "89589738-ca0c-4e1a-999f-1cdc82f37493",
+  "testnumobjnums": {
+    "num1": 40426,
+    "num2": 83510,
+    "num3": 558.5,
+    "deeper": {
+      "arr": [
+        10077,
+        69752,
+        32706,
+        28309
+      ]
+    }
+  },
+  "lastSaid": "cross-platform extend technologies"
+}

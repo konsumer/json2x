@@ -1,0 +1,37 @@
+{
+  "name": "Justen Bernhard",
+  "username": "River.Wyman46",
+  "email": "Burnice0@hotmail.com",
+  "address": {
+    "street": "Dibbert Mills",
+    "suite": "Apt. 069",
+    "city": "Ebertburgh",
+    "zipcode": "96919",
+    "geo": {
+      "lat": -38.4662,
+      "lng": 28.3174
+    }
+  },
+  "phone": "1-636-844-5920 x511",
+  "website": "mabel.net",
+  "company": {
+    "name": "Witting - Huels",
+    "catchPhrase": "Managed mission-critical instruction set",
+    "bs": "distributed scale convergence"
+  },
+  "id": "0626cc6d-e0f0-458c-89f2-d14135966017",
+  "testnumobjnums": {
+    "num1": 32298,
+    "num2": 99511,
+    "num3": 11122.5,
+    "deeper": {
+      "arr": [
+        68786,
+        72569,
+        17423,
+        8443
+      ]
+    }
+  },
+  "lastSaid": "sticky incubate ROI"
+}

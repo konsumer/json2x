@@ -28,5 +28,5 @@ import { helpers, random, hacker, company } from 'faker'
   record.address.geo.lat = parseFloat(record.address.geo.lat)
   record.address.geo.lng = parseFloat(record.address.geo.lng)
 
-  writeFileSync(`mock/${record.id}.json`, JSON.stringify(record, null, 2))
+  writeFileSync(`${__dirname}/mock/${record.id}.json`, JSON.stringify(record, null, 2))
 })

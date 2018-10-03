@@ -1,0 +1,38 @@
+{
+  "name": "Jamarcus Stoltenberg",
+  "username": "Tito42",
+  "email": "Hadley_Mosciski@gmail.com",
+  "address": {
+    "street": "Dibbert Plains",
+    "suite": "Apt. 142",
+    "city": "Barryside",
+    "zipcode": "59906-2600",
+    "geo": {
+      "lat": 7.6236,
+      "lng": 28.0459
+    }
+  },
+  "phone": "287.711.7518 x392",
+  "website": "jarred.biz",
+  "company": {
+    "name": "Steuber, Zieme and Wiza",
+    "catchPhrase": "Stand-alone 3rd generation Graphic Interface",
+    "bs": "distributed e-enable mindshare"
+  },
+  "id": "ec1a9f84-52b4-42b6-a1cc-bc0985fd860b",
+  "testnumobjnums": {
+    "num1": 95240,
+    "num2": 49734,
+    "num3": 2054.5,
+    "deeper": {
+      "arr": [
+        81190,
+        38311,
+        6666,
+        14854.5
+      ]
+    }
+  },
+  "doing": "driver compressing",
+  "lastSaid": "If we input the array, we can get to the SSL circuit through the solid state GB driver!"
+}

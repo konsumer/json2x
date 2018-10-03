@@ -1,0 +1,37 @@
+{
+  "name": "Ludwig Christiansen",
+  "username": "Moises.Keeling",
+  "email": "Toney36@gmail.com",
+  "address": {
+    "street": "Fisher Gardens",
+    "suite": "Suite 263",
+    "city": "Runolfssonshire",
+    "zipcode": "15534",
+    "geo": {
+      "lat": -49.4461,
+      "lng": 72.241
+    }
+  },
+  "phone": "(015) 136-3312",
+  "website": "jackson.name",
+  "company": {
+    "name": "Monahan, Stehr and Lowe",
+    "catchPhrase": "Organic multi-state support",
+    "bs": "impactful redefine relationships"
+  },
+  "id": "7f87e37a-af61-4f2f-900b-8910da93404b",
+  "testnumobjnums": {
+    "num1": 62063,
+    "num2": 1658,
+    "num3": 1594.5,
+    "deeper": {
+      "arr": [
+        77787,
+        28166,
+        34764,
+        49889.5
+      ]
+    }
+  },
+  "lastSaid": "plug-and-play drive architectures"
+}

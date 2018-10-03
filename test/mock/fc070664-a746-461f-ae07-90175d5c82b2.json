@@ -1,0 +1,37 @@
+{
+  "name": "Rosanna Krajcik",
+  "username": "Darron_Corkery",
+  "email": "Hermann82@hotmail.com",
+  "address": {
+    "street": "Elvera Gardens",
+    "suite": "Apt. 387",
+    "city": "Idellhaven",
+    "zipcode": "08153",
+    "geo": {
+      "lat": -4.7873,
+      "lng": -156.2556
+    }
+  },
+  "phone": "200.299.3317 x465",
+  "website": "ashtyn.name",
+  "company": {
+    "name": "Fadel Inc",
+    "catchPhrase": "Synergized interactive architecture",
+    "bs": "synergistic redefine networks"
+  },
+  "id": "fc070664-a746-461f-ae07-90175d5c82b2",
+  "testnumobjnums": {
+    "num1": 21523,
+    "num2": 37122,
+    "num3": 33476,
+    "deeper": {
+      "arr": [
+        60748,
+        22954,
+        64720,
+        1595
+      ]
+    }
+  },
+  "lastSaid": "next-generation maximize architectures"
+}

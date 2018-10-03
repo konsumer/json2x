@@ -1,0 +1,37 @@
+{
+  "name": "Kristopher Ondricka",
+  "username": "Ruben78",
+  "email": "Shane_Heidenreich@yahoo.com",
+  "address": {
+    "street": "Edgardo Corner",
+    "suite": "Apt. 079",
+    "city": "Heaneyberg",
+    "zipcode": "18759-8907",
+    "geo": {
+      "lat": 43.3176,
+      "lng": -125.7059
+    }
+  },
+  "phone": "1-607-673-9433",
+  "website": "katharina.info",
+  "company": {
+    "name": "Strosin - Grimes",
+    "catchPhrase": "Reduced static toolset",
+    "bs": "impactful harness content"
+  },
+  "id": "2f901d5e-0eab-4636-be35-d106c9ebacca",
+  "testnumobjnums": {
+    "num1": 92280,
+    "num2": 55368,
+    "num3": 42076,
+    "deeper": {
+      "arr": [
+        5941,
+        79005,
+        99045,
+        15580.5
+      ]
+    }
+  },
+  "lastSaid": "holistic repurpose convergence"
+}

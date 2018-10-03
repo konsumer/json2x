@@ -1,0 +1,37 @@
+{
+  "name": "Velda Rice",
+  "username": "Sydney66",
+  "email": "Melyssa.Romaguera@gmail.com",
+  "address": {
+    "street": "Naomie Field",
+    "suite": "Suite 738",
+    "city": "South Kristopher",
+    "zipcode": "68412-7792",
+    "geo": {
+      "lat": -61.5756,
+      "lng": -53.2916
+    }
+  },
+  "phone": "1-282-230-3471 x14487",
+  "website": "dora.info",
+  "company": {
+    "name": "Pacocha Inc",
+    "catchPhrase": "Innovative upward-trending data-warehouse",
+    "bs": "dynamic architect interfaces"
+  },
+  "id": "04328b92-f431-4fcf-973a-007310858d31",
+  "testnumobjnums": {
+    "num1": 96747,
+    "num2": 6159,
+    "num3": 34645,
+    "deeper": {
+      "arr": [
+        11557,
+        78817,
+        75370,
+        14956
+      ]
+    }
+  },
+  "lastSaid": "dot-com deliver e-services"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Fabiola Renner",
+  "username": "Marilie68",
+  "email": "Cicero.Berge@gmail.com",
+  "address": {
+    "street": "Emmerich Garden",
+    "suite": "Suite 425",
+    "city": "Agneschester",
+    "zipcode": "70756-5004",
+    "geo": {
+      "lat": 26.2096,
+      "lng": 55.6491
+    }
+  },
+  "phone": "218-189-0577 x1559",
+  "website": "riley.info",
+  "company": {
+    "name": "Block Inc",
+    "catchPhrase": "Reduced transitional focus group",
+    "bs": "wireless benchmark content"
+  },
+  "id": "4c3700ac-87d1-4c11-af5a-a0d7e48d8b16",
+  "testnumobjnums": {
+    "num1": 25594,
+    "num2": 7948,
+    "num3": 35633.5,
+    "deeper": {
+      "arr": [
+        75867,
+        41495,
+        95127,
+        35852.5
+      ]
+    }
+  },
+  "lastSaid": "next-generation reinvent e-tailers"
+}

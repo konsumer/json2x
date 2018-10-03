@@ -1,0 +1,38 @@
+{
+  "name": "Alberto Swaniawski",
+  "username": "Jayne.Kassulke",
+  "email": "Arlene45@hotmail.com",
+  "address": {
+    "street": "Napoleon Hills",
+    "suite": "Apt. 980",
+    "city": "Dianaland",
+    "zipcode": "80618-4190",
+    "geo": {
+      "lat": -45.8898,
+      "lng": 176.3386
+    }
+  },
+  "phone": "(845) 283-0517",
+  "website": "andres.net",
+  "company": {
+    "name": "Willms - Miller",
+    "catchPhrase": "Synergized reciprocal installation",
+    "bs": "cross-media whiteboard content"
+  },
+  "id": "ec9ac098-eb51-4810-8cea-d071a2ff4d2b",
+  "testnumobjnums": {
+    "num1": 51404,
+    "num2": 64414,
+    "num3": 28238.5,
+    "deeper": {
+      "arr": [
+        38309,
+        43702,
+        99971,
+        47680.5
+      ]
+    }
+  },
+  "doing": "matrix quantifying",
+  "lastSaid": "overriding the monitor won't do anything, we need to back up the online XSS microchip!"
+}

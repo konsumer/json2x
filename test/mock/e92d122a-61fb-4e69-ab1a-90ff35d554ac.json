@@ -1,0 +1,37 @@
+{
+  "name": "Garry Labadie",
+  "username": "Dagmar77",
+  "email": "Guiseppe_Kirlin41@hotmail.com",
+  "address": {
+    "street": "Brakus Shoal",
+    "suite": "Apt. 643",
+    "city": "Port Mercedesborough",
+    "zipcode": "06265",
+    "geo": {
+      "lat": -41.999,
+      "lng": 106.7594
+    }
+  },
+  "phone": "170-982-4190 x198",
+  "website": "ted.biz",
+  "company": {
+    "name": "Hand - Buckridge",
+    "catchPhrase": "Compatible intermediate installation",
+    "bs": "enterprise aggregate ROI"
+  },
+  "id": "e92d122a-61fb-4e69-ab1a-90ff35d554ac",
+  "testnumobjnums": {
+    "num1": 31280,
+    "num2": 71342,
+    "num3": 48069.5,
+    "deeper": {
+      "arr": [
+        41488,
+        40802,
+        61991,
+        11740.5
+      ]
+    }
+  },
+  "lastSaid": "plug-and-play embrace portals"
+}

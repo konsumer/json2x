@@ -1,0 +1,38 @@
+{
+  "name": "Jaquelin Zemlak",
+  "username": "Keon69",
+  "email": "Dixie.Shields@hotmail.com",
+  "address": {
+    "street": "Cassin Haven",
+    "suite": "Apt. 034",
+    "city": "West Addie",
+    "zipcode": "25407",
+    "geo": {
+      "lat": -22.3143,
+      "lng": -136.6603
+    }
+  },
+  "phone": "1-078-297-9405 x5755",
+  "website": "jerome.name",
+  "company": {
+    "name": "Rau - Hartmann",
+    "catchPhrase": "Decentralized real-time project",
+    "bs": "sexy aggregate initiatives"
+  },
+  "id": "24419c04-1591-44ed-9bb2-17c828e27fc2",
+  "testnumobjnums": {
+    "num1": 8919,
+    "num2": 16171,
+    "num3": 3361.5,
+    "deeper": {
+      "arr": [
+        89725,
+        98882,
+        56131,
+        29270.5
+      ]
+    }
+  },
+  "doing": "monitor generating",
+  "lastSaid": "If we generate the port, we can get to the SSL interface through the 1080p RAM bandwidth!"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Santina Rowe",
+  "username": "Delpha.Kuhn",
+  "email": "Sheridan.Bins@yahoo.com",
+  "address": {
+    "street": "Baron Isle",
+    "suite": "Apt. 232",
+    "city": "Krischester",
+    "zipcode": "86067",
+    "geo": {
+      "lat": 23.6659,
+      "lng": -91.6388
+    }
+  },
+  "phone": "907.512.5595 x6105",
+  "website": "jayda.info",
+  "company": {
+    "name": "Shields, Pfeffer and Labadie",
+    "catchPhrase": "Multi-lateral needs-based algorithm",
+    "bs": "end-to-end monetize experiences"
+  },
+  "id": "0d8710f2-dd5c-4a68-b347-bcbb317f8fb0",
+  "testnumobjnums": {
+    "num1": 68610,
+    "num2": 78588,
+    "num3": 49080,
+    "deeper": {
+      "arr": [
+        55153,
+        19919,
+        27914,
+        10280.5
+      ]
+    }
+  },
+  "doing": "circuit navigating",
+  "lastSaid": "The COM feed is down, back up the neural capacitor so we can connect the JSON interface!"
+}

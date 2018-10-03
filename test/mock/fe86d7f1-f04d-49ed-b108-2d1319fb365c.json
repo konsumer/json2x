@@ -1,0 +1,37 @@
+{
+  "name": "Natalie Konopelski",
+  "username": "Sadie3",
+  "email": "Carson33@hotmail.com",
+  "address": {
+    "street": "Kub Cape",
+    "suite": "Suite 062",
+    "city": "Sagetown",
+    "zipcode": "44633-5840",
+    "geo": {
+      "lat": 22.225,
+      "lng": 114.7315
+    }
+  },
+  "phone": "771-344-4568",
+  "website": "charley.com",
+  "company": {
+    "name": "Stroman LLC",
+    "catchPhrase": "Compatible fault-tolerant synergy",
+    "bs": "dot-com enhance platforms"
+  },
+  "id": "fe86d7f1-f04d-49ed-b108-2d1319fb365c",
+  "testnumobjnums": {
+    "num1": 69423,
+    "num2": 3335,
+    "num3": 4007,
+    "deeper": {
+      "arr": [
+        83569,
+        84901,
+        13172,
+        27943.5
+      ]
+    }
+  },
+  "lastSaid": "seamless expedite e-tailers"
+}

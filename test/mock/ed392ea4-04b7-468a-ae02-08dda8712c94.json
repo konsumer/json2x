@@ -1,0 +1,38 @@
+{
+  "name": "Flossie Klein",
+  "username": "Ernestina_Erdman",
+  "email": "Retha.Larkin4@hotmail.com",
+  "address": {
+    "street": "Granville Overpass",
+    "suite": "Apt. 138",
+    "city": "West Kailynview",
+    "zipcode": "61874",
+    "geo": {
+      "lat": -0.4216,
+      "lng": -39.3555
+    }
+  },
+  "phone": "(143) 947-3365 x7524",
+  "website": "luna.net",
+  "company": {
+    "name": "Rempel and Sons",
+    "catchPhrase": "Inverse asynchronous product",
+    "bs": "e-business orchestrate interfaces"
+  },
+  "id": "ed392ea4-04b7-468a-ae02-08dda8712c94",
+  "testnumobjnums": {
+    "num1": 80023,
+    "num2": 80602,
+    "num3": 1187,
+    "deeper": {
+      "arr": [
+        64619,
+        77121,
+        10497,
+        26530.5
+      ]
+    }
+  },
+  "doing": "capacitor navigating",
+  "lastSaid": "You can't input the driver without backing up the bluetooth FTP feed!"
+}

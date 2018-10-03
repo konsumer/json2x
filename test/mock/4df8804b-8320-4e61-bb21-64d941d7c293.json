@@ -1,0 +1,38 @@
+{
+  "name": "Mrs. Raven Dickinson",
+  "username": "Vince29",
+  "email": "Ferne_Welch@gmail.com",
+  "address": {
+    "street": "Satterfield Corners",
+    "suite": "Apt. 323",
+    "city": "Jarodside",
+    "zipcode": "82835",
+    "geo": {
+      "lat": -50.9191,
+      "lng": 38.6635
+    }
+  },
+  "phone": "387-115-3648 x897",
+  "website": "anastacio.net",
+  "company": {
+    "name": "Runte - Mitchell",
+    "catchPhrase": "Fully-configurable bi-directional moderator",
+    "bs": "revolutionary enable functionalities"
+  },
+  "id": "4df8804b-8320-4e61-bb21-64d941d7c293",
+  "testnumobjnums": {
+    "num1": 10830,
+    "num2": 52579,
+    "num3": 32797,
+    "deeper": {
+      "arr": [
+        33758,
+        21289,
+        61409,
+        42631.5
+      ]
+    }
+  },
+  "doing": "program navigating",
+  "lastSaid": "We need to parse the primary XML bandwidth!"
+}

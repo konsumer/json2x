@@ -1,0 +1,38 @@
+{
+  "name": "Edgardo Ledner",
+  "username": "Dora_Stracke",
+  "email": "Savanah_Skiles@hotmail.com",
+  "address": {
+    "street": "Simone Branch",
+    "suite": "Suite 480",
+    "city": "East Patricia",
+    "zipcode": "86820-5667",
+    "geo": {
+      "lat": 14.5754,
+      "lng": -53.7373
+    }
+  },
+  "phone": "967.451.7642 x072",
+  "website": "liliana.com",
+  "company": {
+    "name": "Koss and Sons",
+    "catchPhrase": "User-friendly local array",
+    "bs": "cross-platform exploit models"
+  },
+  "id": "a7659339-2903-4201-934d-a2666ed2f9e7",
+  "testnumobjnums": {
+    "num1": 8078,
+    "num2": 92816,
+    "num3": 22018,
+    "deeper": {
+      "arr": [
+        62418,
+        68468,
+        13450,
+        39566.5
+      ]
+    }
+  },
+  "doing": "bus hacking",
+  "lastSaid": "We need to navigate the mobile SAS transmitter!"
+}

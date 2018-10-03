@@ -1,0 +1,38 @@
+{
+  "name": "Keyshawn Mosciski",
+  "username": "Julian64",
+  "email": "Celestine3@hotmail.com",
+  "address": {
+    "street": "Weimann Way",
+    "suite": "Apt. 323",
+    "city": "Luigiview",
+    "zipcode": "17417",
+    "geo": {
+      "lat": 83.1516,
+      "lng": -124.5607
+    }
+  },
+  "phone": "1-697-282-3832 x954",
+  "website": "chelsie.com",
+  "company": {
+    "name": "Bins - Huel",
+    "catchPhrase": "Realigned directional monitoring",
+    "bs": "interactive optimize web-readiness"
+  },
+  "id": "dbb53233-c0ba-4893-ba15-e51ee1657ce6",
+  "testnumobjnums": {
+    "num1": 21583,
+    "num2": 1284,
+    "num3": 12947.5,
+    "deeper": {
+      "arr": [
+        3307,
+        83390,
+        91902,
+        39111.5
+      ]
+    }
+  },
+  "doing": "card parsing",
+  "lastSaid": "We need to index the solid state SQL transmitter!"
+}

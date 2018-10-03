@@ -1,0 +1,37 @@
+{
+  "name": "Barry Frami PhD",
+  "username": "Jonathon27",
+  "email": "Helen.Harvey72@yahoo.com",
+  "address": {
+    "street": "Koelpin Prairie",
+    "suite": "Suite 081",
+    "city": "Carmelaton",
+    "zipcode": "77267-9456",
+    "geo": {
+      "lat": -34.4197,
+      "lng": 68.8558
+    }
+  },
+  "phone": "(646) 075-0832 x0972",
+  "website": "rosalinda.info",
+  "company": {
+    "name": "Grimes - Frami",
+    "catchPhrase": "Networked upward-trending strategy",
+    "bs": "integrated exploit applications"
+  },
+  "id": "282103f8-6b36-45d4-a123-ae7c518041d9",
+  "testnumobjnums": {
+    "num1": 1121,
+    "num2": 376,
+    "num3": 31533.5,
+    "deeper": {
+      "arr": [
+        20773,
+        43157,
+        37537,
+        38591.5
+      ]
+    }
+  },
+  "lastSaid": "end-to-end incentivize web-readiness"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Trisha Runolfsson",
+  "username": "Trey_Konopelski",
+  "email": "Vincenza_Predovic@yahoo.com",
+  "address": {
+    "street": "Goldner Corners",
+    "suite": "Apt. 358",
+    "city": "Wilkinsonshire",
+    "zipcode": "46188-8401",
+    "geo": {
+      "lat": -2.5932,
+      "lng": -42.297
+    }
+  },
+  "phone": "(887) 121-7908",
+  "website": "sidney.net",
+  "company": {
+    "name": "Hudson - Becker",
+    "catchPhrase": "Seamless contextually-based projection",
+    "bs": "24/7 benchmark metrics"
+  },
+  "id": "e2e217b6-591c-4e0a-aba2-186131a92a6c",
+  "testnumobjnums": {
+    "num1": 59745,
+    "num2": 2155,
+    "num3": 47706.5,
+    "deeper": {
+      "arr": [
+        32365,
+        72546,
+        89141,
+        24225
+      ]
+    }
+  },
+  "lastSaid": "killer orchestrate e-services"
+}

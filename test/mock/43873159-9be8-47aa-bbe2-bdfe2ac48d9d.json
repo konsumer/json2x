@@ -1,0 +1,37 @@
+{
+  "name": "Dr. Bennett Ebert",
+  "username": "Jamarcus.Herzog16",
+  "email": "Camila_Gutkowski@gmail.com",
+  "address": {
+    "street": "Gutkowski Villages",
+    "suite": "Apt. 994",
+    "city": "Hamillville",
+    "zipcode": "20952-2240",
+    "geo": {
+      "lat": 59.8041,
+      "lng": 44.6598
+    }
+  },
+  "phone": "486-051-2552 x4233",
+  "website": "nya.name",
+  "company": {
+    "name": "Glover - Kihn",
+    "catchPhrase": "Extended logistical open system",
+    "bs": "enterprise seize architectures"
+  },
+  "id": "43873159-9be8-47aa-bbe2-bdfe2ac48d9d",
+  "testnumobjnums": {
+    "num1": 93077,
+    "num2": 49215,
+    "num3": 10350,
+    "deeper": {
+      "arr": [
+        6343,
+        41126,
+        96847,
+        16567.5
+      ]
+    }
+  },
+  "lastSaid": "end-to-end engineer paradigms"
+}

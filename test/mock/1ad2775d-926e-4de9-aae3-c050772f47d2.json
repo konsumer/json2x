@@ -1,0 +1,37 @@
+{
+  "name": "Montana Quigley",
+  "username": "Elisha.Jacobson41",
+  "email": "Gregorio34@gmail.com",
+  "address": {
+    "street": "Rempel Cliff",
+    "suite": "Apt. 390",
+    "city": "Elissabury",
+    "zipcode": "45888-2344",
+    "geo": {
+      "lat": -60.1588,
+      "lng": -83.4211
+    }
+  },
+  "phone": "228-995-1173 x594",
+  "website": "domenic.biz",
+  "company": {
+    "name": "Wolf Group",
+    "catchPhrase": "Vision-oriented empowering encryption",
+    "bs": "best-of-breed empower mindshare"
+  },
+  "id": "1ad2775d-926e-4de9-aae3-c050772f47d2",
+  "testnumobjnums": {
+    "num1": 5423,
+    "num2": 39657,
+    "num3": 41179.5,
+    "deeper": {
+      "arr": [
+        11917,
+        75354,
+        73143,
+        46024.5
+      ]
+    }
+  },
+  "lastSaid": "value-added leverage relationships"
+}

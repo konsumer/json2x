@@ -1,0 +1,37 @@
+{
+  "name": "Geoffrey Botsford",
+  "username": "Odessa47",
+  "email": "Francisca_Stark@hotmail.com",
+  "address": {
+    "street": "Abbott Cliff",
+    "suite": "Apt. 141",
+    "city": "New Brendenville",
+    "zipcode": "75121-4579",
+    "geo": {
+      "lat": 17.2595,
+      "lng": 173.6903
+    }
+  },
+  "phone": "015-079-6495 x536",
+  "website": "arden.biz",
+  "company": {
+    "name": "Welch, Wolff and Bogisich",
+    "catchPhrase": "Switchable even-keeled capability",
+    "bs": "ubiquitous target action-items"
+  },
+  "id": "aac0ce03-4513-48eb-b47e-f60a0df9da93",
+  "testnumobjnums": {
+    "num1": 51792,
+    "num2": 36041,
+    "num3": 39258.5,
+    "deeper": {
+      "arr": [
+        97619,
+        29640,
+        90127,
+        14665
+      ]
+    }
+  },
+  "lastSaid": "user-centric implement markets"
+}

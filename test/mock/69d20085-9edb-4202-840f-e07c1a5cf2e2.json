@@ -1,0 +1,37 @@
+{
+  "name": "Wilburn Stokes",
+  "username": "Raphaelle65",
+  "email": "Junius.Fisher@gmail.com",
+  "address": {
+    "street": "Connie Fork",
+    "suite": "Suite 653",
+    "city": "Rickieside",
+    "zipcode": "27418-2212",
+    "geo": {
+      "lat": 13.0466,
+      "lng": -147.1346
+    }
+  },
+  "phone": "1-962-488-1518",
+  "website": "kennith.info",
+  "company": {
+    "name": "Hilll - Bins",
+    "catchPhrase": "Proactive hybrid alliance",
+    "bs": "wireless embrace e-business"
+  },
+  "id": "69d20085-9edb-4202-840f-e07c1a5cf2e2",
+  "testnumobjnums": {
+    "num1": 36765,
+    "num2": 90233,
+    "num3": 49297.5,
+    "deeper": {
+      "arr": [
+        89217,
+        84620,
+        25287,
+        49885
+      ]
+    }
+  },
+  "lastSaid": "magnetic innovate users"
+}

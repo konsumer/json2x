@@ -1,0 +1,38 @@
+{
+  "name": "Mrs. Candace Fadel",
+  "username": "Rod68",
+  "email": "Emmett89@gmail.com",
+  "address": {
+    "street": "Kihn Crescent",
+    "suite": "Apt. 874",
+    "city": "Swaniawskistad",
+    "zipcode": "37143-7928",
+    "geo": {
+      "lat": 32.313,
+      "lng": 156.3984
+    }
+  },
+  "phone": "523.977.0436 x07215",
+  "website": "meredith.com",
+  "company": {
+    "name": "Green, Dickens and Fay",
+    "catchPhrase": "Face to face client-server workforce",
+    "bs": "granular disintermediate models"
+  },
+  "id": "2739d0ba-6d75-4fcc-80ab-06d116e10030",
+  "testnumobjnums": {
+    "num1": 29725,
+    "num2": 80963,
+    "num3": 11375.5,
+    "deeper": {
+      "arr": [
+        71930,
+        74358,
+        419,
+        30083.5
+      ]
+    }
+  },
+  "doing": "sensor transmitting",
+  "lastSaid": "You can't navigate the matrix without synthesizing the redundant XML pixel!"
+}

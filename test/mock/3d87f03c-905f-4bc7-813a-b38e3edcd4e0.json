@@ -1,0 +1,38 @@
+{
+  "name": "Selina Cole",
+  "username": "Ada.Willms9",
+  "email": "Annalise52@hotmail.com",
+  "address": {
+    "street": "Spencer Hollow",
+    "suite": "Apt. 051",
+    "city": "Lake Jazlyn",
+    "zipcode": "29022",
+    "geo": {
+      "lat": -81.7823,
+      "lng": 91.8992
+    }
+  },
+  "phone": "1-818-593-4486 x627",
+  "website": "rodolfo.org",
+  "company": {
+    "name": "Legros, Gulgowski and Halvorson",
+    "catchPhrase": "Realigned didactic firmware",
+    "bs": "proactive redefine portals"
+  },
+  "id": "3d87f03c-905f-4bc7-813a-b38e3edcd4e0",
+  "testnumobjnums": {
+    "num1": 4733,
+    "num2": 68686,
+    "num3": 6057,
+    "deeper": {
+      "arr": [
+        23450,
+        28500,
+        22642,
+        35855
+      ]
+    }
+  },
+  "doing": "transmitter calculating",
+  "lastSaid": "Try to quantify the SCSI capacitor, maybe it will index the bluetooth array!"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Gaetano Johns",
+  "username": "Myrtice_Farrell",
+  "email": "Anne4@yahoo.com",
+  "address": {
+    "street": "Ullrich Cliffs",
+    "suite": "Apt. 774",
+    "city": "Port Horacefurt",
+    "zipcode": "08000-6598",
+    "geo": {
+      "lat": -69.1439,
+      "lng": 83.3238
+    }
+  },
+  "phone": "789-776-9902",
+  "website": "valerie.net",
+  "company": {
+    "name": "Botsford, Wehner and Rutherford",
+    "catchPhrase": "Horizontal system-worthy open architecture",
+    "bs": "ubiquitous maximize niches"
+  },
+  "id": "c6bf0624-df21-4c7f-8df6-215a5b7dbe4a",
+  "testnumobjnums": {
+    "num1": 61198,
+    "num2": 57414,
+    "num3": 20816.5,
+    "deeper": {
+      "arr": [
+        18589,
+        62756,
+        96480,
+        9653
+      ]
+    }
+  },
+  "doing": "hard drive backing up",
+  "lastSaid": "We need to back up the back-end IB transmitter!"
+}

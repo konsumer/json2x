@@ -1,0 +1,38 @@
+{
+  "name": "Grace Schamberger",
+  "username": "Harley.Bartoletti81",
+  "email": "Lonnie.Schiller80@hotmail.com",
+  "address": {
+    "street": "Jakayla Via",
+    "suite": "Suite 388",
+    "city": "South Columbusstad",
+    "zipcode": "01809-9219",
+    "geo": {
+      "lat": -34.4107,
+      "lng": 113.4815
+    }
+  },
+  "phone": "770.603.6628 x7522",
+  "website": "millie.name",
+  "company": {
+    "name": "Leuschke - Wyman",
+    "catchPhrase": "Progressive intermediate methodology",
+    "bs": "rich aggregate users"
+  },
+  "id": "66f804bd-9713-4bb1-b5dd-bb95465a9b64",
+  "testnumobjnums": {
+    "num1": 87775,
+    "num2": 1065,
+    "num3": 13153,
+    "deeper": {
+      "arr": [
+        76898,
+        2083,
+        97751,
+        19673
+      ]
+    }
+  },
+  "doing": "card indexing",
+  "lastSaid": "Try to parse the EXE array, maybe it will transmit the cross-platform system!"
+}

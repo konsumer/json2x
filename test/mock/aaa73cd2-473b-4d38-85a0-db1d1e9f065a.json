@@ -1,0 +1,38 @@
+{
+  "name": "Caitlyn Stanton",
+  "username": "Esteban.Herzog",
+  "email": "Laila.Friesen@yahoo.com",
+  "address": {
+    "street": "Tiana Parkway",
+    "suite": "Suite 768",
+    "city": "Romaguerashire",
+    "zipcode": "28544-5593",
+    "geo": {
+      "lat": 25.1878,
+      "lng": -137.3907
+    }
+  },
+  "phone": "1-743-915-2531 x3650",
+  "website": "nathen.name",
+  "company": {
+    "name": "Blanda LLC",
+    "catchPhrase": "Open-source actuating task-force",
+    "bs": "revolutionary expedite models"
+  },
+  "id": "aaa73cd2-473b-4d38-85a0-db1d1e9f065a",
+  "testnumobjnums": {
+    "num1": 53360,
+    "num2": 11098,
+    "num3": 10459,
+    "deeper": {
+      "arr": [
+        50514,
+        51087,
+        52567,
+        30259.5
+      ]
+    }
+  },
+  "doing": "matrix generating",
+  "lastSaid": "The SAS transmitter is down, calculate the digital bandwidth so we can synthesize the XML array!"
+}

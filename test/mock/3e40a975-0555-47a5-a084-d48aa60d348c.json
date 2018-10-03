@@ -1,0 +1,38 @@
+{
+  "name": "Mabelle King",
+  "username": "Emmanuelle89",
+  "email": "Fernando35@hotmail.com",
+  "address": {
+    "street": "Hauck Harbor",
+    "suite": "Apt. 927",
+    "city": "Auerport",
+    "zipcode": "48002",
+    "geo": {
+      "lat": 64.9138,
+      "lng": -152.3321
+    }
+  },
+  "phone": "1-911-885-2620",
+  "website": "leone.org",
+  "company": {
+    "name": "Cassin Group",
+    "catchPhrase": "Proactive upward-trending instruction set",
+    "bs": "robust embrace applications"
+  },
+  "id": "3e40a975-0555-47a5-a084-d48aa60d348c",
+  "testnumobjnums": {
+    "num1": 64925,
+    "num2": 19287,
+    "num3": 34643.5,
+    "deeper": {
+      "arr": [
+        80633,
+        4676,
+        81165,
+        23505.5
+      ]
+    }
+  },
+  "doing": "panel transmitting",
+  "lastSaid": "If we parse the pixel, we can get to the ADP microchip through the neural HTTP alarm!"
+}

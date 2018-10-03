@@ -1,0 +1,38 @@
+{
+  "name": "Miss Jakob Leannon",
+  "username": "Trystan_Nienow22",
+  "email": "Pedro_Grimes@gmail.com",
+  "address": {
+    "street": "Ardella Glen",
+    "suite": "Apt. 663",
+    "city": "Port Mafalda",
+    "zipcode": "53917-6895",
+    "geo": {
+      "lat": -12.5986,
+      "lng": 145.4505
+    }
+  },
+  "phone": "(258) 655-4638 x75199",
+  "website": "therese.net",
+  "company": {
+    "name": "Ratke - Kub",
+    "catchPhrase": "Up-sized 24/7 parallelism",
+    "bs": "distributed engineer solutions"
+  },
+  "id": "32ee2998-4565-4559-bcc1-a7367d59991d",
+  "testnumobjnums": {
+    "num1": 40173,
+    "num2": 73480,
+    "num3": 7505.5,
+    "deeper": {
+      "arr": [
+        89841,
+        512,
+        33460,
+        32762
+      ]
+    }
+  },
+  "doing": "bandwidth synthesizing",
+  "lastSaid": "You can't hack the program without navigating the redundant JBOD transmitter!"
+}

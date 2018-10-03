@@ -1,0 +1,37 @@
+{
+  "name": "Elvera Monahan",
+  "username": "Delilah.Schinner97",
+  "email": "Juwan21@hotmail.com",
+  "address": {
+    "street": "Okuneva Groves",
+    "suite": "Apt. 766",
+    "city": "Romaguerahaven",
+    "zipcode": "47185-2207",
+    "geo": {
+      "lat": 41.4865,
+      "lng": 73.4719
+    }
+  },
+  "phone": "346-090-8085 x61093",
+  "website": "kathlyn.org",
+  "company": {
+    "name": "Hodkiewicz - Cormier",
+    "catchPhrase": "Front-line zero defect model",
+    "bs": "out-of-the-box seize technologies"
+  },
+  "id": "43991d90-b3e6-4e74-b6db-28f7bb46579c",
+  "testnumobjnums": {
+    "num1": 34564,
+    "num2": 94182,
+    "num3": 9167,
+    "deeper": {
+      "arr": [
+        88443,
+        92108,
+        29257,
+        31629
+      ]
+    }
+  },
+  "lastSaid": "holistic innovate ROI"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Richie Schinner",
+  "username": "Ahmed_Kohler",
+  "email": "Rory46@yahoo.com",
+  "address": {
+    "street": "Hannah Hollow",
+    "suite": "Apt. 573",
+    "city": "Port Zackery",
+    "zipcode": "98990",
+    "geo": {
+      "lat": 75.3927,
+      "lng": -160.2211
+    }
+  },
+  "phone": "1-660-035-0581 x75561",
+  "website": "mohammed.com",
+  "company": {
+    "name": "Kiehn - Conn",
+    "catchPhrase": "Polarised national analyzer",
+    "bs": "vertical unleash e-markets"
+  },
+  "id": "3d82ee8a-b2fe-494d-9c7a-df594f2aa187",
+  "testnumobjnums": {
+    "num1": 55831,
+    "num2": 46210,
+    "num3": 33948.5,
+    "deeper": {
+      "arr": [
+        98723,
+        67200,
+        56734,
+        30545
+      ]
+    }
+  },
+  "doing": "card quantifying",
+  "lastSaid": "You can't back up the sensor without generating the back-end SCSI capacitor!"
+}

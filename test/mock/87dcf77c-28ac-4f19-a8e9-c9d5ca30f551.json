@@ -1,0 +1,37 @@
+{
+  "name": "Domenico Homenick",
+  "username": "Brook_Kassulke4",
+  "email": "Chelsea96@gmail.com",
+  "address": {
+    "street": "Nolan Lane",
+    "suite": "Suite 636",
+    "city": "West Lucianotown",
+    "zipcode": "28753-1633",
+    "geo": {
+      "lat": -0.8136,
+      "lng": 76.6165
+    }
+  },
+  "phone": "551-660-8124",
+  "website": "theodora.org",
+  "company": {
+    "name": "Cole LLC",
+    "catchPhrase": "De-engineered regional support",
+    "bs": "best-of-breed seize metrics"
+  },
+  "id": "87dcf77c-28ac-4f19-a8e9-c9d5ca30f551",
+  "testnumobjnums": {
+    "num1": 51198,
+    "num2": 32008,
+    "num3": 17583,
+    "deeper": {
+      "arr": [
+        82591,
+        85866,
+        97039,
+        15667
+      ]
+    }
+  },
+  "lastSaid": "out-of-the-box enhance vortals"
+}

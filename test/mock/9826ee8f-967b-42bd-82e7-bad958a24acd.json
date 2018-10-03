@@ -1,0 +1,37 @@
+{
+  "name": "Katelynn Feil Jr.",
+  "username": "Alden_Moen",
+  "email": "Isac_Purdy10@hotmail.com",
+  "address": {
+    "street": "Carlotta Course",
+    "suite": "Apt. 086",
+    "city": "East Leila",
+    "zipcode": "22033",
+    "geo": {
+      "lat": 86.4896,
+      "lng": 165.9394
+    }
+  },
+  "phone": "(746) 263-8666",
+  "website": "jordane.biz",
+  "company": {
+    "name": "O'Kon - Kris",
+    "catchPhrase": "Re-contextualized client-driven instruction set",
+    "bs": "extensible repurpose metrics"
+  },
+  "id": "9826ee8f-967b-42bd-82e7-bad958a24acd",
+  "testnumobjnums": {
+    "num1": 22603,
+    "num2": 92635,
+    "num3": 44529.5,
+    "deeper": {
+      "arr": [
+        51485,
+        94169,
+        36006,
+        20513
+      ]
+    }
+  },
+  "lastSaid": "enterprise recontextualize experiences"
+}

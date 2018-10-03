@@ -1,0 +1,37 @@
+{
+  "name": "Dayne Kuhlman",
+  "username": "Hershel.Wuckert",
+  "email": "Lavinia94@yahoo.com",
+  "address": {
+    "street": "O'Keefe Hollow",
+    "suite": "Apt. 882",
+    "city": "Schroederton",
+    "zipcode": "68494",
+    "geo": {
+      "lat": 5.1013,
+      "lng": 52.6226
+    }
+  },
+  "phone": "092-392-4354 x0543",
+  "website": "ludwig.org",
+  "company": {
+    "name": "Lueilwitz, Zieme and Schimmel",
+    "catchPhrase": "Compatible discrete throughput",
+    "bs": "one-to-one productize deliverables"
+  },
+  "id": "c6cffcfa-ba89-4334-b201-79725e44e970",
+  "testnumobjnums": {
+    "num1": 68989,
+    "num2": 5826,
+    "num3": 34834.5,
+    "deeper": {
+      "arr": [
+        23599,
+        36653,
+        79639,
+        45238
+      ]
+    }
+  },
+  "lastSaid": "web-enabled implement synergies"
+}

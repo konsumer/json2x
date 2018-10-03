@@ -1,0 +1,37 @@
+{
+  "name": "Katlyn Rogahn",
+  "username": "Andreanne_Hayes26",
+  "email": "Remington61@gmail.com",
+  "address": {
+    "street": "Jacobs Light",
+    "suite": "Apt. 636",
+    "city": "Lake Darylborough",
+    "zipcode": "29733-7223",
+    "geo": {
+      "lat": 67.5058,
+      "lng": 98.2932
+    }
+  },
+  "phone": "162.599.0714",
+  "website": "emilio.info",
+  "company": {
+    "name": "Mosciski - Murphy",
+    "catchPhrase": "Synchronised high-level productivity",
+    "bs": "collaborative iterate eyeballs"
+  },
+  "id": "0dac650c-bc4d-4818-a9c3-35c4b7402a1a",
+  "testnumobjnums": {
+    "num1": 43918,
+    "num2": 37857,
+    "num3": 31675,
+    "deeper": {
+      "arr": [
+        77037,
+        36095,
+        79813,
+        48589
+      ]
+    }
+  },
+  "lastSaid": "turn-key evolve functionalities"
+}

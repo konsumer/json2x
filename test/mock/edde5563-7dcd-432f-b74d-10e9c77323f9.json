@@ -1,0 +1,37 @@
+{
+  "name": "May Graham",
+  "username": "Haley_Sauer6",
+  "email": "Soledad.Windler75@yahoo.com",
+  "address": {
+    "street": "Lenny Court",
+    "suite": "Apt. 710",
+    "city": "Port Loischester",
+    "zipcode": "88605-9122",
+    "geo": {
+      "lat": -9.8736,
+      "lng": -34.3534
+    }
+  },
+  "phone": "1-198-289-7602",
+  "website": "allene.name",
+  "company": {
+    "name": "DuBuque Group",
+    "catchPhrase": "Synergistic local challenge",
+    "bs": "extensible grow solutions"
+  },
+  "id": "edde5563-7dcd-432f-b74d-10e9c77323f9",
+  "testnumobjnums": {
+    "num1": 82376,
+    "num2": 89070,
+    "num3": 44131.5,
+    "deeper": {
+      "arr": [
+        45208,
+        92604,
+        11794,
+        34591.5
+      ]
+    }
+  },
+  "lastSaid": "scalable engineer models"
+}

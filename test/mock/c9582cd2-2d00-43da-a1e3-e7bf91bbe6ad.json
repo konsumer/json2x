@@ -1,0 +1,38 @@
+{
+  "name": "Samir Ruecker",
+  "username": "Aaron_Mraz",
+  "email": "Keegan20@gmail.com",
+  "address": {
+    "street": "Champlin Stravenue",
+    "suite": "Suite 336",
+    "city": "Margotview",
+    "zipcode": "44988-5557",
+    "geo": {
+      "lat": -6.6188,
+      "lng": -85.4637
+    }
+  },
+  "phone": "088.891.3446",
+  "website": "joy.biz",
+  "company": {
+    "name": "Gerhold, Kerluke and Cruickshank",
+    "catchPhrase": "Polarised human-resource Graphic Interface",
+    "bs": "intuitive reintermediate vortals"
+  },
+  "id": "c9582cd2-2d00-43da-a1e3-e7bf91bbe6ad",
+  "testnumobjnums": {
+    "num1": 78330,
+    "num2": 79384,
+    "num3": 4875,
+    "deeper": {
+      "arr": [
+        6710,
+        57117,
+        28729,
+        23056
+      ]
+    }
+  },
+  "doing": "sensor hacking",
+  "lastSaid": "We need to parse the digital RSS sensor!"
+}

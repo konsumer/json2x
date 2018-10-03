@@ -1,0 +1,37 @@
+{
+  "name": "Miss Randall Veum",
+  "username": "Modesta_Langworth44",
+  "email": "Lilian_Aufderhar59@gmail.com",
+  "address": {
+    "street": "Rowe Estates",
+    "suite": "Apt. 886",
+    "city": "West Watsonbury",
+    "zipcode": "86347",
+    "geo": {
+      "lat": -83.68,
+      "lng": 104.3554
+    }
+  },
+  "phone": "978.781.5799 x62642",
+  "website": "domenick.org",
+  "company": {
+    "name": "Metz, Kutch and Lindgren",
+    "catchPhrase": "Decentralized dedicated collaboration",
+    "bs": "distributed reintermediate channels"
+  },
+  "id": "4d4d6002-3cc9-4ed2-aab0-7c56c54f0138",
+  "testnumobjnums": {
+    "num1": 17065,
+    "num2": 71370,
+    "num3": 20209.5,
+    "deeper": {
+      "arr": [
+        35891,
+        23434,
+        43230,
+        29356.5
+      ]
+    }
+  },
+  "lastSaid": "interactive deploy vortals"
+}

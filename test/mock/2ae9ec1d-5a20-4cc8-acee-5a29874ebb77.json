@@ -1,0 +1,37 @@
+{
+  "name": "Ethan McKenzie MD",
+  "username": "Everett_Ledner52",
+  "email": "Glen_Leannon14@hotmail.com",
+  "address": {
+    "street": "Juanita Flats",
+    "suite": "Apt. 448",
+    "city": "Lake Ansel",
+    "zipcode": "96593",
+    "geo": {
+      "lat": 64.9728,
+      "lng": 161.2922
+    }
+  },
+  "phone": "(084) 177-1225",
+  "website": "gonzalo.biz",
+  "company": {
+    "name": "Thiel - Hoppe",
+    "catchPhrase": "Organized fresh-thinking matrices",
+    "bs": "dynamic extend applications"
+  },
+  "id": "2ae9ec1d-5a20-4cc8-acee-5a29874ebb77",
+  "testnumobjnums": {
+    "num1": 36315,
+    "num2": 79049,
+    "num3": 46730,
+    "deeper": {
+      "arr": [
+        25269,
+        19789,
+        59096,
+        40543.5
+      ]
+    }
+  },
+  "lastSaid": "innovative deliver metrics"
+}

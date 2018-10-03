@@ -1,0 +1,37 @@
+{
+  "name": "Keshawn Bartell",
+  "username": "Josue_Huels",
+  "email": "Shawna75@hotmail.com",
+  "address": {
+    "street": "Reva Expressway",
+    "suite": "Apt. 899",
+    "city": "Shieldsshire",
+    "zipcode": "46995-9957",
+    "geo": {
+      "lat": 76.2074,
+      "lng": -40.2716
+    }
+  },
+  "phone": "893.779.1286",
+  "website": "victor.com",
+  "company": {
+    "name": "Weber - Goyette",
+    "catchPhrase": "Cloned non-volatile superstructure",
+    "bs": "sexy incubate web services"
+  },
+  "id": "839a6516-928e-4012-9cc8-f001b86fb39e",
+  "testnumobjnums": {
+    "num1": 14432,
+    "num2": 74283,
+    "num3": 30958,
+    "deeper": {
+      "arr": [
+        74622,
+        68159,
+        1591,
+        42084.5
+      ]
+    }
+  },
+  "lastSaid": "extensible orchestrate vortals"
+}

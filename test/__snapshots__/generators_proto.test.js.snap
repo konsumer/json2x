@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`generators/graphql should have the expected description 1`] = `"Generate GraphQL types from your data"`;
+
+exports[`generators/graphql should output the expected protobuf schema for the mock 1`] = `
+"message TestType {
+  string name = 1;
+  string username = 2;
+  string email = 3;
+  string phone = 4;
+  string website = 5;
+  string id = 6;
+  string lastSaid = 7;
+  string doing = 8;
+  TesttypeAddress address = 9;
+  TesttypeCompany company = 10;
+  TesttypeTestnumobjnums testnumobjnums = 11;
+}
+message TesttypeAddress {
+  string street = 1;
+  string suite = 2;
+  string city = 3;
+  string zipcode = 4;
+  TesttypeaddressGeo geo = 5;
+}
+message TesttypeaddressGeo {
+  float lat = 1;
+  float lng = 2;
+}
+message TesttypeCompany {
+  string name = 1;
+  string catchPhrase = 2;
+  string bs = 3;
+}
+message TesttypeTestnumobjnums {
+  int32 num1 = 1;
+  int32 num2 = 2;
+  float num3 = 3;
+  TesttypetestnumobjnumsDeeper deeper = 4;
+}
+message TesttypetestnumobjnumsDeeper {
+  repeated float arr = 1;
+}
+"
+`;

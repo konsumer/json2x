@@ -1,0 +1,38 @@
+{
+  "name": "Elmira Brekke",
+  "username": "Ethel.Kiehn2",
+  "email": "Frederic.Breitenberg12@gmail.com",
+  "address": {
+    "street": "Gleichner Way",
+    "suite": "Apt. 460",
+    "city": "East Diego",
+    "zipcode": "58256",
+    "geo": {
+      "lat": 40.3811,
+      "lng": -179.3967
+    }
+  },
+  "phone": "(530) 945-6911",
+  "website": "vidal.org",
+  "company": {
+    "name": "Hansen - Hagenes",
+    "catchPhrase": "Cross-group demand-driven product",
+    "bs": "open-source synergize interfaces"
+  },
+  "id": "6229b319-28e7-455c-ba0f-0b1116d4cfee",
+  "testnumobjnums": {
+    "num1": 27757,
+    "num2": 38288,
+    "num3": 48266,
+    "deeper": {
+      "arr": [
+        25576,
+        54632,
+        17104,
+        1763.5
+      ]
+    }
+  },
+  "doing": "system compressing",
+  "lastSaid": "We need to transmit the multi-byte XML hard drive!"
+}

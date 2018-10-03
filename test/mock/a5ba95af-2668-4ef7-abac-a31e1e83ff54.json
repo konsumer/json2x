@@ -1,0 +1,37 @@
+{
+  "name": "Hester Bashirian DVM",
+  "username": "Elias82",
+  "email": "Sandy6@yahoo.com",
+  "address": {
+    "street": "Runolfsson Mount",
+    "suite": "Suite 286",
+    "city": "West Garfield",
+    "zipcode": "85629-1444",
+    "geo": {
+      "lat": -7.8516,
+      "lng": -12.1955
+    }
+  },
+  "phone": "505.166.8454 x5692",
+  "website": "celestino.com",
+  "company": {
+    "name": "Kshlerin LLC",
+    "catchPhrase": "Total dynamic algorithm",
+    "bs": "e-business incentivize systems"
+  },
+  "id": "a5ba95af-2668-4ef7-abac-a31e1e83ff54",
+  "testnumobjnums": {
+    "num1": 99085,
+    "num2": 25935,
+    "num3": 24991,
+    "deeper": {
+      "arr": [
+        35008,
+        84515,
+        63899,
+        34117.5
+      ]
+    }
+  },
+  "lastSaid": "extensible extend markets"
+}

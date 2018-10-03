@@ -1,0 +1,37 @@
+{
+  "name": "Louie Moen",
+  "username": "Brody_Koepp",
+  "email": "Godfrey26@hotmail.com",
+  "address": {
+    "street": "Stone Lodge",
+    "suite": "Suite 768",
+    "city": "Ullrichmouth",
+    "zipcode": "40450",
+    "geo": {
+      "lat": -58.1497,
+      "lng": 144.0898
+    }
+  },
+  "phone": "665-901-2033 x054",
+  "website": "gerardo.org",
+  "company": {
+    "name": "Ledner Inc",
+    "catchPhrase": "Adaptive fault-tolerant software",
+    "bs": "user-centric disintermediate e-services"
+  },
+  "id": "7bb1fa49-4b13-4c7e-bcee-354b3af3a4a9",
+  "testnumobjnums": {
+    "num1": 78800,
+    "num2": 98213,
+    "num3": 41546.5,
+    "deeper": {
+      "arr": [
+        10362,
+        95831,
+        85880,
+        26504
+      ]
+    }
+  },
+  "lastSaid": "cross-platform incubate action-items"
+}

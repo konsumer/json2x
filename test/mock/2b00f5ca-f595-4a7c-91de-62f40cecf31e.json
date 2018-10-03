@@ -1,0 +1,37 @@
+{
+  "name": "Rosie Windler",
+  "username": "Norberto85",
+  "email": "Nella9@hotmail.com",
+  "address": {
+    "street": "Herminia Loop",
+    "suite": "Apt. 236",
+    "city": "North Rodrigo",
+    "zipcode": "66576-1091",
+    "geo": {
+      "lat": -37.9028,
+      "lng": 17.7968
+    }
+  },
+  "phone": "748-709-8960 x0864",
+  "website": "brown.biz",
+  "company": {
+    "name": "Schinner, Donnelly and Zemlak",
+    "catchPhrase": "Realigned transitional secured line",
+    "bs": "clicks-and-mortar architect schemas"
+  },
+  "id": "2b00f5ca-f595-4a7c-91de-62f40cecf31e",
+  "testnumobjnums": {
+    "num1": 54986,
+    "num2": 81262,
+    "num3": 8859.5,
+    "deeper": {
+      "arr": [
+        87670,
+        88745,
+        99644,
+        8253.5
+      ]
+    }
+  },
+  "lastSaid": "distributed productize partnerships"
+}

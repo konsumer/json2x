@@ -1,0 +1,38 @@
+{
+  "name": "Emmett MacGyver",
+  "username": "Whitney_Wilkinson70",
+  "email": "Bartholome_Torp@hotmail.com",
+  "address": {
+    "street": "Ludie Run",
+    "suite": "Apt. 581",
+    "city": "Dustintown",
+    "zipcode": "34998-3388",
+    "geo": {
+      "lat": -70.9629,
+      "lng": 176.9294
+    }
+  },
+  "phone": "(310) 693-2238 x8305",
+  "website": "maryam.name",
+  "company": {
+    "name": "Gorczany Inc",
+    "catchPhrase": "Innovative 4th generation leverage",
+    "bs": "open-source morph systems"
+  },
+  "id": "9426559b-dd4b-4b4b-bbd6-78f150e00557",
+  "testnumobjnums": {
+    "num1": 87614,
+    "num2": 91465,
+    "num3": 2929,
+    "deeper": {
+      "arr": [
+        85859,
+        50219,
+        33679,
+        10668
+      ]
+    }
+  },
+  "doing": "port connecting",
+  "lastSaid": "The EXE feed is down, parse the virtual card so we can synthesize the TCP application!"
+}

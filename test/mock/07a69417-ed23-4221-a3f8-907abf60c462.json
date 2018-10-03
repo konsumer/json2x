@@ -1,0 +1,38 @@
+{
+  "name": "Terrill Senger",
+  "username": "Neha_Lueilwitz",
+  "email": "Damien.Beatty22@yahoo.com",
+  "address": {
+    "street": "Breitenberg Mount",
+    "suite": "Suite 289",
+    "city": "Bayermouth",
+    "zipcode": "70492",
+    "geo": {
+      "lat": 45.6448,
+      "lng": 27.2501
+    }
+  },
+  "phone": "1-362-126-5162 x56263",
+  "website": "marguerite.com",
+  "company": {
+    "name": "Maggio Group",
+    "catchPhrase": "Face to face solution-oriented moratorium",
+    "bs": "innovative aggregate vortals"
+  },
+  "id": "07a69417-ed23-4221-a3f8-907abf60c462",
+  "testnumobjnums": {
+    "num1": 21356,
+    "num2": 24507,
+    "num3": 12422,
+    "deeper": {
+      "arr": [
+        25899,
+        34491,
+        14979,
+        39640.5
+      ]
+    }
+  },
+  "doing": "microchip bypassing",
+  "lastSaid": "You can't back up the transmitter without connecting the digital XML panel!"
+}

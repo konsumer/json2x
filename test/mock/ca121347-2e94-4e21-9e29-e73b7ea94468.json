@@ -1,0 +1,37 @@
+{
+  "name": "Mr. Dalton Kertzmann",
+  "username": "Taylor.Schamberger",
+  "email": "Camylle_Barrows@hotmail.com",
+  "address": {
+    "street": "Kilback Trafficway",
+    "suite": "Apt. 877",
+    "city": "Thealand",
+    "zipcode": "74220",
+    "geo": {
+      "lat": -9.7835,
+      "lng": 68.1939
+    }
+  },
+  "phone": "820.292.8373 x24812",
+  "website": "curt.name",
+  "company": {
+    "name": "Wehner and Sons",
+    "catchPhrase": "Assimilated national collaboration",
+    "bs": "granular morph networks"
+  },
+  "id": "ca121347-2e94-4e21-9e29-e73b7ea94468",
+  "testnumobjnums": {
+    "num1": 65365,
+    "num2": 77607,
+    "num3": 48916.5,
+    "deeper": {
+      "arr": [
+        36782,
+        99662,
+        86101,
+        39455.5
+      ]
+    }
+  },
+  "lastSaid": "virtual matrix systems"
+}

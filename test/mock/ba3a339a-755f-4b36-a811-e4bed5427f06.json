@@ -1,0 +1,37 @@
+{
+  "name": "Enrique Maggio",
+  "username": "Michele58",
+  "email": "Cora_Pagac@hotmail.com",
+  "address": {
+    "street": "Sauer River",
+    "suite": "Apt. 244",
+    "city": "Port Tyshawn",
+    "zipcode": "45436-1137",
+    "geo": {
+      "lat": -68.0799,
+      "lng": -125.5652
+    }
+  },
+  "phone": "204-925-6765",
+  "website": "curt.com",
+  "company": {
+    "name": "Feeney, Hand and Hauck",
+    "catchPhrase": "Team-oriented fault-tolerant instruction set",
+    "bs": "24/365 synergize synergies"
+  },
+  "id": "ba3a339a-755f-4b36-a811-e4bed5427f06",
+  "testnumobjnums": {
+    "num1": 8749,
+    "num2": 73774,
+    "num3": 27421,
+    "deeper": {
+      "arr": [
+        68710,
+        14759,
+        72722,
+        47907
+      ]
+    }
+  },
+  "lastSaid": "dot-com synergize infrastructures"
+}

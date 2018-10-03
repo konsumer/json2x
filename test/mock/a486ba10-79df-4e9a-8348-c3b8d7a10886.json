@@ -1,0 +1,37 @@
+{
+  "name": "Lou Robel",
+  "username": "Luna37",
+  "email": "Nigel_Bode31@yahoo.com",
+  "address": {
+    "street": "Bins Branch",
+    "suite": "Apt. 584",
+    "city": "South Orlo",
+    "zipcode": "33837",
+    "geo": {
+      "lat": -39.8407,
+      "lng": 74.6524
+    }
+  },
+  "phone": "1-271-963-8188 x75542",
+  "website": "emely.net",
+  "company": {
+    "name": "Moen - Hackett",
+    "catchPhrase": "Focused multimedia internet solution",
+    "bs": "clicks-and-mortar e-enable web-readiness"
+  },
+  "id": "a486ba10-79df-4e9a-8348-c3b8d7a10886",
+  "testnumobjnums": {
+    "num1": 85190,
+    "num2": 97019,
+    "num3": 19564.5,
+    "deeper": {
+      "arr": [
+        32317,
+        79504,
+        26280,
+        36296
+      ]
+    }
+  },
+  "lastSaid": "24/7 integrate channels"
+}

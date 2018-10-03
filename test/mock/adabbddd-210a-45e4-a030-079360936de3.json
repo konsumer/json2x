@@ -1,0 +1,37 @@
+{
+  "name": "Mateo Graham III",
+  "username": "Kian_Doyle",
+  "email": "Julien71@yahoo.com",
+  "address": {
+    "street": "Sienna Island",
+    "suite": "Suite 433",
+    "city": "West Bernardton",
+    "zipcode": "59204",
+    "geo": {
+      "lat": 53.3216,
+      "lng": 68.9714
+    }
+  },
+  "phone": "210-424-2134 x2668",
+  "website": "keyshawn.org",
+  "company": {
+    "name": "Gerlach - Boyle",
+    "catchPhrase": "Open-architected multi-tasking support",
+    "bs": "synergistic benchmark users"
+  },
+  "id": "adabbddd-210a-45e4-a030-079360936de3",
+  "testnumobjnums": {
+    "num1": 48886,
+    "num2": 87040,
+    "num3": 28414.5,
+    "deeper": {
+      "arr": [
+        64127,
+        93482,
+        83948,
+        10210.5
+      ]
+    }
+  },
+  "lastSaid": "frictionless expedite technologies"
+}

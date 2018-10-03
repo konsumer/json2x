@@ -1,0 +1,37 @@
+{
+  "name": "Jennie Barton",
+  "username": "Kaleb.Ernser34",
+  "email": "Marian.Franecki@gmail.com",
+  "address": {
+    "street": "Jody Parkway",
+    "suite": "Apt. 656",
+    "city": "North Grady",
+    "zipcode": "91399-8593",
+    "geo": {
+      "lat": 15.4608,
+      "lng": 47.9904
+    }
+  },
+  "phone": "571.969.6326",
+  "website": "zetta.name",
+  "company": {
+    "name": "Lubowitz LLC",
+    "catchPhrase": "Organized scalable pricing structure",
+    "bs": "proactive strategize channels"
+  },
+  "id": "d63d62c4-f168-4029-a84f-ce5d07c02d4b",
+  "testnumobjnums": {
+    "num1": 3081,
+    "num2": 1600,
+    "num3": 13387.5,
+    "deeper": {
+      "arr": [
+        30471,
+        13821,
+        51396,
+        343.5
+      ]
+    }
+  },
+  "lastSaid": "e-business disintermediate communities"
+}

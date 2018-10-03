@@ -1,0 +1,37 @@
+{
+  "name": "Rogelio Monahan",
+  "username": "Edward_Little61",
+  "email": "Pink78@yahoo.com",
+  "address": {
+    "street": "Telly Extension",
+    "suite": "Suite 894",
+    "city": "Lake Bransonstad",
+    "zipcode": "57413",
+    "geo": {
+      "lat": -32.4505,
+      "lng": 164.5593
+    }
+  },
+  "phone": "347-317-4356 x9205",
+  "website": "desiree.biz",
+  "company": {
+    "name": "Little, Champlin and Veum",
+    "catchPhrase": "Customer-focused value-added analyzer",
+    "bs": "magnetic reinvent e-services"
+  },
+  "id": "dc38e9cf-4f32-4b77-ba91-632df2d0c24a",
+  "testnumobjnums": {
+    "num1": 6103,
+    "num2": 5013,
+    "num3": 49193.5,
+    "deeper": {
+      "arr": [
+        95459,
+        91112,
+        60718,
+        38868
+      ]
+    }
+  },
+  "lastSaid": "sexy synergize convergence"
+}

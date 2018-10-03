@@ -1,0 +1,37 @@
+{
+  "name": "Kendra Beier",
+  "username": "Shaylee.Harber85",
+  "email": "Miller.Feeney46@gmail.com",
+  "address": {
+    "street": "Moen Park",
+    "suite": "Suite 571",
+    "city": "North Sashaville",
+    "zipcode": "73139",
+    "geo": {
+      "lat": -13.5363,
+      "lng": -29.5955
+    }
+  },
+  "phone": "1-059-400-5158 x9533",
+  "website": "thea.biz",
+  "company": {
+    "name": "Doyle, Boyle and Kuhn",
+    "catchPhrase": "Intuitive 24/7 archive",
+    "bs": "end-to-end deploy e-tailers"
+  },
+  "id": "a5bf092d-5d41-4e75-a70b-e62a71bfd576",
+  "testnumobjnums": {
+    "num1": 19277,
+    "num2": 18547,
+    "num3": 47288.5,
+    "deeper": {
+      "arr": [
+        66028,
+        98806,
+        44038,
+        2969
+      ]
+    }
+  },
+  "lastSaid": "compelling mesh partnerships"
+}

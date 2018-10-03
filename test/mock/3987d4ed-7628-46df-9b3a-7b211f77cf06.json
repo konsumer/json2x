@@ -1,0 +1,37 @@
+{
+  "name": "Nicole Anderson",
+  "username": "Oliver9",
+  "email": "Andreanne_Hessel73@yahoo.com",
+  "address": {
+    "street": "Smitham Lakes",
+    "suite": "Suite 109",
+    "city": "East Damion",
+    "zipcode": "35651",
+    "geo": {
+      "lat": -34.0623,
+      "lng": 44.5579
+    }
+  },
+  "phone": "1-490-242-1400 x7092",
+  "website": "abigayle.info",
+  "company": {
+    "name": "Parker LLC",
+    "catchPhrase": "Fully-configurable solution-oriented interface",
+    "bs": "dot-com brand applications"
+  },
+  "id": "3987d4ed-7628-46df-9b3a-7b211f77cf06",
+  "testnumobjnums": {
+    "num1": 23470,
+    "num2": 71010,
+    "num3": 8549,
+    "deeper": {
+      "arr": [
+        26791,
+        64697,
+        5795,
+        41119
+      ]
+    }
+  },
+  "lastSaid": "holistic cultivate e-commerce"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Hallie Howell",
+  "username": "Zelda94",
+  "email": "Talon.Johns62@gmail.com",
+  "address": {
+    "street": "Crooks Course",
+    "suite": "Apt. 848",
+    "city": "Hayesfort",
+    "zipcode": "32242",
+    "geo": {
+      "lat": -26.8011,
+      "lng": -30.8945
+    }
+  },
+  "phone": "1-966-269-3765",
+  "website": "nickolas.com",
+  "company": {
+    "name": "Doyle, Crona and Tremblay",
+    "catchPhrase": "Digitized bottom-line help-desk",
+    "bs": "wireless recontextualize e-business"
+  },
+  "id": "baf5611b-5ee1-4c0a-8baa-16f571349e84",
+  "testnumobjnums": {
+    "num1": 61804,
+    "num2": 91475,
+    "num3": 29693.5,
+    "deeper": {
+      "arr": [
+        554,
+        60518,
+        11755,
+        19036
+      ]
+    }
+  },
+  "lastSaid": "turn-key deploy portals"
+}

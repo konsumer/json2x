@@ -1,0 +1,38 @@
+{
+  "name": "Lucious Feil",
+  "username": "Shanna11",
+  "email": "Lucile_Feest27@gmail.com",
+  "address": {
+    "street": "Hamill Circle",
+    "suite": "Suite 869",
+    "city": "West Dougstad",
+    "zipcode": "25261",
+    "geo": {
+      "lat": -43.7046,
+      "lng": -98.9612
+    }
+  },
+  "phone": "1-885-541-5362 x4643",
+  "website": "luisa.biz",
+  "company": {
+    "name": "DuBuque Group",
+    "catchPhrase": "Triple-buffered intermediate alliance",
+    "bs": "end-to-end extend mindshare"
+  },
+  "id": "fd5ac77b-5c74-4ab1-90d5-a65fb0e019f5",
+  "testnumobjnums": {
+    "num1": 87725,
+    "num2": 24236,
+    "num3": 49049.5,
+    "deeper": {
+      "arr": [
+        73978,
+        69900,
+        54989,
+        32497
+      ]
+    }
+  },
+  "doing": "matrix copying",
+  "lastSaid": "If we reboot the application, we can get to the RSS monitor through the haptic ADP port!"
+}

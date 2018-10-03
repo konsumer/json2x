@@ -1,0 +1,38 @@
+{
+  "name": "Ashlynn Macejkovic",
+  "username": "Herbert_Corkery",
+  "email": "Lemuel.Conroy@gmail.com",
+  "address": {
+    "street": "Boyer Street",
+    "suite": "Apt. 358",
+    "city": "Nyaberg",
+    "zipcode": "24443-3947",
+    "geo": {
+      "lat": -74.0637,
+      "lng": -38.6238
+    }
+  },
+  "phone": "037-382-7340 x1795",
+  "website": "claire.info",
+  "company": {
+    "name": "Murazik - Wolff",
+    "catchPhrase": "Right-sized homogeneous encoding",
+    "bs": "virtual extend convergence"
+  },
+  "id": "ae45f3da-031e-432c-9511-2370d29d6ae8",
+  "testnumobjnums": {
+    "num1": 28407,
+    "num2": 53836,
+    "num3": 3235.5,
+    "deeper": {
+      "arr": [
+        55486,
+        52094,
+        58897,
+        41416.5
+      ]
+    }
+  },
+  "doing": "transmitter navigating",
+  "lastSaid": "calculating the bandwidth won't do anything, we need to connect the primary RSS array!"
+}

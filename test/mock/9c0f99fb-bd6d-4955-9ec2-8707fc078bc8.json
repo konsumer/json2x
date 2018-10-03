@@ -1,0 +1,38 @@
+{
+  "name": "Rickie Zieme",
+  "username": "Kristian_Johns39",
+  "email": "Alfonso.Miller@hotmail.com",
+  "address": {
+    "street": "Cassin Mountain",
+    "suite": "Suite 699",
+    "city": "North Shayneborough",
+    "zipcode": "93753",
+    "geo": {
+      "lat": -34.1676,
+      "lng": -33.284
+    }
+  },
+  "phone": "380.820.1862",
+  "website": "toni.org",
+  "company": {
+    "name": "Crist - Koss",
+    "catchPhrase": "Synchronised fault-tolerant firmware",
+    "bs": "world-class reinvent bandwidth"
+  },
+  "id": "9c0f99fb-bd6d-4955-9ec2-8707fc078bc8",
+  "testnumobjnums": {
+    "num1": 53378,
+    "num2": 29693,
+    "num3": 29500,
+    "deeper": {
+      "arr": [
+        36959,
+        5992,
+        76217,
+        13354.5
+      ]
+    }
+  },
+  "doing": "alarm programming",
+  "lastSaid": "You can't generate the sensor without backing up the cross-platform SSL card!"
+}

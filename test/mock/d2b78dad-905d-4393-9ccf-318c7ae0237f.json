@@ -1,0 +1,38 @@
+{
+  "name": "Beverly Effertz",
+  "username": "Wyman_Cronin83",
+  "email": "Jessika.Jakubowski71@gmail.com",
+  "address": {
+    "street": "Ivah Orchard",
+    "suite": "Suite 233",
+    "city": "West Bradley",
+    "zipcode": "46201-1690",
+    "geo": {
+      "lat": 84.5825,
+      "lng": -75.0343
+    }
+  },
+  "phone": "948-948-7682",
+  "website": "aurelio.biz",
+  "company": {
+    "name": "Hilll, Smitham and Daniel",
+    "catchPhrase": "Reactive next generation task-force",
+    "bs": "impactful orchestrate mindshare"
+  },
+  "id": "d2b78dad-905d-4393-9ccf-318c7ae0237f",
+  "testnumobjnums": {
+    "num1": 27725,
+    "num2": 44147,
+    "num3": 33465,
+    "deeper": {
+      "arr": [
+        31419,
+        24708,
+        2749,
+        14646.5
+      ]
+    }
+  },
+  "doing": "panel compressing",
+  "lastSaid": "You can't quantify the firewall without programming the redundant XSS pixel!"
+}

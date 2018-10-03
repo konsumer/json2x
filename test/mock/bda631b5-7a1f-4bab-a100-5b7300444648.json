@@ -1,0 +1,37 @@
+{
+  "name": "Ms. Clark Beahan",
+  "username": "Frederique.Kihn32",
+  "email": "Zakary.Zemlak@gmail.com",
+  "address": {
+    "street": "Bruen Divide",
+    "suite": "Apt. 720",
+    "city": "Lake Hiramfort",
+    "zipcode": "19111-0702",
+    "geo": {
+      "lat": -6.1778,
+      "lng": -19.2137
+    }
+  },
+  "phone": "(477) 802-8784",
+  "website": "jovani.name",
+  "company": {
+    "name": "Lakin LLC",
+    "catchPhrase": "Horizontal tangible hardware",
+    "bs": "granular transform systems"
+  },
+  "id": "bda631b5-7a1f-4bab-a100-5b7300444648",
+  "testnumobjnums": {
+    "num1": 61201,
+    "num2": 56402,
+    "num3": 37254.5,
+    "deeper": {
+      "arr": [
+        89009,
+        98255,
+        37997,
+        19541
+      ]
+    }
+  },
+  "lastSaid": "extensible mesh partnerships"
+}

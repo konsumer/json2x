@@ -1,0 +1,37 @@
+{
+  "name": "Mallory Marvin",
+  "username": "Adolph.Jacobi70",
+  "email": "Foster.Lind@hotmail.com",
+  "address": {
+    "street": "Streich Mountains",
+    "suite": "Suite 668",
+    "city": "Gibsonview",
+    "zipcode": "73017",
+    "geo": {
+      "lat": -7.8177,
+      "lng": -125.6775
+    }
+  },
+  "phone": "1-724-309-0533",
+  "website": "barney.org",
+  "company": {
+    "name": "Cole and Sons",
+    "catchPhrase": "Ameliorated 24/7 knowledge base",
+    "bs": "user-centric evolve ROI"
+  },
+  "id": "695c529c-f67e-4a90-a5bb-19b2c9eeee61",
+  "testnumobjnums": {
+    "num1": 2729,
+    "num2": 90827,
+    "num3": 28943.5,
+    "deeper": {
+      "arr": [
+        69458,
+        29219,
+        88764,
+        40327.5
+      ]
+    }
+  },
+  "lastSaid": "mission-critical deploy content"
+}

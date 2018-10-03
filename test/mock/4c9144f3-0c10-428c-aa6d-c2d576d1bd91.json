@@ -1,0 +1,37 @@
+{
+  "name": "Emmanuelle Will",
+  "username": "Gregorio_Bergstrom60",
+  "email": "Aurelia8@gmail.com",
+  "address": {
+    "street": "Homenick Knolls",
+    "suite": "Suite 884",
+    "city": "West Biankastad",
+    "zipcode": "79313",
+    "geo": {
+      "lat": -40.5733,
+      "lng": -84.7624
+    }
+  },
+  "phone": "960.376.3373",
+  "website": "baylee.biz",
+  "company": {
+    "name": "Welch - Conroy",
+    "catchPhrase": "Ameliorated next generation product",
+    "bs": "strategic leverage portals"
+  },
+  "id": "4c9144f3-0c10-428c-aa6d-c2d576d1bd91",
+  "testnumobjnums": {
+    "num1": 53913,
+    "num2": 44413,
+    "num3": 40376,
+    "deeper": {
+      "arr": [
+        66161,
+        90879,
+        36948,
+        22115
+      ]
+    }
+  },
+  "lastSaid": "B2C transition communities"
+}

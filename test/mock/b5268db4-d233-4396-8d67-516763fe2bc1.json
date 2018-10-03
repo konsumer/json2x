@@ -1,0 +1,37 @@
+{
+  "name": "Adele Ziemann",
+  "username": "Demetrius_Rippin33",
+  "email": "Sheridan_Shanahan0@hotmail.com",
+  "address": {
+    "street": "Zita Glens",
+    "suite": "Suite 137",
+    "city": "Domenicabury",
+    "zipcode": "53714",
+    "geo": {
+      "lat": 9.0282,
+      "lng": -95.5259
+    }
+  },
+  "phone": "1-194-670-8505 x42955",
+  "website": "stefanie.biz",
+  "company": {
+    "name": "Konopelski Group",
+    "catchPhrase": "Customer-focused encompassing customer loyalty",
+    "bs": "B2C facilitate methodologies"
+  },
+  "id": "b5268db4-d233-4396-8d67-516763fe2bc1",
+  "testnumobjnums": {
+    "num1": 96618,
+    "num2": 49500,
+    "num3": 40965.5,
+    "deeper": {
+      "arr": [
+        6784,
+        34151,
+        89530,
+        9274
+      ]
+    }
+  },
+  "lastSaid": "scalable envisioneer functionalities"
+}

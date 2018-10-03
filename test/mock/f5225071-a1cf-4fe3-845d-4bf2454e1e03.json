@@ -1,0 +1,38 @@
+{
+  "name": "Mrs. Neil Ortiz",
+  "username": "Kobe.Thiel3",
+  "email": "Tad.Boehm80@gmail.com",
+  "address": {
+    "street": "Frederic Prairie",
+    "suite": "Apt. 582",
+    "city": "New Rhiannaton",
+    "zipcode": "12319-7812",
+    "geo": {
+      "lat": -43.4072,
+      "lng": -21.6589
+    }
+  },
+  "phone": "1-011-567-3169 x216",
+  "website": "pierre.com",
+  "company": {
+    "name": "Veum, Gutkowski and Russel",
+    "catchPhrase": "Enterprise-wide dedicated focus group",
+    "bs": "scalable whiteboard schemas"
+  },
+  "id": "f5225071-a1cf-4fe3-845d-4bf2454e1e03",
+  "testnumobjnums": {
+    "num1": 65858,
+    "num2": 89628,
+    "num3": 5845,
+    "deeper": {
+      "arr": [
+        15430,
+        89104,
+        24855,
+        37702.5
+      ]
+    }
+  },
+  "doing": "microchip backing up",
+  "lastSaid": "Try to copy the SMTP matrix, maybe it will program the online hard drive!"
+}

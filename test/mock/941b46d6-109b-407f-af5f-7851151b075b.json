@@ -1,0 +1,37 @@
+{
+  "name": "Elouise Greenfelder Sr.",
+  "username": "Shakira18",
+  "email": "Jennifer9@hotmail.com",
+  "address": {
+    "street": "Sandy Parks",
+    "suite": "Suite 704",
+    "city": "Douglasview",
+    "zipcode": "19127",
+    "geo": {
+      "lat": 69.6705,
+      "lng": 114.0876
+    }
+  },
+  "phone": "957.606.1400",
+  "website": "madelyn.org",
+  "company": {
+    "name": "Fadel - Lebsack",
+    "catchPhrase": "Mandatory systematic concept",
+    "bs": "B2B visualize paradigms"
+  },
+  "id": "941b46d6-109b-407f-af5f-7851151b075b",
+  "testnumobjnums": {
+    "num1": 37950,
+    "num2": 73258,
+    "num3": 18199,
+    "deeper": {
+      "arr": [
+        32669,
+        62190,
+        87706,
+        18889
+      ]
+    }
+  },
+  "lastSaid": "ubiquitous seize users"
+}

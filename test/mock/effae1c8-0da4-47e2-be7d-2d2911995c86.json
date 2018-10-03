@@ -1,0 +1,37 @@
+{
+  "name": "Marquis Cruickshank",
+  "username": "Daron.Kirlin",
+  "email": "Taya59@gmail.com",
+  "address": {
+    "street": "Mabel Junctions",
+    "suite": "Suite 119",
+    "city": "Port Marielleview",
+    "zipcode": "31149",
+    "geo": {
+      "lat": -34.8362,
+      "lng": -55.8795
+    }
+  },
+  "phone": "(761) 720-1109",
+  "website": "rhett.com",
+  "company": {
+    "name": "Ruecker LLC",
+    "catchPhrase": "Up-sized directional capacity",
+    "bs": "magnetic whiteboard networks"
+  },
+  "id": "effae1c8-0da4-47e2-be7d-2d2911995c86",
+  "testnumobjnums": {
+    "num1": 41694,
+    "num2": 34376,
+    "num3": 48914.5,
+    "deeper": {
+      "arr": [
+        70156,
+        27170,
+        62114,
+        7896
+      ]
+    }
+  },
+  "lastSaid": "cutting-edge transition content"
+}

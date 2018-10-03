@@ -1,0 +1,37 @@
+{
+  "name": "Brittany Deckow",
+  "username": "Brandi88",
+  "email": "Humberto.Stokes48@yahoo.com",
+  "address": {
+    "street": "Mueller Motorway",
+    "suite": "Apt. 128",
+    "city": "North Olliefurt",
+    "zipcode": "78186-1944",
+    "geo": {
+      "lat": 87.7331,
+      "lng": -134.7519
+    }
+  },
+  "phone": "901.271.4501 x71842",
+  "website": "kaleb.com",
+  "company": {
+    "name": "Emard, Sauer and Halvorson",
+    "catchPhrase": "Multi-tiered global algorithm",
+    "bs": "24/7 target deliverables"
+  },
+  "id": "7b347eff-390d-4d22-980b-faf394adad46",
+  "testnumobjnums": {
+    "num1": 21394,
+    "num2": 79500,
+    "num3": 48083,
+    "deeper": {
+      "arr": [
+        49702,
+        73134,
+        8086,
+        19107.5
+      ]
+    }
+  },
+  "lastSaid": "e-business facilitate systems"
+}

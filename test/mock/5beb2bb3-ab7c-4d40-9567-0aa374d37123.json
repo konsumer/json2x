@@ -1,0 +1,37 @@
+{
+  "name": "Dr. Letha Conn",
+  "username": "Dulce.Schuppe",
+  "email": "Elmo50@gmail.com",
+  "address": {
+    "street": "Klein Key",
+    "suite": "Suite 805",
+    "city": "Port Austyn",
+    "zipcode": "32978",
+    "geo": {
+      "lat": -68.2318,
+      "lng": -128.229
+    }
+  },
+  "phone": "204.301.7152 x023",
+  "website": "delfina.name",
+  "company": {
+    "name": "Anderson and Sons",
+    "catchPhrase": "Inverse asymmetric array",
+    "bs": "user-centric target portals"
+  },
+  "id": "5beb2bb3-ab7c-4d40-9567-0aa374d37123",
+  "testnumobjnums": {
+    "num1": 21498,
+    "num2": 96869,
+    "num3": 18790.5,
+    "deeper": {
+      "arr": [
+        83264,
+        77118,
+        2160,
+        10563.5
+      ]
+    }
+  },
+  "lastSaid": "rich cultivate mindshare"
+}

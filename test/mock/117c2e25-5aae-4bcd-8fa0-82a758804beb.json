@@ -1,0 +1,37 @@
+{
+  "name": "Cassandra Hegmann",
+  "username": "Brennon_Larson5",
+  "email": "Rozella.OKeefe88@yahoo.com",
+  "address": {
+    "street": "Jude Square",
+    "suite": "Apt. 286",
+    "city": "Coleberg",
+    "zipcode": "82585",
+    "geo": {
+      "lat": 6.3439,
+      "lng": 66.8071
+    }
+  },
+  "phone": "652-670-2780 x73878",
+  "website": "tristian.org",
+  "company": {
+    "name": "Dickens, Welch and Reinger",
+    "catchPhrase": "Distributed contextually-based budgetary management",
+    "bs": "vertical empower relationships"
+  },
+  "id": "117c2e25-5aae-4bcd-8fa0-82a758804beb",
+  "testnumobjnums": {
+    "num1": 90068,
+    "num2": 54538,
+    "num3": 19989,
+    "deeper": {
+      "arr": [
+        6792,
+        70303,
+        23182,
+        44945.5
+      ]
+    }
+  },
+  "lastSaid": "next-generation innovate initiatives"
+}

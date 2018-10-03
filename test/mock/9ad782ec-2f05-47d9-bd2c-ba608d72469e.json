@@ -1,0 +1,37 @@
+{
+  "name": "Sydni Abbott",
+  "username": "Fermin_Hand43",
+  "email": "Brian.Schiller@hotmail.com",
+  "address": {
+    "street": "Hoeger Fall",
+    "suite": "Suite 490",
+    "city": "Vonchester",
+    "zipcode": "82474-4574",
+    "geo": {
+      "lat": -51.8964,
+      "lng": 67.3872
+    }
+  },
+  "phone": "915.466.4095 x714",
+  "website": "myra.net",
+  "company": {
+    "name": "Toy - Moen",
+    "catchPhrase": "Optimized static parallelism",
+    "bs": "next-generation morph functionalities"
+  },
+  "id": "9ad782ec-2f05-47d9-bd2c-ba608d72469e",
+  "testnumobjnums": {
+    "num1": 16035,
+    "num2": 29243,
+    "num3": 27514,
+    "deeper": {
+      "arr": [
+        35135,
+        16619,
+        87316,
+        47758.5
+      ]
+    }
+  },
+  "lastSaid": "B2C deliver experiences"
+}

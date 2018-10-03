@@ -1,0 +1,38 @@
+{
+  "name": "Luciano Dibbert",
+  "username": "Erling.Terry",
+  "email": "Duane_Nolan@gmail.com",
+  "address": {
+    "street": "Novella Street",
+    "suite": "Suite 399",
+    "city": "West Audreanneside",
+    "zipcode": "75844-9673",
+    "geo": {
+      "lat": 58.7857,
+      "lng": -64.8273
+    }
+  },
+  "phone": "(117) 427-9684",
+  "website": "ruthie.net",
+  "company": {
+    "name": "Crist, Emmerich and Murphy",
+    "catchPhrase": "Customizable fault-tolerant portal",
+    "bs": "magnetic unleash ROI"
+  },
+  "id": "00c1692b-2467-4d39-94fc-57fc4b8a0b6d",
+  "testnumobjnums": {
+    "num1": 89718,
+    "num2": 96498,
+    "num3": 37749,
+    "deeper": {
+      "arr": [
+        33023,
+        72538,
+        58289,
+        22996.5
+      ]
+    }
+  },
+  "doing": "application compressing",
+  "lastSaid": "Try to quantify the SMTP array, maybe it will compress the mobile driver!"
+}

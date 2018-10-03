@@ -1,0 +1,38 @@
+{
+  "name": "Ilene Moen",
+  "username": "Vernon_Gerhold84",
+  "email": "Ivory20@hotmail.com",
+  "address": {
+    "street": "Estella Mill",
+    "suite": "Suite 380",
+    "city": "North Jaylin",
+    "zipcode": "13157-3895",
+    "geo": {
+      "lat": -61.6743,
+      "lng": -13.2932
+    }
+  },
+  "phone": "955.530.5433",
+  "website": "antwon.net",
+  "company": {
+    "name": "Keebler, Shields and Aufderhar",
+    "catchPhrase": "Universal logistical service-desk",
+    "bs": "compelling seize niches"
+  },
+  "id": "e65ce807-a150-4190-bb23-51732c1cc747",
+  "testnumobjnums": {
+    "num1": 85631,
+    "num2": 80749,
+    "num3": 20872,
+    "deeper": {
+      "arr": [
+        42530,
+        95683,
+        16611,
+        37765.5
+      ]
+    }
+  },
+  "doing": "bandwidth generating",
+  "lastSaid": "Try to index the SMTP hard drive, maybe it will input the redundant application!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Christ Frami",
+  "username": "Velva76",
+  "email": "Aidan.Wiegand@gmail.com",
+  "address": {
+    "street": "Cronin Locks",
+    "suite": "Suite 124",
+    "city": "West Julianne",
+    "zipcode": "81395-5381",
+    "geo": {
+      "lat": 87.7596,
+      "lng": 139.4586
+    }
+  },
+  "phone": "(688) 894-9054",
+  "website": "verlie.org",
+  "company": {
+    "name": "Feeney Inc",
+    "catchPhrase": "Vision-oriented discrete encoding",
+    "bs": "plug-and-play enhance e-tailers"
+  },
+  "id": "c3d884c0-1c1d-46e5-b75d-32786cedcd38",
+  "testnumobjnums": {
+    "num1": 85416,
+    "num2": 14489,
+    "num3": 7680.5,
+    "deeper": {
+      "arr": [
+        1695,
+        46300,
+        11661,
+        34478.5
+      ]
+    }
+  },
+  "lastSaid": "robust recontextualize convergence"
+}

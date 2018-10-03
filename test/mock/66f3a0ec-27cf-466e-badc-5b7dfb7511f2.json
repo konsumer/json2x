@@ -1,0 +1,38 @@
+{
+  "name": "Zola Turcotte PhD",
+  "username": "Albina42",
+  "email": "Taylor_Dare26@hotmail.com",
+  "address": {
+    "street": "Stracke Isle",
+    "suite": "Suite 945",
+    "city": "New Amparoton",
+    "zipcode": "90498-4185",
+    "geo": {
+      "lat": -6.498,
+      "lng": -88.7736
+    }
+  },
+  "phone": "1-569-729-4771",
+  "website": "josianne.com",
+  "company": {
+    "name": "Quigley, Pagac and Walker",
+    "catchPhrase": "Persistent responsive analyzer",
+    "bs": "user-centric optimize content"
+  },
+  "id": "66f3a0ec-27cf-466e-badc-5b7dfb7511f2",
+  "testnumobjnums": {
+    "num1": 19147,
+    "num2": 60670,
+    "num3": 45018,
+    "deeper": {
+      "arr": [
+        35137,
+        20926,
+        97393,
+        33781
+      ]
+    }
+  },
+  "doing": "monitor navigating",
+  "lastSaid": "I'll reboot the haptic GB sensor, that should system the SSL protocol!"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Elisabeth Lindgren",
+  "username": "Juvenal_Nader64",
+  "email": "Glenda4@hotmail.com",
+  "address": {
+    "street": "Simeon Ridge",
+    "suite": "Apt. 659",
+    "city": "New Lonzo",
+    "zipcode": "82367",
+    "geo": {
+      "lat": -89.9531,
+      "lng": -32.789
+    }
+  },
+  "phone": "1-388-455-0747 x95891",
+  "website": "stephon.org",
+  "company": {
+    "name": "Hoppe Inc",
+    "catchPhrase": "Adaptive mobile internet solution",
+    "bs": "efficient matrix partnerships"
+  },
+  "id": "42554b73-2cf2-4fa7-b688-11f08db40293",
+  "testnumobjnums": {
+    "num1": 44834,
+    "num2": 64015,
+    "num3": 2239.5,
+    "deeper": {
+      "arr": [
+        31939,
+        12876,
+        94801,
+        38864.5
+      ]
+    }
+  },
+  "lastSaid": "integrated envisioneer channels"
+}

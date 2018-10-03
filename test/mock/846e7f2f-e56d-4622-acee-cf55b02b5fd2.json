@@ -1,0 +1,37 @@
+{
+  "name": "Jonathan Runte",
+  "username": "Winston98",
+  "email": "Zena.West91@gmail.com",
+  "address": {
+    "street": "Wehner Rapids",
+    "suite": "Suite 739",
+    "city": "Jacobiburgh",
+    "zipcode": "85917",
+    "geo": {
+      "lat": 32.0459,
+      "lng": -136.1155
+    }
+  },
+  "phone": "029-040-8451",
+  "website": "nella.info",
+  "company": {
+    "name": "Walter Group",
+    "catchPhrase": "Upgradable bottom-line interface",
+    "bs": "ubiquitous scale interfaces"
+  },
+  "id": "846e7f2f-e56d-4622-acee-cf55b02b5fd2",
+  "testnumobjnums": {
+    "num1": 23658,
+    "num2": 87905,
+    "num3": 762,
+    "deeper": {
+      "arr": [
+        63353,
+        71276,
+        44626,
+        38973
+      ]
+    }
+  },
+  "lastSaid": "rich drive portals"
+}

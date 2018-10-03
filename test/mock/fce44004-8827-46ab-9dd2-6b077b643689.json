@@ -1,0 +1,37 @@
+{
+  "name": "Johann Sanford",
+  "username": "Willie5",
+  "email": "Era_Kunze3@gmail.com",
+  "address": {
+    "street": "Ashlee Flat",
+    "suite": "Suite 336",
+    "city": "Rubystad",
+    "zipcode": "76909",
+    "geo": {
+      "lat": -35.2657,
+      "lng": -27.1233
+    }
+  },
+  "phone": "403-348-1854",
+  "website": "deshaun.com",
+  "company": {
+    "name": "Lindgren, Brakus and Batz",
+    "catchPhrase": "Future-proofed contextually-based toolset",
+    "bs": "ubiquitous reinvent e-services"
+  },
+  "id": "fce44004-8827-46ab-9dd2-6b077b643689",
+  "testnumobjnums": {
+    "num1": 8705,
+    "num2": 48845,
+    "num3": 14371,
+    "deeper": {
+      "arr": [
+        82711,
+        26850,
+        80549,
+        49072
+      ]
+    }
+  },
+  "lastSaid": "one-to-one engage markets"
+}

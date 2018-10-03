@@ -1,0 +1,38 @@
+{
+  "name": "Colin Schoen",
+  "username": "Rosendo.Medhurst51",
+  "email": "Gabriella54@gmail.com",
+  "address": {
+    "street": "Haag Island",
+    "suite": "Suite 075",
+    "city": "North Dayna",
+    "zipcode": "68995",
+    "geo": {
+      "lat": -66.4878,
+      "lng": -6.78
+    }
+  },
+  "phone": "(960) 035-9547 x8693",
+  "website": "viviane.org",
+  "company": {
+    "name": "Schinner, Hauck and King",
+    "catchPhrase": "Exclusive asynchronous budgetary management",
+    "bs": "dynamic integrate architectures"
+  },
+  "id": "4159e3cf-eb31-473d-9cf5-6131fe91f58f",
+  "testnumobjnums": {
+    "num1": 43210,
+    "num2": 66203,
+    "num3": 46440.5,
+    "deeper": {
+      "arr": [
+        63670,
+        95388,
+        46359,
+        21641.5
+      ]
+    }
+  },
+  "doing": "application compressing",
+  "lastSaid": "You can't calculate the array without copying the 1080p HDD hard drive!"
+}

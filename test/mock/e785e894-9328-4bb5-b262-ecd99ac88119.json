@@ -1,0 +1,38 @@
+{
+  "name": "Jacklyn Dooley",
+  "username": "Grayce.Hilll",
+  "email": "Laney.Pfeffer93@gmail.com",
+  "address": {
+    "street": "Graham Fort",
+    "suite": "Apt. 812",
+    "city": "Jacobsonberg",
+    "zipcode": "33825-2048",
+    "geo": {
+      "lat": 35.3965,
+      "lng": 26.0836
+    }
+  },
+  "phone": "177-280-6093",
+  "website": "eugenia.org",
+  "company": {
+    "name": "Stanton - Morissette",
+    "catchPhrase": "Multi-layered optimizing attitude",
+    "bs": "efficient matrix e-commerce"
+  },
+  "id": "e785e894-9328-4bb5-b262-ecd99ac88119",
+  "testnumobjnums": {
+    "num1": 71893,
+    "num2": 59070,
+    "num3": 26423.5,
+    "deeper": {
+      "arr": [
+        42240,
+        79729,
+        58555,
+        15968.5
+      ]
+    }
+  },
+  "doing": "microchip compressing",
+  "lastSaid": "We need to reboot the redundant SQL capacitor!"
+}

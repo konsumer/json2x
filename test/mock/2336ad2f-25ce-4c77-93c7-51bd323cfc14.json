@@ -1,0 +1,38 @@
+{
+  "name": "Helga Hickle",
+  "username": "Garrett.Thiel74",
+  "email": "Kaela.OKon@yahoo.com",
+  "address": {
+    "street": "Tommie Heights",
+    "suite": "Suite 493",
+    "city": "New Scot",
+    "zipcode": "57097-5388",
+    "geo": {
+      "lat": 82.2529,
+      "lng": -114.6342
+    }
+  },
+  "phone": "(095) 365-5125",
+  "website": "ettie.info",
+  "company": {
+    "name": "Block, Nicolas and Mueller",
+    "catchPhrase": "Ergonomic 5th generation knowledge base",
+    "bs": "holistic cultivate systems"
+  },
+  "id": "2336ad2f-25ce-4c77-93c7-51bd323cfc14",
+  "testnumobjnums": {
+    "num1": 18403,
+    "num2": 21451,
+    "num3": 27885.5,
+    "deeper": {
+      "arr": [
+        94626,
+        3407,
+        47175,
+        12959.5
+      ]
+    }
+  },
+  "doing": "feed copying",
+  "lastSaid": "You can't index the sensor without quantifying the multi-byte SSL array!"
+}

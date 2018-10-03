@@ -1,0 +1,38 @@
+{
+  "name": "Frankie Kuvalis",
+  "username": "Clifton_Hartmann91",
+  "email": "Darron1@gmail.com",
+  "address": {
+    "street": "Torphy Coves",
+    "suite": "Suite 603",
+    "city": "South Cristina",
+    "zipcode": "47951-3297",
+    "geo": {
+      "lat": 9.143,
+      "lng": 122.719
+    }
+  },
+  "phone": "1-657-317-3381",
+  "website": "cora.com",
+  "company": {
+    "name": "Ondricka - Kuhn",
+    "catchPhrase": "Up-sized background conglomeration",
+    "bs": "transparent expedite infrastructures"
+  },
+  "id": "35270350-b310-41d8-a5bb-50a9813c5fc7",
+  "testnumobjnums": {
+    "num1": 82662,
+    "num2": 79266,
+    "num3": 33395,
+    "deeper": {
+      "arr": [
+        10903,
+        73099,
+        55766,
+        13273.5
+      ]
+    }
+  },
+  "doing": "panel bypassing",
+  "lastSaid": "The COM pixel is down, parse the auxiliary monitor so we can back up the THX bandwidth!"
+}

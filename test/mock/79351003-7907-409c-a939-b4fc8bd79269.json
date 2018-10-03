@@ -1,0 +1,37 @@
+{
+  "name": "Monte Beer DDS",
+  "username": "Dave91",
+  "email": "Otto_Collins@hotmail.com",
+  "address": {
+    "street": "Kaleigh Extension",
+    "suite": "Suite 988",
+    "city": "South Rae",
+    "zipcode": "78692-9773",
+    "geo": {
+      "lat": 29.2748,
+      "lng": -144.1988
+    }
+  },
+  "phone": "309-757-5571",
+  "website": "prince.com",
+  "company": {
+    "name": "Funk LLC",
+    "catchPhrase": "Synchronised intangible help-desk",
+    "bs": "end-to-end enhance paradigms"
+  },
+  "id": "79351003-7907-409c-a939-b4fc8bd79269",
+  "testnumobjnums": {
+    "num1": 81862,
+    "num2": 86458,
+    "num3": 19197,
+    "deeper": {
+      "arr": [
+        69779,
+        60381,
+        24921,
+        5824
+      ]
+    }
+  },
+  "lastSaid": "sticky repurpose mindshare"
+}

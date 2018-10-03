@@ -1,0 +1,37 @@
+{
+  "name": "Chris Jast IV",
+  "username": "Nickolas_Brown7",
+  "email": "Richmond98@yahoo.com",
+  "address": {
+    "street": "Florida Plains",
+    "suite": "Apt. 583",
+    "city": "New Austen",
+    "zipcode": "21284",
+    "geo": {
+      "lat": 10.2922,
+      "lng": -108.7732
+    }
+  },
+  "phone": "(062) 039-7579",
+  "website": "josh.info",
+  "company": {
+    "name": "Runolfsdottir LLC",
+    "catchPhrase": "Assimilated user-facing support",
+    "bs": "granular recontextualize initiatives"
+  },
+  "id": "1ae6533c-329a-45de-82f5-48bc060ef271",
+  "testnumobjnums": {
+    "num1": 42983,
+    "num2": 76906,
+    "num3": 19127,
+    "deeper": {
+      "arr": [
+        31356,
+        71790,
+        85341,
+        4902
+      ]
+    }
+  },
+  "lastSaid": "turn-key transition niches"
+}

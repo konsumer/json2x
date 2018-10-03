@@ -1,0 +1,37 @@
+{
+  "name": "Jennyfer Lindgren",
+  "username": "Arely_Pouros42",
+  "email": "Jaylin_Jaskolski60@yahoo.com",
+  "address": {
+    "street": "Bonita Divide",
+    "suite": "Suite 489",
+    "city": "Sanfordburgh",
+    "zipcode": "68747-8958",
+    "geo": {
+      "lat": -9.7762,
+      "lng": -6.3867
+    }
+  },
+  "phone": "(463) 201-3297 x783",
+  "website": "lorenza.net",
+  "company": {
+    "name": "O'Conner - Leuschke",
+    "catchPhrase": "Configurable clear-thinking data-warehouse",
+    "bs": "bleeding-edge expedite systems"
+  },
+  "id": "622f7f30-db0b-4c36-969f-fc8e113c5d35",
+  "testnumobjnums": {
+    "num1": 66943,
+    "num2": 55172,
+    "num3": 12468.5,
+    "deeper": {
+      "arr": [
+        57669,
+        74949,
+        28248,
+        27980.5
+      ]
+    }
+  },
+  "lastSaid": "ubiquitous extend relationships"
+}

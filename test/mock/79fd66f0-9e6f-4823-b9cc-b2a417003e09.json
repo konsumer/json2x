@@ -1,0 +1,38 @@
+{
+  "name": "Asa Ondricka",
+  "username": "Albin82",
+  "email": "Eudora_Labadie@yahoo.com",
+  "address": {
+    "street": "Gibson Streets",
+    "suite": "Apt. 148",
+    "city": "Lake Nellemouth",
+    "zipcode": "46388-6074",
+    "geo": {
+      "lat": -2.9285,
+      "lng": 14.3568
+    }
+  },
+  "phone": "044.848.7220",
+  "website": "june.biz",
+  "company": {
+    "name": "Von and Sons",
+    "catchPhrase": "Devolved national structure",
+    "bs": "world-class incentivize vortals"
+  },
+  "id": "79fd66f0-9e6f-4823-b9cc-b2a417003e09",
+  "testnumobjnums": {
+    "num1": 99424,
+    "num2": 28102,
+    "num3": 49180,
+    "deeper": {
+      "arr": [
+        93850,
+        43959,
+        60526,
+        12735.5
+      ]
+    }
+  },
+  "doing": "matrix quantifying",
+  "lastSaid": "Try to copy the COM application, maybe it will connect the haptic interface!"
+}

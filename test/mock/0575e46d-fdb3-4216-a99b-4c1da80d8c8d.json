@@ -1,0 +1,37 @@
+{
+  "name": "Caterina White",
+  "username": "Finn87",
+  "email": "Francesca_Windler@hotmail.com",
+  "address": {
+    "street": "MacGyver Track",
+    "suite": "Suite 608",
+    "city": "Johnsonborough",
+    "zipcode": "74246-2837",
+    "geo": {
+      "lat": -39.3576,
+      "lng": 24.7807
+    }
+  },
+  "phone": "154.235.1269",
+  "website": "curt.net",
+  "company": {
+    "name": "Glover, Nader and Larkin",
+    "catchPhrase": "Synergistic radical help-desk",
+    "bs": "enterprise mesh vortals"
+  },
+  "id": "0575e46d-fdb3-4216-a99b-4c1da80d8c8d",
+  "testnumobjnums": {
+    "num1": 33606,
+    "num2": 17417,
+    "num3": 40931.5,
+    "deeper": {
+      "arr": [
+        67124,
+        70093,
+        16955,
+        36331.5
+      ]
+    }
+  },
+  "lastSaid": "efficient synthesize networks"
+}

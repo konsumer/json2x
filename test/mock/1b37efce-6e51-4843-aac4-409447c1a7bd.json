@@ -1,0 +1,38 @@
+{
+  "name": "Durward Connelly IV",
+  "username": "Lenore.Cassin",
+  "email": "Manuel.Stanton@hotmail.com",
+  "address": {
+    "street": "Lockman Locks",
+    "suite": "Suite 562",
+    "city": "South Grace",
+    "zipcode": "46346",
+    "geo": {
+      "lat": -0.5112,
+      "lng": -60.7361
+    }
+  },
+  "phone": "525.004.2153",
+  "website": "isaias.com",
+  "company": {
+    "name": "Quitzon - Rippin",
+    "catchPhrase": "Team-oriented homogeneous throughput",
+    "bs": "transparent generate infomediaries"
+  },
+  "id": "1b37efce-6e51-4843-aac4-409447c1a7bd",
+  "testnumobjnums": {
+    "num1": 56834,
+    "num2": 62915,
+    "num3": 47950,
+    "deeper": {
+      "arr": [
+        50868,
+        6567,
+        94154,
+        14007.5
+      ]
+    }
+  },
+  "doing": "bandwidth programming",
+  "lastSaid": "We need to copy the multi-byte HTTP feed!"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Garrick Bins",
+  "username": "Crawford.Armstrong",
+  "email": "Missouri_Steuber@yahoo.com",
+  "address": {
+    "street": "Aimee Glen",
+    "suite": "Suite 866",
+    "city": "Ankundingville",
+    "zipcode": "00930",
+    "geo": {
+      "lat": 51.0029,
+      "lng": 63.268
+    }
+  },
+  "phone": "260-847-0738 x9983",
+  "website": "dulce.com",
+  "company": {
+    "name": "Mertz, Thompson and Frami",
+    "catchPhrase": "Decentralized responsive Graphical User Interface",
+    "bs": "value-added benchmark experiences"
+  },
+  "id": "99240198-4d7f-451f-acd0-a3183d600302",
+  "testnumobjnums": {
+    "num1": 50760,
+    "num2": 21101,
+    "num3": 38810.5,
+    "deeper": {
+      "arr": [
+        39827,
+        17766,
+        52112,
+        24543
+      ]
+    }
+  },
+  "doing": "hard drive transmitting",
+  "lastSaid": "Use the open-source PCI alarm, then you can program the back-end pixel!"
+}

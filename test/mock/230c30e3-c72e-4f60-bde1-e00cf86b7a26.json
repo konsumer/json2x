@@ -1,0 +1,38 @@
+{
+  "name": "Flo Bernier",
+  "username": "Henderson83",
+  "email": "Theo.Hegmann@hotmail.com",
+  "address": {
+    "street": "Mayer Squares",
+    "suite": "Apt. 637",
+    "city": "Schmittville",
+    "zipcode": "71611",
+    "geo": {
+      "lat": 38.0803,
+      "lng": -91.4821
+    }
+  },
+  "phone": "(215) 642-4765",
+  "website": "wendell.net",
+  "company": {
+    "name": "Powlowski - Armstrong",
+    "catchPhrase": "Synergistic solution-oriented project",
+    "bs": "cross-platform incubate convergence"
+  },
+  "id": "230c30e3-c72e-4f60-bde1-e00cf86b7a26",
+  "testnumobjnums": {
+    "num1": 96359,
+    "num2": 40902,
+    "num3": 46398,
+    "deeper": {
+      "arr": [
+        51341,
+        37293,
+        2116,
+        32692.5
+      ]
+    }
+  },
+  "doing": "system indexing",
+  "lastSaid": "We need to program the online CSS system!"
+}

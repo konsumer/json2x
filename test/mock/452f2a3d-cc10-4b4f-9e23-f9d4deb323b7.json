@@ -1,0 +1,38 @@
+{
+  "name": "Jana Koss",
+  "username": "Brandy97",
+  "email": "Harrison_Kilback@hotmail.com",
+  "address": {
+    "street": "Dickinson Squares",
+    "suite": "Suite 530",
+    "city": "Jacquelynton",
+    "zipcode": "50808-3513",
+    "geo": {
+      "lat": -34.2553,
+      "lng": -4.39
+    }
+  },
+  "phone": "(938) 232-6117 x97315",
+  "website": "benedict.net",
+  "company": {
+    "name": "Dooley - Rempel",
+    "catchPhrase": "Future-proofed interactive framework",
+    "bs": "distributed reintermediate architectures"
+  },
+  "id": "452f2a3d-cc10-4b4f-9e23-f9d4deb323b7",
+  "testnumobjnums": {
+    "num1": 23021,
+    "num2": 62566,
+    "num3": 19067,
+    "deeper": {
+      "arr": [
+        67782,
+        26000,
+        41330,
+        19905
+      ]
+    }
+  },
+  "doing": "microchip hacking",
+  "lastSaid": "I'll compress the wireless XML sensor, that should microchip the RSS circuit!"
+}

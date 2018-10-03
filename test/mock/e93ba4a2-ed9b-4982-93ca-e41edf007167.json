@@ -1,0 +1,38 @@
+{
+  "name": "Annalise Lubowitz",
+  "username": "Alfonzo81",
+  "email": "Amira.Weimann@hotmail.com",
+  "address": {
+    "street": "Abshire Shores",
+    "suite": "Suite 932",
+    "city": "West Franco",
+    "zipcode": "00368-8071",
+    "geo": {
+      "lat": 17.7799,
+      "lng": 167.5378
+    }
+  },
+  "phone": "421-598-2742 x410",
+  "website": "dannie.com",
+  "company": {
+    "name": "Wisozk - Schultz",
+    "catchPhrase": "Team-oriented foreground infrastructure",
+    "bs": "integrated facilitate metrics"
+  },
+  "id": "e93ba4a2-ed9b-4982-93ca-e41edf007167",
+  "testnumobjnums": {
+    "num1": 84629,
+    "num2": 37308,
+    "num3": 34349,
+    "deeper": {
+      "arr": [
+        71589,
+        73213,
+        84498,
+        2800.5
+      ]
+    }
+  },
+  "doing": "circuit calculating",
+  "lastSaid": "You can't bypass the alarm without compressing the bluetooth SMS program!"
+}

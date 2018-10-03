@@ -1,0 +1,37 @@
+{
+  "name": "Mae Rippin",
+  "username": "Juliet_Lindgren85",
+  "email": "Helena.Thiel@hotmail.com",
+  "address": {
+    "street": "Marvin Extensions",
+    "suite": "Suite 681",
+    "city": "Bellaborough",
+    "zipcode": "69649-8913",
+    "geo": {
+      "lat": 85.822,
+      "lng": 68.3809
+    }
+  },
+  "phone": "065.293.7689 x2201",
+  "website": "maiya.org",
+  "company": {
+    "name": "Buckridge, Schmidt and Robel",
+    "catchPhrase": "Persistent human-resource moderator",
+    "bs": "value-added whiteboard channels"
+  },
+  "id": "7639f0f0-7010-497d-89ba-098b0492f8f8",
+  "testnumobjnums": {
+    "num1": 90353,
+    "num2": 40208,
+    "num3": 1380,
+    "deeper": {
+      "arr": [
+        43424,
+        15649,
+        65858,
+        15161
+      ]
+    }
+  },
+  "lastSaid": "compelling matrix web-readiness"
+}

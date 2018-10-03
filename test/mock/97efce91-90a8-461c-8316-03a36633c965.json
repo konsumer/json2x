@@ -1,0 +1,37 @@
+{
+  "name": "Colin Christiansen",
+  "username": "Adell1",
+  "email": "Spencer.Ledner26@yahoo.com",
+  "address": {
+    "street": "Samara Parkways",
+    "suite": "Suite 872",
+    "city": "Winnifredchester",
+    "zipcode": "37920-7871",
+    "geo": {
+      "lat": -28.1087,
+      "lng": -113.9904
+    }
+  },
+  "phone": "1-369-025-0328 x661",
+  "website": "erick.com",
+  "company": {
+    "name": "Wiegand, Pollich and Wilkinson",
+    "catchPhrase": "Public-key fault-tolerant customer loyalty",
+    "bs": "proactive harness infomediaries"
+  },
+  "id": "97efce91-90a8-461c-8316-03a36633c965",
+  "testnumobjnums": {
+    "num1": 55800,
+    "num2": 86860,
+    "num3": 22297,
+    "deeper": {
+      "arr": [
+        12047,
+        67909,
+        62141,
+        33500.5
+      ]
+    }
+  },
+  "lastSaid": "wireless monetize initiatives"
+}

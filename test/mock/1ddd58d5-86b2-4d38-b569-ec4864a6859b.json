@@ -1,0 +1,37 @@
+{
+  "name": "Donny Barrows",
+  "username": "Frida_Keebler33",
+  "email": "Isabelle_Hirthe@gmail.com",
+  "address": {
+    "street": "Lexie Islands",
+    "suite": "Apt. 914",
+    "city": "Port August",
+    "zipcode": "63436-8424",
+    "geo": {
+      "lat": -85.1383,
+      "lng": 73.1272
+    }
+  },
+  "phone": "(677) 992-2907 x9316",
+  "website": "kelsi.net",
+  "company": {
+    "name": "Wisoky, Jaskolski and Conn",
+    "catchPhrase": "Enhanced empowering orchestration",
+    "bs": "one-to-one drive architectures"
+  },
+  "id": "1ddd58d5-86b2-4d38-b569-ec4864a6859b",
+  "testnumobjnums": {
+    "num1": 91402,
+    "num2": 28562,
+    "num3": 4991.5,
+    "deeper": {
+      "arr": [
+        45060,
+        25807,
+        51761,
+        19666
+      ]
+    }
+  },
+  "lastSaid": "enterprise transition experiences"
+}

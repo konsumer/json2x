@@ -1,0 +1,38 @@
+{
+  "name": "Gennaro Hayes",
+  "username": "Ellie.Zemlak10",
+  "email": "Daija.Schoen76@hotmail.com",
+  "address": {
+    "street": "Keebler Fields",
+    "suite": "Suite 708",
+    "city": "Port Dejah",
+    "zipcode": "05831",
+    "geo": {
+      "lat": -45.9342,
+      "lng": 169.9605
+    }
+  },
+  "phone": "474-074-0785",
+  "website": "raleigh.info",
+  "company": {
+    "name": "Stehr, Raynor and Streich",
+    "catchPhrase": "Managed background process improvement",
+    "bs": "cutting-edge transition applications"
+  },
+  "id": "f2d32285-5aec-40eb-b1bb-bae89415d320",
+  "testnumobjnums": {
+    "num1": 28238,
+    "num2": 30524,
+    "num3": 12679,
+    "deeper": {
+      "arr": [
+        2518,
+        50577,
+        47315,
+        44259
+      ]
+    }
+  },
+  "doing": "panel transmitting",
+  "lastSaid": "programming the sensor won't do anything, we need to parse the primary SMS panel!"
+}

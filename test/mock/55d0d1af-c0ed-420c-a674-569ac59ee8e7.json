@@ -1,0 +1,37 @@
+{
+  "name": "Freddy Stiedemann",
+  "username": "Cristina.Dickens84",
+  "email": "Andrew82@yahoo.com",
+  "address": {
+    "street": "Parker Rue",
+    "suite": "Apt. 888",
+    "city": "Lake Whitneyburgh",
+    "zipcode": "25648-4922",
+    "geo": {
+      "lat": 61.3719,
+      "lng": 120.9548
+    }
+  },
+  "phone": "287-125-3938 x2678",
+  "website": "elenor.biz",
+  "company": {
+    "name": "Zieme, Wilkinson and Kreiger",
+    "catchPhrase": "Object-based system-worthy circuit",
+    "bs": "ubiquitous leverage methodologies"
+  },
+  "id": "55d0d1af-c0ed-420c-a674-569ac59ee8e7",
+  "testnumobjnums": {
+    "num1": 97826,
+    "num2": 90121,
+    "num3": 21002,
+    "deeper": {
+      "arr": [
+        82223,
+        74566,
+        47350,
+        24070.5
+      ]
+    }
+  },
+  "lastSaid": "world-class engage schemas"
+}

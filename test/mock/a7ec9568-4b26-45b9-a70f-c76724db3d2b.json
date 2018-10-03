@@ -1,0 +1,38 @@
+{
+  "name": "Nickolas Rutherford",
+  "username": "Jeramy.Abshire49",
+  "email": "Cornelius_Mills@gmail.com",
+  "address": {
+    "street": "Jett Run",
+    "suite": "Suite 644",
+    "city": "Othafurt",
+    "zipcode": "35611",
+    "geo": {
+      "lat": 37.5151,
+      "lng": 36.0909
+    }
+  },
+  "phone": "1-329-924-0130",
+  "website": "waldo.org",
+  "company": {
+    "name": "Ferry Inc",
+    "catchPhrase": "Fully-configurable demand-driven methodology",
+    "bs": "bleeding-edge optimize markets"
+  },
+  "id": "a7ec9568-4b26-45b9-a70f-c76724db3d2b",
+  "testnumobjnums": {
+    "num1": 37718,
+    "num2": 74506,
+    "num3": 48285,
+    "deeper": {
+      "arr": [
+        98577,
+        84519,
+        99291,
+        48141
+      ]
+    }
+  },
+  "doing": "feed programming",
+  "lastSaid": "Use the auxiliary IB hard drive, then you can generate the online circuit!"
+}

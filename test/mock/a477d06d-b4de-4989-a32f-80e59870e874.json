@@ -1,0 +1,37 @@
+{
+  "name": "Otilia Tromp",
+  "username": "Trenton79",
+  "email": "Katelyn50@hotmail.com",
+  "address": {
+    "street": "Austyn Unions",
+    "suite": "Suite 395",
+    "city": "Delilahfurt",
+    "zipcode": "68038",
+    "geo": {
+      "lat": 47.7076,
+      "lng": -106.526
+    }
+  },
+  "phone": "(311) 760-7460 x49851",
+  "website": "kamryn.info",
+  "company": {
+    "name": "Veum - Ratke",
+    "catchPhrase": "Front-line secondary groupware",
+    "bs": "viral exploit systems"
+  },
+  "id": "a477d06d-b4de-4989-a32f-80e59870e874",
+  "testnumobjnums": {
+    "num1": 90347,
+    "num2": 90252,
+    "num3": 39358.5,
+    "deeper": {
+      "arr": [
+        78308,
+        68724,
+        81837,
+        19009
+      ]
+    }
+  },
+  "lastSaid": "customized empower infomediaries"
+}

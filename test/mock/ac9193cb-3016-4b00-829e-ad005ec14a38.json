@@ -1,0 +1,37 @@
+{
+  "name": "Alycia Toy",
+  "username": "Arnulfo.Smith26",
+  "email": "Retha23@hotmail.com",
+  "address": {
+    "street": "Kulas Hills",
+    "suite": "Suite 561",
+    "city": "Rudolphfurt",
+    "zipcode": "96175",
+    "geo": {
+      "lat": 47.5523,
+      "lng": 122.4737
+    }
+  },
+  "phone": "469-901-6066",
+  "website": "brady.com",
+  "company": {
+    "name": "Bartell, Marquardt and Kirlin",
+    "catchPhrase": "Polarised heuristic product",
+    "bs": "impactful embrace functionalities"
+  },
+  "id": "ac9193cb-3016-4b00-829e-ad005ec14a38",
+  "testnumobjnums": {
+    "num1": 61654,
+    "num2": 3195,
+    "num3": 45592.5,
+    "deeper": {
+      "arr": [
+        68036,
+        11744,
+        53240,
+        49672
+      ]
+    }
+  },
+  "lastSaid": "end-to-end whiteboard models"
+}
