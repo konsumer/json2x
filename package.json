@@ -14,7 +14,7 @@
   ],
   "scripts": {
     "build": "babel src -d build",
-    "prepublish": "npm run build",
+    "prepare": "npm run build",
     "mock": "babel-node __tests__/mock.js",
     "test": "jest"
   },
@@ -36,29 +36,27 @@
   },
   "homepage": "https://github.com/konsumer/json2x#readme",
   "dependencies": {
-    "capitalize": "^2.0.0",
-    "glob-require": "0.0.2",
-    "json-schema-generator": "^2.0.6",
-    "yargs": "^13.1.0"
+    "capitalize": "latest",
+    "glob-require": "latest",
+    "json-schema-generator": "latest",
+    "yargs": "latest"
   },
   "devDependencies": {
-    "babel-plugin-shebang": "1.0.0",
-    "babel-cli": "^6.26.0",
-    "babel-core": "^6.26.3",
-    "babel-polyfill": "^6.26.0",
-    "babel-preset-env": "^1.6.1",
-    "babel-preset-stage-3": "^6.24.1",
-    "faker": "^4.1.0",
-    "jest": "^23.6.0",
-    "jest-babel": "^1.0.1"
+    "@babel/cli": "latest",
+    "@babel/core": "latest",
+    "babel-plugin-shebang": "latest",
+    "@babel/polyfill": "latest",
+    "@babel/preset-env": "latest",
+    "faker": "latest",
+    "jest": "latest",
+    "babel-jest": "latest"
   },
   "babel": {
     "presets": [
-      "env",
-      "stage-3"
+      "@babel/preset-env"
     ],
     "plugins": [
-      "shebang"
+      "babel-plugin-shebang"
     ]
   },
   "jest": {
