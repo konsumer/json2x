@@ -36,6 +36,7 @@
   },
   "homepage": "https://github.com/konsumer/json2x#readme",
   "dependencies": {
+    "@babel/polyfill": "latest",
     "capitalize": "latest",
     "glob-require": "latest",
     "json-schema-generator": "latest",
@@ -45,7 +46,6 @@
     "@babel/cli": "latest",
     "@babel/core": "latest",
     "babel-plugin-shebang": "latest",
-    "@babel/polyfill": "latest",
     "@babel/preset-env": "latest",
     "faker": "latest",
     "jest": "latest",
