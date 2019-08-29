@@ -22,7 +22,11 @@ If you want to actually install it use this:
 npm i -g json2x
 ```
 
-You can also just do `npx json2x` to run it without installing it globally.
+You can also just do this, to run it without installing it globally:
+
+```
+npx json2x
+```
 
 ## usage
 
