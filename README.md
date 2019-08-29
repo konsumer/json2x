@@ -16,9 +16,13 @@ It looks at as many examples as you give it and learns from multiple records, so
 
 ## installation
 
+If you want to actually install it use this:
+
 ```
 npm i -g json2x
 ```
+
+You can also just do `npx json2x` to run it without installing it globally.
 
 ## usage
 
